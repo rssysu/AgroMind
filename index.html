@@ -14,7 +14,6 @@
   <meta property="og:image:width" content="2724"/>
   <meta property="og:image:height" content="2724"/>
 
-  <meta name="keywords" content="智能农业, 农作物预测, AI决策, 多模态分析"> <!-- ⚠️关键词 -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- ⚠️修改页面标题 -->
@@ -62,11 +61,16 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3">摘要</h2>
+          <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              AgroMind
-              数据集已在HuggingFace平台开源。
+              Large Multimodal Models (LMMs) has demonstrated capabilities across various domains, but comprehensive benchmarks for agricultural remote sensing (RS) remain scarce. Existing RS benchmarks primarily focus on urban scenarios, with agricultural tasks limited to crop disease diagnosis, leading to an incomplete assessment of LMMs' capabilities in agricultural RS.
+  To bridge this gap, we introduce AgroMind, a comprehensive agricultural remote sensing benchmark covering four task dimensions: Spatial Perception, Object Understanding, Scene Understanding, and Scene Reasoning, with a total of 13 task types, ranging from crop identification and health monitoring to environmental analysis.
+  We curate a high-quality evaluation set by integrating 8 public datasets and 1 private farmland plot dataset, containing 25,026 QA pairs and 15,556 images. The pipeline begins with multi-source data preprocessing, including collection, format standardization, and annotation refinement. We then generate a diverse set of agriculturally relevant questions through the systematic definition of tasks. Finally, we employ LMMs for inference, generating responses, and performing detailed examinations. 
+  We evaluated 16 open-source LMMs and 3 closed-source models on AgroMind.
+  Experiments reveal significant performance gaps, particularly in spatial reasoning and fine-grained recognition, where even the best models substantially trail human experts. 
+  By establishing a standardized evaluation framework for agricultural RS, AgroMind reveals the limitations of LMMs in domain knowledge and highlights critical challenges for future work.
+  Data and code can be accessed at https://agromind555.github.io/AgroMind/.
             </p>
           </div>
         </div>
@@ -109,10 +113,10 @@
             <h2 class="title is-3">数据集信息</h2>
             <div class="content has-text-justified">
               <p>
-                我们在HuggingFace平台开源了AgroSet数据集，包含：
+                The datasets can be downloaded in HuggingFace.
                 <ul>
-                  <li>15556张农业图像</li>
-                  <li>25026个QA对</li>
+                  <li>15556 agricultural pictures</li>
+                  <li>25026 QA pairs</li>
                 </ul>
                 <a href="https://huggingface.co/datasets/AgroMind/AgroMind" target="_blank" class="button is-info">
                   <span class="icon"><i class="fas fa-external-link-alt"></i></span>
