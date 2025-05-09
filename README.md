@@ -6,10 +6,10 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 
 ## 🔗 Link
 
-- **静态网站（GitHub Pages）**: https://agrointelligence.github.io/AgroMind
-- **论文 PDF**: 
-- **数据集**: https://huggingface.co/datasets/AgroMind/AgroMind
-- **源码**: https://github.com/AgroIntelligence/AgroMind
+- **GitHub Pages**: https://agrointelligence.github.io/AgroMind
+- **PDF**: 
+- **Dataset**: https://huggingface.co/datasets/AgroMind/AgroMind
+- **Code**: https://github.com/AgroIntelligence/AgroMind
 
 
 
