@@ -4,7 +4,7 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)
 
-## 🔗 项目页面 & Demo
+## 🔗 Link
 
 - **静态网站（GitHub Pages）**: https://agrointelligence.github.io/AgroMind
 - **论文 PDF**: 
@@ -13,20 +13,23 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 
 
 
-## 📂 仓库结构
+## 📂 Structure
+
+```plaintext
 AgroMind/
-├── index.html # 主页
-├── conceptual.pdf # 海报
+├── index.html       # Homepage
+├── conceptual.pdf   # Poster
 ├── static/
-│ ├── css/ # 样式文件
-│ ├── js/ # 脚本文件
-│ ├── images/ # 展示用图片和 favicon
-└── README.md # 项目说明（本文件）
+│   ├── css/         # Stylesheets
+│   ├── js/          # JavaScript files
+│   └── images/      # Images and favicon
+└── README.md        # Project description (this file)
 
 
 
 
 
-## 📜 引用
+
+## 📜 Cite
 
 
