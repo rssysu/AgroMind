@@ -24,7 +24,7 @@ AgroMind/
 │   ├── js/          # JavaScript files
 │   └── images/      # Images and favicon
 └── README.md        # Project description (this file)
-
+```
 
 
 
