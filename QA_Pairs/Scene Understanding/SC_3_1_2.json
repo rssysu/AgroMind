@@ -1,0 +1,4502 @@
+[
+  {
+    "type_id": 4,
+    "item_id": 1,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bba1c4f9ed15b0006d24f3b_3077.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_4063.jpg",
+      "C": "./Trees/images/5b10358e2b6a08001185f418_2132.jpg",
+      "D": "./Trees/images/6108af51343da30006976e20_1196.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 2,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f3b3441df88ab000761cb39_1811.jpg",
+      "B": "./Trees/images/5dc40b06d0e638000592ebe6_1149.jpg",
+      "C": "./Trees/images/5d1bdddb93e1130005fc0e95_2176.jpg",
+      "D": "./Trees/images/5b9d22b53c691c00060c0262_1804.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 3,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d5ee0fe1d3eab00054f8e69_2948.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a05f_2244.jpg",
+      "C": "./Trees/images/5ae7f5fa0b093000130affcc_1336.jpg",
+      "D": "./Trees/images/5e28a0d12329e800051134a5_1003.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 4,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b1096a62b6a08001185f4cf_2449.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3dd_3013.jpg",
+      "C": "./Trees/images/5d73667388556200055f10e4_969.jpg",
+      "D": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 5,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a6087c45a9ef7cb5d020fd3_1729.jpg",
+      "B": "./Trees/images/5cd4a49f4b7c75000784da34_3754.jpg",
+      "C": "./Trees/images/5d973639e2b1f300057cb3a8_4162.jpg",
+      "D": "./Trees/images/5e8b4a54a652050007863a89_4309.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 6,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b9d22b53c691c00060c0262_4002.jpg",
+      "B": "./Trees/images/5e4f54974f7e510007981d1b_2187.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220af02_1591.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aed6_4032.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 7,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1bdddb93e1130005fc0e95_1688.jpg",
+      "B": "./Trees/images/5d970af00a75b7000670395f_2764.jpg",
+      "C": "./Trees/images/5e25ec6e36067e0005c2752d_3412.jpg",
+      "D": "./Trees/images/5ca97be23bc29600053c1623_1476.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 8,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e232b0050259f000541fc51_744.jpg",
+      "B": "./Trees/images/60d2046feade0f00079b58bd_2752.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_3016.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a05f_2115.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 9,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb03d6412ef7220aea8_2626.jpg",
+      "B": "./Trees/images/5d629d8d1b36840007184206_1897.jpg",
+      "C": "./Trees/images/5e068f3605e6590005c2f71a_3234.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_2754.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 10,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5dd0f6dda7dadc0006433b5b_4491.jpg",
+      "B": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3832.jpg",
+      "C": "./Trees/images/5a9980b15a9ef7cb5d982284_569.jpg",
+      "D": "./Trees/images/5a00bf89bac48e5b1cf74f14_91.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 11,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6536067e0005c2752c_3001.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_4504.jpg",
+      "C": "./Trees/images/59e62be33d6412ef7220c269_3005.jpg",
+      "D": "./Trees/images/5c743446cf2ace0006724237_2820.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 12,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320c30b093000130afdb5_1007.jpg",
+      "B": "./Trees/images/61cf4e56081c150005434574_4157.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_4050.jpg",
+      "D": "./Trees/images/5be1b0b9430b4d000569fa33_3272.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 13,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a9980b15a9ef7cb5d982284_5047.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_1957.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_4159.jpg",
+      "D": "./Trees/images/616de51e73cc220005b8e08b_96.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 14,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e72ba9b133f1a000511bead_2790.jpg",
+      "B": "./Trees/images/5bf6676cad75b80007102067_793.jpg",
+      "C": "./Trees/images/5f12fdeebaa90f0006a0ab23_4899.jpg",
+      "D": "./Trees/images/5e4f54974f7e510007981d1b_3999.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 15,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef72209ff3_1849.jpg",
+      "B": "./Trees/images/5d970af00a75b7000670395f_1777.jpg",
+      "C": "./Trees/images/5d87983a0e02d300050aa10f_3583.jpg",
+      "D": "./Trees/images/5e8b4a54a652050007863a89_4978.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 16,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bccfda6acef4900077c6552_1136.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_3865.jpg",
+      "C": "./Trees/images/5e17cc7f76e4f20005c1b85c_3601.jpg",
+      "D": "./Trees/images/5e25ec6e36067e0005c2752d_3412.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 17,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_2277.jpg",
+      "B": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_3426.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a366_4947.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4484.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 18,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_3231.jpg",
+      "B": "./Trees/images/5e9d2bc9054194000589a41a_3484.jpg",
+      "C": "./Trees/images/5b10416e2b6a08001185f42b_1405.jpg",
+      "D": "./Trees/images/59e62bb03d6412ef7220aea8_3878.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 19,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a43c_2238.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_2277.jpg",
+      "C": "./Trees/images/5c672d37c6760000068917b1_2736.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_3910.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 20,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a418_3032.jpg",
+      "B": "./Trees/images/5e068f3605e6590005c2f71a_3751.jpg",
+      "C": "./Trees/images/5e4fae9a24710000056a5156_688.jpg",
+      "D": "./Trees/images/59e62b703d6412ef72208f5a_4855.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 21,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b8f3d6412ef72209fd4_4814.jpg",
+      "B": "./Trees/images/6168ac60ea4de60007d530eb_4848.jpg",
+      "C": "./Trees/images/59e62b8e3d6412ef72209f3f_976.jpg",
+      "D": "./Trees/images/5de1091c0c04590006d335b3_2877.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 22,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_2518.jpg",
+      "B": "./Trees/images/5ae3adc00b093000130affa6_366.jpg",
+      "C": "./Trees/images/5fe3cf0b5f36590007d9f04f_1808.jpg",
+      "D": "./Trees/images/5a16788cbac48e5b1c2c47bf_679.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 23,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f7177d91d951a00058695e8_4102.jpg",
+      "B": "./Trees/images/5f58c87608ec7d0005c47ffe_3162.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_1320.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4373.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 24,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d8bd155a62db1000612178d_92.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_3599.jpg",
+      "C": "./Trees/images/5ccb9b27a16d210005dad96c_2412.jpg",
+      "D": "./Trees/images/5abb761965bd8f00110f3e4c_2861.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 25,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d255c1d161a790005c03e6a_1678.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aeff_1946.jpg",
+      "C": "./Trees/images/5b83d0e19c36dd0005ebf48d_2968.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_1578.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 26,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/616de51e73cc220005b8e08b_827.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_467.jpg",
+      "C": "./Trees/images/5b10356c2b6a08001185f417_3694.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_2507.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 27,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e4f53b14f7e510007981d17_710.jpg",
+      "B": "./Trees/images/5d970af10a75b70006703960_4596.jpg",
+      "C": "./Trees/images/5ae4afd70b093000130affb1_1930.jpg",
+      "D": "./Trees/images/60b082baa9600f0008458138_4411.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 28,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d0a57eadef34f0005ab9aa7_327.jpg",
+      "B": "./Trees/images/5bccfda6acef4900077c6552_1181.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_239.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220af02_4611.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 29,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e4fae9a24710000056a5156_1305.jpg",
+      "B": "./Trees/images/5dbb240d05580100062e0210_3514.jpg",
+      "C": "./Trees/images/5c6580f31fa6f100070431fa_664.jpg",
+      "D": "./Trees/images/5d7764494dfec000074a8cb5_1653.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 30,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b10356c2b6a08001185f417_2315.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_1444.jpg",
+      "C": "./Trees/images/5fea120be66cea000786272f_3492.jpg",
+      "D": "./Trees/images/5b1042892b6a08001185f43c_3818.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 31,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_3239.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4832.jpg",
+      "C": "./Trees/images/5ae320c30b093000130afdb5_123.jpg",
+      "D": "./Trees/images/5daf1db69f4b100006add9f9_2359.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 32,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6536067e0005c2752c_1643.jpg",
+      "B": "./Trees/images/5ae320420b093000130afdad_4525.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_890.jpg",
+      "D": "./Trees/images/59e62b953d6412ef7220a366_4243.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 33,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f8de1dca11f71000673ec58_3431.jpg",
+      "B": "./Trees/images/5d970af10a75b70006703960_3737.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_3657.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_3140.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 34,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b3622402b6a08001185f8d8_930.jpg",
+      "B": "./Trees/images/59e62bb03d6412ef7220aea8_3498.jpg",
+      "C": "./Trees/images/5cb0ece9fa020e0006eb43d4_358.jpg",
+      "D": "./Trees/images/5f8904d84e901800057b461f_2527.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 35,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f0476d80570c50007a7fb60_2757.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_3411.jpg",
+      "C": "./Trees/images/5e589105240f260007700704_2872.jpg",
+      "D": "./Trees/images/5c3ea615e7ff3f00054889d4_253.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 36,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d6031e609b71c000678e664_3675.jpg",
+      "B": "./Trees/images/5f7177d91d951a00058695e8_1510.jpg",
+      "C": "./Trees/images/5ad7a7c891b5310010e0d550_5049.jpg",
+      "D": "./Trees/images/5de55a69b3b5ce0006c2d960_4408.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 37,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e9d2bc9054194000589a41a_3718.jpg",
+      "B": "./Trees/images/60d72a025e4fd500077d46e7_2064.jpg",
+      "C": "./Trees/images/5b003ade2b6a08001185f13e_2505.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_798.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 38,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c743446cf2ace0006724237_3424.jpg",
+      "B": "./Trees/images/5fd33e61f00c200007292ba8_5054.jpg",
+      "C": "./Trees/images/5bf6a8f50d1a8c00054a41cc_2831.jpg",
+      "D": "./Trees/images/5e17cc7f76e4f20005c1b85c_3380.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 39,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a5a22305a9ef7cb5df1977e_2517.jpg",
+      "B": "./Trees/images/5bce3d12b9e5f20005f7da4d_4292.jpg",
+      "C": "./Trees/images/5d01ac72553f4b000590dbff_1583.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_2406.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 40,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60d2046feade0f00079b58bd_2876.jpg",
+      "B": "./Trees/images/5f363b374e328d00066b0175_1950.jpg",
+      "C": "./Trees/images/59e62b9a3d6412ef7220a51f_3989.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_4085.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 41,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f1f106d57ddda00054a03f4_2136.jpg",
+      "B": "./Trees/images/59e62b703d6412ef72208f44_1919.jpg",
+      "C": "./Trees/images/60cc7f03eade0f00079b5848_2438.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_382.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 42,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a5a22305a9ef7cb5df1977e_3491.jpg",
+      "B": "./Trees/images/5bac9a13692f850005383f6e_1885.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_749.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c37a_2674.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 43,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b90b45884d0cc000790357c_2282.jpg",
+      "B": "./Trees/images/5cafa1a0f58c0800075d4fc2_2422.jpg",
+      "C": "./Trees/images/5b10238f2b6a08001185f398_1681.jpg",
+      "D": "./Trees/images/5a2d4387bac48e5b1c64facc_4969.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 44,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b0040ca2b6a08001185f14c_2612.jpg",
+      "B": "./Trees/images/5c37c42e4ab5bc000733441e_2848.jpg",
+      "C": "./Trees/images/5a009b7ebac48e5b1cf6ef81_3281.jpg",
+      "D": "./Trees/images/5a5c13545a9ef7cb5df674f1_50.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 45,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d5ee0fe1d3eab00054f8e69_2050.jpg",
+      "B": "./Trees/images/5f0eda6b31da550005624682_4232.jpg",
+      "C": "./Trees/images/5e9d2bc9054194000589a41a_4070.jpg",
+      "D": "./Trees/images/5ca2d8d2e5635f000690af5a_334.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 46,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/61201a81b7012200056b5c6e_1162.jpg",
+      "B": "./Trees/images/5c8d82f0b8e7090005010554_6.jpg",
+      "C": "./Trees/images/5fd33e61f00c200007292ba8_4892.jpg",
+      "D": "./Trees/images/5b1096542b6a08001185f4c9_4144.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 47,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb23d6412ef7220af16_3970.jpg",
+      "B": "./Trees/images/5e72ba9b133f1a000511bead_3327.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_297.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_797.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 48,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b911275a0d7280005fab35d_4120.jpg",
+      "B": "./Trees/images/5e4fbd3024710000056a516f_2033.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_3920.jpg",
+      "D": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1972.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 49,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_1314.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_451.jpg",
+      "C": "./Trees/images/5d970af00a75b7000670395f_2696.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_2705.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 50,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f0476d80570c50007a7fb60_3006.jpg",
+      "B": "./Trees/images/5b518afc4bda9e648eedbd9d_3417.jpg",
+      "C": "./Trees/images/59e62b913d6412ef7220a0b6_141.jpg",
+      "D": "./Trees/images/59e62b9b3d6412ef7220a579_4674.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 51,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a366_4243.jpg",
+      "B": "./Trees/images/5bc53d344d3b1b00050eee9f_2918.jpg",
+      "C": "./Trees/images/5e25ec6536067e0005c2752c_3059.jpg",
+      "D": "./Trees/images/5d2145703895730005dc0e9d_2993.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 52,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d255c1d161a790005c03e6a_1785.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_3996.jpg",
+      "C": "./Trees/images/5a276972bac48e5b1c561a15_3712.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_1347.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 53,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bc119b7c7e1cf0008e45e25_2692.jpg",
+      "B": "./Trees/images/5dc40b06d0e638000592ebe6_1149.jpg",
+      "C": "./Trees/images/59e62b703d6412ef72208f5a_4855.jpg",
+      "D": "./Trees/images/5d8cabebabcfaa0008b1d26b_4528.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 54,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fea120be66cea000786272f_4084.jpg",
+      "B": "./Trees/images/5ca97be23bc29600053c1623_2342.jpg",
+      "C": "./Trees/images/5b1041cb2b6a08001185f42f_2984.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_2408.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 55,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4889.jpg",
+      "B": "./Trees/images/5ae320420b093000130afdad_4557.jpg",
+      "C": "./Trees/images/5f0ed88e31da55000562467f_2689.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220af02_229.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 56,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5da4eb2dcac1190007698b1b_4957.jpg",
+      "B": "./Trees/images/5c37c42e4ab5bc000733441e_1494.jpg",
+      "C": "./Trees/images/5d9afef50ca8d70007c491f8_4114.jpg",
+      "D": "./Trees/images/5b0040ca2b6a08001185f14c_1239.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 57,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5caf60a7f58c0800075d4fb8_176.jpg",
+      "B": "./Trees/images/5ae3923e0b093000130aff38_1744.jpg",
+      "C": "./Trees/images/5ca97be23bc29600053c1623_2857.jpg",
+      "D": "./Trees/images/5c6580f31fa6f100070431fa_856.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 58,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b963d6412ef7220a3dd_3013.jpg",
+      "B": "./Trees/images/5b911275a0d7280005fab35d_2251.jpg",
+      "C": "./Trees/images/5dad0e1c16c43b00058d0262_185.jpg",
+      "D": "./Trees/images/61cf4e56081c150005434574_4141.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 59,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6536067e0005c2752c_3059.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_2309.jpg",
+      "C": "./Trees/images/5e4fae9a24710000056a5156_372.jpg",
+      "D": "./Trees/images/5b10358e2b6a08001185f418_2152.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 60,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_3682.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_2607.jpg",
+      "C": "./Trees/images/5d0511a873de290005853a93_4756.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_1705.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 61,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_4964.jpg",
+      "B": "./Trees/images/60315c91d9c7c8000504d2cb_4693.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_2592.jpg",
+      "D": "./Trees/images/5c3ea615e7ff3f00054889d4_1311.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 62,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60a6469525820c0005e45927_3935.jpg",
+      "B": "./Trees/images/59e62be73d6412ef7220c423_837.jpg",
+      "C": "./Trees/images/5ff5a55038bfed0005ea56fb_3945.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a2af_4145.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 63,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5dde8d370140b80006d2e547_256.jpg",
+      "B": "./Trees/images/5a2649ffbac48e5b1c532826_4667.jpg",
+      "C": "./Trees/images/5f75542e61151700054968d1_2081.jpg",
+      "D": "./Trees/images/5ccb9b27a16d210005dad96c_2412.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 64,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d8179a9f3e9b40005be6ef5_712.jpg",
+      "B": "./Trees/images/59e62b973d6412ef7220a418_3619.jpg",
+      "C": "./Trees/images/5b1042892b6a08001185f43c_1680.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_2906.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 65,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_2896.jpg",
+      "B": "./Trees/images/5ae3923e0b093000130aff38_3054.jpg",
+      "C": "./Trees/images/59e62beb3d6412ef7220c5aa_3453.jpg",
+      "D": "./Trees/images/5c3cb31865775c0007e79448_3170.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 66,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4516.jpg",
+      "B": "./Trees/images/5d970af10a75b70006703960_4424.jpg",
+      "C": "./Trees/images/5d970af10a75b70006703960_2314.jpg",
+      "D": "./Trees/images/5ae320420b093000130afdad_4703.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 67,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a276972bac48e5b1c561a15_3117.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_2867.jpg",
+      "C": "./Trees/images/5d1bded793e1130005fc0e98_3456.jpg",
+      "D": "./Trees/images/5bafcf9ea28dc0000543f068_4356.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 68,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ca97be23bc29600053c1623_2857.jpg",
+      "B": "./Trees/images/5e25ec6536067e0005c2752c_1803.jpg",
+      "C": "./Trees/images/5b1042892b6a08001185f43c_1680.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a2af_2221.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 69,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3adc00b093000130affa6_1022.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3d7_3986.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1850.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_4636.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 70,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bf6a8f50d1a8c00054a41cc_2490.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_3105.jpg",
+      "C": "./Trees/images/5b518afc4bda9e648eedbd9d_1902.jpg",
+      "D": "./Trees/images/59e62be93d6412ef7220c4a6_1484.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 71,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a9980b15a9ef7cb5d982284_235.jpg",
+      "B": "./Trees/images/5d5d7f2271f7ef0005c1b44f_4043.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_831.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a515_3244.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 72,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_4067.jpg",
+      "B": "./Trees/images/5a9980b15a9ef7cb5d982284_4466.jpg",
+      "C": "./Trees/images/5e4f54974f7e510007981d1b_3999.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_3270.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 73,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb23d6412ef7220af16_1571.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220af02_580.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_3657.jpg",
+      "D": "./Trees/images/5b9d22b53c691c00060c0262_3177.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 74,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5dde8d370140b80006d2e547_256.jpg",
+      "B": "./Trees/images/5e24f9cf2554740005d5c9bb_2529.jpg",
+      "C": "./Trees/images/5d995ecb0ca8d70007c491d6_2489.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_491.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 75,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/614953988c56070006259d23_617.jpg",
+      "B": "./Trees/images/5ff330589ef28c00068659a9_3526.jpg",
+      "C": "./Trees/images/5ac79b2191b5310010e0d4bd_4093.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_138.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 76,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ad7a7c891b5310010e0d550_4531.jpg",
+      "B": "./Trees/images/5e28a0d12329e800051134a5_411.jpg",
+      "C": "./Trees/images/61951f134cf5080007593269_24.jpg",
+      "D": "./Trees/images/5f8de1dca11f71000673ec58_2184.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 77,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_1686.jpg",
+      "B": "./Trees/images/5e25ec6536067e0005c2752c_3001.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aeff_1966.jpg",
+      "D": "./Trees/images/5f3b3441df88ab000761cb39_460.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 78,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_3598.jpg",
+      "B": "./Trees/images/5fe3cf0b5f36590007d9f04f_3382.jpg",
+      "C": "./Trees/images/5f7177d91d951a00058695e8_1914.jpg",
+      "D": "./Trees/images/5e25ec6e36067e0005c2752d_3412.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 79,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a31c_1524.jpg",
+      "B": "./Trees/images/5e22512250259f000541fc3f_62.jpg",
+      "C": "./Trees/images/60a2325625820c0005e458d4_1064.jpg",
+      "D": "./Trees/images/5f12fdeebaa90f0006a0ab23_4891.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 80,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_2747.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_3480.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_3421.jpg",
+      "D": "./Trees/images/610c08bea2f7d6000711f8bf_2262.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 81,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg",
+      "B": "./Trees/images/5e25ec6536067e0005c2752c_3371.jpg",
+      "C": "./Trees/images/5d73667388556200055f10e4_605.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_3910.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 82,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1bded793e1130005fc0e98_4086.jpg",
+      "B": "./Trees/images/5b3622402b6a08001185f8d8_138.jpg",
+      "C": "./Trees/images/5d2145703895730005dc0e9d_3188.jpg",
+      "D": "./Trees/images/5c672d37c6760000068917b1_3126.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 83,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bfdbd20351e730005346227_1495.jpg",
+      "B": "./Trees/images/5d1bd8e593e1130005fc0e92_314.jpg",
+      "C": "./Trees/images/5b7284639102adba313a5c3a_2203.jpg",
+      "D": "./Trees/images/59e62bb03d6412ef7220aea8_3498.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 84,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae4afd70b093000130affb1_3812.jpg",
+      "B": "./Trees/images/5d0511a873de290005853a93_4374.jpg",
+      "C": "./Trees/images/5b10358e2b6a08001185f418_4103.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_3047.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 85,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b7284639102adba313a5c3a_2484.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_1989.jpg",
+      "C": "./Trees/images/5eef6d0e1bb60b000624b4da_4224.jpg",
+      "D": "./Trees/images/5f2fcaa70d59fe00057c32b3_1794.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 86,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a16788cbac48e5b1c2c47bf_1050.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_1071.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a592_3024.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c37a_2043.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 87,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e9d2bc9054194000589a41a_3644.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_1685.jpg",
+      "C": "./Trees/images/5f4d31ea464f1c0005fc5721_759.jpg",
+      "D": "./Trees/images/5f8de1dca11f71000673ec58_2080.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 88,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb03d6412ef7220aea8_2626.jpg",
+      "B": "./Trees/images/6087b78e6914ef000561b333_4577.jpg",
+      "C": "./Trees/images/5f059147ce2c9900068d83ee_1034.jpg",
+      "D": "./Trees/images/5ae3adc00b093000130affa6_3697.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 89,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f363b374e328d00066b0175_1950.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_1753.jpg",
+      "C": "./Trees/images/616de51e73cc220005b8e08b_369.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a2af_3158.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 90,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_3289.jpg",
+      "B": "./Trees/images/5f5dfa54d9f87200078c7f2d_3614.jpg",
+      "C": "./Trees/images/5ad9eb6a91b5310010e0d56f_1156.jpg",
+      "D": "./Trees/images/5dd59dbb4cae450005374d3e_2845.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 91,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4821.jpg",
+      "B": "./Trees/images/5a9980b15a9ef7cb5d982284_4810.jpg",
+      "C": "./Trees/images/5dde8d370140b80006d2e547_1211.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_3947.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 92,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c6580f31fa6f100070431fa_856.jpg",
+      "B": "./Trees/images/5f5dfa54d9f87200078c7f2d_3815.jpg",
+      "C": "./Trees/images/5fe3cf0b5f36590007d9f04f_3382.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aeff_4130.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 93,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d7cb858ecaf880008a9bc7d_5065.jpg",
+      "B": "./Trees/images/5b10408a2b6a08001185f427_1164.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a34d_648.jpg",
+      "D": "./Trees/images/5ae4afd70b093000130affb1_1757.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 94,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b703d6412ef72208f5a_4447.jpg",
+      "B": "./Trees/images/6029f2f22ff7030005a4e822_1341.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_2406.jpg",
+      "D": "./Trees/images/5a276972bac48e5b1c561a15_2770.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 95,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+      "B": "./Trees/images/5bcdcf3ab9e5f20005f7da40_367.jpg",
+      "C": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_561.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a05f_2870.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 96,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/616de51e73cc220005b8e08b_376.jpg",
+      "B": "./Trees/images/5c3cb31865775c0007e79448_3170.jpg",
+      "C": "./Trees/images/5ae7f5fa0b093000130affcc_1203.jpg",
+      "D": "./Trees/images/5eef6d0e1bb60b000624b4da_4529.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 97,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60d2046feade0f00079b58bd_1704.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_348.jpg",
+      "C": "./Trees/images/5b518afc4bda9e648eedbd9d_2598.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_3947.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 98,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4480.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3dd_3013.jpg",
+      "C": "./Trees/images/5a2d4387bac48e5b1c64facc_4979.jpg",
+      "D": "./Trees/images/59e62b7a3d6412ef7220953b_2104.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 99,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a515_2257.jpg",
+      "B": "./Trees/images/607bd156bfb5350008e66597_2898.jpg",
+      "C": "./Trees/images/5d629d8d1b36840007184206_2535.jpg",
+      "D": "./Trees/images/5bc119b7c7e1cf0008e45e25_219.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 100,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e9d2bc9054194000589a41a_2593.jpg",
+      "B": "./Trees/images/5aea3d3b8153990013b938e8_2858.jpg",
+      "C": "./Trees/images/60d2046feade0f00079b58bd_1704.jpg",
+      "D": "./Trees/images/5cafa1a0f58c0800075d4fc2_3566.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 101,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a5b7_471.jpg",
+      "B": "./Trees/images/5e639bf5ec014e000618876d_721.jpg",
+      "C": "./Trees/images/59e62bb23d6412ef7220af16_1675.jpg",
+      "D": "./Trees/images/59e62b913d6412ef7220a0d1_2054.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 102,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f75542e61151700054968d1_4029.jpg",
+      "B": "./Trees/images/61a9fa7961c6860006736551_1058.jpg",
+      "C": "./Trees/images/59e62be93d6412ef7220c4a6_1484.jpg",
+      "D": "./Trees/images/5bac9a13692f850005383f6e_1885.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 103,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_2696.jpg",
+      "B": "./Trees/images/5dd7c9b049432100060ef977_1366.jpg",
+      "C": "./Trees/images/5b1042892b6a08001185f43c_1680.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4931.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 104,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bf4e3addc18930005c2b4dc_3168.jpg",
+      "B": "./Trees/images/5b911275a0d7280005fab35d_3122.jpg",
+      "C": "./Trees/images/5d973639e2b1f300057cb3a8_4162.jpg",
+      "D": "./Trees/images/6112fad7ac1a340005a1ccf4_775.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 105,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3923e0b093000130aff38_1710.jpg",
+      "B": "./Trees/images/59e62b7a3d6412ef7220953b_2104.jpg",
+      "C": "./Trees/images/6108af51343da30006976e20_766.jpg",
+      "D": "./Trees/images/5dbb240d05580100062e0210_2680.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 106,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5de55a69b3b5ce0006c2d960_4188.jpg",
+      "B": "./Trees/images/5ad9eb6a91b5310010e0d56f_952.jpg",
+      "C": "./Trees/images/60bc2b27f59a4300057c5519_305.jpg",
+      "D": "./Trees/images/6108b0df343da30006976e23_2882.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 107,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e232b0050259f000541fc51_1204.jpg",
+      "B": "./Trees/images/5a808bed5a9ef7cb5d552d69_521.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aecb_1230.jpg",
+      "D": "./Trees/images/61cb8771081c15000543455a_1083.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 108,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e4fbd3024710000056a516f_2389.jpg",
+      "B": "./Trees/images/5c08c36c6918390006b7a8a3_1703.jpg",
+      "C": "./Trees/images/5d6892c0bc6eb00006d3739e_1228.jpg",
+      "D": "./Trees/images/5cd4a3bb4b7c75000784da32_3218.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 109,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4351.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c476_719.jpg",
+      "C": "./Trees/images/5ae320c30b093000130afdb5_1986.jpg",
+      "D": "./Trees/images/59e62beb3d6412ef7220c5aa_2487.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 110,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4948.jpg",
+      "B": "./Trees/images/59e62b943d6412ef7220a2af_4145.jpg",
+      "C": "./Trees/images/59e62b913d6412ef7220a0d1_1895.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_1850.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 111,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c3cb31865775c0007e79448_2436.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_1430.jpg",
+      "C": "./Trees/images/5b88665d3c07e100077c483a_3959.jpg",
+      "D": "./Trees/images/5d0511a873de290005853a93_4756.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 112,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aed6_3499.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a05f_2870.jpg",
+      "C": "./Trees/images/5cc2f46f3dc94a00069404fd_812.jpg",
+      "D": "./Trees/images/5de55a69b3b5ce0006c2d960_4523.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 113,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_3649.jpg",
+      "B": "./Trees/images/5c118d5e05f40a0007517aff_2279.jpg",
+      "C": "./Trees/images/5b10238f2b6a08001185f398_2445.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209e91_2653.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 114,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60cc7f03eade0f00079b5848_3667.jpg",
+      "B": "./Trees/images/5b1041cb2b6a08001185f42f_2073.jpg",
+      "C": "./Trees/images/59e62be33d6412ef7220c269_1874.jpg",
+      "D": "./Trees/images/5e28a0d12329e800051134a5_858.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 115,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d255c1d161a790005c03e6a_1785.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_1895.jpg",
+      "C": "./Trees/images/61201a81b7012200056b5c6e_1143.jpg",
+      "D": "./Trees/images/5d78e8faf719820008245cfa_3068.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 116,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a808bed5a9ef7cb5d552d69_1246.jpg",
+      "B": "./Trees/images/6087b78e6914ef000561b333_4577.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_3441.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aeff_4130.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 117,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b1096a62b6a08001185f4cf_3423.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_2246.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_1022.jpg",
+      "D": "./Trees/images/5f5dfa54d9f87200078c7f2d_2460.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 118,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1248.jpg",
+      "B": "./Trees/images/5daf1db69f4b100006add9f9_2619.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aeff_2052.jpg",
+      "D": "./Trees/images/60d2046feade0f00079b58bd_4134.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 119,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fdccb97cce96c000538f784_2117.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_856.jpg",
+      "C": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1692.jpg",
+      "D": "./Trees/images/5a789bd45a9ef7cb5d408eb2_418.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 120,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5cafa1a0f58c0800075d4fc2_4126.jpg",
+      "B": "./Trees/images/5e17cc7f76e4f20005c1b85c_4117.jpg",
+      "C": "./Trees/images/5ad7a7c891b5310010e0d550_5055.jpg",
+      "D": "./Trees/images/5b10238f2b6a08001185f398_2445.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 121,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d7764494dfec000074a8cb5_3774.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_3308.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_2516.jpg",
+      "D": "./Trees/images/5c466c6c437ee1000616311f_1756.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 122,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e9d2bc9054194000589a41a_2523.jpg",
+      "B": "./Trees/images/5a237ea5bac48e5b1c4bf531_1601.jpg",
+      "C": "./Trees/images/5a2649ffbac48e5b1c532826_4437.jpg",
+      "D": "./Trees/images/5e2566772554740005d5c9e8_4934.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 123,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_3205.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3dd_1525.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_34.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209e77_3569.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 124,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_1309.jpg",
+      "B": "./Trees/images/5e2566772554740005d5c9e8_4960.jpg",
+      "C": "./Trees/images/5dde79d00140b80006d2e536_1952.jpg",
+      "D": "./Trees/images/5b6473dd40e11005cf16cc89_3489.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 125,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4891.jpg",
+      "B": "./Trees/images/5d87983a0e02d300050aa10f_2897.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c37a_2222.jpg",
+      "D": "./Trees/images/5e40d4dc56992d0006e589e1_2305.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 126,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f08a349cd2ccd00078c3419_4556.jpg",
+      "B": "./Trees/images/59e62be33d6412ef7220c25f_2019.jpg",
+      "C": "./Trees/images/5fea120be66cea000786272f_2801.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4495.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 127,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_1705.jpg",
+      "B": "./Trees/images/5ae31f3c0b093000130afda4_1553.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1444.jpg",
+      "D": "./Trees/images/5cb64e020a3a5c0005ff12ff_717.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 128,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a5a20fa5a9ef7cb5df18e5c_1349.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f97_752.jpg",
+      "C": "./Trees/images/5f711df61d951a00058695d8_1976.jpg",
+      "D": "./Trees/images/5abb761965bd8f00110f3e4c_2364.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 129,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a6087c45a9ef7cb5d020fd3_4113.jpg",
+      "B": "./Trees/images/5bf4e3addc18930005c2b4dc_1746.jpg",
+      "C": "./Trees/images/5f0ed88e31da55000562467f_2072.jpg",
+      "D": "./Trees/images/5ae7f5fa0b093000130affcc_1203.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 130,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_3605.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_3936.jpg",
+      "C": "./Trees/images/59e62b913d6412ef7220a0d1_3743.jpg",
+      "D": "./Trees/images/5e639bf5ec014e000618876d_1328.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 131,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f3b3441df88ab000761cb39_680.jpg",
+      "B": "./Trees/images/60f138e489ec130007b828c3_655.jpg",
+      "C": "./Trees/images/5d94c6a74f29390005e237c6_3450.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_3367.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 132,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60b0cccea9600f0008458140_3921.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_1983.jpg",
+      "C": "./Trees/images/5bba1c4f9ed15b0006d24f3b_3241.jpg",
+      "D": "./Trees/images/5b1042892b6a08001185f43c_4010.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 133,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d0511a873de290005853a93_4756.jpg",
+      "B": "./Trees/images/5a14b831bac48e5b1c281943_3652.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1547.jpg",
+      "D": "./Trees/images/5a5a21dc5a9ef7cb5df19529_1647.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 134,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60d6eaa1c700c600080d5534_1131.jpg",
+      "B": "./Trees/images/5f4d31ea464f1c0005fc5721_48.jpg",
+      "C": "./Trees/images/5e4fb2fb24710000056a515c_3111.jpg",
+      "D": "./Trees/images/5a009dadbac48e5b1cf6f5af_1275.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 135,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_1507.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_3731.jpg",
+      "C": "./Trees/images/5d1bded793e1130005fc0e98_1875.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4833.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 136,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d0511a873de290005853a93_4864.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_4605.jpg",
+      "C": "./Trees/images/59e62b8b3d6412ef72209db8_1817.jpg",
+      "D": "./Trees/images/5fba7574f867fd0007e9774a_3290.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 137,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d8179a9f3e9b40005be6ef5_547.jpg",
+      "B": "./Trees/images/5f75542e61151700054968d1_3745.jpg",
+      "C": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_217.jpg",
+      "D": "./Trees/images/5dd59dbb4cae450005374d3e_3349.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 138,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f4d31ea464f1c0005fc5721_598.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4213.jpg",
+      "C": "./Trees/images/5d970af00a75b7000670395f_3819.jpg",
+      "D": "./Trees/images/60315c91d9c7c8000504d2cb_5003.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 139,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bba1c4f9ed15b0006d24f3b_2149.jpg",
+      "B": "./Trees/images/59e62be93d6412ef7220c4a6_3575.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_2403.jpg",
+      "D": "./Trees/images/5fba7574f867fd0007e9774a_3290.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 140,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a579_4657.jpg",
+      "B": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2985.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a366_4947.jpg",
+      "D": "./Trees/images/5f3b3441df88ab000761cb39_680.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 141,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1bdddb93e1130005fc0e95_2176.jpg",
+      "B": "./Trees/images/5d0511a873de290005853a93_4775.jpg",
+      "C": "./Trees/images/5a02e88abac48e5b1cfcd3a4_182.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_249.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 142,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5dad0e1c16c43b00058d0262_265.jpg",
+      "B": "./Trees/images/5dbb240d05580100062e0210_3095.jpg",
+      "C": "./Trees/images/5a14b831bac48e5b1c281943_3260.jpg",
+      "D": "./Trees/images/5de1091c0c04590006d335b3_3551.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 143,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60f0a29989ec130007b828a8_1165.jpg",
+      "B": "./Trees/images/60d2046feade0f00079b58bd_2000.jpg",
+      "C": "./Trees/images/5d0511a873de290005853a93_4322.jpg",
+      "D": "./Trees/images/5a808bed5a9ef7cb5d552d69_325.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 144,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f2fcaa70d59fe00057c32b3_3031.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_3886.jpg",
+      "C": "./Trees/images/5a2649ffbac48e5b1c532826_4305.jpg",
+      "D": "./Trees/images/616de51e73cc220005b8e08b_1330.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 145,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d0511a873de290005853a93_4747.jpg",
+      "B": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1077.jpg",
+      "C": "./Trees/images/5b8fc8f88752bd000830170d_790.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209f6d_133.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 146,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e1193a95f5069000738f16a_4845.jpg",
+      "B": "./Trees/images/5d3561a98a5c8b000519fdac_3911.jpg",
+      "C": "./Trees/images/5fd33e61f00c200007292ba8_4555.jpg",
+      "D": "./Trees/images/5f059147ce2c9900068d83ee_481.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 147,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_2905.jpg",
+      "B": "./Trees/images/5f75542e61151700054968d1_3987.jpg",
+      "C": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4777.jpg",
+      "D": "./Trees/images/5fd33e61f00c200007292ba8_4780.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 148,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60d72a025e4fd500077d46e7_2064.jpg",
+      "B": "./Trees/images/5ad7a7c891b5310010e0d550_4574.jpg",
+      "C": "./Trees/images/5f08a349cd2ccd00078c3419_4643.jpg",
+      "D": "./Trees/images/5c466c6c437ee1000616311f_1756.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 149,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f58c87608ec7d0005c47ffe_3162.jpg",
+      "B": "./Trees/images/5e639ceaec014e0006188772_1661.jpg",
+      "C": "./Trees/images/5c9ba9653f42360006174c60_739.jpg",
+      "D": "./Trees/images/5e25ecee36067e0005c2752e_1132.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 150,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_1509.jpg",
+      "B": "./Trees/images/60e6417b5bc2dc00058bbe15_3679.jpg",
+      "C": "./Trees/images/5ad9eb6a91b5310010e0d56f_475.jpg",
+      "D": "./Trees/images/5fa016bbd3a8ab0007ea6a66_878.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 151,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_1552.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3822.jpg",
+      "C": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3723.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_3671.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 152,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "B": "./Trees/images/60c1b7e8c3b42f000788d30a_953.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 153,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_1656.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 154,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "B": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 155,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_2418.jpg",
+      "B": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1292.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_1293.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 156,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_31.jpg",
+      "B": "./Trees/images/60c1b7e8c3b42f000788d30a_814.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 157,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "B": "./Trees/images/60c1b7e8c3b42f000788d30a_397.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3123.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 158,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_2552.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1761.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 159,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3610.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_3547.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+      "D": "./Trees/images/618ebf6d502455000734581c_375.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 160,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_495.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3853.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 161,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2001.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_737.jpg",
+      "C": "./Trees/images/5d261c18161a790005c03e77_4726.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 162,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_2862.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2600.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_1676.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 163,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_385.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "C": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 164,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_2068.jpg",
+      "B": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4363.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 165,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/61a5879bca228100065cb98a_2371.jpg",
+      "B": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 166,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_1559.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_75.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_737.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 167,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_619.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_4151.jpg",
+      "C": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 168,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_2298.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_1719.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_1186.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 169,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3144.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3294.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 170,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3058.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3333.jpg",
+      "C": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+      "D": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 171,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4053.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 172,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg",
+      "B": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2702.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4202.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 173,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_1726.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_469.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 174,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4319.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg",
+      "D": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2702.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 175,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_3638.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_669.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 176,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_637.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_2008.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 177,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5bea077d41f79800070a4f67_3296.jpg",
+      "B": "./Trees/images/61a5879bca228100065cb98a_1776.jpg",
+      "C": "./Trees/images/5d261c18161a790005c03e77_4629.jpg",
+      "D": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 178,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_310.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_3958.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 179,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2702.jpg",
+      "B": "./Trees/images/618ebf6d502455000734581c_1130.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_495.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_835.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 180,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b729f5e9102ad0b033a5c3f_2733.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3294.jpg",
+      "C": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2208.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 181,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_2695.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3355.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3396.jpg",
+      "D": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 182,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2041.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "C": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3766.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 183,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_2459.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4225.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_662.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 184,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3022.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg",
+      "D": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 185,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_238.jpg",
+      "B": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1648.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3036.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 186,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 187,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c3c6d8bbc33050006d379aa_1013.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2459.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_214.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_1292.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 188,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4202.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2298.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 189,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_507.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1006.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3610.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 190,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_769.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_2512.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_816.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_1552.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 191,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2425.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 192,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3333.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_1750.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2486.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 193,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/61a5879bca228100065cb98a_1776.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4053.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 194,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3723.jpg",
+      "B": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 195,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1648.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_3793.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4225.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 196,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_2001.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4286.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 197,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3671.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_2865.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2001.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 198,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_2865.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3161.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4319.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 199,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3022.jpg",
+      "C": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_953.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 200,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_75.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3610.jpg",
+      "C": "./Trees/images/5fc8b3ae088b49000751afda_4263.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_637.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 201,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_1602.jpg",
+      "B": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3610.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 202,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "B": "./Trees/images/60c1b7e8c3b42f000788d30a_93.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 203,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3536.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 204,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+      "B": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_189.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 205,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2158.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_2424.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1015.jpg",
+      "D": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 206,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fc8b3ae088b49000751afda_4263.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_816.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_2695.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_4101.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 207,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3830.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2545.jpg",
+      "D": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 208,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_2573.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1292.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2862.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 209,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+      "D": "./Trees/images/5d261c18161a790005c03e77_4726.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 210,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_1656.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3106.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 211,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+      "B": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_2866.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3766.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 212,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_3345.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 213,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_2317.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2272.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_2281.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 214,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2980.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 215,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_3555.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4826.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_310.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 216,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1186.jpg",
+      "C": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1793.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 217,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_238.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_3067.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 218,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3193.jpg",
+      "C": "./Trees/images/5dded5bc0140b80006d2e565_23.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 219,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3190.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2434.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 220,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_4266.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3671.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 221,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2208.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 222,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_1779.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_953.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 223,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "B": "./Trees/images/5b713a5291cf644aafeeacc4_453.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_863.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 224,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_652.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_1949.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 225,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_310.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_4078.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3460.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 226,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3997.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_3822.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 227,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4826.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_189.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 228,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3193.jpg",
+      "C": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3723.jpg",
+      "D": "./Trees/images/60ff2cea5a90f10006fd3008_1335.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 229,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_2461.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4073.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 230,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2830.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_2008.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 231,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_816.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_2676.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2573.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 232,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2191.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 233,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_4074.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg",
+      "C": "./Trees/images/61a5879bca228100065cb98a_3312.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 234,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1928.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4202.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_2430.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 235,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_1791.jpg",
+      "B": "./Trees/images/5fc8b3ae088b49000751afda_4677.jpg",
+      "C": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3468.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 236,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_2212.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_294.jpg",
+      "C": "./Trees/images/5dded5bc0140b80006d2e565_339.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4073.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 237,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+      "B": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+      "C": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3468.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 238,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3161.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3190.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4319.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3793.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 239,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_2418.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_75.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_741.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_816.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 240,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_2208.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_4266.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2797.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 241,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1293.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4786.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2797.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1111.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 242,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "C": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_3941.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 243,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2512.jpg",
+      "B": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_2375.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 244,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg",
+      "D": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 245,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_863.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_93.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 246,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_3547.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_2272.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 247,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fe072620cf0b40005ddf6c3_2719.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1793.jpg",
+      "C": "./Trees/images/60c1b7e8c3b42f000788d30a_814.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2954.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 248,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3278.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_686.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 249,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_1719.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_2954.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_2287.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 250,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1793.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2480.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3903.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 251,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg",
+      "D": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 252,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1761.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_1779.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 253,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_3555.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_840.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2573.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 254,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_1503.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_1823.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 255,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/61a5879bca228100065cb98a_3312.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3362.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_2730.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 256,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_2216.jpg",
+      "B": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3202.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 257,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_189.jpg",
+      "C": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 258,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_840.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+      "D": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 259,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2480.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3877.jpg",
+      "C": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 260,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_2862.jpg",
+      "B": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3622.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4249.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 261,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "C": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "D": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 262,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d2d1302f416f40006cffcc6_973.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "C": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4319.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 263,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1719.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_3362.jpg",
+      "C": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 264,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3468.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 265,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1779.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_3098.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 266,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3671.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2001.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 267,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1036.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3064.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4286.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 268,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_294.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_26.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 269,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1618.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4733.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2540.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_1776.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 270,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "B": "./Trees/images/5b90f92da0d7280005fab355_4200.jpg",
+      "C": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4938.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 271,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4938.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_4129.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_385.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_619.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 272,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_4083.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "D": "./Trees/images/60ff2cea5a90f10006fd3008_1335.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 273,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2287.jpg",
+      "B": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_4881.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_1648.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 274,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_2249.jpg",
+      "C": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 275,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2158.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3064.jpg",
+      "C": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_35.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 276,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_3982.jpg",
+      "B": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 277,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_1758.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_3506.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3814.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3853.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 278,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_3180.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2698.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 279,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2545.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_3803.jpg",
+      "C": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 280,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_816.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_1013.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 281,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_4151.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4716.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 282,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2480.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_741.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_4225.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 283,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3278.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2298.jpg",
+      "C": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2191.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 284,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3982.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 285,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_1750.jpg",
+      "B": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 286,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3022.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3294.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 287,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fc8b3ae088b49000751afda_4313.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+      "C": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 288,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2030.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_662.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4881.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 289,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1719.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+      "C": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 290,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_2730.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 291,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3995.jpg",
+      "C": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "D": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 292,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg",
+      "C": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 293,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg",
+      "B": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1006.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_3345.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 294,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3064.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_2739.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_741.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 295,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+      "C": "./Trees/images/5b729f5e9102ad0b033a5c3f_1589.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 296,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3124.jpg",
+      "B": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1793.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_2041.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 297,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_3993.jpg",
+      "B": "./Trees/images/5d2d1302f416f40006cffcc6_973.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3830.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 298,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2545.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg",
+      "C": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4249.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 299,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_2739.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2980.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 300,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3022.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2512.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  }
+]

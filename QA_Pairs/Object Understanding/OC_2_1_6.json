@@ -1,0 +1,1282 @@
+[
+  {
+    "image_path": "./Trees/images/5d96feee0a75b70006703919_4982.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_1709.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d96feee0a75b70006703919_4805.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3877.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 13,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 14,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 15,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 16,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 17,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 18,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d96feee0a75b70006703919_4216.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 19,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 20,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 21,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 22,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 23,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 24,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 25,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 26,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 27,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 28,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 29,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 30,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 31,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 32,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_1741.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 33,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 34,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_507.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 35,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 36,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 37,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 38,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 39,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 40,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 41,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2750.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 42,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_555.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 43,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 44,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 45,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 46,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_1857.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 47,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 48,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 49,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3346.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 50,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 51,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 52,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2763.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 53,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 54,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 55,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3058.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 56,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d9dbda4fd16f600065395c3_3448.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 57,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 58,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 59,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 60,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/60a7f8f729636900059d6498_1520.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 61,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e639ceaec014e0006188772_3471.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 62,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b8d3d6412ef72209e91_2336.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 63,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a215_1569.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 64,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c743446cf2ace0006724237_2171.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 65,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5ac79b2191b5310010e0d4bd_2065.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 66,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef72209ff3_1456.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 67,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b8d3d6412ef72209ebb_4600.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 68,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3119.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 69,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b953d6412ef7220a31c_1505.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 70,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c08c36c6918390006b7a8a3_4159.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 71,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d1bded793e1130005fc0e98_2100.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 72,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c3ea615e7ff3f00054889d4_668.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 73,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d689459bc6eb00006d373a4_2938.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 74,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb64e020a3a5c0005ff12ff_66.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 75,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209fd4_4926.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 76,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5c62753b404f1000050d78c4_2510.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 77,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d4ece62317dd900055f740e_3840.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 78,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5dd0f6dda7dadc0006433b5b_4457.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 79,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a57f_1351.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 80,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/61951f134cf5080007593269_24.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 81,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5f2fb5190d59fe00057c32ac_4300.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 82,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5bbd459c3baffb0005fe9ba1_3685.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 83,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5f8de1dca11f71000673ec58_2080.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 84,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_561.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 85,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62bb13d6412ef7220aed6_3687.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 86,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d8cabebabcfaa0008b1d26b_4562.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 87,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5f2fb5190d59fe00057c32ac_4535.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 88,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5be1b0b9430b4d000569fa33_1436.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 89,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5f4d31ea464f1c0005fc5721_759.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 90,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0d1_3885.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 91,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5de55a69b3b5ce0006c2d960_4442.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 92,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d4efc4c317dd900055f7412_4647.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 93,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5eada7de3295f300072a6d80_1198.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 94,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/61cb8771081c15000543455a_1083.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 95,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b7284639102adba313a5c3a_2484.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 96,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e17cc7f76e4f20005c1b85c_2531.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 97,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/60a7a37029636900059d6491_2919.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 98,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/60d10513eade0f00079b5890_2421.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 99,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b6473dd40e11005cf16cc89_2122.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 100,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b8fc8f88752bd000830170d_539.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 101,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b925da45d406700087d1514_1037.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 102,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_2666.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 103,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5abb761965bd8f00110f3e4c_1411.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 104,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_2.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 105,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_411.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 106,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_358.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 107,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 108,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5f192faa47493f000549bf78_614.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 109,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cd491fb4b7c75000784da20_573.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 110,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_956.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 111,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 112,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 113,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2143.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 114,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_1016.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 115,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 116,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_746.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 117,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_442.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 118,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_176.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 119,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1152.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 120,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 121,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_757.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 122,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_301.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 123,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 124,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 125,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 126,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_1209.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 127,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_2236.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 128,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  }
+]

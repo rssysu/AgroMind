@@ -1,0 +1,4546 @@
+[
+  {
+    "image_path": "./Trees/images/5d96feee0a75b70006703919_4363.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "60-70%",
+      "C": "40-50%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "50-60%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "30-40%",
+      "C": "90-100%",
+      "D": "70-80%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "40-50%",
+      "C": "90-100%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60ff2cea5a90f10006fd3008_1335.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_339.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "10-20%",
+      "C": "70-80%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "90-100%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_1709.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "20-30%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "10-20%",
+      "C": "70-80%",
+      "D": "0-10%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "90-100%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "0-10%",
+      "C": "90-100%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bea077d41f79800070a4f67_3296.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "40-50%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "30-40%",
+      "C": "20-30%",
+      "D": "70-80%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "80-90%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "20-30%",
+      "C": "0-10%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3067.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d97350ae2b1f300057cb38a_4266.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "40-50%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_2921.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "30-40%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_1503.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "30-40%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_619.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3877.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "80-90%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "70-80%",
+      "C": "50-60%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+    "type_id": 1,
+    "item_id": 29,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "0-10%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ae3ab860b093000130aff79_3793.jpg",
+    "type_id": 1,
+    "item_id": 30,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "40-50%",
+      "C": "30-40%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_4101.jpg",
+    "type_id": 1,
+    "item_id": 31,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "60-70%",
+      "C": "90-100%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg",
+    "type_id": 1,
+    "item_id": 32,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+    "type_id": 1,
+    "item_id": 33,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+    "type_id": 1,
+    "item_id": 34,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "80-90%",
+      "C": "20-30%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_225.jpg",
+    "type_id": 1,
+    "item_id": 35,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "70-80%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3931.jpg",
+    "type_id": 1,
+    "item_id": 36,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "70-80%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+    "type_id": 1,
+    "item_id": 37,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "50-60%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+    "type_id": 1,
+    "item_id": 38,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "10-20%",
+      "C": "30-40%",
+      "D": "50-60%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+    "type_id": 1,
+    "item_id": 39,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+    "type_id": 1,
+    "item_id": 40,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "20-30%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+    "type_id": 1,
+    "item_id": 41,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "50-60%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+    "type_id": 1,
+    "item_id": 42,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3617.jpg",
+    "type_id": 1,
+    "item_id": 43,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "70-80%",
+      "D": "40-50%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_23.jpg",
+    "type_id": 1,
+    "item_id": 44,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+    "type_id": 1,
+    "item_id": 45,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+    "type_id": 1,
+    "item_id": 46,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "70-80%",
+      "C": "30-40%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+    "type_id": 1,
+    "item_id": 47,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "80-90%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3098.jpg",
+    "type_id": 1,
+    "item_id": 48,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "90-100%",
+      "C": "80-90%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+    "type_id": 1,
+    "item_id": 49,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+    "type_id": 1,
+    "item_id": 50,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+    "type_id": 1,
+    "item_id": 51,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "80-90%",
+      "C": "40-50%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+    "type_id": 1,
+    "item_id": 52,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "60-70%",
+      "C": "70-80%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+    "type_id": 1,
+    "item_id": 53,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "60-70%",
+      "C": "70-80%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+    "type_id": 1,
+    "item_id": 54,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "20-30%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg",
+    "type_id": 1,
+    "item_id": 55,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "30-40%",
+      "C": "90-100%",
+      "D": "0-10%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+    "type_id": 1,
+    "item_id": 56,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "0-10%",
+      "D": "40-50%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2540.jpg",
+    "type_id": 1,
+    "item_id": 57,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg",
+    "type_id": 1,
+    "item_id": 58,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "40-50%",
+      "C": "30-40%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg",
+    "type_id": 1,
+    "item_id": 59,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+    "type_id": 1,
+    "item_id": 60,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "80-90%",
+      "D": "10-20%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg",
+    "type_id": 1,
+    "item_id": 61,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "10-20%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+    "type_id": 1,
+    "item_id": 62,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "30-40%",
+      "C": "0-10%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg",
+    "type_id": 1,
+    "item_id": 63,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "80-90%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+    "type_id": 1,
+    "item_id": 64,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "30-40%",
+      "C": "70-80%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+    "type_id": 1,
+    "item_id": 65,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_507.jpg",
+    "type_id": 1,
+    "item_id": 66,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "50-60%",
+      "C": "60-70%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+    "type_id": 1,
+    "item_id": 67,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "80-90%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_973.jpg",
+    "type_id": 1,
+    "item_id": 68,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+    "type_id": 1,
+    "item_id": 69,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "70-80%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e59ab19305ba00006300322_523.jpg",
+    "type_id": 1,
+    "item_id": 70,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "80-90%",
+      "D": "90-100%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+    "type_id": 1,
+    "item_id": 71,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+    "type_id": 1,
+    "item_id": 72,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d261c18161a790005c03e77_4726.jpg",
+    "type_id": 1,
+    "item_id": 73,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c1d229322b2680005e3febe_4878.jpg",
+    "type_id": 1,
+    "item_id": 74,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+    "type_id": 1,
+    "item_id": 75,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+    "type_id": 1,
+    "item_id": 76,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2296.jpg",
+    "type_id": 1,
+    "item_id": 77,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "50-60%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+    "type_id": 1,
+    "item_id": 78,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "90-100%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+    "type_id": 1,
+    "item_id": 79,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "60-70%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+    "type_id": 1,
+    "item_id": 80,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "20-30%",
+      "C": "90-100%",
+      "D": "60-70%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+    "type_id": 1,
+    "item_id": 81,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+    "type_id": 1,
+    "item_id": 82,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "70-80%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_555.jpg",
+    "type_id": 1,
+    "item_id": 83,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "30-40%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_1586.jpg",
+    "type_id": 1,
+    "item_id": 84,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "80-90%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+    "type_id": 1,
+    "item_id": 85,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2739.jpg",
+    "type_id": 1,
+    "item_id": 86,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "80-90%",
+      "C": "30-40%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d261c18161a790005c03e77_4973.jpg",
+    "type_id": 1,
+    "item_id": 87,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "60-70%",
+      "C": "20-30%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+    "type_id": 1,
+    "item_id": 88,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg",
+    "type_id": 1,
+    "item_id": 89,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+    "type_id": 1,
+    "item_id": 90,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "30-40%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+    "type_id": 1,
+    "item_id": 91,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "0-10%",
+      "C": "30-40%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+    "type_id": 1,
+    "item_id": 92,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "20-30%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_1049.jpg",
+    "type_id": 1,
+    "item_id": 93,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+    "type_id": 1,
+    "item_id": 94,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_3345.jpg",
+    "type_id": 1,
+    "item_id": 95,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+    "type_id": 1,
+    "item_id": 96,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "80-90%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+    "type_id": 1,
+    "item_id": 97,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+    "type_id": 1,
+    "item_id": 98,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "80-90%",
+      "C": "20-30%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+    "type_id": 1,
+    "item_id": 99,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1090.jpg",
+    "type_id": 1,
+    "item_id": 100,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/61a5879bca228100065cb98a_2371.jpg",
+    "type_id": 1,
+    "item_id": 101,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+    "type_id": 1,
+    "item_id": 102,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "50-60%",
+      "C": "90-100%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+    "type_id": 1,
+    "item_id": 103,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2552.jpg",
+    "type_id": 1,
+    "item_id": 104,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg",
+    "type_id": 1,
+    "item_id": 105,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg",
+    "type_id": 1,
+    "item_id": 106,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+    "type_id": 1,
+    "item_id": 107,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+    "type_id": 1,
+    "item_id": 108,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg",
+    "type_id": 1,
+    "item_id": 109,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg",
+    "type_id": 1,
+    "item_id": 110,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+    "type_id": 1,
+    "item_id": 111,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "50-60%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3058.jpg",
+    "type_id": 1,
+    "item_id": 112,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "20-30%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cf43896c25f7e00059bac5f_1294.jpg",
+    "type_id": 1,
+    "item_id": 113,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "70-80%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+    "type_id": 1,
+    "item_id": 114,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d9dbda4fd16f600065395c3_3448.jpg",
+    "type_id": 1,
+    "item_id": 115,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+    "type_id": 1,
+    "item_id": 116,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "70-80%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+    "type_id": 1,
+    "item_id": 117,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "40-50%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+    "type_id": 1,
+    "item_id": 118,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "50-60%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+    "type_id": 1,
+    "item_id": 119,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+    "type_id": 1,
+    "item_id": 120,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bb108507e1a410005fd2ebb_2039.jpg",
+    "type_id": 1,
+    "item_id": 121,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "20-30%",
+      "C": "0-10%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ae320c30b093000130afdb5_543.jpg",
+    "type_id": 1,
+    "item_id": 122,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a14b831bac48e5b1c281943_2333.jpg",
+    "type_id": 1,
+    "item_id": 123,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "80-90%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e25ec6536067e0005c2752c_3458.jpg",
+    "type_id": 1,
+    "item_id": 124,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b518afc4bda9e648eedbd9d_4172.jpg",
+    "type_id": 1,
+    "item_id": 125,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c37a_2222.jpg",
+    "type_id": 1,
+    "item_id": 126,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "60-70%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60a7f8f729636900059d6498_1520.jpg",
+    "type_id": 1,
+    "item_id": 127,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "40-50%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e639ceaec014e0006188772_3471.jpg",
+    "type_id": 1,
+    "item_id": 128,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "90-100%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/6108b0df343da30006976e23_3056.jpg",
+    "type_id": 1,
+    "item_id": 129,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4976.jpg",
+    "type_id": 1,
+    "item_id": 130,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b8d3d6412ef72209e91_2336.jpg",
+    "type_id": 1,
+    "item_id": 131,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "30-40%",
+      "C": "10-20%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59fc9657bac48e5b1ced2a2f_1595.jpg",
+    "type_id": 1,
+    "item_id": 132,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "70-80%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b963d6412ef7220a3dd_2746.jpg",
+    "type_id": 1,
+    "item_id": 133,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "60-70%",
+      "C": "80-90%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a215_1569.jpg",
+    "type_id": 1,
+    "item_id": 134,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3400b842830100054ac8fa_1534.jpg",
+    "type_id": 1,
+    "item_id": 135,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "90-100%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dbb240d05580100062e0210_3779.jpg",
+    "type_id": 1,
+    "item_id": 136,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c743446cf2ace0006724237_2171.jpg",
+    "type_id": 1,
+    "item_id": 137,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "80-90%",
+      "C": "40-50%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62bb03d6412ef7220aea8_3403.jpg",
+    "type_id": 1,
+    "item_id": 138,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ac79b2191b5310010e0d4bd_2065.jpg",
+    "type_id": 1,
+    "item_id": 139,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d0511a873de290005853a93_4402.jpg",
+    "type_id": 1,
+    "item_id": 140,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f12fdeebaa90f0006a0ab23_4852.jpg",
+    "type_id": 1,
+    "item_id": 141,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "10-20%",
+      "C": "30-40%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef72209ff3_1456.jpg",
+    "type_id": 1,
+    "item_id": 142,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "30-40%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/6112fad7ac1a340005a1ccf4_1159.jpg",
+    "type_id": 1,
+    "item_id": 143,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "20-30%",
+      "C": "80-90%",
+      "D": "90-100%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c6580f31fa6f100070431fa_136.jpg",
+    "type_id": 1,
+    "item_id": 144,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ea54c1cc70abb0005869ea7_4396.jpg",
+    "type_id": 1,
+    "item_id": 145,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a219_3309.jpg",
+    "type_id": 1,
+    "item_id": 146,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "70-80%",
+      "C": "40-50%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3119.jpg",
+    "type_id": 1,
+    "item_id": 147,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "60-70%",
+      "C": "80-90%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_2967.jpg",
+    "type_id": 1,
+    "item_id": 148,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "80-90%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+    "type_id": 1,
+    "item_id": 149,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c423_837.jpg",
+    "type_id": 1,
+    "item_id": 150,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "70-80%",
+      "C": "60-70%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b953d6412ef7220a31c_1505.jpg",
+    "type_id": 1,
+    "item_id": 151,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "70-80%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a009b7ebac48e5b1cf6ef81_2826.jpg",
+    "type_id": 1,
+    "item_id": 152,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dd599f64cae450005374d2e_1207.jpg",
+    "type_id": 1,
+    "item_id": 153,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "30-40%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bf6a8f50d1a8c00054a41cc_3120.jpg",
+    "type_id": 1,
+    "item_id": 154,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "30-40%",
+      "C": "50-60%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60606bd0eeae3c000693003f_1214.jpg",
+    "type_id": 1,
+    "item_id": 155,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5aea3d3b8153990013b938e8_3683.jpg",
+    "type_id": 1,
+    "item_id": 156,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5de7f5ea2290870005e59995_4347.jpg",
+    "type_id": 1,
+    "item_id": 157,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "70-80%",
+      "C": "80-90%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c08c36c6918390006b7a8a3_4159.jpg",
+    "type_id": 1,
+    "item_id": 158,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "90-100%",
+      "C": "70-80%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62beb3d6412ef7220c5aa_2266.jpg",
+    "type_id": 1,
+    "item_id": 159,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "60-70%",
+      "C": "70-80%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/600fce6e55481e0005e312a8_2264.jpg",
+    "type_id": 1,
+    "item_id": 160,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "90-100%",
+      "C": "50-60%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62bb23d6412ef7220af16_3103.jpg",
+    "type_id": 1,
+    "item_id": 161,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "90-100%",
+      "C": "80-90%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e95fbd57b6533000663b235_2188.jpg",
+    "type_id": 1,
+    "item_id": 162,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "60-70%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bf6676cad75b80007102067_324.jpg",
+    "type_id": 1,
+    "item_id": 163,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "20-30%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d1bded793e1130005fc0e98_2100.jpg",
+    "type_id": 1,
+    "item_id": 164,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "50-60%",
+      "C": "0-10%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cf06748b9ff690005693589_3524.jpg",
+    "type_id": 1,
+    "item_id": 165,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cf70198c25f7e00059bac96_3354.jpg",
+    "type_id": 1,
+    "item_id": 166,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "70-80%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c4f11de8ca97d00054982a6_3643.jpg",
+    "type_id": 1,
+    "item_id": 167,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "30-40%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3ea615e7ff3f00054889d4_668.jpg",
+    "type_id": 1,
+    "item_id": 168,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "60-70%",
+      "C": "50-60%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bde089ac82a1c00056f8fc6_1350.jpg",
+    "type_id": 1,
+    "item_id": 169,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "30-40%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5de1091c0c04590006d335b3_2306.jpg",
+    "type_id": 1,
+    "item_id": 170,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "50-60%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c3cb31865775c0007e79448_1486.jpg",
+    "type_id": 1,
+    "item_id": 171,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cd4a49f4b7c75000784da34_3719.jpg",
+    "type_id": 1,
+    "item_id": 172,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "30-40%",
+      "C": "10-20%",
+      "D": "70-80%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d689459bc6eb00006d373a4_2938.jpg",
+    "type_id": 1,
+    "item_id": 173,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cb64e020a3a5c0005ff12ff_66.jpg",
+    "type_id": 1,
+    "item_id": 174,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209fd4_4926.jpg",
+    "type_id": 1,
+    "item_id": 175,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "10-20%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c62753b404f1000050d78c4_2510.jpg",
+    "type_id": 1,
+    "item_id": 176,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d4ece62317dd900055f740e_3840.jpg",
+    "type_id": 1,
+    "item_id": 177,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "80-90%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dd0f6dda7dadc0006433b5b_4457.jpg",
+    "type_id": 1,
+    "item_id": 178,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "80-90%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a57f_1351.jpg",
+    "type_id": 1,
+    "item_id": 179,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "50-60%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60f0a29989ec130007b828a8_661.jpg",
+    "type_id": 1,
+    "item_id": 180,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "50-60%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1972.jpg",
+    "type_id": 1,
+    "item_id": 181,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "70-80%",
+      "C": "90-100%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60bffba9ef5d220007c24a8c_1787.jpg",
+    "type_id": 1,
+    "item_id": 182,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "40-50%",
+      "C": "60-70%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a276972bac48e5b1c561a15_3863.jpg",
+    "type_id": 1,
+    "item_id": 183,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "70-80%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/61951f134cf5080007593269_24.jpg",
+    "type_id": 1,
+    "item_id": 184,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "70-80%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f2fb5190d59fe00057c32ac_4300.jpg",
+    "type_id": 1,
+    "item_id": 185,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "50-60%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a2d4387bac48e5b1c64facc_4467.jpg",
+    "type_id": 1,
+    "item_id": 186,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "90-100%",
+      "C": "60-70%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bbd459c3baffb0005fe9ba1_3685.jpg",
+    "type_id": 1,
+    "item_id": 187,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "70-80%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f711df61d951a00058695d8_3539.jpg",
+    "type_id": 1,
+    "item_id": 188,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f8de1dca11f71000673ec58_2080.jpg",
+    "type_id": 1,
+    "item_id": 189,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "30-40%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_561.jpg",
+    "type_id": 1,
+    "item_id": 190,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "70-80%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f5dfa54d9f87200078c7f2d_2879.jpg",
+    "type_id": 1,
+    "item_id": 191,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "90-100%",
+      "D": "50-60%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2946.jpg",
+    "type_id": 1,
+    "item_id": 192,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "10-20%",
+      "C": "0-10%",
+      "D": "80-90%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62bb13d6412ef7220aed6_3687.jpg",
+    "type_id": 1,
+    "item_id": 193,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d3460558a5c8b000519fd96_1257.jpg",
+    "type_id": 1,
+    "item_id": 194,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d8cabebabcfaa0008b1d26b_4562.jpg",
+    "type_id": 1,
+    "item_id": 195,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "10-20%",
+      "C": "60-70%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/607c9008bfb5350008e665af_3939.jpg",
+    "type_id": 1,
+    "item_id": 196,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "50-60%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f85751a7d446d0005fa8178_3112.jpg",
+    "type_id": 1,
+    "item_id": 197,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5be1b0b9430b4d000569fa33_1436.jpg",
+    "type_id": 1,
+    "item_id": 198,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "80-90%",
+      "C": "50-60%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b88665d3c07e100077c483a_3776.jpg",
+    "type_id": 1,
+    "item_id": 199,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f4d31ea464f1c0005fc5721_759.jpg",
+    "type_id": 1,
+    "item_id": 200,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "70-80%",
+      "C": "30-40%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b973d6412ef7220a418_1390.jpg",
+    "type_id": 1,
+    "item_id": 201,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "10-20%",
+      "C": "20-30%",
+      "D": "0-10%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0d1_3885.jpg",
+    "type_id": 1,
+    "item_id": 202,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "70-80%",
+      "C": "40-50%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5de55a69b3b5ce0006c2d960_4442.jpg",
+    "type_id": 1,
+    "item_id": 203,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "80-90%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b9a3d6412ef7220a51f_2507.jpg",
+    "type_id": 1,
+    "item_id": 204,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "60-70%",
+      "C": "80-90%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/616ea1a173cc220005b8e093_4723.jpg",
+    "type_id": 1,
+    "item_id": 205,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "50-60%",
+      "D": "40-50%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c7e797ff823900006d5f974_3364.jpg",
+    "type_id": 1,
+    "item_id": 206,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "30-40%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dbb734605580100062e021a_4187.jpg",
+    "type_id": 1,
+    "item_id": 207,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c27e495e30a0600058cb86d_818.jpg",
+    "type_id": 1,
+    "item_id": 208,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "50-60%",
+      "C": "30-40%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60c44a21338cc80005cfdd0b_400.jpg",
+    "type_id": 1,
+    "item_id": 209,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d4efc4c317dd900055f7412_4647.jpg",
+    "type_id": 1,
+    "item_id": 210,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "60-70%",
+      "C": "80-90%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5eada7de3295f300072a6d80_1198.jpg",
+    "type_id": 1,
+    "item_id": 211,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "60-70%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d87983a0e02d300050aa10f_1538.jpg",
+    "type_id": 1,
+    "item_id": 212,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "90-100%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0b6_141.jpg",
+    "type_id": 1,
+    "item_id": 213,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "60-70%",
+      "C": "50-60%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a592_2455.jpg",
+    "type_id": 1,
+    "item_id": 214,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "10-20%",
+      "D": "80-90%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e72ba9b133f1a000511bead_1975.jpg",
+    "type_id": 1,
+    "item_id": 215,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5deee6d4e5d474000640673a_4985.jpg",
+    "type_id": 1,
+    "item_id": 216,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "30-40%",
+      "C": "60-70%",
+      "D": "50-60%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/61cb8771081c15000543455a_1083.jpg",
+    "type_id": 1,
+    "item_id": 217,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b7284639102adba313a5c3a_2484.jpg",
+    "type_id": 1,
+    "item_id": 218,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "90-100%",
+      "C": "10-20%",
+      "D": "70-80%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e17cc7f76e4f20005c1b85c_2531.jpg",
+    "type_id": 1,
+    "item_id": 219,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "0-10%",
+      "C": "50-60%",
+      "D": "10-20%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5fd33e61f00c200007292ba8_4555.jpg",
+    "type_id": 1,
+    "item_id": 220,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "80-90%",
+      "C": "10-20%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d7764494dfec000074a8cb5_3563.jpg",
+    "type_id": 1,
+    "item_id": 221,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "70-80%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60a7a37029636900059d6491_2919.jpg",
+    "type_id": 1,
+    "item_id": 222,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "80-90%",
+      "C": "40-50%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bccfda6acef4900077c6552_164.jpg",
+    "type_id": 1,
+    "item_id": 223,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "80-90%",
+      "C": "10-20%",
+      "D": "0-10%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d255c1d161a790005c03e6a_2097.jpg",
+    "type_id": 1,
+    "item_id": 224,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "80-90%",
+      "C": "0-10%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d8179a9f3e9b40005be6ef5_712.jpg",
+    "type_id": 1,
+    "item_id": 225,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "50-60%",
+      "C": "0-10%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5fbfc070d0c51c0005eb1e02_2964.jpg",
+    "type_id": 1,
+    "item_id": 226,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60d10513eade0f00079b5890_2421.jpg",
+    "type_id": 1,
+    "item_id": 227,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "90-100%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b6473dd40e11005cf16cc89_2122.jpg",
+    "type_id": 1,
+    "item_id": 228,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cd1de27e885bf000637c38e_3206.jpg",
+    "type_id": 1,
+    "item_id": 229,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+    "type_id": 1,
+    "item_id": 230,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "30-40%",
+      "C": "90-100%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b8fc8f88752bd000830170d_539.jpg",
+    "type_id": 1,
+    "item_id": 231,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b925da45d406700087d1514_1037.jpg",
+    "type_id": 1,
+    "item_id": 232,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "30-40%",
+      "C": "0-10%",
+      "D": "10-20%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_2666.jpg",
+    "type_id": 1,
+    "item_id": 233,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5de875b7b332ff0007897508_9.jpg",
+    "type_id": 1,
+    "item_id": 234,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "70-80%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5abb761965bd8f00110f3e4c_1411.jpg",
+    "type_id": 1,
+    "item_id": 235,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "80-90%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b5197864bda9e0682edbda6_4916.jpg",
+    "type_id": 1,
+    "item_id": 236,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "80-90%",
+      "C": "40-50%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c672d37c6760000068917b1_1881.jpg",
+    "type_id": 1,
+    "item_id": 237,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "30-40%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5ad6e3b291b5310010e0d543_809.jpg",
+    "type_id": 1,
+    "item_id": 238,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "50-60%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c0f729e05f40a0007517ac6_2165.jpg",
+    "type_id": 1,
+    "item_id": 239,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg",
+    "type_id": 1,
+    "item_id": 240,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_1852.jpg",
+    "type_id": 1,
+    "item_id": 241,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "10-20%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2982.jpg",
+    "type_id": 1,
+    "item_id": 242,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60baf684f59a4300057c54fe_1282.jpg",
+    "type_id": 1,
+    "item_id": 243,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "90-100%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/617e33148ebcb9000515c4e6_694.jpg",
+    "type_id": 1,
+    "item_id": 244,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "10-20%",
+      "C": "80-90%",
+      "D": "40-50%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_411.jpg",
+    "type_id": 1,
+    "item_id": 245,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "20-30%",
+      "C": "30-40%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cc0de38de86d30005801122_3842.jpg",
+    "type_id": 1,
+    "item_id": 246,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_358.jpg",
+    "type_id": 1,
+    "item_id": 247,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_79.jpg",
+    "type_id": 1,
+    "item_id": 248,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "70-80%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg",
+    "type_id": 1,
+    "item_id": 249,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "80-90%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5f192faa47493f000549bf78_614.jpg",
+    "type_id": 1,
+    "item_id": 250,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "50-60%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_3769.jpg",
+    "type_id": 1,
+    "item_id": 251,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "0-10%",
+      "C": "90-100%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cd491fb4b7c75000784da20_573.jpg",
+    "type_id": 1,
+    "item_id": 252,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "10-20%",
+      "C": "30-40%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_1426.jpg",
+    "type_id": 1,
+    "item_id": 253,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_970.jpg",
+    "type_id": 1,
+    "item_id": 254,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "80-90%",
+      "C": "20-30%",
+      "D": "40-50%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_956.jpg",
+    "type_id": 1,
+    "item_id": 255,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "70-80%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+    "type_id": 1,
+    "item_id": 256,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+    "type_id": 1,
+    "item_id": 257,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "90-100%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2143.jpg",
+    "type_id": 1,
+    "item_id": 258,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+    "type_id": 1,
+    "item_id": 259,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_746.jpg",
+    "type_id": 1,
+    "item_id": 260,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "20-30%",
+      "C": "40-50%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_442.jpg",
+    "type_id": 1,
+    "item_id": 261,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_176.jpg",
+    "type_id": 1,
+    "item_id": 262,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "90-100%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_1693.jpg",
+    "type_id": 1,
+    "item_id": 263,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "30-40%",
+      "C": "70-80%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_42.jpg",
+    "type_id": 1,
+    "item_id": 264,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "80-90%",
+      "C": "60-70%",
+      "D": "20-30%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_673.jpg",
+    "type_id": 1,
+    "item_id": 265,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "50-60%",
+      "D": "70-80%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_963.jpg",
+    "type_id": 1,
+    "item_id": 266,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1152.jpg",
+    "type_id": 1,
+    "item_id": 267,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "40-50%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+    "type_id": 1,
+    "item_id": 268,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "0-10%",
+      "C": "20-30%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c36c6eebe3f4e000541d362_516.jpg",
+    "type_id": 1,
+    "item_id": 269,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "40-50%",
+      "C": "70-80%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_301.jpg",
+    "type_id": 1,
+    "item_id": 270,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "0-10%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d4636d1152cf70005439fa9_1971.jpg",
+    "type_id": 1,
+    "item_id": 271,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/61d4908089c86000078daf72_618.jpg",
+    "type_id": 1,
+    "item_id": 272,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "10-20%",
+      "C": "60-70%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_3406.jpg",
+    "type_id": 1,
+    "item_id": 273,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "40-50%",
+      "C": "70-80%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_521.jpg",
+    "type_id": 1,
+    "item_id": 274,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+    "type_id": 1,
+    "item_id": 275,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3845.jpg",
+    "type_id": 1,
+    "item_id": 276,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "80-90%",
+      "D": "50-60%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg",
+    "type_id": 1,
+    "item_id": 277,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "50-60%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+    "type_id": 1,
+    "item_id": 278,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "30-40%",
+      "C": "60-70%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c37c42e4ab5bc000733441e_2848.jpg",
+    "type_id": 1,
+    "item_id": 279,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "0-10%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_552.jpg",
+    "type_id": 1,
+    "item_id": 280,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "60-70%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/608e0e08c23e4c0007d21440_4792.jpg",
+    "type_id": 1,
+    "item_id": 281,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "20-30%",
+      "C": "50-60%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+    "type_id": 1,
+    "item_id": 282,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_1216.jpg",
+    "type_id": 1,
+    "item_id": 283,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "70-80%",
+      "C": "10-20%",
+      "D": "0-10%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_2236.jpg",
+    "type_id": 1,
+    "item_id": 284,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "30-40%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  }
+]

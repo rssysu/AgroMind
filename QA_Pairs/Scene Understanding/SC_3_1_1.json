@@ -1,0 +1,4502 @@
+[
+  {
+    "type_id": 4,
+    "item_id": 1,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bcdcf3ab9e5f20005f7da40_439.jpg",
+      "B": "./Trees/images/5d16a97e1cf0f6000579ad2d_143.jpg",
+      "C": "./Trees/images/5ca97be23bc29600053c1623_3554.jpg",
+      "D": "./Trees/images/5cc2f46f3dc94a00069404fd_1110.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 2,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a808bed5a9ef7cb5d552d69_563.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_1430.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_3277.jpg",
+      "D": "./Trees/images/5b0040ca2b6a08001185f14c_813.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 3,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4260.jpg",
+      "B": "./Trees/images/5d1bded793e1130005fc0e98_3456.jpg",
+      "C": "./Trees/images/5cafa1a0f58c0800075d4fc2_3461.jpg",
+      "D": "./Trees/images/5e232b0050259f000541fc51_167.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 4,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b0040ca2b6a08001185f14c_452.jpg",
+      "B": "./Trees/images/5c466c6c437ee1000616311f_3226.jpg",
+      "C": "./Trees/images/5cb0ece9fa020e0006eb43d4_343.jpg",
+      "D": "./Trees/images/5bd2ab79a6d4450006176d4c_387.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 5,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c15321f63d9810007f8b06f_925.jpg",
+      "B": "./Trees/images/5dd59dbb4cae450005374d3e_3092.jpg",
+      "C": "./Trees/images/5dad0e1c16c43b00058d0262_1045.jpg",
+      "D": "./Trees/images/5ae31f3c0b093000130afda4_4745.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 6,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4227.jpg",
+      "B": "./Trees/images/5f3b3441df88ab000761cb39_624.jpg",
+      "C": "./Trees/images/6108af51343da30006976e20_791.jpg",
+      "D": "./Trees/images/5dbb734605580100062e021a_4187.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 7,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5abb761965bd8f00110f3e4c_3584.jpg",
+      "B": "./Trees/images/5a237ea5bac48e5b1c4bf531_2822.jpg",
+      "C": "./Trees/images/5f7486da6115170005496874_463.jpg",
+      "D": "./Trees/images/616ea1a173cc220005b8e093_4545.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 8,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d3561a98a5c8b000519fdac_2833.jpg",
+      "B": "./Trees/images/5f53b99404c2a50006bd6a05_1304.jpg",
+      "C": "./Trees/images/5dad0e1c16c43b00058d0262_74.jpg",
+      "D": "./Trees/images/60a7f8f729636900059d6498_3826.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 9,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c13db9205f40a0007517d15_3533.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_2201.jpg",
+      "C": "./Trees/images/5ae320c30b093000130afdb5_3301.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c45c_772.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 10,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4915.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0b6_141.jpg",
+      "C": "./Trees/images/59e62be83d6412ef7220c45c_3599.jpg",
+      "D": "./Trees/images/5eef6d0e1bb60b000624b4da_4547.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 11,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ca97be23bc29600053c1623_3659.jpg",
+      "B": "./Trees/images/6108af51343da30006976e20_1144.jpg",
+      "C": "./Trees/images/5b10416e2b6a08001185f42b_2875.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209e91_3703.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 12,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4405.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_696.jpg",
+      "C": "./Trees/images/5bce3d12b9e5f20005f7da4d_4768.jpg",
+      "D": "./Trees/images/5e4fbc4c24710000056a516c_4897.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 13,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ca0936a9bc6570005e10aa2_2643.jpg",
+      "B": "./Trees/images/607bd156bfb5350008e66597_3952.jpg",
+      "C": "./Trees/images/5d6a17892103c90007707fa9_323.jpg",
+      "D": "./Trees/images/5bf4e3addc18930005c2b4dc_1746.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 14,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1248.jpg",
+      "B": "./Trees/images/5f75542e61151700054968d1_3880.jpg",
+      "C": "./Trees/images/5ae31f3c0b093000130afda4_3175.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aed6_1833.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 15,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f0ed88e31da55000562467f_1982.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_3505.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_2592.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_4138.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 16,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a31c_3414.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_2309.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_247.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_267.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 17,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a579_4886.jpg",
+      "B": "./Trees/images/59e62b7a3d6412ef7220953b_2492.jpg",
+      "C": "./Trees/images/5c8d82f0b8e7090005010554_1378.jpg",
+      "D": "./Trees/images/5f30514b0d59fe00057c32e0_718.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 18,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ca97be23bc29600053c1623_3659.jpg",
+      "B": "./Trees/images/5cf70198c25f7e00059bac96_3354.jpg",
+      "C": "./Trees/images/59e62b703d6412ef72208f44_2617.jpg",
+      "D": "./Trees/images/5a813ae45a9ef7cb5d56e8fa_421.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 19,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1077.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a59b_456.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_247.jpg",
+      "D": "./Trees/images/5a237ea5bac48e5b1c4bf531_2738.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 20,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97233be2b1f300057cb329_2405.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_1079.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aee9_3636.jpg",
+      "D": "./Trees/images/5de1091c0c04590006d335b3_2743.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 21,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d01ac72553f4b000590dbff_1441.jpg",
+      "B": "./Trees/images/5a780f925a9ef7cb5d3f17bb_32.jpg",
+      "C": "./Trees/images/5bce3d12b9e5f20005f7da4d_4920.jpg",
+      "D": "./Trees/images/5de7f5ea2290870005e59995_4336.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 22,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4632.jpg",
+      "B": "./Trees/images/5ca97be23bc29600053c1623_2429.jpg",
+      "C": "./Trees/images/5f12fdeebaa90f0006a0ab23_4877.jpg",
+      "D": "./Trees/images/59e62b953d6412ef7220a34d_449.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 23,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c8b6813a8ac330005a58af6_5064.jpg",
+      "B": "./Trees/images/60606bd0eeae3c000693003f_1057.jpg",
+      "C": "./Trees/images/5cf06748b9ff690005693589_3969.jpg",
+      "D": "./Trees/images/5b10428f2b6a08001185f441_2419.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 24,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a14b831bac48e5b1c281943_3652.jpg",
+      "B": "./Trees/images/60315c91d9c7c8000504d2cb_4451.jpg",
+      "C": "./Trees/images/5f3b3441df88ab000761cb39_680.jpg",
+      "D": "./Trees/images/5a6087c45a9ef7cb5d020fd3_1729.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 25,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60a2325625820c0005e458d4_753.jpg",
+      "B": "./Trees/images/5f8de1dca11f71000673ec58_1916.jpg",
+      "C": "./Trees/images/59e62be33d6412ef7220c269_3005.jpg",
+      "D": "./Trees/images/5b0040ca2b6a08001185f14c_341.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 26,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_5011.jpg",
+      "B": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "C": "./Trees/images/60bffba9ef5d220007c24a8c_3732.jpg",
+      "D": "./Trees/images/5f2fb5190d59fe00057c32ac_4414.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 27,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d5ee0fe1d3eab00054f8e69_1792.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_2252.jpg",
+      "C": "./Trees/images/59e62bb23d6412ef7220af16_2116.jpg",
+      "D": "./Trees/images/5d706fa55583d40006c15788_5024.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 28,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60b0cccea9600f0008458140_1465.jpg",
+      "B": "./Trees/images/59e62b8b3d6412ef72209db8_1714.jpg",
+      "C": "./Trees/images/5be1b0b9430b4d000569fa33_3137.jpg",
+      "D": "./Trees/images/5f7177d91d951a00058695e8_2949.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 29,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3923e0b093000130aff38_2582.jpg",
+      "B": "./Trees/images/5b10356c2b6a08001185f417_2744.jpg",
+      "C": "./Trees/images/5e25ec6e36067e0005c2752d_2509.jpg",
+      "D": "./Trees/images/5f0eda6b31da550005624682_4277.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 30,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c892a92225fc20007ab4e31_1605.jpg",
+      "B": "./Trees/images/5b518afc4bda9e648eedbd9d_3722.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_366.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a219_3263.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 31,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb23d6412ef7220af16_3336.jpg",
+      "B": "./Trees/images/5b6473dd40e11005cf16cc89_3489.jpg",
+      "C": "./Trees/images/5d0511a873de290005853a93_4609.jpg",
+      "D": "./Trees/images/59e62b973d6412ef7220a418_1572.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 32,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60a7f8f729636900059d6498_3488.jpg",
+      "B": "./Trees/images/5cb64e020a3a5c0005ff12ff_642.jpg",
+      "C": "./Trees/images/5dde79d00140b80006d2e536_1497.jpg",
+      "D": "./Trees/images/5d4e5e1c317dd900055f7407_774.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 33,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b10356c2b6a08001185f417_2926.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_3310.jpg",
+      "C": "./Trees/images/5ac79b2191b5310010e0d4bd_2368.jpg",
+      "D": "./Trees/images/5de55a69b3b5ce0006c2d960_4523.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 34,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_3525.jpg",
+      "B": "./Trees/images/59e62b8b3d6412ef72209db8_3838.jpg",
+      "C": "./Trees/images/5e25ec6e36067e0005c2752d_2509.jpg",
+      "D": "./Trees/images/59e62b913d6412ef7220a0b6_657.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 35,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b911275a0d7280005fab35d_2251.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209fd4_4355.jpg",
+      "C": "./Trees/images/5e4fb2fb24710000056a515c_3557.jpg",
+      "D": "./Trees/images/5abb761965bd8f00110f3e4c_2861.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 36,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5de55a69b3b5ce0006c2d960_4408.jpg",
+      "B": "./Trees/images/5f4d31ea464f1c0005fc5721_71.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4833.jpg",
+      "D": "./Trees/images/5e649d26e6c4ec000688ffab_4255.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 37,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_3587.jpg",
+      "B": "./Trees/images/5e17cc7f76e4f20005c1b85c_3046.jpg",
+      "C": "./Trees/images/5dde8d370140b80006d2e547_968.jpg",
+      "D": "./Trees/images/5e25ecee36067e0005c2752e_803.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 38,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ad0f8bd91b5310010e0d4f8_1213.jpg",
+      "B": "./Trees/images/5cf06748b9ff690005693589_2562.jpg",
+      "C": "./Trees/images/5e25ecee36067e0005c2752e_562.jpg",
+      "D": "./Trees/images/5e24f9cf2554740005d5c9bb_3240.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 39,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e639ceaec014e0006188772_2906.jpg",
+      "B": "./Trees/images/5ae4afd70b093000130affb1_1615.jpg",
+      "C": "./Trees/images/5ae3923e0b093000130aff38_1697.jpg",
+      "D": "./Trees/images/5d1bded793e1130005fc0e98_4108.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 40,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_3759.jpg",
+      "B": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1117.jpg",
+      "C": "./Trees/images/5a237ea5bac48e5b1c4bf531_2020.jpg",
+      "D": "./Trees/images/5d973639e2b1f300057cb3a8_3699.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 41,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e2566772554740005d5c9e8_4475.jpg",
+      "B": "./Trees/images/5c466c6c437ee1000616311f_3226.jpg",
+      "C": "./Trees/images/5e25ecee36067e0005c2752e_202.jpg",
+      "D": "./Trees/images/60606bd0eeae3c000693003f_708.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 42,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d4e5e1c317dd900055f7407_263.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aefa_3166.jpg",
+      "C": "./Trees/images/59e62be93d6412ef7220c4a6_3275.jpg",
+      "D": "./Trees/images/5ad7a7c891b5310010e0d550_4573.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 43,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c08c36c6918390006b7a8a3_1703.jpg",
+      "B": "./Trees/images/5a5c13545a9ef7cb5df674f1_1134.jpg",
+      "C": "./Trees/images/5ad9eb6a91b5310010e0d56f_373.jpg",
+      "D": "./Trees/images/59e62bb03d6412ef7220aea8_3878.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 44,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c892a92225fc20007ab4e31_2377.jpg",
+      "B": "./Trees/images/5d2145703895730005dc0e9d_2993.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209fd4_4804.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_979.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 45,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aeff_2052.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aeff_2519.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_3500.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_235.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 46,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_3079.jpg",
+      "B": "./Trees/images/5de55a69b3b5ce0006c2d960_4442.jpg",
+      "C": "./Trees/images/5d01ac72553f4b000590dbff_3351.jpg",
+      "D": "./Trees/images/5ad7a7c891b5310010e0d550_4830.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 47,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5cafa1a0f58c0800075d4fc2_3711.jpg",
+      "B": "./Trees/images/5c13db9205f40a0007517d15_3143.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a31c_1956.jpg",
+      "D": "./Trees/images/6087b78e6914ef000561b333_4577.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 48,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_1509.jpg",
+      "B": "./Trees/images/5eef6d0e1bb60b000624b4da_4547.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_4000.jpg",
+      "D": "./Trees/images/5b911275a0d7280005fab35d_3686.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 49,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60a7f8f729636900059d6498_1584.jpg",
+      "B": "./Trees/images/5ae320420b093000130afdad_4557.jpg",
+      "C": "./Trees/images/5ae320c30b093000130afdb5_1765.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a29d_266.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 50,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1096a62b6a08001185f4cf_3804.jpg",
+      "B": "./Trees/images/6108b0df343da30006976e23_3232.jpg",
+      "C": "./Trees/images/5fb52130d89ab70006abca33_3.jpg",
+      "D": "./Trees/images/5a5a22305a9ef7cb5df1977e_2658.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 51,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d689459bc6eb00006d373a4_2938.jpg",
+      "B": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1821.jpg",
+      "C": "./Trees/images/5dde8d370140b80006d2e547_968.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209f97_752.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 52,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c97e2fb23189800059f4d41_1939.jpg",
+      "B": "./Trees/images/5a808bed5a9ef7cb5d552d69_42.jpg",
+      "C": "./Trees/images/59e62b973d6412ef7220a418_2558.jpg",
+      "D": "./Trees/images/59e62bb23d6412ef7220af16_1900.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 53,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d4efc4c317dd900055f7412_4538.jpg",
+      "B": "./Trees/images/59e62b8b3d6412ef72209db8_3801.jpg",
+      "C": "./Trees/images/5f4d31ea464f1c0005fc5721_199.jpg",
+      "D": "./Trees/images/5f12fdeebaa90f0006a0ab23_4621.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 54,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4373.jpg",
+      "B": "./Trees/images/5d0511a873de290005853a93_4914.jpg",
+      "C": "./Trees/images/5d0511a873de290005853a93_4570.jpg",
+      "D": "./Trees/images/5d971d17e2b1f300057cb307_549.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 55,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fd33e61f00c200007292ba8_4555.jpg",
+      "B": "./Trees/images/5a789bd45a9ef7cb5d408eb2_1218.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_2235.jpg",
+      "D": "./Trees/images/59e62be73d6412ef7220c423_1299.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 56,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d385458a93b8e000752d2cc_2851.jpg",
+      "B": "./Trees/images/6168ac60ea4de60007d530eb_4365.jpg",
+      "C": "./Trees/images/59e62b933d6412ef7220a248_3792.jpg",
+      "D": "./Trees/images/5e25ecee36067e0005c2752e_1163.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 57,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/61201a81b7012200056b5c6e_415.jpg",
+      "B": "./Trees/images/5a276972bac48e5b1c561a15_1858.jpg",
+      "C": "./Trees/images/5f7177d91d951a00058695e8_3109.jpg",
+      "D": "./Trees/images/5fea120be66cea000786272f_2190.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 58,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4557.jpg",
+      "B": "./Trees/images/5ae31f3c0b093000130afda4_3361.jpg",
+      "C": "./Trees/images/5d1bdddb93e1130005fc0e95_2724.jpg",
+      "D": "./Trees/images/60a7f8f729636900059d6498_2583.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 59,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bf4e3addc18930005c2b4dc_1746.jpg",
+      "B": "./Trees/images/60a7f8f729636900059d6498_2563.jpg",
+      "C": "./Trees/images/5a04a02cbac48e5b1c01282b_2135.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_4042.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 60,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+      "B": "./Trees/images/5e639bf5ec014e000618876d_1328.jpg",
+      "C": "./Trees/images/5a237ea5bac48e5b1c4bf531_1650.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_5007.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 61,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_4484.jpg",
+      "B": "./Trees/images/5d973639e2b1f300057cb3a8_3699.jpg",
+      "C": "./Trees/images/5f5dfa54d9f87200078c7f2d_2460.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4462.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 62,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a05f_1934.jpg",
+      "B": "./Trees/images/5b8fc8f88752bd000830170d_1356.jpg",
+      "C": "./Trees/images/5ddfc4c40c04590006d33593_2477.jpg",
+      "D": "./Trees/images/5ff5a55038bfed0005ea56fb_2411.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 63,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5cafa1a0f58c0800075d4fc2_3461.jpg",
+      "B": "./Trees/images/5d78e8faf719820008245cfa_2166.jpg",
+      "C": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_3249.jpg",
+      "D": "./Trees/images/5b6473dd40e11005cf16cc89_3489.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 64,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_380.jpg",
+      "B": "./Trees/images/5d714d369abb100005e46d9f_919.jpg",
+      "C": "./Trees/images/5bb108507e1a410005fd2ebb_2889.jpg",
+      "D": "./Trees/images/5d1bdddb93e1130005fc0e95_2586.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 65,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4227.jpg",
+      "B": "./Trees/images/5c13db9205f40a0007517d15_2972.jpg",
+      "C": "./Trees/images/5dd7c9b049432100060ef977_117.jpg",
+      "D": "./Trees/images/5b1041cb2b6a08001185f42f_1995.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 66,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_3598.jpg",
+      "B": "./Trees/images/5dbb240d05580100062e0210_3787.jpg",
+      "C": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_2666.jpg",
+      "D": "./Trees/images/5f85751a7d446d0005fa8178_3666.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 67,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae31f3c0b093000130afda4_1745.jpg",
+      "B": "./Trees/images/5cb0ece9fa020e0006eb43d4_343.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_3562.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4420.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 68,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d629d8d1b36840007184206_3577.jpg",
+      "B": "./Trees/images/5a813ae45a9ef7cb5d56e8fa_754.jpg",
+      "C": "./Trees/images/59e62be83d6412ef7220c45c_772.jpg",
+      "D": "./Trees/images/5fea120be66cea000786272f_3492.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 69,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_696.jpg",
+      "B": "./Trees/images/5e85d2e6667e5200066e42f5_3859.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f84_1.jpg",
+      "D": "./Trees/images/5a237ea5bac48e5b1c4bf531_1601.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 70,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae31f3c0b093000130afda4_4745.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3dd_2746.jpg",
+      "C": "./Trees/images/5b0040ca2b6a08001185f14c_854.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_3630.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 71,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b10356c2b6a08001185f417_1721.jpg",
+      "B": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4846.jpg",
+      "C": "./Trees/images/5e72ba9b133f1a000511bead_1975.jpg",
+      "D": "./Trees/images/5e17cc7f76e4f20005c1b85c_3046.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 72,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a579_4196.jpg",
+      "B": "./Trees/images/5e24f9cf2554740005d5c9bb_3326.jpg",
+      "C": "./Trees/images/59fc9657bac48e5b1ced2a2f_2759.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209aa5_830.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 73,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60d6e00dc700c600080d5531_309.jpg",
+      "B": "./Trees/images/5a5a21a25a9ef7cb5df1937e_4174.jpg",
+      "C": "./Trees/images/5b9c264d027d99000615b268_3108.jpg",
+      "D": "./Trees/images/60d6eaa1c700c600080d5534_1131.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 74,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b943d6412ef7220a29d_227.jpg",
+      "B": "./Trees/images/5e2566772554740005d5c9e8_4271.jpg",
+      "C": "./Trees/images/5d8cabebabcfaa0008b1d26b_4683.jpg",
+      "D": "./Trees/images/5bbd459c3baffb0005fe9ba1_3869.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 75,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320c30b093000130afdb5_4662.jpg",
+      "B": "./Trees/images/5eada7de3295f300072a6d80_1300.jpg",
+      "C": "./Trees/images/5cafa1a0f58c0800075d4fc2_4126.jpg",
+      "D": "./Trees/images/60d6eaa1c700c600080d5534_3271.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 76,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg",
+      "B": "./Trees/images/5e4fb2fb24710000056a515c_2798.jpg",
+      "C": "./Trees/images/59e62b963d6412ef7220a3dd_1525.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_2045.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 77,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d16a97e1cf0f6000579ad2d_143.jpg",
+      "B": "./Trees/images/5e4fbd3024710000056a516f_1912.jpg",
+      "C": "./Trees/images/5ae4afd70b093000130affb1_1615.jpg",
+      "D": "./Trees/images/59e62bb23d6412ef7220af16_1662.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 78,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/616ea1a173cc220005b8e093_4723.jpg",
+      "B": "./Trees/images/5be1b0b9430b4d000569fa33_1436.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_3288.jpg",
+      "D": "./Trees/images/5a009dadbac48e5b1cf6f5af_326.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 79,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e4f53b14f7e510007981d17_600.jpg",
+      "B": "./Trees/images/5d7764494dfec000074a8cb5_3774.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a5b7_1097.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209f6d_1383.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 80,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1042892b6a08001185f43c_3083.jpg",
+      "B": "./Trees/images/5a04a02cbac48e5b1c01282b_2135.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg",
+      "D": "./Trees/images/5b925da45d406700087d1514_1237.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 81,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1041cb2b6a08001185f42f_2984.jpg",
+      "B": "./Trees/images/5f059147ce2c9900068d83ee_151.jpg",
+      "C": "./Trees/images/5dd5946c4cae450005374d2b_2384.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a205_2853.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 82,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e1193a95f5069000738f16a_4912.jpg",
+      "B": "./Trees/images/5a237ea5bac48e5b1c4bf531_2709.jpg",
+      "C": "./Trees/images/607bd156bfb5350008e66597_3104.jpg",
+      "D": "./Trees/images/5f8de1dca11f71000673ec58_2399.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 83,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a009b7ebac48e5b1cf6ef81_1415.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f97_359.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_1134.jpg",
+      "D": "./Trees/images/5f363b374e328d00066b0175_3942.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 84,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b703d6412ef72208f44_4148.jpg",
+      "B": "./Trees/images/5b5197864bda9e0682edbda6_4176.jpg",
+      "C": "./Trees/images/5e8b4a54a652050007863a89_4739.jpg",
+      "D": "./Trees/images/5daf1db69f4b100006add9f9_2572.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 85,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e2566772554740005d5c9e8_4550.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_1011.jpg",
+      "C": "./Trees/images/5c3ea615e7ff3f00054889d4_668.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_1523.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 86,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e639bf5ec014e000618876d_632.jpg",
+      "B": "./Trees/images/5c08c36c6918390006b7a8a3_3684.jpg",
+      "C": "./Trees/images/5d973639e2b1f300057cb3a8_2786.jpg",
+      "D": "./Trees/images/5c466c6c437ee1000616311f_1575.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 87,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_34.jpg",
+      "B": "./Trees/images/59e62b9a3d6412ef7220a51f_3989.jpg",
+      "C": "./Trees/images/5dbb734605580100062e021a_4453.jpg",
+      "D": "./Trees/images/5d8cabebabcfaa0008b1d26b_5032.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 88,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae378c00b093000130afe28_2734.jpg",
+      "B": "./Trees/images/5ff5a55038bfed0005ea56fb_2528.jpg",
+      "C": "./Trees/images/5a237ea5bac48e5b1c4bf531_3467.jpg",
+      "D": "./Trees/images/5ae4afd70b093000130affb1_1930.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 89,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_5027.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+      "C": "./Trees/images/5da4eb2dcac1190007698b1b_4695.jpg",
+      "D": "./Trees/images/5abb761965bd8f00110f3e4c_2704.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 90,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b943d6412ef7220a29d_457.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3d7_2616.jpg",
+      "C": "./Trees/images/5e17cc7f76e4f20005c1b85c_3933.jpg",
+      "D": "./Trees/images/5b10408a2b6a08001185f427_2684.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 91,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a2d4387bac48e5b1c64facc_4704.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c476_76.jpg",
+      "C": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_1904.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 92,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f711df61d951a00058695d8_4156.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f6d_1153.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_2491.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a515_2257.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 93,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e4fbd3024710000056a516f_2389.jpg",
+      "B": "./Trees/images/5f4d31ea464f1c0005fc5721_759.jpg",
+      "C": "./Trees/images/5fba7574f867fd0007e9774a_2094.jpg",
+      "D": "./Trees/images/59e62bb03d6412ef7220aea8_2571.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 94,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60a2325625820c0005e458d4_1064.jpg",
+      "B": "./Trees/images/59e62b933d6412ef7220a248_4057.jpg",
+      "C": "./Trees/images/5c4f16588ca97d00054982aa_2274.jpg",
+      "D": "./Trees/images/5a14b831bac48e5b1c281943_3898.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 95,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e639ceaec014e0006188772_3386.jpg",
+      "B": "./Trees/images/6051fa7273881800080aa06d_500.jpg",
+      "C": "./Trees/images/5dd599f64cae450005374d2e_1207.jpg",
+      "D": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 96,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d970af10a75b70006703960_4239.jpg",
+      "B": "./Trees/images/5ddfc4c40c04590006d33593_1396.jpg",
+      "C": "./Trees/images/5d3561a98a5c8b000519fdac_2631.jpg",
+      "D": "./Trees/images/60a7a37029636900059d6491_2078.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 97,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be93d6412ef7220c4a6_2765.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4208.jpg",
+      "C": "./Trees/images/5d1bded793e1130005fc0e98_2100.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4849.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 98,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c892a92225fc20007ab4e31_2377.jpg",
+      "B": "./Trees/images/6168ac60ea4de60007d530eb_4365.jpg",
+      "C": "./Trees/images/5ad6e3b291b5310010e0d543_243.jpg",
+      "D": "./Trees/images/5b0040ca2b6a08001185f14c_783.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 99,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bc119b7c7e1cf0008e45e25_3221.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_1142.jpg",
+      "C": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4522.jpg",
+      "D": "./Trees/images/5cc2f46f3dc94a00069404fd_961.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 100,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60e6417b5bc2dc00058bbe15_4011.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_1718.jpg",
+      "C": "./Trees/images/5d29ec177a18fd0005e2978e_697.jpg",
+      "D": "./Trees/images/59e62b973d6412ef7220a415_4728.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 101,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e17cc7f76e4f20005c1b85c_3980.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_813.jpg",
+      "C": "./Trees/images/5b0040ca2b6a08001185f14c_180.jpg",
+      "D": "./Trees/images/59e62b9b3d6412ef7220a59b_565.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 102,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aee9_3636.jpg",
+      "B": "./Trees/images/5c97e2fb23189800059f4d41_3637.jpg",
+      "C": "./Trees/images/5b9d22b53c691c00060c0262_2660.jpg",
+      "D": "./Trees/images/60315c91d9c7c8000504d2cb_5003.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 103,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60d6eaa1c700c600080d5534_907.jpg",
+      "B": "./Trees/images/5bce3d12b9e5f20005f7da4d_4484.jpg",
+      "C": "./Trees/images/5f85751a7d446d0005fa8178_2561.jpg",
+      "D": "./Trees/images/5f2fcaa70d59fe00057c32b3_1609.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 104,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_1686.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_1437.jpg",
+      "C": "./Trees/images/5a14b831bac48e5b1c281943_2333.jpg",
+      "D": "./Trees/images/5d2682ef161a790005c03e80_2922.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 105,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60f138e489ec130007b828c3_782.jpg",
+      "B": "./Trees/images/5e4fbc4c24710000056a516c_4901.jpg",
+      "C": "./Trees/images/59e62b973d6412ef7220a43c_2835.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4567.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 106,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ad6e3b291b5310010e0d543_243.jpg",
+      "B": "./Trees/images/5a5a21a25a9ef7cb5df1937e_3827.jpg",
+      "C": "./Trees/images/5e1193a95f5069000738f16a_4905.jpg",
+      "D": "./Trees/images/5d970af10a75b70006703960_1832.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 107,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5de55a69b3b5ce0006c2d960_4705.jpg",
+      "B": "./Trees/images/5e068f3605e6590005c2f71a_2077.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a592_3087.jpg",
+      "D": "./Trees/images/5e4f54974f7e510007981d1b_1742.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 108,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e2566772554740005d5c9e8_4627.jpg",
+      "B": "./Trees/images/6002619a7aad010005143f9c_4307.jpg",
+      "C": "./Trees/images/5a780f925a9ef7cb5d3f17bb_109.jpg",
+      "D": "./Trees/images/5b10408a2b6a08001185f427_2684.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 109,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d0511a873de290005853a93_4570.jpg",
+      "B": "./Trees/images/5a808bed5a9ef7cb5d552d69_563.jpg",
+      "C": "./Trees/images/5e9d2bc9054194000589a41a_2396.jpg",
+      "D": "./Trees/images/5a597fb25a9ef7cb5df003cf_3495.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 110,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1042892b6a08001185f43c_4951.jpg",
+      "B": "./Trees/images/5eada7de3295f300072a6d80_829.jpg",
+      "C": "./Trees/images/5d970af00a75b7000670395f_2009.jpg",
+      "D": "./Trees/images/5b003ade2b6a08001185f13e_1147.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 111,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_4222.jpg",
+      "B": "./Trees/images/5b10408a2b6a08001185f427_2762.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_1406.jpg",
+      "D": "./Trees/images/5eada7de3295f300072a6d80_829.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 112,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a25ae87bac48e5b1c51946f_761.jpg",
+      "B": "./Trees/images/5f35fe824e328d00066b0165_4641.jpg",
+      "C": "./Trees/images/59e62b9a3d6412ef7220a515_3760.jpg",
+      "D": "./Trees/images/5dbb240d05580100062e0210_3072.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 113,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5de55a69b3b5ce0006c2d960_4620.jpg",
+      "B": "./Trees/images/60d2046feade0f00079b58bd_3262.jpg",
+      "C": "./Trees/images/5be1b0b9430b4d000569fa33_3137.jpg",
+      "D": "./Trees/images/5d629d8d1b36840007184206_1734.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 114,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a9980b15a9ef7cb5d982284_4360.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f6d_1153.jpg",
+      "C": "./Trees/images/5cc2f46f3dc94a00069404fd_1255.jpg",
+      "D": "./Trees/images/5a237ea5bac48e5b1c4bf531_2020.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 115,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5eef6d0e1bb60b000624b4da_4987.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aeff_2519.jpg",
+      "C": "./Trees/images/5b6473dd40e11005cf16cc89_1829.jpg",
+      "D": "./Trees/images/5c97e2fb23189800059f4d41_3637.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 116,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5dd0f6dda7dadc0006433b5b_4381.jpg",
+      "B": "./Trees/images/5a04a02cbac48e5b1c01282b_3246.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a31f_4571.jpg",
+      "D": "./Trees/images/5ae3adc00b093000130affa6_1422.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 117,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e72ba9b133f1a000511bead_1867.jpg",
+      "B": "./Trees/images/5b3622402b6a08001185f8d8_525.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4399.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_2652.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 118,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/6108b0df343da30006976e23_2214.jpg",
+      "B": "./Trees/images/5aea3d3b8153990013b938e8_2070.jpg",
+      "C": "./Trees/images/5dbb734605580100062e021a_4470.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c45c_3598.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 119,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b10356c2b6a08001185f417_2310.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_3331.jpg",
+      "C": "./Trees/images/59e62b933d6412ef7220a215_1569.jpg",
+      "D": "./Trees/images/59e62b703d6412ef72208f5a_4594.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 120,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_4737.jpg",
+      "B": "./Trees/images/5b911275a0d7280005fab35d_2618.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f6d_462.jpg",
+      "D": "./Trees/images/5ad9eb6a91b5310010e0d56f_485.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 121,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c3cb31865775c0007e79448_2539.jpg",
+      "B": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_3249.jpg",
+      "C": "./Trees/images/5a597fb25a9ef7cb5df003cf_2236.jpg",
+      "D": "./Trees/images/5dde8d370140b80006d2e547_968.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 122,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c892a92225fc20007ab4e31_3367.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_3505.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f6d_1091.jpg",
+      "D": "./Trees/images/5e639ceaec014e0006188772_1657.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 123,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220af02_4717.jpg",
+      "B": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3845.jpg",
+      "C": "./Trees/images/5d971d17e2b1f300057cb307_931.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c476_215.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 124,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c8d82f0b8e7090005010554_6.jpg",
+      "B": "./Trees/images/60d10513eade0f00079b5890_1635.jpg",
+      "C": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_1852.jpg",
+      "D": "./Trees/images/5c08c36c6918390006b7a8a3_1612.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 125,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+      "B": "./Trees/images/5a5a22305a9ef7cb5df1977e_3848.jpg",
+      "C": "./Trees/images/5bf6676cad75b80007102067_342.jpg",
+      "D": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4488.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 126,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220af02_1177.jpg",
+      "B": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_3426.jpg",
+      "C": "./Trees/images/5a25ae87bac48e5b1c51946f_1194.jpg",
+      "D": "./Trees/images/5d97277fe2b1f300057cb341_2140.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 127,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320c30b093000130afdb5_3301.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aefa_2715.jpg",
+      "C": "./Trees/images/5f7177d91d951a00058695e8_2431.jpg",
+      "D": "./Trees/images/5f1f106d57ddda00054a03f4_1977.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 128,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60e988c5719f470008094136_838.jpg",
+      "B": "./Trees/images/60a6469525820c0005e45927_2634.jpg",
+      "C": "./Trees/images/60b0cccea9600f0008458140_2414.jpg",
+      "D": "./Trees/images/613fc20e18b2fb000574fbbf_2682.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 129,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1042892b6a08001185f43c_4811.jpg",
+      "B": "./Trees/images/5d255c1d161a790005c03e6a_3407.jpg",
+      "C": "./Trees/images/5b003ade2b6a08001185f13e_2505.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_1384.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 130,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae378c00b093000130afe28_4039.jpg",
+      "B": "./Trees/images/5f2fcaa70d59fe00057c32b3_3789.jpg",
+      "C": "./Trees/images/5ad0f8bd91b5310010e0d4f8_1060.jpg",
+      "D": "./Trees/images/5f2fcaa70d59fe00057c32b3_2223.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 131,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e1193a95f5069000738f16a_4604.jpg",
+      "B": "./Trees/images/5ad6e3b291b5310010e0d543_871.jpg",
+      "C": "./Trees/images/5c08c36c6918390006b7a8a3_4040.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a219_3263.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 132,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4931.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_3499.jpg",
+      "C": "./Trees/images/5a2d4387bac48e5b1c64facc_4254.jpg",
+      "D": "./Trees/images/5c3ea615e7ff3f00054889d4_122.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 133,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b963d6412ef7220a3dd_2746.jpg",
+      "B": "./Trees/images/5e4f54974f7e510007981d1b_3174.jpg",
+      "C": "./Trees/images/59e62b8b3d6412ef72209db8_2667.jpg",
+      "D": "./Trees/images/5e4fae9a24710000056a5156_1259.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 134,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b925da45d406700087d1514_308.jpg",
+      "B": "./Trees/images/5a2d4387bac48e5b1c64facc_4824.jpg",
+      "C": "./Trees/images/59e62b8c3d6412ef72209e53_4763.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4913.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 135,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_3961.jpg",
+      "B": "./Trees/images/5f711df61d951a00058695d8_3130.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_2354.jpg",
+      "D": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3470.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 136,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d67dfdddf35140006907ab3_1263.jpg",
+      "B": "./Trees/images/5dbb240d05580100062e0210_3787.jpg",
+      "C": "./Trees/images/5fbdd9ef1f79c3000788a403_4275.jpg",
+      "D": "./Trees/images/59fc9657bac48e5b1ced2a2f_2299.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 137,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d255c1d161a790005c03e6a_2910.jpg",
+      "B": "./Trees/images/5f12fdeebaa90f0006a0ab23_4953.jpg",
+      "C": "./Trees/images/5ddb95a2aff195000554e7e4_4956.jpg",
+      "D": "./Trees/images/5e232b0050259f000541fc51_1102.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 138,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/606d95ec5be64100051a7761_519.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_4007.jpg",
+      "C": "./Trees/images/5d97233be2b1f300057cb329_2883.jpg",
+      "D": "./Trees/images/5e639bf5ec014e000618876d_1328.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 139,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bb108507e1a410005fd2ebb_2722.jpg",
+      "B": "./Trees/images/5b10428f2b6a08001185f441_1978.jpg",
+      "C": "./Trees/images/6029f2f22ff7030005a4e822_1265.jpg",
+      "D": "./Trees/images/59e62b9b3d6412ef7220a579_4759.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 140,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/608e0e08c23e4c0007d21440_4792.jpg",
+      "B": "./Trees/images/5d9afef50ca8d70007c491f8_2986.jpg",
+      "C": "./Trees/images/5bf6676cad75b80007102067_1189.jpg",
+      "D": "./Trees/images/5ff5a55038bfed0005ea56fb_3639.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 141,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b90b45884d0cc000790357c_2289.jpg",
+      "B": "./Trees/images/5b10238f2b6a08001185f398_3656.jpg",
+      "C": "./Trees/images/5f12fdeebaa90f0006a0ab23_4735.jpg",
+      "D": "./Trees/images/5a237ea5bac48e5b1c4bf531_3467.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 142,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5dd59dbb4cae450005374d3e_2496.jpg",
+      "B": "./Trees/images/5d5ee0fe1d3eab00054f8e69_3337.jpg",
+      "C": "./Trees/images/607c9008bfb5350008e665af_3939.jpg",
+      "D": "./Trees/images/5b90b45884d0cc000790357c_2179.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 143,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320c30b093000130afdb5_3270.jpg",
+      "B": "./Trees/images/5e17cc7f76e4f20005c1b85c_3046.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_815.jpg",
+      "D": "./Trees/images/5e72ba9b133f1a000511bead_3632.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 144,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5f2fb5190d59fe00057c32ac_4393.jpg",
+      "B": "./Trees/images/5f12fdeebaa90f0006a0ab23_4246.jpg",
+      "C": "./Trees/images/5a5a22305a9ef7cb5df1977e_1649.jpg",
+      "D": "./Trees/images/5d0511a873de290005853a93_4747.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 145,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_2912.jpg",
+      "C": "./Trees/images/5b635ac0a37c3dcbe3ea5287_3847.jpg",
+      "D": "./Trees/images/616de51e73cc220005b8e08b_1056.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 146,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4808.jpg",
+      "B": "./Trees/images/5a237ea5bac48e5b1c4bf531_2760.jpg",
+      "C": "./Trees/images/5d970af10a75b70006703960_2314.jpg",
+      "D": "./Trees/images/5f7ab36c458b56000772bf4c_2253.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 147,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_2416.jpg",
+      "B": "./Trees/images/5d970af10a75b70006703960_3543.jpg",
+      "C": "./Trees/images/60bc2b27f59a4300057c5519_142.jpg",
+      "D": "./Trees/images/5cc2f46f3dc94a00069404fd_812.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 148,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a237ea5bac48e5b1c4bf531_3155.jpg",
+      "B": "./Trees/images/5a5a22305a9ef7cb5df1977e_3848.jpg",
+      "C": "./Trees/images/5e95fbd57b6533000663b235_2254.jpg",
+      "D": "./Trees/images/5e1f63ddd2b5de0006acdd8c_4248.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 149,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c892a92225fc20007ab4e31_1578.jpg",
+      "B": "./Trees/images/60d6eaa1c700c600080d5534_2402.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+      "D": "./Trees/images/5bc53d344d3b1b00050eee9f_1996.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 150,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d706fa55583d40006c15788_4658.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4750.jpg",
+      "C": "./Trees/images/5cb64e020a3a5c0005ff12ff_66.jpg",
+      "D": "./Trees/images/5b10408a2b6a08001185f427_870.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 151,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4446.jpg",
+      "C": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3853.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 152,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_3993.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_495.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3321.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 153,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_2430.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_1130.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_35.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 154,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2313.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4474.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2600.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 155,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_662.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3400.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 156,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_2532.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3610.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 157,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3995.jpg",
+      "B": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_2695.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 158,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1111.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_1779.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 159,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3144.jpg",
+      "C": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_214.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 160,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4200.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_840.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 161,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_2041.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_1936.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 162,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fc8b3ae088b49000751afda_4263.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3664.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_1602.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_4074.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 163,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_35.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 164,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4319.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg",
+      "D": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 165,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+      "B": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3036.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3064.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 166,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_3506.jpg",
+      "C": "./Trees/images/5d1cc58493e1130005fc0eb0_2645.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2212.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 167,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_245.jpg",
+      "D": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 168,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b729f5e9102ad0b033a5c3f_4008.jpg",
+      "B": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2676.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4835.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 169,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1618.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_2216.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_932.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 170,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_932.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_4151.jpg",
+      "C": "./Trees/images/5b729f5e9102ad0b033a5c3f_2249.jpg",
+      "D": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 171,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4826.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_2317.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 172,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_2430.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3993.jpg",
+      "C": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2797.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 173,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2676.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2600.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1292.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1261.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 174,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d261c18161a790005c03e77_4973.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_1750.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 175,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+      "B": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 176,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_1594.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3617.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4724.jpg",
+      "D": "./Trees/images/5b729f5e9102ad0b033a5c3f_4008.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 177,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+      "B": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg",
+      "D": "./Trees/images/5e59ab19305ba00006300322_523.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 178,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_555.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4716.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_1130.jpg",
+      "D": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 179,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1758.jpg",
+      "C": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3949.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 180,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60c1b7e8c3b42f000788d30a_397.jpg",
+      "B": "./Trees/images/61a5879bca228100065cb98a_2371.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_2068.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 181,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2641.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_1560.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 182,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3391.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2298.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_245.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 183,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg",
+      "B": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 184,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_4101.jpg",
+      "C": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3202.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 185,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2030.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4053.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 186,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3333.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 187,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2461.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 188,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_75.jpg",
+      "B": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_3931.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_3809.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 189,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_3638.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_517.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 190,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "C": "./Trees/images/60c1b7e8c3b42f000788d30a_835.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4786.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 191,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_4733.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_3116.jpg",
+      "C": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 192,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg",
+      "C": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 193,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+      "B": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "D": "./Trees/images/618ebf6d502455000734581c_1361.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 194,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3161.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_4074.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 195,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_339.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_31.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_1676.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 196,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg",
+      "C": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 197,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3396.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 198,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_4225.jpg",
+      "B": "./Trees/images/5d261c18161a790005c03e77_4973.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_1779.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3106.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 199,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+      "C": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 200,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_517.jpg",
+      "D": "./Trees/images/618ebf6d502455000734581c_375.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 201,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3193.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 202,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_3400.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 203,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2158.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 204,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 205,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_1036.jpg",
+      "B": "./Trees/images/618ebf6d502455000734581c_507.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_4137.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_814.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 206,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1823.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 207,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 208,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_737.jpg",
+      "B": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+      "C": "./Trees/images/5dded5bc0140b80006d2e565_294.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_2430.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 209,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fe072620cf0b40005ddf6c3_2719.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_2287.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_637.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 210,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_3180.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg",
+      "C": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 211,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3903.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3144.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3610.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 212,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4363.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_2719.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_2545.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 213,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3022.jpg",
+      "B": "./Trees/images/5fc8b3ae088b49000751afda_4313.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 214,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_2565.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_2383.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 215,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3853.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_1013.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_397.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 216,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_3941.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 217,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_1594.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1015.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_1648.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 218,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2565.jpg",
+      "B": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_4073.jpg",
+      "D": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2702.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 219,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_2698.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1823.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 220,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4053.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_28.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 221,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2001.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3294.jpg",
+      "C": "./Trees/images/5d9dbda4fd16f600065395c3_3448.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 222,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e59ab19305ba00006300322_523.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_2041.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3064.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4474.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 223,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+      "B": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_517.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3278.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 224,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg",
+      "B": "./Trees/images/5b90f92da0d7280005fab355_4200.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_619.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 225,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg",
+      "C": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_1586.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 226,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3958.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_3547.jpg",
+      "C": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 227,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3853.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_2532.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_3400.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_424.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 228,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_794.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3993.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 229,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_1726.jpg",
+      "B": "./Trees/images/5e118f5c5f5069000738f161_1936.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_2068.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 230,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "C": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4716.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 231,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3949.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4733.jpg",
+      "C": "./Trees/images/5d261c18161a790005c03e77_4629.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_652.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 232,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1732.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3814.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 233,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2480.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 234,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3814.jpg",
+      "B": "./Trees/images/5e118f5c5f5069000738f161_1936.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_3400.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_75.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 235,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "B": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+      "C": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "D": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 236,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fd2c45c8fcb370005f66132_904.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1036.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3814.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 237,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e118f5c5f5069000738f161_1936.jpg",
+      "B": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg",
+      "C": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg",
+      "D": "./Trees/images/5bea077d41f79800070a4f67_3296.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 238,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2676.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2191.jpg",
+      "C": "./Trees/images/5fc8b3ae088b49000751afda_4313.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 239,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3036.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 240,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2311.jpg",
+      "D": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 241,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_214.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_1750.jpg",
+      "C": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_2978.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 242,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2216.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_28.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_1936.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 243,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+      "B": "./Trees/images/5b713a5291cf644aafeeacc4_453.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4249.jpg",
+      "D": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 244,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1841.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 245,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_3116.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3355.jpg",
+      "C": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3723.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_2865.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 246,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_737.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_4106.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4835.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 247,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1116.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_1503.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 248,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4786.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1233.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 249,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_2866.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_189.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2980.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 250,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 251,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2797.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3391.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_1468.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 252,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 253,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4474.jpg",
+      "C": "./Trees/images/5fc8b3ae088b49000751afda_4313.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4835.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 254,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2242.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1261.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_2719.jpg",
+      "D": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 255,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_3321.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_3345.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 256,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2866.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1261.jpg",
+      "D": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 257,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "C": "./Trees/images/61a5879bca228100065cb98a_1776.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3036.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 258,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2600.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3278.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4202.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_238.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 259,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "B": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg",
+      "D": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 260,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3768.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_3788.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 261,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b729f5e9102ad0b033a5c3f_2733.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_2862.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_2866.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2191.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 262,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3641.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 263,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3536.jpg",
+      "B": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+      "D": "./Trees/images/5b729f5e9102ad0b033a5c3f_1589.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 264,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_3468.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3853.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_2641.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 265,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_4881.jpg",
+      "B": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3391.jpg",
+      "D": "./Trees/images/5b90f92da0d7280005fab355_4200.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 266,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2216.jpg",
+      "C": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg",
+      "D": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 267,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3294.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 268,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_3958.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 269,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_2954.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_2208.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_1559.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 270,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4286.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_4074.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 271,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_2600.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_26.jpg",
+      "D": "./Trees/images/5b73a47a115c4ca626fc4df2_3941.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 272,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e1194bc5f5069000738f16e_3994.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "C": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg",
+      "D": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_3622.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 273,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1841.jpg",
+      "C": "./Trees/images/60c1b7e8c3b42f000788d30a_814.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 274,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b793d6412ef722094d2_4106.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2376.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 275,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_4083.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3664.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 276,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_3994.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 277,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3536.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3982.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2158.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 278,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3664.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_4074.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 279,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2645.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2425.jpg",
+      "D": "./Trees/images/618ebf6d502455000734581c_469.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 280,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_469.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2030.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_3312.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 281,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4249.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_3941.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_3391.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 282,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3903.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_1602.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 283,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1293.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_2865.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 284,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_1186.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3064.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_2317.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 285,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3671.jpg",
+      "B": "./Trees/images/5d261c18161a790005c03e77_4726.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4786.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 286,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+      "C": "./Trees/images/5a8213345a9ef7cb5d5973bb_2573.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 287,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_3638.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_835.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 288,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/61a5879bca228100065cb98a_1776.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1374.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 289,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3766.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_385.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 290,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c1d229322b2680005e3febe_4878.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_2448.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3036.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 291,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_1928.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3830.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1293.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4286.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 292,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1374.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_3755.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 293,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3193.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1724.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+      "D": "./Trees/images/608b0a06503fab00058bba72_3223.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 294,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_2641.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 295,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_1015.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+      "C": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_758.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 296,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_2730.jpg",
+      "B": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2702.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_225.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 297,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_2602.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 298,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2242.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_1791.jpg",
+      "C": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 299,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2645.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_2865.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+      "D": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 300,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5d96feee0a75b70006703919_4446.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_1812.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  }
+]
