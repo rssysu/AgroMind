@@ -1,0 +1,3002 @@
+[
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.446
+    ],
+    "type_id": 11,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3578,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2709,
+      0.0,
+      1.0,
+      0.951
+    ],
+    "type_id": 11,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3147,
+      0.9666,
+      0.9227
+    ],
+    "type_id": 11,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1857,
+      0.4054,
+      0.4696
+    ],
+    "type_id": 11,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.4571,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0483,
+      0.4345,
+      0.4926,
+      0.7922
+    ],
+    "type_id": 11,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3983,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.6013,
+      0.1989,
+      1.0,
+      0.9204
+    ],
+    "type_id": 11,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.5572,
+      0.8292,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2084,
+      0.1565,
+      0.4703,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3421,
+      0.2587,
+      0.6495,
+      0.9154
+    ],
+    "type_id": 11,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4112,
+      0.7626,
+      0.8105,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.642,
+      0.3728
+    ],
+    "type_id": 11,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2709,
+      0.105,
+      0.7477,
+      0.8255
+    ],
+    "type_id": 11,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1473,
+      0.4311,
+      0.9004,
+      0.6449
+    ],
+    "type_id": 11,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4478,
+      0.0621,
+      0.6138,
+      0.4167
+    ],
+    "type_id": 11,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3958,
+      0.5067,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2574,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1439,
+      0.1247,
+      0.5392,
+      0.3376
+    ],
+    "type_id": 11,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2815,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 21,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2444,
+      0.5381,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 22,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2498,
+      0.8779,
+      0.7304
+    ],
+    "type_id": 11,
+    "item_id": 23,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4535,
+      0.0,
+      1.0,
+      0.9926
+    ],
+    "type_id": 11,
+    "item_id": 24,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 25,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1985,
+      0.1004,
+      0.3909,
+      0.6962
+    ],
+    "type_id": 11,
+    "item_id": 26,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2085,
+      0.5291,
+      0.9365
+    ],
+    "type_id": 11,
+    "item_id": 27,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.7348
+    ],
+    "type_id": 11,
+    "item_id": 28,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4553,
+      0.0431,
+      0.8256,
+      0.7408
+    ],
+    "type_id": 11,
+    "item_id": 29,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4267,
+      0.1233,
+      1.0,
+      0.6399
+    ],
+    "type_id": 11,
+    "item_id": 30,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1177,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 31,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1263,
+      0.0,
+      1.0,
+      0.8836
+    ],
+    "type_id": 11,
+    "item_id": 32,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0849,
+      0.0,
+      0.9833,
+      0.4625
+    ],
+    "type_id": 11,
+    "item_id": 33,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.6725,
+      0.4714
+    ],
+    "type_id": 11,
+    "item_id": 34,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1547,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 35,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2524,
+      0.4929,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 36,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7487,
+      0.5842
+    ],
+    "type_id": 11,
+    "item_id": 37,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.5306,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 38,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.5958,
+      0.8166
+    ],
+    "type_id": 11,
+    "item_id": 39,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.9838,
+      0.6902
+    ],
+    "type_id": 11,
+    "item_id": 40,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5155,
+      0.2976,
+      0.7742,
+      0.6981
+    ],
+    "type_id": 11,
+    "item_id": 41,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3908,
+      1.0,
+      0.9311
+    ],
+    "type_id": 11,
+    "item_id": 42,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3418,
+      0.0,
+      1.0,
+      0.4454
+    ],
+    "type_id": 11,
+    "item_id": 43,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2497,
+      0.0215,
+      0.8641,
+      0.4016
+    ],
+    "type_id": 11,
+    "item_id": 44,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2591,
+      0.3809,
+      0.5933
+    ],
+    "type_id": 11,
+    "item_id": 45,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4143,
+      0.2934,
+      0.926,
+      0.6444
+    ],
+    "type_id": 11,
+    "item_id": 46,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3501,
+      0.0,
+      0.7342,
+      0.4167
+    ],
+    "type_id": 11,
+    "item_id": 47,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3125,
+      0.0,
+      1.0,
+      0.4385
+    ],
+    "type_id": 11,
+    "item_id": 48,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0797,
+      0.367,
+      0.6186,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 49,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2867,
+      0.4096,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 50,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1402,
+      0.0,
+      1.0,
+      0.7711
+    ],
+    "type_id": 11,
+    "item_id": 51,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3717,
+      0.1556,
+      1.0,
+      0.8308
+    ],
+    "type_id": 11,
+    "item_id": 52,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3505,
+      0.3228,
+      1.0,
+      0.8306
+    ],
+    "type_id": 11,
+    "item_id": 53,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.4736,
+      0.7452
+    ],
+    "type_id": 11,
+    "item_id": 54,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2719,
+      0.1628,
+      0.7425,
+      0.9696
+    ],
+    "type_id": 11,
+    "item_id": 55,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1978,
+      0.767,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 56,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.4333,
+      0.7867,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 57,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.4614
+    ],
+    "type_id": 11,
+    "item_id": 58,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2323,
+      0.1418,
+      1.0,
+      0.9002
+    ],
+    "type_id": 11,
+    "item_id": 59,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.312,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 60,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.6051
+    ],
+    "type_id": 11,
+    "item_id": 61,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2695,
+      0.1658,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 62,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3723,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 63,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.076,
+      0.2596,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 64,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.6014
+    ],
+    "type_id": 11,
+    "item_id": 65,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4033,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 66,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3884,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 67,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0764,
+      0.5546,
+      0.6092
+    ],
+    "type_id": 11,
+    "item_id": 68,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2617,
+      0.2051,
+      1.0,
+      0.9242
+    ],
+    "type_id": 11,
+    "item_id": 69,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.6526
+    ],
+    "type_id": 11,
+    "item_id": 70,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.507,
+      0.7086
+    ],
+    "type_id": 11,
+    "item_id": 71,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.8133,
+      0.7404
+    ],
+    "type_id": 11,
+    "item_id": 72,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7251,
+      0.575
+    ],
+    "type_id": 11,
+    "item_id": 73,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3342,
+      0.0,
+      1.0,
+      0.8071
+    ],
+    "type_id": 11,
+    "item_id": 74,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3419,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 75,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.6247,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 76,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.7955
+    ],
+    "type_id": 11,
+    "item_id": 77,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.673,
+      0.476
+    ],
+    "type_id": 11,
+    "item_id": 78,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0113,
+      0.0,
+      1.0,
+      0.6024
+    ],
+    "type_id": 11,
+    "item_id": 79,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0284,
+      0.7513,
+      0.7451
+    ],
+    "type_id": 11,
+    "item_id": 80,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.052,
+      0.1279,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 81,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4176,
+      0.0,
+      0.9834,
+      0.6813
+    ],
+    "type_id": 11,
+    "item_id": 82,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.257,
+      0.0,
+      0.8304,
+      0.8344
+    ],
+    "type_id": 11,
+    "item_id": 83,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5046,
+      0.0,
+      1.0,
+      0.7328
+    ],
+    "type_id": 11,
+    "item_id": 84,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0831,
+      0.0,
+      0.766,
+      0.7117
+    ],
+    "type_id": 11,
+    "item_id": 85,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1722,
+      0.5254,
+      0.4694,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 86,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1723,
+      0.1986,
+      0.7006,
+      0.612
+    ],
+    "type_id": 11,
+    "item_id": 87,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0189,
+      0.0,
+      0.8928,
+      0.8503
+    ],
+    "type_id": 11,
+    "item_id": 88,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4393,
+      0.1908,
+      0.6058,
+      0.5843
+    ],
+    "type_id": 11,
+    "item_id": 89,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.4151,
+      0.763,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 90,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3276,
+      0.592,
+      0.7236,
+      0.8243
+    ],
+    "type_id": 11,
+    "item_id": 91,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2736,
+      0.1238,
+      1.0,
+      0.8353
+    ],
+    "type_id": 11,
+    "item_id": 92,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3248,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 93,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2865,
+      0.6016,
+      0.8286
+    ],
+    "type_id": 11,
+    "item_id": 94,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2082,
+      0.7154,
+      0.9314
+    ],
+    "type_id": 11,
+    "item_id": 95,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1733,
+      0.1157,
+      1.0,
+      0.8147
+    ],
+    "type_id": 11,
+    "item_id": 96,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4119,
+      0.6947,
+      0.5138,
+      0.9356
+    ],
+    "type_id": 11,
+    "item_id": 97,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2317,
+      0.6042,
+      0.911
+    ],
+    "type_id": 11,
+    "item_id": 98,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0227,
+      0.0,
+      0.7587,
+      0.924
+    ],
+    "type_id": 11,
+    "item_id": 99,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2011,
+      0.2802,
+      0.4345,
+      0.8319
+    ],
+    "type_id": 11,
+    "item_id": 100,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0782,
+      0.3616,
+      0.8932,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 101,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4361,
+      0.1812,
+      0.7231,
+      0.4337
+    ],
+    "type_id": 11,
+    "item_id": 102,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1336,
+      0.4052,
+      0.7967,
+      0.9513
+    ],
+    "type_id": 11,
+    "item_id": 103,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2414,
+      0.0,
+      0.6569,
+      0.3676
+    ],
+    "type_id": 11,
+    "item_id": 104,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3047,
+      0.7394,
+      0.6512
+    ],
+    "type_id": 11,
+    "item_id": 105,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.515,
+      0.6152,
+      0.8647,
+      0.8484
+    ],
+    "type_id": 11,
+    "item_id": 106,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1509,
+      0.1272,
+      0.8215,
+      0.9277
+    ],
+    "type_id": 11,
+    "item_id": 107,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2692,
+      0.4114,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 108,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2858,
+      0.443,
+      0.7985,
+      0.8183
+    ],
+    "type_id": 11,
+    "item_id": 109,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5386,
+      0.1393,
+      0.8612,
+      0.4338
+    ],
+    "type_id": 11,
+    "item_id": 110,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4774,
+      0.1949,
+      0.925,
+      0.5096
+    ],
+    "type_id": 11,
+    "item_id": 111,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0744,
+      0.5181,
+      0.4419,
+      0.7163
+    ],
+    "type_id": 11,
+    "item_id": 112,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.134,
+      1.0,
+      0.642
+    ],
+    "type_id": 11,
+    "item_id": 113,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1972,
+      0.664,
+      0.4998
+    ],
+    "type_id": 11,
+    "item_id": 114,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5039,
+      0.0,
+      1.0,
+      0.5596
+    ],
+    "type_id": 11,
+    "item_id": 115,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.564,
+      0.7139
+    ],
+    "type_id": 11,
+    "item_id": 116,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3985,
+      0.4789,
+      0.848
+    ],
+    "type_id": 11,
+    "item_id": 117,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0755,
+      0.5783,
+      0.5023,
+      0.8369
+    ],
+    "type_id": 11,
+    "item_id": 118,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2428,
+      0.4143,
+      0.9625,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 119,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4201,
+      0.2748,
+      0.9048,
+      0.6739
+    ],
+    "type_id": 11,
+    "item_id": 120,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.195,
+      0.534,
+      0.4595,
+      0.7195
+    ],
+    "type_id": 11,
+    "item_id": 121,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4341,
+      0.5219,
+      0.8578,
+      0.723
+    ],
+    "type_id": 11,
+    "item_id": 122,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2576,
+      0.5232,
+      0.7146,
+      0.7993
+    ],
+    "type_id": 11,
+    "item_id": 123,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4224,
+      0.258,
+      0.7376,
+      0.3785
+    ],
+    "type_id": 11,
+    "item_id": 124,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2377,
+      0.4055,
+      0.4839,
+      0.6555
+    ],
+    "type_id": 11,
+    "item_id": 125,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2394,
+      0.4573,
+      0.446,
+      0.6232
+    ],
+    "type_id": 11,
+    "item_id": 126,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4194,
+      0.2031,
+      0.6861,
+      0.5524
+    ],
+    "type_id": 11,
+    "item_id": 127,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1931,
+      0.2452,
+      0.8236,
+      0.9182
+    ],
+    "type_id": 11,
+    "item_id": 128,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.5105,
+      0.397
+    ],
+    "type_id": 11,
+    "item_id": 129,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3966,
+      0.0,
+      1.0,
+      0.9639
+    ],
+    "type_id": 11,
+    "item_id": 130,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4308,
+      0.2179,
+      0.9164,
+      0.9011
+    ],
+    "type_id": 11,
+    "item_id": 131,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3647,
+      0.2285,
+      0.8682,
+      0.5185
+    ],
+    "type_id": 11,
+    "item_id": 132,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.1654,
+      0.6315,
+      0.9491
+    ],
+    "type_id": 11,
+    "item_id": 133,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2617,
+      0.2887,
+      0.8053,
+      0.6309
+    ],
+    "type_id": 11,
+    "item_id": 134,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.473,
+      0.5883,
+      0.866,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 135,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.474,
+      0.6983,
+      0.6732
+    ],
+    "type_id": 11,
+    "item_id": 136,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2222,
+      0.0,
+      0.6223,
+      0.6128
+    ],
+    "type_id": 11,
+    "item_id": 137,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2291,
+      0.3181,
+      0.7247,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 138,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5725,
+      0.0,
+      0.9558,
+      0.4699
+    ],
+    "type_id": 11,
+    "item_id": 139,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.419,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 140,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2974,
+      0.1407,
+      0.6094,
+      0.583
+    ],
+    "type_id": 11,
+    "item_id": 141,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4404,
+      0.2725,
+      0.9288,
+      0.7314
+    ],
+    "type_id": 11,
+    "item_id": 142,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0161,
+      0.0731,
+      0.4547,
+      0.8236
+    ],
+    "type_id": 11,
+    "item_id": 143,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3586,
+      0.0,
+      0.9068,
+      0.7535
+    ],
+    "type_id": 11,
+    "item_id": 144,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4177,
+      0.1922,
+      0.6513,
+      0.3909
+    ],
+    "type_id": 11,
+    "item_id": 145,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.327,
+      0.5689,
+      0.6354,
+      0.8981
+    ],
+    "type_id": 11,
+    "item_id": 146,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2876,
+      0.0624,
+      1.0,
+      0.7797
+    ],
+    "type_id": 11,
+    "item_id": 147,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2261,
+      0.0,
+      1.0,
+      0.9539
+    ],
+    "type_id": 11,
+    "item_id": 148,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4167,
+      0.362,
+      0.9745,
+      0.74
+    ],
+    "type_id": 11,
+    "item_id": 149,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1492,
+      0.2549,
+      0.7467,
+      0.5362
+    ],
+    "type_id": 11,
+    "item_id": 150,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1634,
+      0.4474,
+      0.3957,
+      0.8098
+    ],
+    "type_id": 11,
+    "item_id": 151,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3092,
+      0.4055,
+      0.7657
+    ],
+    "type_id": 11,
+    "item_id": 152,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3302,
+      0.2284,
+      1.0,
+      0.8685
+    ],
+    "type_id": 11,
+    "item_id": 153,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4359,
+      0.4228,
+      0.9,
+      0.7642
+    ],
+    "type_id": 11,
+    "item_id": 154,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.6006,
+      0.3217,
+      1.0,
+      0.753
+    ],
+    "type_id": 11,
+    "item_id": 155,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.217,
+      0.813,
+      0.7917
+    ],
+    "type_id": 11,
+    "item_id": 156,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4035,
+      0.1798,
+      0.8704,
+      0.4716
+    ],
+    "type_id": 11,
+    "item_id": 157,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2508,
+      0.0,
+      1.0,
+      0.9258
+    ],
+    "type_id": 11,
+    "item_id": 158,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3944,
+      0.2956,
+      0.7884,
+      0.969
+    ],
+    "type_id": 11,
+    "item_id": 159,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2895,
+      0.4027,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 160,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3496,
+      0.0,
+      0.7387,
+      0.5228
+    ],
+    "type_id": 11,
+    "item_id": 161,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3386,
+      0.0845,
+      0.7004,
+      0.3734
+    ],
+    "type_id": 11,
+    "item_id": 162,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2024,
+      0.2062,
+      0.7697,
+      0.6592
+    ],
+    "type_id": 11,
+    "item_id": 163,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2064,
+      0.3883,
+      0.3966,
+      0.5628
+    ],
+    "type_id": 11,
+    "item_id": 164,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2808,
+      0.302,
+      0.7382,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 165,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2518,
+      0.337,
+      0.726,
+      0.5861
+    ],
+    "type_id": 11,
+    "item_id": 166,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0584,
+      0.1521,
+      0.7759,
+      0.8745
+    ],
+    "type_id": 11,
+    "item_id": 167,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2687,
+      0.6273,
+      0.8918
+    ],
+    "type_id": 11,
+    "item_id": 168,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.6594,
+      0.8045
+    ],
+    "type_id": 11,
+    "item_id": 169,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0061,
+      0.3203,
+      0.818,
+      0.5997
+    ],
+    "type_id": 11,
+    "item_id": 170,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.32,
+      0.6126,
+      0.8871
+    ],
+    "type_id": 11,
+    "item_id": 171,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1339,
+      0.1082,
+      0.5302,
+      0.6613
+    ],
+    "type_id": 11,
+    "item_id": 172,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4618,
+      0.3267,
+      0.8328,
+      0.8879
+    ],
+    "type_id": 11,
+    "item_id": 173,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1749,
+      0.625,
+      0.527,
+      0.8311
+    ],
+    "type_id": 11,
+    "item_id": 174,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2715,
+      0.0,
+      0.8408,
+      0.7619
+    ],
+    "type_id": 11,
+    "item_id": 175,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7618,
+      0.5208
+    ],
+    "type_id": 11,
+    "item_id": 176,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.2965,
+      0.8342,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 177,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1961,
+      0.0,
+      0.5785,
+      0.4874
+    ],
+    "type_id": 11,
+    "item_id": 178,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1218,
+      0.6089,
+      0.7736,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 179,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4426,
+      0.1713,
+      0.9083,
+      0.5924
+    ],
+    "type_id": 11,
+    "item_id": 180,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2254,
+      0.0,
+      1.0,
+      0.3978
+    ],
+    "type_id": 11,
+    "item_id": 181,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7227,
+      0.4041
+    ],
+    "type_id": 11,
+    "item_id": 182,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1565,
+      0.0,
+      1.0,
+      0.6467
+    ],
+    "type_id": 11,
+    "item_id": 183,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.4251,
+      0.5496,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 184,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_4.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3596,
+      0.2921,
+      1.0,
+      0.8106
+    ],
+    "type_id": 11,
+    "item_id": 185,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_5.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1127,
+      0.0,
+      1.0,
+      0.4294
+    ],
+    "type_id": 11,
+    "item_id": 186,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_6.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.6073,
+      0.294,
+      1.0,
+      0.9705
+    ],
+    "type_id": 11,
+    "item_id": 187,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_7.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0788,
+      0.5134,
+      0.6467,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 188,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_8.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.5341,
+      0.5179,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 189,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_9.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2868,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 190,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4148,
+      0.3918,
+      0.7568,
+      0.964
+    ],
+    "type_id": 11,
+    "item_id": 191,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3916,
+      0.0,
+      0.8548,
+      0.5572
+    ],
+    "type_id": 11,
+    "item_id": 192,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.4292,
+      0.7536,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 193,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_13.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1714,
+      0.4914,
+      1.0,
+      0.9884
+    ],
+    "type_id": 11,
+    "item_id": 194,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1636,
+      0.4363,
+      0.7457,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 195,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3881,
+      0.5926,
+      0.8194
+    ],
+    "type_id": 11,
+    "item_id": 196,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0446,
+      0.0,
+      0.7779,
+      0.6324
+    ],
+    "type_id": 11,
+    "item_id": 197,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_17.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4176,
+      0.2592,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 198,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2929,
+      0.1267,
+      0.8509,
+      0.8384
+    ],
+    "type_id": 11,
+    "item_id": 199,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_19.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3704,
+      0.0985,
+      1.0,
+      0.8934
+    ],
+    "type_id": 11,
+    "item_id": 200,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  }
+]

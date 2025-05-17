@@ -1,0 +1,2502 @@
+[
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031301.002220_i1588j169.png",
+    "type_id": 3,
+    "item_id": 1,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041244.626467_i1441j1418.png",
+    "type_id": 3,
+    "item_id": 2,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.477385_33.png",
+    "type_id": 3,
+    "item_id": 3,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025542.324649_i2645j531.png",
+    "type_id": 3,
+    "item_id": 4,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005036.000567.Cam6_64.png",
+    "type_id": 3,
+    "item_id": 5,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031741.892148_i1454j216.png",
+    "type_id": 3,
+    "item_id": 6,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_53_IMG_4735_i1800j1500.png",
+    "type_id": 3,
+    "item_id": 7,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041935.578460_i2406j1434.png",
+    "type_id": 3,
+    "item_id": 8,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041329.493594_i2550j1221.png",
+    "type_id": 3,
+    "item_id": 9,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i2100j1800.png",
+    "type_id": 3,
+    "item_id": 10,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030311.348933_i2188j80.png",
+    "type_id": 3,
+    "item_id": 11,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030951.395792_i1662j1296.png",
+    "type_id": 3,
+    "item_id": 12,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043601.339007_i1797j519.png",
+    "type_id": 3,
+    "item_id": 13,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_42_IMG_4759_i0j3300.png",
+    "type_id": 3,
+    "item_id": 14,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044008.438754_i2357j359.png",
+    "type_id": 3,
+    "item_id": 15,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004528.184672.Cam6_11.png",
+    "type_id": 3,
+    "item_id": 16,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031157.260604_i2757j1071.png",
+    "type_id": 3,
+    "item_id": 17,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030956.310322_i1663j973.png",
+    "type_id": 3,
+    "item_id": 18,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041742.079349_i1619j1106.png",
+    "type_id": 3,
+    "item_id": 19,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043931.005760_i2007j571.png",
+    "type_id": 3,
+    "item_id": 20,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013604.627962_52.png",
+    "type_id": 3,
+    "item_id": 21,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012822.713796_41.png",
+    "type_id": 3,
+    "item_id": 22,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042129.916264_i1453j1720.png",
+    "type_id": 3,
+    "item_id": 23,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041340.683931_i2190j1438.png",
+    "type_id": 3,
+    "item_id": 24,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024818.999861_i2767j1959.png",
+    "type_id": 3,
+    "item_id": 25,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031913.852655_i1702j75.png",
+    "type_id": 3,
+    "item_id": 26,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032437.227403_i2203j96.png",
+    "type_id": 3,
+    "item_id": 27,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041544.453146_i2389j92.png",
+    "type_id": 3,
+    "item_id": 28,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043958.104693_i2435j1644.png",
+    "type_id": 3,
+    "item_id": 29,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_56_IMG_4742_i3000j2100.png",
+    "type_id": 3,
+    "item_id": 30,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041422.143930_i2643j1305.png",
+    "type_id": 3,
+    "item_id": 31,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032248.372828_i2178j858.png",
+    "type_id": 3,
+    "item_id": 32,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043156.891241_i2031j1134.png",
+    "type_id": 3,
+    "item_id": 33,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004358.278063.Cam6_62.png",
+    "type_id": 3,
+    "item_id": 34,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045057.708414_i2676j1580.png",
+    "type_id": 3,
+    "item_id": 35,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044553.340906_i1870j1430.png",
+    "type_id": 3,
+    "item_id": 36,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031203.380298_i2459j1414.png",
+    "type_id": 3,
+    "item_id": 37,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043344.170371_i1757j1498.png",
+    "type_id": 3,
+    "item_id": 38,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_64_02_IMG_4799_i900j3000.png",
+    "type_id": 3,
+    "item_id": 39,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045126.583273_i2344j1609.png",
+    "type_id": 3,
+    "item_id": 40,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042300.967017_i2115j937.png",
+    "type_id": 3,
+    "item_id": 41,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041248.155468_i2089j1693.png",
+    "type_id": 3,
+    "item_id": 42,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005803.057403.Cam6_31.png",
+    "type_id": 3,
+    "item_id": 43,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025747.026216_i2611j996.png",
+    "type_id": 3,
+    "item_id": 44,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031304.659398_i2319j1526.png",
+    "type_id": 3,
+    "item_id": 45,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030916.763477_i1721j587.png",
+    "type_id": 3,
+    "item_id": 46,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4787_i2100j3000.png",
+    "type_id": 3,
+    "item_id": 47,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030707.137318_i1966j206.png",
+    "type_id": 3,
+    "item_id": 48,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032119.846106_i2251j203.png",
+    "type_id": 3,
+    "item_id": 49,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045103.765888_i1509j172.png",
+    "type_id": 3,
+    "item_id": 50,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042158.541202_i2514j596.png",
+    "type_id": 3,
+    "item_id": 51,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042853.080202_i1493j1015.png",
+    "type_id": 3,
+    "item_id": 52,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031213.318817_i1708j1917.png",
+    "type_id": 3,
+    "item_id": 53,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005734.485442.Cam6_42.png",
+    "type_id": 3,
+    "item_id": 54,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043133.563164_i1765j53.png",
+    "type_id": 3,
+    "item_id": 55,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004848.379337.Cam6_11.png",
+    "type_id": 3,
+    "item_id": 56,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005327.242198.Cam6_62.png",
+    "type_id": 3,
+    "item_id": 57,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004451.993418.Cam6_41.png",
+    "type_id": 3,
+    "item_id": 58,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024547.196942_i1459j1111.png",
+    "type_id": 3,
+    "item_id": 59,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042517.506093_i1642j645.png",
+    "type_id": 3,
+    "item_id": 60,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042140.306077_i2669j432.png",
+    "type_id": 3,
+    "item_id": 61,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041359.783244_i2213j832.png",
+    "type_id": 3,
+    "item_id": 62,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024649.798070_i2351j1826.png",
+    "type_id": 3,
+    "item_id": 63,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041205.271241_i1305j235.png",
+    "type_id": 3,
+    "item_id": 64,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_15_IMG_4663_i2100j2100.png",
+    "type_id": 3,
+    "item_id": 65,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4786_i2700j1500.png",
+    "type_id": 3,
+    "item_id": 66,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044901.282755_i1398j1250.png",
+    "type_id": 3,
+    "item_id": 67,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004609.899802.Cam6_51.png",
+    "type_id": 3,
+    "item_id": 68,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013322.910417_12.png",
+    "type_id": 3,
+    "item_id": 69,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013230.337859_32.png",
+    "type_id": 3,
+    "item_id": 70,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004348.182606.Cam6_54.png",
+    "type_id": 3,
+    "item_id": 71,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013116.812606_32.png",
+    "type_id": 3,
+    "item_id": 72,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030509.562878_i1600j1546.png",
+    "type_id": 3,
+    "item_id": 73,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031736.833678_i1682j1692.png",
+    "type_id": 3,
+    "item_id": 74,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031211.695401_i1584j1290.png",
+    "type_id": 3,
+    "item_id": 75,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042144.163444_i2606j1386.png",
+    "type_id": 3,
+    "item_id": 76,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005959.821662.Cam6_14.png",
+    "type_id": 3,
+    "item_id": 77,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043754.643069_i1425j46.png",
+    "type_id": 3,
+    "item_id": 78,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041948.079210_i1619j1803.png",
+    "type_id": 3,
+    "item_id": 79,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042955.295890_i1981j1512.png",
+    "type_id": 3,
+    "item_id": 80,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005758.295430.Cam6_13.png",
+    "type_id": 3,
+    "item_id": 81,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_30_IMG_4765_i2700j1200.png",
+    "type_id": 3,
+    "item_id": 82,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_15_IMG_4451_i300j3000.png",
+    "type_id": 3,
+    "item_id": 83,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005546.102195.Cam6_52.png",
+    "type_id": 3,
+    "item_id": 84,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041411.899862_i1976j261.png",
+    "type_id": 3,
+    "item_id": 85,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031709.338473_i2027j1377.png",
+    "type_id": 3,
+    "item_id": 86,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031725.113349_i1538j1095.png",
+    "type_id": 3,
+    "item_id": 87,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025618.740464_i2777j1343.png",
+    "type_id": 3,
+    "item_id": 88,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043104.115237_i2556j1040.png",
+    "type_id": 3,
+    "item_id": 89,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024524.196447_i2349j212.png",
+    "type_id": 3,
+    "item_id": 90,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005110.287026.Cam6_64.png",
+    "type_id": 3,
+    "item_id": 91,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005044.000731.Cam6_21.png",
+    "type_id": 3,
+    "item_id": 92,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031702.209400_i1945j527.png",
+    "type_id": 3,
+    "item_id": 93,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4350_i2700j600.png",
+    "type_id": 3,
+    "item_id": 94,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042314.269427_i2569j1931.png",
+    "type_id": 3,
+    "item_id": 95,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044013.167563_i2626j319.png",
+    "type_id": 3,
+    "item_id": 96,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_16_IMG_4780_i1500j2700.png",
+    "type_id": 3,
+    "item_id": 97,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.190138_i2502j193.png",
+    "type_id": 3,
+    "item_id": 98,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043056.186105_i2590j558.png",
+    "type_id": 3,
+    "item_id": 99,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004532.565766.Cam6_33.png",
+    "type_id": 3,
+    "item_id": 100,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.993845_i2163j235.png",
+    "type_id": 3,
+    "item_id": 101,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030913.963952_i1524j1920.png",
+    "type_id": 3,
+    "item_id": 102,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041328.693238_i2386j1815.png",
+    "type_id": 3,
+    "item_id": 103,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_54_IMG_4730_i300j4500.png",
+    "type_id": 3,
+    "item_id": 104,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031529.152526_i2589j1365.png",
+    "type_id": 3,
+    "item_id": 105,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024805.599426_i2409j328.png",
+    "type_id": 3,
+    "item_id": 106,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024821.200051_i2328j1817.png",
+    "type_id": 3,
+    "item_id": 107,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043812.344637_i1873j1623.png",
+    "type_id": 3,
+    "item_id": 108,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042406.392147_i2131j803.png",
+    "type_id": 3,
+    "item_id": 109,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4403_i1800j4800.png",
+    "type_id": 3,
+    "item_id": 110,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031159.517735_i2433j1615.png",
+    "type_id": 3,
+    "item_id": 111,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_09_IMG_4661_i600j2700.png",
+    "type_id": 3,
+    "item_id": 112,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013606.151743_11.png",
+    "type_id": 3,
+    "item_id": 113,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032113.459434_i1365j1200.png",
+    "type_id": 3,
+    "item_id": 114,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043459.661966_i2403j600.png",
+    "type_id": 3,
+    "item_id": 115,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4437_i900j1800.png",
+    "type_id": 3,
+    "item_id": 116,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4403_i3000j1200.png",
+    "type_id": 3,
+    "item_id": 117,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.623044.Cam6_13.png",
+    "type_id": 3,
+    "item_id": 118,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025740.240040_i2686j1704.png",
+    "type_id": 3,
+    "item_id": 119,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.051533.Cam6_22.png",
+    "type_id": 3,
+    "item_id": 120,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044503.479096_i2288j1644.png",
+    "type_id": 3,
+    "item_id": 121,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_56_IMG_4748_i600j2700.png",
+    "type_id": 3,
+    "item_id": 122,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_49_IMG_4369_i1500j1500.png",
+    "type_id": 3,
+    "item_id": 123,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005425.529158.Cam6_12.png",
+    "type_id": 3,
+    "item_id": 124,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032421.183884_i2195j113.png",
+    "type_id": 3,
+    "item_id": 125,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032241.311275_i1983j222.png",
+    "type_id": 3,
+    "item_id": 126,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005817.914830.Cam6_41.png",
+    "type_id": 3,
+    "item_id": 127,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025940.771541_i1528j762.png",
+    "type_id": 3,
+    "item_id": 128,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041205.471097_i2146j1949.png",
+    "type_id": 3,
+    "item_id": 129,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044205.504374_i2478j1852.png",
+    "type_id": 3,
+    "item_id": 130,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041345.540071_i2623j1071.png",
+    "type_id": 3,
+    "item_id": 131,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005501.339388.Cam6_41.png",
+    "type_id": 3,
+    "item_id": 132,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025012.531796_i1934j747.png",
+    "type_id": 3,
+    "item_id": 133,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043332.775765_i1757j202.png",
+    "type_id": 3,
+    "item_id": 134,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005943.440459.Cam6_44.png",
+    "type_id": 3,
+    "item_id": 135,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4363_i1500j2700.png",
+    "type_id": 3,
+    "item_id": 136,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025732.853610_i2589j400.png",
+    "type_id": 3,
+    "item_id": 137,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004549.137497.Cam6_21.png",
+    "type_id": 3,
+    "item_id": 138,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_45_IMG_4757_i600j4200.png",
+    "type_id": 3,
+    "item_id": 139,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4469_i2100j2100.png",
+    "type_id": 3,
+    "item_id": 140,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "type_id": 3,
+    "item_id": 141,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043038.744792_i1544j302.png",
+    "type_id": 3,
+    "item_id": 142,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013232.433153_31.png",
+    "type_id": 3,
+    "item_id": 143,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031132.560120_i1732j994.png",
+    "type_id": 3,
+    "item_id": 144,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024905.330512_i2488j826.png",
+    "type_id": 3,
+    "item_id": 145,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004353.706594.Cam6_22.png",
+    "type_id": 3,
+    "item_id": 146,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031131.159897_i2653j450.png",
+    "type_id": 3,
+    "item_id": 147,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030101.442833_i1726j56.png",
+    "type_id": 3,
+    "item_id": 148,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_06_IMG_4421_i1200j2100.png",
+    "type_id": 3,
+    "item_id": 149,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i900j2700.png",
+    "type_id": 3,
+    "item_id": 150,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025754.284147_i2715j1779.png",
+    "type_id": 3,
+    "item_id": 151,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041344.940374_i1526j1764.png",
+    "type_id": 3,
+    "item_id": 152,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043949.462002_i1390j1281.png",
+    "type_id": 3,
+    "item_id": 153,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043712.370473_i2434j1058.png",
+    "type_id": 3,
+    "item_id": 154,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024836.000107_i2222j263.png",
+    "type_id": 3,
+    "item_id": 155,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025540.925425_i2323j111.png",
+    "type_id": 3,
+    "item_id": 156,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031802.468252_i1562j1919.png",
+    "type_id": 3,
+    "item_id": 157,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024420.195210_i2574j950.png",
+    "type_id": 3,
+    "item_id": 158,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_18_IMG_4449_i2700j2100.png",
+    "type_id": 3,
+    "item_id": 159,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044502.278830_i2456j328.png",
+    "type_id": 3,
+    "item_id": 160,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030325.319795_i2171j596.png",
+    "type_id": 3,
+    "item_id": 161,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044038.507721_i2096j1199.png",
+    "type_id": 3,
+    "item_id": 162,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_50_IMG_4754_i2700j1200.png",
+    "type_id": 3,
+    "item_id": 163,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030715.654311_i2611j528.png",
+    "type_id": 3,
+    "item_id": 164,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030855.474150_i1694j1482.png",
+    "type_id": 3,
+    "item_id": 165,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043812.944659_i1937j1767.png",
+    "type_id": 3,
+    "item_id": 166,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013507.674427_21.png",
+    "type_id": 3,
+    "item_id": 167,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024339.594134_i2357j1694.png",
+    "type_id": 3,
+    "item_id": 168,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032501.212589_i2294j73.png",
+    "type_id": 3,
+    "item_id": 169,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031531.081622_i2463j775.png",
+    "type_id": 3,
+    "item_id": 170,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025932.829605_i2061j231.png",
+    "type_id": 3,
+    "item_id": 171,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042529.220976_i1860j1361.png",
+    "type_id": 3,
+    "item_id": 172,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005420.576678.Cam6_43.png",
+    "type_id": 3,
+    "item_id": 173,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031350.474516_i1716j1888.png",
+    "type_id": 3,
+    "item_id": 174,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004804.378421.Cam6_62.png",
+    "type_id": 3,
+    "item_id": 175,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005908.011100.Cam6_23.png",
+    "type_id": 3,
+    "item_id": 176,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_43_IMG_4703_i900j2400.png",
+    "type_id": 3,
+    "item_id": 177,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013638.152395_11.png",
+    "type_id": 3,
+    "item_id": 178,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043408.823210_i1488j1730.png",
+    "type_id": 3,
+    "item_id": 179,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042032.340449_i1761j1853.png",
+    "type_id": 3,
+    "item_id": 180,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024940.131172_i1959j84.png",
+    "type_id": 3,
+    "item_id": 181,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044602.054569_i2706j1767.png",
+    "type_id": 3,
+    "item_id": 182,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031226.872885_i2050j1747.png",
+    "type_id": 3,
+    "item_id": 183,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024542.796532_i1753j124.png",
+    "type_id": 3,
+    "item_id": 184,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042135.173113_i2723j1635.png",
+    "type_id": 3,
+    "item_id": 185,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041304.927824_i2623j137.png",
+    "type_id": 3,
+    "item_id": 186,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042954.695834_i2140j1189.png",
+    "type_id": 3,
+    "item_id": 187,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045010.156586_i2071j1215.png",
+    "type_id": 3,
+    "item_id": 188,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044847.567049_i2451j1250.png",
+    "type_id": 3,
+    "item_id": 189,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032028.019925_i1637j12.png",
+    "type_id": 3,
+    "item_id": 190,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024417.600390_i1988j1865.png",
+    "type_id": 3,
+    "item_id": 191,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005607.817023.Cam6_72.png",
+    "type_id": 3,
+    "item_id": 192,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041230.848267_i1990j1861.png",
+    "type_id": 3,
+    "item_id": 193,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_07_IMG_4408_i600j1200.png",
+    "type_id": 3,
+    "item_id": 194,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004854.093706.Cam6_42.png",
+    "type_id": 3,
+    "item_id": 195,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042453.652637_i2094j725.png",
+    "type_id": 3,
+    "item_id": 196,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024514.196325_i2205j1163.png",
+    "type_id": 3,
+    "item_id": 197,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_57_IMG_4385_i1200j4500.png",
+    "type_id": 3,
+    "item_id": 198,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024510.795802_i2460j375.png",
+    "type_id": 3,
+    "item_id": 199,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045102.965815_i2009j840.png",
+    "type_id": 3,
+    "item_id": 200,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024529.396540_i2246j965.png",
+    "type_id": 3,
+    "item_id": 201,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030416.224953_i1454j433.png",
+    "type_id": 3,
+    "item_id": 202,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032505.412663_i2003j362.png",
+    "type_id": 3,
+    "item_id": 203,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041756.928242_i2286j18.png",
+    "type_id": 3,
+    "item_id": 204,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004355.801761.Cam6_12.png",
+    "type_id": 3,
+    "item_id": 205,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005919.630463.Cam6_61.png",
+    "type_id": 3,
+    "item_id": 206,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044403.341817_i2348j1801.png",
+    "type_id": 3,
+    "item_id": 207,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025644.588445_i2650j375.png",
+    "type_id": 3,
+    "item_id": 208,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013150.146539_34.png",
+    "type_id": 3,
+    "item_id": 209,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030529.868886_i1816j1963.png",
+    "type_id": 3,
+    "item_id": 210,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041223.662451_i2370j1154.png",
+    "type_id": 3,
+    "item_id": 211,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005948.773940.Cam6_51.png",
+    "type_id": 3,
+    "item_id": 212,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4364_i2400j1200.png",
+    "type_id": 3,
+    "item_id": 213,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004603.614052.Cam6_41.png",
+    "type_id": 3,
+    "item_id": 214,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031640.839592_i2476j1723.png",
+    "type_id": 3,
+    "item_id": 215,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042507.243916_i2379j1751.png",
+    "type_id": 3,
+    "item_id": 216,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042515.777470_i2411j620.png",
+    "type_id": 3,
+    "item_id": 217,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025511.962892_i2576j1786.png",
+    "type_id": 3,
+    "item_id": 218,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013115.669706_21.png",
+    "type_id": 3,
+    "item_id": 219,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i600j3000.png",
+    "type_id": 3,
+    "item_id": 220,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030939.080660_i1625j1735.png",
+    "type_id": 3,
+    "item_id": 221,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005445.910443.Cam6_61.png",
+    "type_id": 3,
+    "item_id": 222,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043955.376010_i1657j801.png",
+    "type_id": 3,
+    "item_id": 223,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_21_IMG_4399_i3000j3000.png",
+    "type_id": 3,
+    "item_id": 224,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041354.726254_i2535j1104.png",
+    "type_id": 3,
+    "item_id": 225,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004418.278486.Cam6_51.png",
+    "type_id": 3,
+    "item_id": 226,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013505.198129_43.png",
+    "type_id": 3,
+    "item_id": 227,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_27_IMG_4691_i600j2700.png",
+    "type_id": 3,
+    "item_id": 228,
+    "question": "Are there any almonds?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044320.291486_i1839j1954.png",
+    "type_id": 3,
+    "item_id": 229,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044256.355244_i2175j1789.png",
+    "type_id": 3,
+    "item_id": 230,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042513.649272_i1765j587.png",
+    "type_id": 3,
+    "item_id": 231,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004406.278234.Cam6_32.png",
+    "type_id": 3,
+    "item_id": 232,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031403.861490_i1265j811.png",
+    "type_id": 3,
+    "item_id": 233,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024826.800155_i2555j1898.png",
+    "type_id": 3,
+    "item_id": 234,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032006.705071_i2197j675.png",
+    "type_id": 3,
+    "item_id": 235,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004400.563862.Cam6_62.png",
+    "type_id": 3,
+    "item_id": 236,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044257.155280_i2542j1826.png",
+    "type_id": 3,
+    "item_id": 237,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043757.571853_i1735j1243.png",
+    "type_id": 3,
+    "item_id": 238,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024853.531358_i1970j951.png",
+    "type_id": 3,
+    "item_id": 239,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013223.290091_21.png",
+    "type_id": 3,
+    "item_id": 240,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.590101_i1578j474.png",
+    "type_id": 3,
+    "item_id": 241,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030127.950515_i2052j361.png",
+    "type_id": 3,
+    "item_id": 242,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042203.798629_i1620j317.png",
+    "type_id": 3,
+    "item_id": 243,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005952.393012.Cam6_32.png",
+    "type_id": 3,
+    "item_id": 244,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004349.135000.Cam6_11.png",
+    "type_id": 3,
+    "item_id": 245,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005229.717262.Cam6_14.png",
+    "type_id": 3,
+    "item_id": 246,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043157.091180_i1414j1514.png",
+    "type_id": 3,
+    "item_id": 247,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005641.531967.Cam6_13.png",
+    "type_id": 3,
+    "item_id": 248,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004433.135911.Cam6_52.png",
+    "type_id": 3,
+    "item_id": 249,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_53_IMG_4388_i1800j2700.png",
+    "type_id": 3,
+    "item_id": 250,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  }
+]

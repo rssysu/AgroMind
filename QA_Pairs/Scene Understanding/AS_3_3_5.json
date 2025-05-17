@@ -1,0 +1,4546 @@
+[
+  {
+    "image_path": "./Trees/images/5d96feee0a75b70006703919_4363.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21000-21100]square meters",
+      "B": "[11800-11900]square meters",
+      "C": "[13000-13100]square meters",
+      "D": "[6700-6800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2500-2600]square meters",
+      "B": "[21000-21100]square meters",
+      "C": "[7100-7200]square meters",
+      "D": "[22800-22900]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "Given that the actual geographical area of the entire image is 41896.94 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8200-8300]square meters",
+      "B": "[38200-38300]square meters",
+      "C": "[6900-7000]square meters",
+      "D": "[25600-25700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3200-3300]square meters",
+      "B": "[3600-3700]square meters",
+      "C": "[37900-38000]square meters",
+      "D": "[8600-8700]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60ff2cea5a90f10006fd3008_1335.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21100-21200]square meters",
+      "B": "[28600-28700]square meters",
+      "C": "[22700-22800]square meters",
+      "D": "[43900-44000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_339.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[29100-29200]square meters",
+      "B": "[400-500]square meters",
+      "C": "[8200-8300]square meters",
+      "D": "[33400-33500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_3280.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "Given that the actual geographical area of the entire image is 41984.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14700-14800]square meters",
+      "B": "[2100-2200]square meters",
+      "C": "[29500-29600]square meters",
+      "D": "[24000-24100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16300-16400]square meters",
+      "B": "[7000-7100]square meters",
+      "C": "[25100-25200]square meters",
+      "D": "[13100-13200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_1709.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "Given that the actual geographical area of the entire image is 42178.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43100-43200]square meters",
+      "B": "[32400-32500]square meters",
+      "C": "[38500-38600]square meters",
+      "D": "[25300-25400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "Given that the actual geographical area of the entire image is 41948.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[28200-28300]square meters",
+      "B": "[5500-5600]square meters",
+      "C": "[12100-12200]square meters",
+      "D": "[5100-5200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3000-3100]square meters",
+      "B": "[0-100]square meters",
+      "C": "[32900-33000]square meters",
+      "D": "[11900-12000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_3626.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1000-1100]square meters",
+      "B": "[31000-31100]square meters",
+      "C": "[37200-37300]square meters",
+      "D": "[35900-36000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bea077d41f79800070a4f67_3296.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17200-17300]square meters",
+      "B": "[29800-29900]square meters",
+      "C": "[21900-22000]square meters",
+      "D": "[20700-20800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "Given that the actual geographical area of the entire image is 41980.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10300-10400]square meters",
+      "B": "[22900-23000]square meters",
+      "C": "[27800-27900]square meters",
+      "D": "[30000-30100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e56fdde2408ff000614bb7e_2192.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12800-12900]square meters",
+      "B": "[14400-14500]square meters",
+      "C": "[10200-10300]square meters",
+      "D": "[2400-2500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41800-41900]square meters",
+      "B": "[38800-38900]square meters",
+      "C": "[33800-33900]square meters",
+      "D": "[14000-14100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "Given that the actual geographical area of the entire image is 41980.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[27100-27200]square meters",
+      "B": "[20700-20800]square meters",
+      "C": "[3800-3900]square meters",
+      "D": "[17300-17400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13400-13500]square meters",
+      "B": "[5400-5500]square meters",
+      "C": "[2400-2500]square meters",
+      "D": "[19900-20000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3067.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1900-2000]square meters",
+      "B": "[34100-34200]square meters",
+      "C": "[8700-8800]square meters",
+      "D": "[15900-16000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d97350ae2b1f300057cb38a_4266.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10100-10200]square meters",
+      "B": "[44600-44700]square meters",
+      "C": "[15000-15100]square meters",
+      "D": "[2300-2400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_2921.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16700-16800]square meters",
+      "B": "[9900-10000]square meters",
+      "C": "[17600-17700]square meters",
+      "D": "[4400-4500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_1503.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12600-12700]square meters",
+      "B": "[35700-35800]square meters",
+      "C": "[8700-8800]square meters",
+      "D": "[40000-40100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_619.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38200-38300]square meters",
+      "B": "[20900-21000]square meters",
+      "C": "[29100-29200]square meters",
+      "D": "[31800-31900]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3877.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "Given that the actual geographical area of the entire image is 42178.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21400-21500]square meters",
+      "B": "[41500-41600]square meters",
+      "C": "[41700-41800]square meters",
+      "D": "[2700-2800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "Given that the actual geographical area of the entire image is 41944.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43500-43600]square meters",
+      "B": "[19400-19500]square meters",
+      "C": "[9700-9800]square meters",
+      "D": "[6000-6100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43700-43800]square meters",
+      "B": "[5800-5900]square meters",
+      "C": "[24400-24500]square meters",
+      "D": "[24100-24200]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_2105.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5200-5300]square meters",
+      "B": "[5400-5500]square meters",
+      "C": "[1000-1100]square meters",
+      "D": "[30700-30800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9600-9700]square meters",
+      "B": "[33600-33700]square meters",
+      "C": "[24400-24500]square meters",
+      "D": "[10500-10600]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+    "type_id": 1,
+    "item_id": 29,
+    "question": "Given that the actual geographical area of the entire image is 41980.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17900-18000]square meters",
+      "B": "[12000-12100]square meters",
+      "C": "[27300-27400]square meters",
+      "D": "[2000-2100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ae3ab860b093000130aff79_3793.jpg",
+    "type_id": 1,
+    "item_id": 30,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16800-16900]square meters",
+      "B": "[38800-38900]square meters",
+      "C": "[4800-4900]square meters",
+      "D": "[2600-2700]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_4101.jpg",
+    "type_id": 1,
+    "item_id": 31,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14100-14200]square meters",
+      "B": "[35700-35800]square meters",
+      "C": "[20800-20900]square meters",
+      "D": "[40200-40300]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg",
+    "type_id": 1,
+    "item_id": 32,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16400-16500]square meters",
+      "B": "[15600-15700]square meters",
+      "C": "[30900-31000]square meters",
+      "D": "[21400-21500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+    "type_id": 1,
+    "item_id": 33,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[0-100]square meters",
+      "B": "[15400-15500]square meters",
+      "C": "[19000-19100]square meters",
+      "D": "[14300-14400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+    "type_id": 1,
+    "item_id": 34,
+    "question": "Given that the actual geographical area of the entire image is 41984.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[30200-30300]square meters",
+      "B": "[0-100]square meters",
+      "C": "[30500-30600]square meters",
+      "D": "[13400-13500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_225.jpg",
+    "type_id": 1,
+    "item_id": 35,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31400-31500]square meters",
+      "B": "[28200-28300]square meters",
+      "C": "[3300-3400]square meters",
+      "D": "[4300-4400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3931.jpg",
+    "type_id": 1,
+    "item_id": 36,
+    "question": "Given that the actual geographical area of the entire image is 42178.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42100-42200]square meters",
+      "B": "[23500-23600]square meters",
+      "C": "[34000-34100]square meters",
+      "D": "[4500-4600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+    "type_id": 1,
+    "item_id": 37,
+    "question": "Given that the actual geographical area of the entire image is 41948.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38300-38400]square meters",
+      "B": "[5500-5600]square meters",
+      "C": "[14000-14100]square meters",
+      "D": "[10100-10200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+    "type_id": 1,
+    "item_id": 38,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21600-21700]square meters",
+      "B": "[1300-1400]square meters",
+      "C": "[34000-34100]square meters",
+      "D": "[40800-40900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1592.jpg",
+    "type_id": 1,
+    "item_id": 39,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37100-37200]square meters",
+      "B": "[44900-45000]square meters",
+      "C": "[3900-4000]square meters",
+      "D": "[9800-9900]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+    "type_id": 1,
+    "item_id": 40,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12200-12300]square meters",
+      "B": "[1200-1300]square meters",
+      "C": "[8400-8500]square meters",
+      "D": "[36300-36400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+    "type_id": 1,
+    "item_id": 41,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17200-17300]square meters",
+      "B": "[1900-2000]square meters",
+      "C": "[30800-30900]square meters",
+      "D": "[1600-1700]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+    "type_id": 1,
+    "item_id": 42,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1400-1500]square meters",
+      "B": "[16800-16900]square meters",
+      "C": "[34300-34400]square meters",
+      "D": "[34500-34600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3617.jpg",
+    "type_id": 1,
+    "item_id": 43,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39400-39500]square meters",
+      "B": "[33500-33600]square meters",
+      "C": "[23300-23400]square meters",
+      "D": "[22200-22300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_23.jpg",
+    "type_id": 1,
+    "item_id": 44,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12800-12900]square meters",
+      "B": "[10400-10500]square meters",
+      "C": "[300-400]square meters",
+      "D": "[14400-14500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+    "type_id": 1,
+    "item_id": 45,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[2600-2700]square meters",
+      "C": "[13600-13700]square meters",
+      "D": "[40000-40100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+    "type_id": 1,
+    "item_id": 46,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14100-14200]square meters",
+      "B": "[13700-13800]square meters",
+      "C": "[39700-39800]square meters",
+      "D": "[4600-4700]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+    "type_id": 1,
+    "item_id": 47,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[28100-28200]square meters",
+      "B": "[2900-3000]square meters",
+      "C": "[15800-15900]square meters",
+      "D": "[13200-13300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3098.jpg",
+    "type_id": 1,
+    "item_id": 48,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21200-21300]square meters",
+      "B": "[34300-34400]square meters",
+      "C": "[41500-41600]square meters",
+      "D": "[27800-27900]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+    "type_id": 1,
+    "item_id": 49,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12700-12800]square meters",
+      "B": "[21900-22000]square meters",
+      "C": "[24600-24700]square meters",
+      "D": "[9300-9400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+    "type_id": 1,
+    "item_id": 50,
+    "question": "Given that the actual geographical area of the entire image is 41984.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5400-5500]square meters",
+      "B": "[10400-10500]square meters",
+      "C": "[1300-1400]square meters",
+      "D": "[21100-21200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+    "type_id": 1,
+    "item_id": 51,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37600-37700]square meters",
+      "B": "[36600-36700]square meters",
+      "C": "[6000-6100]square meters",
+      "D": "[5000-5100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_346.jpg",
+    "type_id": 1,
+    "item_id": 52,
+    "question": "Given that the actual geographical area of the entire image is 41948.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39600-39700]square meters",
+      "B": "[34500-34600]square meters",
+      "C": "[9600-9700]square meters",
+      "D": "[21300-21400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+    "type_id": 1,
+    "item_id": 53,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[15600-15700]square meters",
+      "B": "[4000-4100]square meters",
+      "C": "[44000-44100]square meters",
+      "D": "[8900-9000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+    "type_id": 1,
+    "item_id": 54,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10300-10400]square meters",
+      "B": "[2800-2900]square meters",
+      "C": "[28100-28200]square meters",
+      "D": "[14900-15000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg",
+    "type_id": 1,
+    "item_id": 55,
+    "question": "Given that the actual geographical area of the entire image is 41781.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33300-33400]square meters",
+      "B": "[20300-20400]square meters",
+      "C": "[14600-14700]square meters",
+      "D": "[33800-33900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+    "type_id": 1,
+    "item_id": 56,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4600-4700]square meters",
+      "B": "[39700-39800]square meters",
+      "C": "[25500-25600]square meters",
+      "D": "[1200-1300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2540.jpg",
+    "type_id": 1,
+    "item_id": 57,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[0-100]square meters",
+      "B": "[11200-11300]square meters",
+      "C": "[42500-42600]square meters",
+      "D": "[6900-7000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg",
+    "type_id": 1,
+    "item_id": 58,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39000-39100]square meters",
+      "B": "[27900-28000]square meters",
+      "C": "[10100-10200]square meters",
+      "D": "[17100-17200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg",
+    "type_id": 1,
+    "item_id": 59,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[800-900]square meters",
+      "B": "[20500-20600]square meters",
+      "C": "[24700-24800]square meters",
+      "D": "[22500-22600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+    "type_id": 1,
+    "item_id": 60,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1500-1600]square meters",
+      "B": "[39200-39300]square meters",
+      "C": "[8600-8700]square meters",
+      "D": "[29500-29600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg",
+    "type_id": 1,
+    "item_id": 61,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[0-100]square meters",
+      "B": "[29900-30000]square meters",
+      "C": "[2800-2900]square meters",
+      "D": "[38300-38400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+    "type_id": 1,
+    "item_id": 62,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17600-17700]square meters",
+      "B": "[500-600]square meters",
+      "C": "[22400-22500]square meters",
+      "D": "[29500-29600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg",
+    "type_id": 1,
+    "item_id": 63,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19100-19200]square meters",
+      "B": "[40900-41000]square meters",
+      "C": "[43500-43600]square meters",
+      "D": "[1900-2000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1840.jpg",
+    "type_id": 1,
+    "item_id": 64,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12900-13000]square meters",
+      "B": "[23100-23200]square meters",
+      "C": "[4300-4400]square meters",
+      "D": "[15700-15800]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+    "type_id": 1,
+    "item_id": 65,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[23600-23700]square meters",
+      "B": "[15100-15200]square meters",
+      "C": "[600-700]square meters",
+      "D": "[41100-41200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_507.jpg",
+    "type_id": 1,
+    "item_id": 66,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[30500-30600]square meters",
+      "B": "[24300-24400]square meters",
+      "C": "[19800-19900]square meters",
+      "D": "[41900-42000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+    "type_id": 1,
+    "item_id": 67,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36500-36600]square meters",
+      "B": "[32100-32200]square meters",
+      "C": "[400-500]square meters",
+      "D": "[4400-4500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_973.jpg",
+    "type_id": 1,
+    "item_id": 68,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[2400-2500]square meters",
+      "C": "[27800-27900]square meters",
+      "D": "[8500-8600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5fd2c45c8fcb370005f66132_714.jpg",
+    "type_id": 1,
+    "item_id": 69,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1600-1700]square meters",
+      "B": "[6400-6500]square meters",
+      "C": "[3500-3600]square meters",
+      "D": "[36700-36800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e59ab19305ba00006300322_523.jpg",
+    "type_id": 1,
+    "item_id": 70,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39700-39800]square meters",
+      "B": "[9500-9600]square meters",
+      "C": "[10300-10400]square meters",
+      "D": "[2600-2700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+    "type_id": 1,
+    "item_id": 71,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[32400-32500]square meters",
+      "B": "[16000-16100]square meters",
+      "C": "[39900-40000]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+    "type_id": 1,
+    "item_id": 72,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5900-6000]square meters",
+      "B": "[37900-38000]square meters",
+      "C": "[8600-8700]square meters",
+      "D": "[17100-17200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d261c18161a790005c03e77_4726.jpg",
+    "type_id": 1,
+    "item_id": 73,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8000-8100]square meters",
+      "B": "[13800-13900]square meters",
+      "C": "[4800-4900]square meters",
+      "D": "[34800-34900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c1d229322b2680005e3febe_4878.jpg",
+    "type_id": 1,
+    "item_id": 74,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5100-5200]square meters",
+      "B": "[2300-2400]square meters",
+      "C": "[25700-25800]square meters",
+      "D": "[37000-37100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+    "type_id": 1,
+    "item_id": 75,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13200-13300]square meters",
+      "B": "[3200-3300]square meters",
+      "C": "[5700-5800]square meters",
+      "D": "[17400-17500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+    "type_id": 1,
+    "item_id": 76,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6900-7000]square meters",
+      "B": "[22900-23000]square meters",
+      "C": "[27200-27300]square meters",
+      "D": "[17800-17900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2296.jpg",
+    "type_id": 1,
+    "item_id": 77,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6300-6400]square meters",
+      "B": "[31400-31500]square meters",
+      "C": "[35800-35900]square meters",
+      "D": "[9100-9200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+    "type_id": 1,
+    "item_id": 78,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5100-5200]square meters",
+      "B": "[14800-14900]square meters",
+      "C": "[1500-1600]square meters",
+      "D": "[35500-35600]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+    "type_id": 1,
+    "item_id": 79,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31800-31900]square meters",
+      "B": "[41000-41100]square meters",
+      "C": "[30300-30400]square meters",
+      "D": "[39200-39300]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+    "type_id": 1,
+    "item_id": 80,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17000-17100]square meters",
+      "B": "[2800-2900]square meters",
+      "C": "[1500-1600]square meters",
+      "D": "[28000-28100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1549.jpg",
+    "type_id": 1,
+    "item_id": 81,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36900-37000]square meters",
+      "B": "[18300-18400]square meters",
+      "C": "[15800-15900]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+    "type_id": 1,
+    "item_id": 82,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1900-2000]square meters",
+      "B": "[44100-44200]square meters",
+      "C": "[13900-14000]square meters",
+      "D": "[42400-42500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_555.jpg",
+    "type_id": 1,
+    "item_id": 83,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37200-37300]square meters",
+      "B": "[15400-15500]square meters",
+      "C": "[12200-12300]square meters",
+      "D": "[7000-7100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_1586.jpg",
+    "type_id": 1,
+    "item_id": 84,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17200-17300]square meters",
+      "B": "[4100-4200]square meters",
+      "C": "[5500-5600]square meters",
+      "D": "[17100-17200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+    "type_id": 1,
+    "item_id": 85,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[200-300]square meters",
+      "B": "[11300-11400]square meters",
+      "C": "[43300-43400]square meters",
+      "D": "[22500-22600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2739.jpg",
+    "type_id": 1,
+    "item_id": 86,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19000-19100]square meters",
+      "B": "[11000-11100]square meters",
+      "C": "[39700-39800]square meters",
+      "D": "[10300-10400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d261c18161a790005c03e77_4973.jpg",
+    "type_id": 1,
+    "item_id": 87,
+    "question": "Given that the actual geographical area of the entire image is 41877.77 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3600-3700]square meters",
+      "B": "[2100-2200]square meters",
+      "C": "[30500-30600]square meters",
+      "D": "[24500-24600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+    "type_id": 1,
+    "item_id": 88,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38000-38100]square meters",
+      "B": "[36400-36500]square meters",
+      "C": "[600-700]square meters",
+      "D": "[25400-25500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg",
+    "type_id": 1,
+    "item_id": 89,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41400-41500]square meters",
+      "B": "[0-100]square meters",
+      "C": "[44900-45000]square meters",
+      "D": "[44400-44500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_3388.jpg",
+    "type_id": 1,
+    "item_id": 90,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[37100-37200]square meters",
+      "C": "[22900-23000]square meters",
+      "D": "[2100-2200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+    "type_id": 1,
+    "item_id": 91,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[30300-30400]square meters",
+      "B": "[32300-32400]square meters",
+      "C": "[16200-16300]square meters",
+      "D": "[2500-2600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+    "type_id": 1,
+    "item_id": 92,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12400-12500]square meters",
+      "B": "[32400-32500]square meters",
+      "C": "[25300-25400]square meters",
+      "D": "[5900-6000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_1049.jpg",
+    "type_id": 1,
+    "item_id": 93,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41700-41800]square meters",
+      "B": "[100-200]square meters",
+      "C": "[1600-1700]square meters",
+      "D": "[26400-26500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1042.jpg",
+    "type_id": 1,
+    "item_id": 94,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20700-20800]square meters",
+      "B": "[13800-13900]square meters",
+      "C": "[17600-17700]square meters",
+      "D": "[15300-15400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_3345.jpg",
+    "type_id": 1,
+    "item_id": 95,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[11800-11900]square meters",
+      "B": "[1800-1900]square meters",
+      "C": "[4900-5000]square meters",
+      "D": "[17500-17600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+    "type_id": 1,
+    "item_id": 96,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33600-33700]square meters",
+      "B": "[14400-14500]square meters",
+      "C": "[31600-31700]square meters",
+      "D": "[3200-3300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+    "type_id": 1,
+    "item_id": 97,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1600-1700]square meters",
+      "B": "[4100-4200]square meters",
+      "C": "[10900-11000]square meters",
+      "D": "[38200-38300]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+    "type_id": 1,
+    "item_id": 98,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36300-36400]square meters",
+      "B": "[44900-45000]square meters",
+      "C": "[18800-18900]square meters",
+      "D": "[33400-33500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+    "type_id": 1,
+    "item_id": 99,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12000-12100]square meters",
+      "B": "[29400-29500]square meters",
+      "C": "[30600-30700]square meters",
+      "D": "[1700-1800]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1090.jpg",
+    "type_id": 1,
+    "item_id": 100,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4000-4100]square meters",
+      "B": "[44600-44700]square meters",
+      "C": "[39800-39900]square meters",
+      "D": "[39000-39100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/61a5879bca228100065cb98a_2371.jpg",
+    "type_id": 1,
+    "item_id": 101,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31000-31100]square meters",
+      "B": "[36900-37000]square meters",
+      "C": "[12000-12100]square meters",
+      "D": "[3000-3100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+    "type_id": 1,
+    "item_id": 102,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[15800-15900]square meters",
+      "B": "[22700-22800]square meters",
+      "C": "[8000-8100]square meters",
+      "D": "[8600-8700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+    "type_id": 1,
+    "item_id": 103,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42100-42200]square meters",
+      "B": "[500-600]square meters",
+      "C": "[6000-6100]square meters",
+      "D": "[29000-29100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2552.jpg",
+    "type_id": 1,
+    "item_id": 104,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1100-1200]square meters",
+      "B": "[18700-18800]square meters",
+      "C": "[27300-27400]square meters",
+      "D": "[38300-38400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg",
+    "type_id": 1,
+    "item_id": 105,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[700-800]square meters",
+      "B": "[18600-18700]square meters",
+      "C": "[35300-35400]square meters",
+      "D": "[1000-1100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3459.jpg",
+    "type_id": 1,
+    "item_id": 106,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8000-8100]square meters",
+      "B": "[29100-29200]square meters",
+      "C": "[42500-42600]square meters",
+      "D": "[7100-7200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+    "type_id": 1,
+    "item_id": 107,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1200-1300]square meters",
+      "B": "[4100-4200]square meters",
+      "C": "[8600-8700]square meters",
+      "D": "[29900-30000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+    "type_id": 1,
+    "item_id": 108,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4700-4800]square meters",
+      "B": "[4100-4200]square meters",
+      "C": "[37700-37800]square meters",
+      "D": "[29600-29700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg",
+    "type_id": 1,
+    "item_id": 109,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16900-17000]square meters",
+      "B": "[6200-6300]square meters",
+      "C": "[34500-34600]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2687.jpg",
+    "type_id": 1,
+    "item_id": 110,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[22300-22400]square meters",
+      "B": "[30600-30700]square meters",
+      "C": "[4100-4200]square meters",
+      "D": "[43900-44000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+    "type_id": 1,
+    "item_id": 111,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8100-8200]square meters",
+      "B": "[20000-20100]square meters",
+      "C": "[19600-19700]square meters",
+      "D": "[17000-17100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_3058.jpg",
+    "type_id": 1,
+    "item_id": 112,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20300-20400]square meters",
+      "B": "[1800-1900]square meters",
+      "C": "[28600-28700]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cf43896c25f7e00059bac5f_1294.jpg",
+    "type_id": 1,
+    "item_id": 113,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[40100-40200]square meters",
+      "B": "[900-1000]square meters",
+      "C": "[36100-36200]square meters",
+      "D": "[7600-7700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+    "type_id": 1,
+    "item_id": 114,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25400-25500]square meters",
+      "B": "[1900-2000]square meters",
+      "C": "[23700-23800]square meters",
+      "D": "[1100-1200]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d9dbda4fd16f600065395c3_3448.jpg",
+    "type_id": 1,
+    "item_id": 115,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[7000-7100]square meters",
+      "B": "[19600-19700]square meters",
+      "C": "[6300-6400]square meters",
+      "D": "[17400-17500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+    "type_id": 1,
+    "item_id": 116,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8600-8700]square meters",
+      "B": "[1300-1400]square meters",
+      "C": "[8500-8600]square meters",
+      "D": "[32300-32400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+    "type_id": 1,
+    "item_id": 117,
+    "question": "Given that the actual geographical area of the entire image is 42230.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33700-33800]square meters",
+      "B": "[14000-14100]square meters",
+      "C": "[44600-44700]square meters",
+      "D": "[44500-44600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+    "type_id": 1,
+    "item_id": 118,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39100-39200]square meters",
+      "B": "[38300-38400]square meters",
+      "C": "[300-400]square meters",
+      "D": "[41700-41800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+    "type_id": 1,
+    "item_id": 119,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8600-8700]square meters",
+      "B": "[10300-10400]square meters",
+      "C": "[41200-41300]square meters",
+      "D": "[26100-26200]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+    "type_id": 1,
+    "item_id": 120,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41100-41200]square meters",
+      "B": "[4900-5000]square meters",
+      "C": "[22600-22700]square meters",
+      "D": "[16300-16400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bb108507e1a410005fd2ebb_2039.jpg",
+    "type_id": 1,
+    "item_id": 121,
+    "question": "Given that the actual geographical area of the entire image is 41944.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6500-6600]square meters",
+      "B": "[10400-10500]square meters",
+      "C": "[6900-7000]square meters",
+      "D": "[7700-7800]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ae320c30b093000130afdb5_543.jpg",
+    "type_id": 1,
+    "item_id": 122,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[27700-27800]square meters",
+      "B": "[3400-3500]square meters",
+      "C": "[42800-42900]square meters",
+      "D": "[19800-19900]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a14b831bac48e5b1c281943_2333.jpg",
+    "type_id": 1,
+    "item_id": 123,
+    "question": "Given that the actual geographical area of the entire image is 41781.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8400-8500]square meters",
+      "B": "[21300-21400]square meters",
+      "C": "[13300-13400]square meters",
+      "D": "[3600-3700]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e25ec6536067e0005c2752c_3458.jpg",
+    "type_id": 1,
+    "item_id": 124,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2500-2600]square meters",
+      "B": "[5800-5900]square meters",
+      "C": "[17700-17800]square meters",
+      "D": "[32400-32500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b518afc4bda9e648eedbd9d_4172.jpg",
+    "type_id": 1,
+    "item_id": 125,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31200-31300]square meters",
+      "B": "[9800-9900]square meters",
+      "C": "[14700-14800]square meters",
+      "D": "[22800-22900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c37a_2222.jpg",
+    "type_id": 1,
+    "item_id": 126,
+    "question": "Given that the actual geographical area of the entire image is 42178.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5100-5200]square meters",
+      "B": "[7200-7300]square meters",
+      "C": "[34100-34200]square meters",
+      "D": "[26300-26400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60a7f8f729636900059d6498_1520.jpg",
+    "type_id": 1,
+    "item_id": 127,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17300-17400]square meters",
+      "B": "[36300-36400]square meters",
+      "C": "[2800-2900]square meters",
+      "D": "[400-500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e639ceaec014e0006188772_3471.jpg",
+    "type_id": 1,
+    "item_id": 128,
+    "question": "Given that the actual geographical area of the entire image is 41896.94 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37700-37800]square meters",
+      "B": "[38400-38500]square meters",
+      "C": "[2500-2600]square meters",
+      "D": "[43000-43100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/6108b0df343da30006976e23_3056.jpg",
+    "type_id": 1,
+    "item_id": 129,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[40400-40500]square meters",
+      "B": "[5000-5100]square meters",
+      "C": "[29900-30000]square meters",
+      "D": "[27800-27900]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4976.jpg",
+    "type_id": 1,
+    "item_id": 130,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6500-6600]square meters",
+      "B": "[23800-23900]square meters",
+      "C": "[44800-44900]square meters",
+      "D": "[12400-12500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b8d3d6412ef72209e91_2336.jpg",
+    "type_id": 1,
+    "item_id": 131,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26500-26600]square meters",
+      "B": "[26000-26100]square meters",
+      "C": "[1500-1600]square meters",
+      "D": "[8800-8900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59fc9657bac48e5b1ced2a2f_1595.jpg",
+    "type_id": 1,
+    "item_id": 132,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[30500-30600]square meters",
+      "B": "[40000-40100]square meters",
+      "C": "[30700-30800]square meters",
+      "D": "[11200-11300]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b963d6412ef7220a3dd_2746.jpg",
+    "type_id": 1,
+    "item_id": 133,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9400-9500]square meters",
+      "B": "[4600-4700]square meters",
+      "C": "[6100-6200]square meters",
+      "D": "[42000-42100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a215_1569.jpg",
+    "type_id": 1,
+    "item_id": 134,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10500-10600]square meters",
+      "B": "[21500-21600]square meters",
+      "C": "[42700-42800]square meters",
+      "D": "[42400-42500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3400b842830100054ac8fa_1534.jpg",
+    "type_id": 1,
+    "item_id": 135,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[22300-22400]square meters",
+      "B": "[4100-4200]square meters",
+      "C": "[2500-2600]square meters",
+      "D": "[29700-29800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dbb240d05580100062e0210_3779.jpg",
+    "type_id": 1,
+    "item_id": 136,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9300-9400]square meters",
+      "B": "[12000-12100]square meters",
+      "C": "[4400-4500]square meters",
+      "D": "[40900-41000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c743446cf2ace0006724237_2171.jpg",
+    "type_id": 1,
+    "item_id": 137,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14600-14700]square meters",
+      "B": "[20400-20500]square meters",
+      "C": "[38900-39000]square meters",
+      "D": "[10400-10500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62bb03d6412ef7220aea8_3403.jpg",
+    "type_id": 1,
+    "item_id": 138,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[39800-39900]square meters",
+      "B": "[44600-44700]square meters",
+      "C": "[38200-38300]square meters",
+      "D": "[4900-5000]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ac79b2191b5310010e0d4bd_2065.jpg",
+    "type_id": 1,
+    "item_id": 139,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[15500-15600]square meters",
+      "B": "[7300-7400]square meters",
+      "C": "[42600-42700]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d0511a873de290005853a93_4402.jpg",
+    "type_id": 1,
+    "item_id": 140,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25300-25400]square meters",
+      "B": "[2300-2400]square meters",
+      "C": "[4100-4200]square meters",
+      "D": "[28400-28500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f12fdeebaa90f0006a0ab23_4852.jpg",
+    "type_id": 1,
+    "item_id": 141,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[32800-32900]square meters",
+      "B": "[17700-17800]square meters",
+      "C": "[10800-10900]square meters",
+      "D": "[6900-7000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef72209ff3_1456.jpg",
+    "type_id": 1,
+    "item_id": 142,
+    "question": "Given that the actual geographical area of the entire image is 41944.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[44000-44100]square meters",
+      "B": "[37800-37900]square meters",
+      "C": "[15300-15400]square meters",
+      "D": "[13600-13700]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/6112fad7ac1a340005a1ccf4_1159.jpg",
+    "type_id": 1,
+    "item_id": 143,
+    "question": "Given that the actual geographical area of the entire image is 41932.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9600-9700]square meters",
+      "B": "[8400-8500]square meters",
+      "C": "[3500-3600]square meters",
+      "D": "[5700-5800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c6580f31fa6f100070431fa_136.jpg",
+    "type_id": 1,
+    "item_id": 144,
+    "question": "Given that the actual geographical area of the entire image is 41935.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13100-13200]square meters",
+      "B": "[17000-17100]square meters",
+      "C": "[1300-1400]square meters",
+      "D": "[28000-28100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ea54c1cc70abb0005869ea7_4396.jpg",
+    "type_id": 1,
+    "item_id": 145,
+    "question": "Given that the actual geographical area of the entire image is 41780.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10600-10700]square meters",
+      "B": "[20800-20900]square meters",
+      "C": "[29600-29700]square meters",
+      "D": "[1100-1200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a219_3309.jpg",
+    "type_id": 1,
+    "item_id": 146,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3300-3400]square meters",
+      "B": "[37300-37400]square meters",
+      "C": "[16700-16800]square meters",
+      "D": "[8300-8400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3119.jpg",
+    "type_id": 1,
+    "item_id": 147,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19600-19700]square meters",
+      "B": "[4900-5000]square meters",
+      "C": "[37800-37900]square meters",
+      "D": "[1200-1300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_2967.jpg",
+    "type_id": 1,
+    "item_id": 148,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43300-43400]square meters",
+      "B": "[30500-30600]square meters",
+      "C": "[40700-40800]square meters",
+      "D": "[24000-24100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+    "type_id": 1,
+    "item_id": 149,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13100-13200]square meters",
+      "B": "[9700-9800]square meters",
+      "C": "[20800-20900]square meters",
+      "D": "[37700-37800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c423_837.jpg",
+    "type_id": 1,
+    "item_id": 150,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[34500-34600]square meters",
+      "B": "[7100-7200]square meters",
+      "C": "[32500-32600]square meters",
+      "D": "[4200-4300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b953d6412ef7220a31c_1505.jpg",
+    "type_id": 1,
+    "item_id": 151,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[300-400]square meters",
+      "B": "[7700-7800]square meters",
+      "C": "[11500-11600]square meters",
+      "D": "[40300-40400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a009b7ebac48e5b1cf6ef81_2826.jpg",
+    "type_id": 1,
+    "item_id": 152,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36600-36700]square meters",
+      "B": "[13100-13200]square meters",
+      "C": "[6600-6700]square meters",
+      "D": "[23800-23900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dd599f64cae450005374d2e_1207.jpg",
+    "type_id": 1,
+    "item_id": 153,
+    "question": "Given that the actual geographical area of the entire image is 41935.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13400-13500]square meters",
+      "B": "[19300-19400]square meters",
+      "C": "[5600-5700]square meters",
+      "D": "[37100-37200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bf6a8f50d1a8c00054a41cc_3120.jpg",
+    "type_id": 1,
+    "item_id": 154,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[7000-7100]square meters",
+      "B": "[7400-7500]square meters",
+      "C": "[24000-24100]square meters",
+      "D": "[10300-10400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60606bd0eeae3c000693003f_1214.jpg",
+    "type_id": 1,
+    "item_id": 155,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[27300-27400]square meters",
+      "B": "[36400-36500]square meters",
+      "C": "[24400-24500]square meters",
+      "D": "[500-600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5aea3d3b8153990013b938e8_3683.jpg",
+    "type_id": 1,
+    "item_id": 156,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3700-3800]square meters",
+      "B": "[36800-36900]square meters",
+      "C": "[4500-4600]square meters",
+      "D": "[4000-4100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5de7f5ea2290870005e59995_4347.jpg",
+    "type_id": 1,
+    "item_id": 157,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12000-12100]square meters",
+      "B": "[38800-38900]square meters",
+      "C": "[14900-15000]square meters",
+      "D": "[32500-32600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c08c36c6918390006b7a8a3_4159.jpg",
+    "type_id": 1,
+    "item_id": 158,
+    "question": "Given that the actual geographical area of the entire image is 41948.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10500-10600]square meters",
+      "B": "[30100-30200]square meters",
+      "C": "[2200-2300]square meters",
+      "D": "[9700-9800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62beb3d6412ef7220c5aa_2266.jpg",
+    "type_id": 1,
+    "item_id": 159,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20700-20800]square meters",
+      "B": "[35200-35300]square meters",
+      "C": "[20400-20500]square meters",
+      "D": "[1500-1600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/600fce6e55481e0005e312a8_2264.jpg",
+    "type_id": 1,
+    "item_id": 160,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37300-37400]square meters",
+      "B": "[24600-24700]square meters",
+      "C": "[21000-21100]square meters",
+      "D": "[24200-24300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62bb23d6412ef7220af16_3103.jpg",
+    "type_id": 1,
+    "item_id": 161,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[34900-35000]square meters",
+      "B": "[16300-16400]square meters",
+      "C": "[26300-26400]square meters",
+      "D": "[6200-6300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e95fbd57b6533000663b235_2188.jpg",
+    "type_id": 1,
+    "item_id": 162,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1800-1900]square meters",
+      "B": "[44200-44300]square meters",
+      "C": "[5000-5100]square meters",
+      "D": "[21000-21100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bf6676cad75b80007102067_324.jpg",
+    "type_id": 1,
+    "item_id": 163,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[23200-23300]square meters",
+      "B": "[800-900]square meters",
+      "C": "[6500-6600]square meters",
+      "D": "[35500-35600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d1bded793e1130005fc0e98_2100.jpg",
+    "type_id": 1,
+    "item_id": 164,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8700-8800]square meters",
+      "B": "[21600-21700]square meters",
+      "C": "[19800-19900]square meters",
+      "D": "[3900-4000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cf06748b9ff690005693589_3524.jpg",
+    "type_id": 1,
+    "item_id": 165,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21400-21500]square meters",
+      "B": "[7800-7900]square meters",
+      "C": "[42900-43000]square meters",
+      "D": "[2500-2600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cf70198c25f7e00059bac96_3354.jpg",
+    "type_id": 1,
+    "item_id": 166,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42100-42200]square meters",
+      "B": "[32300-32400]square meters",
+      "C": "[24800-24900]square meters",
+      "D": "[9200-9300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c4f11de8ca97d00054982a6_3643.jpg",
+    "type_id": 1,
+    "item_id": 167,
+    "question": "Given that the actual geographical area of the entire image is 41877.77 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4400-4500]square meters",
+      "B": "[1100-1200]square meters",
+      "C": "[38200-38300]square meters",
+      "D": "[3000-3100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3ea615e7ff3f00054889d4_668.jpg",
+    "type_id": 1,
+    "item_id": 168,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1400-1500]square meters",
+      "B": "[24700-24800]square meters",
+      "C": "[11400-11500]square meters",
+      "D": "[16100-16200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bde089ac82a1c00056f8fc6_1350.jpg",
+    "type_id": 1,
+    "item_id": 169,
+    "question": "Given that the actual geographical area of the entire image is 41928.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1500-1600]square meters",
+      "B": "[32000-32100]square meters",
+      "C": "[42600-42700]square meters",
+      "D": "[400-500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5de1091c0c04590006d335b3_2306.jpg",
+    "type_id": 1,
+    "item_id": 170,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36600-36700]square meters",
+      "B": "[10500-10600]square meters",
+      "C": "[28600-28700]square meters",
+      "D": "[29400-29500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c3cb31865775c0007e79448_1486.jpg",
+    "type_id": 1,
+    "item_id": 171,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10000-10100]square meters",
+      "B": "[44200-44300]square meters",
+      "C": "[24100-24200]square meters",
+      "D": "[40100-40200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cd4a49f4b7c75000784da34_3719.jpg",
+    "type_id": 1,
+    "item_id": 172,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3600-3700]square meters",
+      "B": "[4300-4400]square meters",
+      "C": "[44300-44400]square meters",
+      "D": "[36000-36100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d689459bc6eb00006d373a4_2938.jpg",
+    "type_id": 1,
+    "item_id": 173,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[11700-11800]square meters",
+      "B": "[18200-18300]square meters",
+      "C": "[26100-26200]square meters",
+      "D": "[15200-15300]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cb64e020a3a5c0005ff12ff_66.jpg",
+    "type_id": 1,
+    "item_id": 174,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[900-1000]square meters",
+      "B": "[12600-12700]square meters",
+      "C": "[30700-30800]square meters",
+      "D": "[41800-41900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209fd4_4926.jpg",
+    "type_id": 1,
+    "item_id": 175,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14700-14800]square meters",
+      "B": "[1200-1300]square meters",
+      "C": "[15600-15700]square meters",
+      "D": "[6600-6700]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c62753b404f1000050d78c4_2510.jpg",
+    "type_id": 1,
+    "item_id": 176,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9600-9700]square meters",
+      "B": "[21600-21700]square meters",
+      "C": "[41100-41200]square meters",
+      "D": "[11800-11900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d4ece62317dd900055f740e_3840.jpg",
+    "type_id": 1,
+    "item_id": 177,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18400-18500]square meters",
+      "B": "[44400-44500]square meters",
+      "C": "[19400-19500]square meters",
+      "D": "[12400-12500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dd0f6dda7dadc0006433b5b_4457.jpg",
+    "type_id": 1,
+    "item_id": 178,
+    "question": "Given that the actual geographical area of the entire image is 41928.96 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9600-9700]square meters",
+      "B": "[35400-35500]square meters",
+      "C": "[0-100]square meters",
+      "D": "[35100-35200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a57f_1351.jpg",
+    "type_id": 1,
+    "item_id": 179,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41100-41200]square meters",
+      "B": "[31000-31100]square meters",
+      "C": "[44200-44300]square meters",
+      "D": "[300-400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60f0a29989ec130007b828a8_661.jpg",
+    "type_id": 1,
+    "item_id": 180,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8500-8600]square meters",
+      "B": "[21900-22000]square meters",
+      "C": "[40100-40200]square meters",
+      "D": "[7900-8000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1972.jpg",
+    "type_id": 1,
+    "item_id": 181,
+    "question": "Given that the actual geographical area of the entire image is 41820.25 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25300-25400]square meters",
+      "B": "[26300-26400]square meters",
+      "C": "[6400-6500]square meters",
+      "D": "[25500-25600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60bffba9ef5d220007c24a8c_1787.jpg",
+    "type_id": 1,
+    "item_id": 182,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26500-26600]square meters",
+      "B": "[20300-20400]square meters",
+      "C": "[31600-31700]square meters",
+      "D": "[11500-11600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a276972bac48e5b1c561a15_3863.jpg",
+    "type_id": 1,
+    "item_id": 183,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2800-2900]square meters",
+      "B": "[39700-39800]square meters",
+      "C": "[43500-43600]square meters",
+      "D": "[500-600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/61951f134cf5080007593269_24.jpg",
+    "type_id": 1,
+    "item_id": 184,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18800-18900]square meters",
+      "B": "[0-100]square meters",
+      "C": "[38700-38800]square meters",
+      "D": "[26700-26800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f2fb5190d59fe00057c32ac_4300.jpg",
+    "type_id": 1,
+    "item_id": 185,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16700-16800]square meters",
+      "B": "[24700-24800]square meters",
+      "C": "[5300-5400]square meters",
+      "D": "[11700-11800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a2d4387bac48e5b1c64facc_4467.jpg",
+    "type_id": 1,
+    "item_id": 186,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25700-25800]square meters",
+      "B": "[7400-7500]square meters",
+      "C": "[10700-10800]square meters",
+      "D": "[12100-12200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bbd459c3baffb0005fe9ba1_3685.jpg",
+    "type_id": 1,
+    "item_id": 187,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[32700-32800]square meters",
+      "B": "[2600-2700]square meters",
+      "C": "[33900-34000]square meters",
+      "D": "[39200-39300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f711df61d951a00058695d8_3539.jpg",
+    "type_id": 1,
+    "item_id": 188,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17600-17700]square meters",
+      "B": "[1600-1700]square meters",
+      "C": "[19800-19900]square meters",
+      "D": "[5100-5200]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f8de1dca11f71000673ec58_2080.jpg",
+    "type_id": 1,
+    "item_id": 189,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[13700-13800]square meters",
+      "B": "[29300-29400]square meters",
+      "C": "[18300-18400]square meters",
+      "D": "[30400-30500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_561.jpg",
+    "type_id": 1,
+    "item_id": 190,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[23400-23500]square meters",
+      "B": "[1400-1500]square meters",
+      "C": "[35500-35600]square meters",
+      "D": "[26500-26600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f5dfa54d9f87200078c7f2d_2879.jpg",
+    "type_id": 1,
+    "item_id": 191,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31400-31500]square meters",
+      "B": "[27100-27200]square meters",
+      "C": "[39400-39500]square meters",
+      "D": "[24500-24600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2946.jpg",
+    "type_id": 1,
+    "item_id": 192,
+    "question": "Given that the actual geographical area of the entire image is 41820.25 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18300-18400]square meters",
+      "B": "[23000-23100]square meters",
+      "C": "[2900-3000]square meters",
+      "D": "[33500-33600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62bb13d6412ef7220aed6_3687.jpg",
+    "type_id": 1,
+    "item_id": 193,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5200-5300]square meters",
+      "B": "[8900-9000]square meters",
+      "C": "[2000-2100]square meters",
+      "D": "[41700-41800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d3460558a5c8b000519fd96_1257.jpg",
+    "type_id": 1,
+    "item_id": 194,
+    "question": "Given that the actual geographical area of the entire image is 41877.77 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26800-26900]square meters",
+      "B": "[14400-14500]square meters",
+      "C": "[13400-13500]square meters",
+      "D": "[8200-8300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d8cabebabcfaa0008b1d26b_4562.jpg",
+    "type_id": 1,
+    "item_id": 195,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4200-4300]square meters",
+      "B": "[2600-2700]square meters",
+      "C": "[12800-12900]square meters",
+      "D": "[9000-9100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/607c9008bfb5350008e665af_3939.jpg",
+    "type_id": 1,
+    "item_id": 196,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20300-20400]square meters",
+      "B": "[17100-17200]square meters",
+      "C": "[22600-22700]square meters",
+      "D": "[39800-39900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f85751a7d446d0005fa8178_3112.jpg",
+    "type_id": 1,
+    "item_id": 197,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6400-6500]square meters",
+      "B": "[14300-14400]square meters",
+      "C": "[2500-2600]square meters",
+      "D": "[9200-9300]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5be1b0b9430b4d000569fa33_1436.jpg",
+    "type_id": 1,
+    "item_id": 198,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36000-36100]square meters",
+      "B": "[4700-4800]square meters",
+      "C": "[20800-20900]square meters",
+      "D": "[44300-44400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b88665d3c07e100077c483a_3776.jpg",
+    "type_id": 1,
+    "item_id": 199,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36500-36600]square meters",
+      "B": "[28900-29000]square meters",
+      "C": "[24400-24500]square meters",
+      "D": "[42900-43000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f4d31ea464f1c0005fc5721_759.jpg",
+    "type_id": 1,
+    "item_id": 200,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[28900-29000]square meters",
+      "B": "[32500-32600]square meters",
+      "C": "[7600-7700]square meters",
+      "D": "[3900-4000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b973d6412ef7220a418_1390.jpg",
+    "type_id": 1,
+    "item_id": 201,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12300-12400]square meters",
+      "B": "[34800-34900]square meters",
+      "C": "[40900-41000]square meters",
+      "D": "[39500-39600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0d1_3885.jpg",
+    "type_id": 1,
+    "item_id": 202,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31500-31600]square meters",
+      "B": "[17800-17900]square meters",
+      "C": "[2100-2200]square meters",
+      "D": "[28300-28400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5de55a69b3b5ce0006c2d960_4442.jpg",
+    "type_id": 1,
+    "item_id": 203,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19400-19500]square meters",
+      "B": "[33100-33200]square meters",
+      "C": "[13300-13400]square meters",
+      "D": "[8800-8900]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b9a3d6412ef7220a51f_2507.jpg",
+    "type_id": 1,
+    "item_id": 204,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[40500-40600]square meters",
+      "B": "[21200-21300]square meters",
+      "C": "[7900-8000]square meters",
+      "D": "[3200-3300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/616ea1a173cc220005b8e093_4723.jpg",
+    "type_id": 1,
+    "item_id": 205,
+    "question": "Given that the actual geographical area of the entire image is 41984.01 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20800-20900]square meters",
+      "B": "[17600-17700]square meters",
+      "C": "[30600-30700]square meters",
+      "D": "[16000-16100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c7e797ff823900006d5f974_3364.jpg",
+    "type_id": 1,
+    "item_id": 206,
+    "question": "Given that the actual geographical area of the entire image is 41884.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[24900-25000]square meters",
+      "B": "[11400-11500]square meters",
+      "C": "[3100-3200]square meters",
+      "D": "[32800-32900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5dbb734605580100062e021a_4187.jpg",
+    "type_id": 1,
+    "item_id": 207,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[24300-24400]square meters",
+      "B": "[9500-9600]square meters",
+      "C": "[10000-10100]square meters",
+      "D": "[39900-40000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c27e495e30a0600058cb86d_818.jpg",
+    "type_id": 1,
+    "item_id": 208,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14800-14900]square meters",
+      "B": "[30100-30200]square meters",
+      "C": "[13500-13600]square meters",
+      "D": "[31300-31400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60c44a21338cc80005cfdd0b_400.jpg",
+    "type_id": 1,
+    "item_id": 209,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4700-4800]square meters",
+      "B": "[17400-17500]square meters",
+      "C": "[40700-40800]square meters",
+      "D": "[1500-1600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d4efc4c317dd900055f7412_4647.jpg",
+    "type_id": 1,
+    "item_id": 210,
+    "question": "Given that the actual geographical area of the entire image is 41820.25 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9900-10000]square meters",
+      "B": "[38900-39000]square meters",
+      "C": "[27800-27900]square meters",
+      "D": "[12500-12600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5eada7de3295f300072a6d80_1198.jpg",
+    "type_id": 1,
+    "item_id": 211,
+    "question": "Given that the actual geographical area of the entire image is 41881.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18000-18100]square meters",
+      "B": "[4000-4100]square meters",
+      "C": "[3100-3200]square meters",
+      "D": "[20000-20100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d87983a0e02d300050aa10f_1538.jpg",
+    "type_id": 1,
+    "item_id": 212,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[30300-30400]square meters",
+      "B": "[4200-4300]square meters",
+      "C": "[19900-20000]square meters",
+      "D": "[17100-17200]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0b6_141.jpg",
+    "type_id": 1,
+    "item_id": 213,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20300-20400]square meters",
+      "B": "[4700-4800]square meters",
+      "C": "[21400-21500]square meters",
+      "D": "[44400-44500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a592_2455.jpg",
+    "type_id": 1,
+    "item_id": 214,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16100-16200]square meters",
+      "B": "[1800-1900]square meters",
+      "C": "[17700-17800]square meters",
+      "D": "[7700-7800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e72ba9b133f1a000511bead_1975.jpg",
+    "type_id": 1,
+    "item_id": 215,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[35700-35800]square meters",
+      "B": "[19300-19400]square meters",
+      "C": "[17500-17600]square meters",
+      "D": "[2900-3000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5deee6d4e5d474000640673a_4985.jpg",
+    "type_id": 1,
+    "item_id": 216,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[37500-37600]square meters",
+      "B": "[42600-42700]square meters",
+      "C": "[24300-24400]square meters",
+      "D": "[4400-4500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/61cb8771081c15000543455a_1083.jpg",
+    "type_id": 1,
+    "item_id": 217,
+    "question": "Given that the actual geographical area of the entire image is 41896.94 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12800-12900]square meters",
+      "B": "[15500-15600]square meters",
+      "C": "[18500-18600]square meters",
+      "D": "[4300-4400]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b7284639102adba313a5c3a_2484.jpg",
+    "type_id": 1,
+    "item_id": 218,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[24200-24300]square meters",
+      "B": "[9500-9600]square meters",
+      "C": "[10000-10100]square meters",
+      "D": "[35300-35400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e17cc7f76e4f20005c1b85c_2531.jpg",
+    "type_id": 1,
+    "item_id": 219,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[21900-22000]square meters",
+      "C": "[4200-4300]square meters",
+      "D": "[5600-5700]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5fd33e61f00c200007292ba8_4555.jpg",
+    "type_id": 1,
+    "item_id": 220,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[27200-27300]square meters",
+      "B": "[35600-35700]square meters",
+      "C": "[2900-3000]square meters",
+      "D": "[14100-14200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d7764494dfec000074a8cb5_3563.jpg",
+    "type_id": 1,
+    "item_id": 221,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[14200-14300]square meters",
+      "B": "[29500-29600]square meters",
+      "C": "[13400-13500]square meters",
+      "D": "[7800-7900]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60a7a37029636900059d6491_2919.jpg",
+    "type_id": 1,
+    "item_id": 222,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38300-38400]square meters",
+      "B": "[600-700]square meters",
+      "C": "[30500-30600]square meters",
+      "D": "[19600-19700]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bccfda6acef4900077c6552_164.jpg",
+    "type_id": 1,
+    "item_id": 223,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[7200-7300]square meters",
+      "B": "[20600-20700]square meters",
+      "C": "[19500-19600]square meters",
+      "D": "[19700-19800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d255c1d161a790005c03e6a_2097.jpg",
+    "type_id": 1,
+    "item_id": 224,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42300-42400]square meters",
+      "B": "[14100-14200]square meters",
+      "C": "[39700-39800]square meters",
+      "D": "[3000-3100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d8179a9f3e9b40005be6ef5_712.jpg",
+    "type_id": 1,
+    "item_id": 225,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4100-4200]square meters",
+      "B": "[22200-22300]square meters",
+      "C": "[43100-43200]square meters",
+      "D": "[42200-42300]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5fbfc070d0c51c0005eb1e02_2964.jpg",
+    "type_id": 1,
+    "item_id": 226,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17300-17400]square meters",
+      "B": "[3100-3200]square meters",
+      "C": "[16900-17000]square meters",
+      "D": "[16700-16800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60d10513eade0f00079b5890_2421.jpg",
+    "type_id": 1,
+    "item_id": 227,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8000-8100]square meters",
+      "B": "[17700-17800]square meters",
+      "C": "[42600-42700]square meters",
+      "D": "[27400-27500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b6473dd40e11005cf16cc89_2122.jpg",
+    "type_id": 1,
+    "item_id": 228,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2300-2400]square meters",
+      "B": "[39200-39300]square meters",
+      "C": "[20300-20400]square meters",
+      "D": "[16200-16300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cd1de27e885bf000637c38e_3206.jpg",
+    "type_id": 1,
+    "item_id": 229,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19400-19500]square meters",
+      "B": "[17600-17700]square meters",
+      "C": "[20400-20500]square meters",
+      "D": "[28700-28800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+    "type_id": 1,
+    "item_id": 230,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[29700-29800]square meters",
+      "B": "[34200-34300]square meters",
+      "C": "[17100-17200]square meters",
+      "D": "[5200-5300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b8fc8f88752bd000830170d_539.jpg",
+    "type_id": 1,
+    "item_id": 231,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3600-3700]square meters",
+      "B": "[18300-18400]square meters",
+      "C": "[14300-14400]square meters",
+      "D": "[5700-5800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b925da45d406700087d1514_1037.jpg",
+    "type_id": 1,
+    "item_id": 232,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18500-18600]square meters",
+      "B": "[300-400]square meters",
+      "C": "[19500-19600]square meters",
+      "D": "[6000-6100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_2666.jpg",
+    "type_id": 1,
+    "item_id": 233,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25100-25200]square meters",
+      "B": "[7300-7400]square meters",
+      "C": "[31700-31800]square meters",
+      "D": "[36900-37000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5de875b7b332ff0007897508_9.jpg",
+    "type_id": 1,
+    "item_id": 234,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[5000-5100]square meters",
+      "B": "[28000-28100]square meters",
+      "C": "[17700-17800]square meters",
+      "D": "[26400-26500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5abb761965bd8f00110f3e4c_1411.jpg",
+    "type_id": 1,
+    "item_id": 235,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19800-19900]square meters",
+      "B": "[33800-33900]square meters",
+      "C": "[26200-26300]square meters",
+      "D": "[14400-14500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b5197864bda9e0682edbda6_4916.jpg",
+    "type_id": 1,
+    "item_id": 236,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2100-2200]square meters",
+      "B": "[32100-32200]square meters",
+      "C": "[15100-15200]square meters",
+      "D": "[23100-23200]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c672d37c6760000068917b1_1881.jpg",
+    "type_id": 1,
+    "item_id": 237,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[32000-32100]square meters",
+      "B": "[13300-13400]square meters",
+      "C": "[38000-38100]square meters",
+      "D": "[41300-41400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5ad6e3b291b5310010e0d543_809.jpg",
+    "type_id": 1,
+    "item_id": 238,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4300-4400]square meters",
+      "B": "[20700-20800]square meters",
+      "C": "[25600-25700]square meters",
+      "D": "[15400-15500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c0f729e05f40a0007517ac6_2165.jpg",
+    "type_id": 1,
+    "item_id": 239,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3700-3800]square meters",
+      "B": "[32200-32300]square meters",
+      "C": "[22300-22400]square meters",
+      "D": "[6800-6900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg",
+    "type_id": 1,
+    "item_id": 240,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1900-2000]square meters",
+      "B": "[12400-12500]square meters",
+      "C": "[26000-26100]square meters",
+      "D": "[34200-34300]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_1852.jpg",
+    "type_id": 1,
+    "item_id": 241,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[22200-22300]square meters",
+      "B": "[2500-2600]square meters",
+      "C": "[11500-11600]square meters",
+      "D": "[30700-30800]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2982.jpg",
+    "type_id": 1,
+    "item_id": 242,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[35800-35900]square meters",
+      "B": "[12800-12900]square meters",
+      "C": "[32700-32800]square meters",
+      "D": "[21600-21700]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/60baf684f59a4300057c54fe_1282.jpg",
+    "type_id": 1,
+    "item_id": 243,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17400-17500]square meters",
+      "B": "[41100-41200]square meters",
+      "C": "[22400-22500]square meters",
+      "D": "[7500-7600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/617e33148ebcb9000515c4e6_694.jpg",
+    "type_id": 1,
+    "item_id": 244,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8300-8400]square meters",
+      "B": "[6800-6900]square meters",
+      "C": "[10800-10900]square meters",
+      "D": "[3500-3600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_411.jpg",
+    "type_id": 1,
+    "item_id": 245,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43500-43600]square meters",
+      "B": "[6700-6800]square meters",
+      "C": "[11500-11600]square meters",
+      "D": "[8700-8800]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cc0de38de86d30005801122_3842.jpg",
+    "type_id": 1,
+    "item_id": 246,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[44900-45000]square meters",
+      "B": "[7500-7600]square meters",
+      "C": "[2200-2300]square meters",
+      "D": "[23800-23900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_358.jpg",
+    "type_id": 1,
+    "item_id": 247,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[600-700]square meters",
+      "B": "[35100-35200]square meters",
+      "C": "[15200-15300]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_79.jpg",
+    "type_id": 1,
+    "item_id": 248,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[23300-23400]square meters",
+      "B": "[400-500]square meters",
+      "C": "[25100-25200]square meters",
+      "D": "[34800-34900]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg",
+    "type_id": 1,
+    "item_id": 249,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[800-900]square meters",
+      "B": "[31500-31600]square meters",
+      "C": "[3700-3800]square meters",
+      "D": "[1900-2000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f192faa47493f000549bf78_614.jpg",
+    "type_id": 1,
+    "item_id": 250,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[23700-23800]square meters",
+      "B": "[5200-5300]square meters",
+      "C": "[29300-29400]square meters",
+      "D": "[18600-18700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_3769.jpg",
+    "type_id": 1,
+    "item_id": 251,
+    "question": "Given that the actual geographical area of the entire image is 42230.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[36800-36900]square meters",
+      "C": "[16000-16100]square meters",
+      "D": "[32400-32500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cd491fb4b7c75000784da20_573.jpg",
+    "type_id": 1,
+    "item_id": 252,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33700-33800]square meters",
+      "B": "[8000-8100]square meters",
+      "C": "[23700-23800]square meters",
+      "D": "[30600-30700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_1426.jpg",
+    "type_id": 1,
+    "item_id": 253,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33900-34000]square meters",
+      "B": "[24500-24600]square meters",
+      "C": "[19200-19300]square meters",
+      "D": "[12500-12600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_970.jpg",
+    "type_id": 1,
+    "item_id": 254,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38500-38600]square meters",
+      "B": "[25900-26000]square meters",
+      "C": "[12200-12300]square meters",
+      "D": "[16700-16800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_956.jpg",
+    "type_id": 1,
+    "item_id": 255,
+    "question": "Given that the actual geographical area of the entire image is 42230.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[28200-28300]square meters",
+      "B": "[41100-41200]square meters",
+      "C": "[13900-14000]square meters",
+      "D": "[2100-2200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+    "type_id": 1,
+    "item_id": 256,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[300-400]square meters",
+      "B": "[26200-26300]square meters",
+      "C": "[42900-43000]square meters",
+      "D": "[18000-18100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+    "type_id": 1,
+    "item_id": 257,
+    "question": "Given that the actual geographical area of the entire image is 41820.25 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19300-19400]square meters",
+      "B": "[100-200]square meters",
+      "C": "[28700-28800]square meters",
+      "D": "[43300-43400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2143.jpg",
+    "type_id": 1,
+    "item_id": 258,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6900-7000]square meters",
+      "B": "[27200-27300]square meters",
+      "C": "[6800-6900]square meters",
+      "D": "[23900-24000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+    "type_id": 1,
+    "item_id": 259,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[29300-29400]square meters",
+      "B": "[9000-9100]square meters",
+      "C": "[14600-14700]square meters",
+      "D": "[4600-4700]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_746.jpg",
+    "type_id": 1,
+    "item_id": 260,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26800-26900]square meters",
+      "B": "[21400-21500]square meters",
+      "C": "[37000-37100]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_442.jpg",
+    "type_id": 1,
+    "item_id": 261,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[22000-22100]square meters",
+      "B": "[14500-14600]square meters",
+      "C": "[29200-29300]square meters",
+      "D": "[500-600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_176.jpg",
+    "type_id": 1,
+    "item_id": 262,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[7400-7500]square meters",
+      "B": "[3400-3500]square meters",
+      "C": "[24900-25000]square meters",
+      "D": "[21400-21500]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_1693.jpg",
+    "type_id": 1,
+    "item_id": 263,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21700-21800]square meters",
+      "B": "[24500-24600]square meters",
+      "C": "[31600-31700]square meters",
+      "D": "[38100-38200]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_42.jpg",
+    "type_id": 1,
+    "item_id": 264,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42700-42800]square meters",
+      "B": "[4800-4900]square meters",
+      "C": "[12000-12100]square meters",
+      "D": "[43400-43500]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_673.jpg",
+    "type_id": 1,
+    "item_id": 265,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[33500-33600]square meters",
+      "B": "[10400-10500]square meters",
+      "C": "[18600-18700]square meters",
+      "D": "[1500-1600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_963.jpg",
+    "type_id": 1,
+    "item_id": 266,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3500-3600]square meters",
+      "B": "[41500-41600]square meters",
+      "C": "[35800-35900]square meters",
+      "D": "[3700-3800]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1152.jpg",
+    "type_id": 1,
+    "item_id": 267,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6700-6800]square meters",
+      "B": "[17200-17300]square meters",
+      "C": "[43400-43500]square meters",
+      "D": "[28200-28300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+    "type_id": 1,
+    "item_id": 268,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[35200-35300]square meters",
+      "B": "[26000-26100]square meters",
+      "C": "[11000-11100]square meters",
+      "D": "[12500-12600]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c36c6eebe3f4e000541d362_516.jpg",
+    "type_id": 1,
+    "item_id": 269,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[41600-41700]square meters",
+      "B": "[15300-15400]square meters",
+      "C": "[1500-1600]square meters",
+      "D": "[7000-7100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_301.jpg",
+    "type_id": 1,
+    "item_id": 270,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21800-21900]square meters",
+      "B": "[44700-44800]square meters",
+      "C": "[2600-2700]square meters",
+      "D": "[25700-25800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5d4636d1152cf70005439fa9_1971.jpg",
+    "type_id": 1,
+    "item_id": 271,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2500-2600]square meters",
+      "B": "[35100-35200]square meters",
+      "C": "[22200-22300]square meters",
+      "D": "[34900-35000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/61d4908089c86000078daf72_618.jpg",
+    "type_id": 1,
+    "item_id": 272,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[43700-43800]square meters",
+      "B": "[24400-24500]square meters",
+      "C": "[5300-5400]square meters",
+      "D": "[43200-43300]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_3406.jpg",
+    "type_id": 1,
+    "item_id": 273,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[22300-22400]square meters",
+      "B": "[20600-20700]square meters",
+      "C": "[14300-14400]square meters",
+      "D": "[33900-34000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a808bed5a9ef7cb5d552d69_521.jpg",
+    "type_id": 1,
+    "item_id": 274,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1400-1500]square meters",
+      "B": "[4300-4400]square meters",
+      "C": "[44700-44800]square meters",
+      "D": "[2700-2800]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+    "type_id": 1,
+    "item_id": 275,
+    "question": "Given that the actual geographical area of the entire image is 41820.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31900-32000]square meters",
+      "B": "[30400-30500]square meters",
+      "C": "[11600-11700]square meters",
+      "D": "[1500-1600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3845.jpg",
+    "type_id": 1,
+    "item_id": 276,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[500-600]square meters",
+      "B": "[41600-41700]square meters",
+      "C": "[34400-34500]square meters",
+      "D": "[30000-30100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg",
+    "type_id": 1,
+    "item_id": 277,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[36300-36400]square meters",
+      "B": "[3200-3300]square meters",
+      "C": "[42800-42900]square meters",
+      "D": "[3900-4000]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+    "type_id": 1,
+    "item_id": 278,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8200-8300]square meters",
+      "B": "[13500-13600]square meters",
+      "C": "[12600-12700]square meters",
+      "D": "[40300-40400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c37c42e4ab5bc000733441e_2848.jpg",
+    "type_id": 1,
+    "item_id": 279,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[31100-31200]square meters",
+      "B": "[16200-16300]square meters",
+      "C": "[41900-42000]square meters",
+      "D": "[33300-33400]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_552.jpg",
+    "type_id": 1,
+    "item_id": 280,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42100-42200]square meters",
+      "B": "[28400-28500]square meters",
+      "C": "[5600-5700]square meters",
+      "D": "[40000-40100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/608e0e08c23e4c0007d21440_4792.jpg",
+    "type_id": 1,
+    "item_id": 281,
+    "question": "Given that the actual geographical area of the entire image is 42230.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[35500-35600]square meters",
+      "B": "[25200-25300]square meters",
+      "C": "[2600-2700]square meters",
+      "D": "[8200-8300]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+    "type_id": 1,
+    "item_id": 282,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[7100-7200]square meters",
+      "B": "[30200-30300]square meters",
+      "C": "[37000-37100]square meters",
+      "D": "[2200-2300]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5caf60a7f58c0800075d4fb8_1216.jpg",
+    "type_id": 1,
+    "item_id": 283,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26000-26100]square meters",
+      "B": "[5500-5600]square meters",
+      "C": "[7800-7900]square meters",
+      "D": "[34500-34600]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_2236.jpg",
+    "type_id": 1,
+    "item_id": 284,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20600-20700]square meters",
+      "B": "[100-200]square meters",
+      "C": "[30900-31000]square meters",
+      "D": "[11600-11700]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  }
+]

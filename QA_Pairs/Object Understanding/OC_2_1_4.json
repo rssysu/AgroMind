@@ -1,0 +1,5722 @@
+[
+  {
+    "image_path": "./Pest/JPEGImages/IP000000000.jpg",
+    "type_id": 3,
+    "item_id": 1,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP000000003.jpg",
+    "type_id": 3,
+    "item_id": 2,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP000000008.jpg",
+    "type_id": 3,
+    "item_id": 3,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP000000010.jpg",
+    "type_id": 3,
+    "item_id": 4,
+    "question": "Are the pests rice leaf roller?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP000000031.jpg",
+    "type_id": 3,
+    "item_id": 5,
+    "question": "Are the pests rice leaf roller?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000005.jpg",
+    "type_id": 3,
+    "item_id": 6,
+    "question": "Are the pests rice leaf roller?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000012.jpg",
+    "type_id": 3,
+    "item_id": 7,
+    "question": "Are the pests paddy stem maggot?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000015.jpg",
+    "type_id": 3,
+    "item_id": 8,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000016.jpg",
+    "type_id": 3,
+    "item_id": 9,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000028.jpg",
+    "type_id": 3,
+    "item_id": 10,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000029.jpg",
+    "type_id": 3,
+    "item_id": 11,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000003.jpg",
+    "type_id": 3,
+    "item_id": 12,
+    "question": "Are the pests paddy stem maggot?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000013.jpg",
+    "type_id": 3,
+    "item_id": 13,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000015.jpg",
+    "type_id": 3,
+    "item_id": 14,
+    "question": "Are the pests asiatic rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000022.jpg",
+    "type_id": 3,
+    "item_id": 15,
+    "question": "Are the pests rice leaf caterpillar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000037.jpg",
+    "type_id": 3,
+    "item_id": 16,
+    "question": "Are the pests asiatic rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000038.jpg",
+    "type_id": 3,
+    "item_id": 17,
+    "question": "Are the pests paddy stem maggot?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000008.jpg",
+    "type_id": 3,
+    "item_id": 18,
+    "question": "Are the pests asiatic rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000012.jpg",
+    "type_id": 3,
+    "item_id": 19,
+    "question": "Are the pests paddy stem maggot?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000022.jpg",
+    "type_id": 3,
+    "item_id": 20,
+    "question": "Are the pests asiatic rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000032.jpg",
+    "type_id": 3,
+    "item_id": 21,
+    "question": "Are the pests paddy stem maggot?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000045.jpg",
+    "type_id": 3,
+    "item_id": 22,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP003000059.jpg",
+    "type_id": 3,
+    "item_id": 23,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000001.jpg",
+    "type_id": 3,
+    "item_id": 24,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000007.jpg",
+    "type_id": 3,
+    "item_id": 25,
+    "question": "Are the pests rice gall midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000008.jpg",
+    "type_id": 3,
+    "item_id": 26,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000039.jpg",
+    "type_id": 3,
+    "item_id": 27,
+    "question": "Are the pests asiatic rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000042.jpg",
+    "type_id": 3,
+    "item_id": 28,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000047.jpg",
+    "type_id": 3,
+    "item_id": 29,
+    "question": "Are the pests rice gall midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000006.jpg",
+    "type_id": 3,
+    "item_id": 30,
+    "question": "Are the pests rice gall midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000007.jpg",
+    "type_id": 3,
+    "item_id": 31,
+    "question": "Are the pests rice gall midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000009.jpg",
+    "type_id": 3,
+    "item_id": 32,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000012.jpg",
+    "type_id": 3,
+    "item_id": 33,
+    "question": "Are the pests rice gall midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000017.jpg",
+    "type_id": 3,
+    "item_id": 34,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000043.jpg",
+    "type_id": 3,
+    "item_id": 35,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000009.jpg",
+    "type_id": 3,
+    "item_id": 36,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000035.jpg",
+    "type_id": 3,
+    "item_id": 37,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000039.jpg",
+    "type_id": 3,
+    "item_id": 38,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000097.jpg",
+    "type_id": 3,
+    "item_id": 39,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000116.jpg",
+    "type_id": 3,
+    "item_id": 40,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000125.jpg",
+    "type_id": 3,
+    "item_id": 41,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000004.jpg",
+    "type_id": 3,
+    "item_id": 42,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000006.jpg",
+    "type_id": 3,
+    "item_id": 43,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000007.jpg",
+    "type_id": 3,
+    "item_id": 44,
+    "question": "Are the pests white backed plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000008.jpg",
+    "type_id": 3,
+    "item_id": 45,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000042.jpg",
+    "type_id": 3,
+    "item_id": 46,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000062.jpg",
+    "type_id": 3,
+    "item_id": 47,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000023.jpg",
+    "type_id": 3,
+    "item_id": 48,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000033.jpg",
+    "type_id": 3,
+    "item_id": 49,
+    "question": "Are the pests white backed plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000039.jpg",
+    "type_id": 3,
+    "item_id": 50,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000044.jpg",
+    "type_id": 3,
+    "item_id": 51,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000047.jpg",
+    "type_id": 3,
+    "item_id": 52,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000054.jpg",
+    "type_id": 3,
+    "item_id": 53,
+    "question": "Are the pests white backed plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000000.jpg",
+    "type_id": 3,
+    "item_id": 54,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000002.jpg",
+    "type_id": 3,
+    "item_id": 55,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000003.jpg",
+    "type_id": 3,
+    "item_id": 56,
+    "question": "Are the pests white backed plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000009.jpg",
+    "type_id": 3,
+    "item_id": 57,
+    "question": "Are the pests white backed plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000031.jpg",
+    "type_id": 3,
+    "item_id": 58,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP009000032.jpg",
+    "type_id": 3,
+    "item_id": 59,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000017.jpg",
+    "type_id": 3,
+    "item_id": 60,
+    "question": "Are the pests rice water weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000027.jpg",
+    "type_id": 3,
+    "item_id": 61,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000031.jpg",
+    "type_id": 3,
+    "item_id": 62,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000040.jpg",
+    "type_id": 3,
+    "item_id": 63,
+    "question": "Are the pests rice water weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000047.jpg",
+    "type_id": 3,
+    "item_id": 64,
+    "question": "Are the pests rice leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP010000051.jpg",
+    "type_id": 3,
+    "item_id": 65,
+    "question": "Are the pests rice water weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000002.jpg",
+    "type_id": 3,
+    "item_id": 66,
+    "question": "Are the pests rice leafhopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000006.jpg",
+    "type_id": 3,
+    "item_id": 67,
+    "question": "Are the pests rice water weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000009.jpg",
+    "type_id": 3,
+    "item_id": 68,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000010.jpg",
+    "type_id": 3,
+    "item_id": 69,
+    "question": "Are the pests rice water weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000011.jpg",
+    "type_id": 3,
+    "item_id": 70,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000014.jpg",
+    "type_id": 3,
+    "item_id": 71,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000006.jpg",
+    "type_id": 3,
+    "item_id": 72,
+    "question": "Are the pests rice shell pest?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000008.jpg",
+    "type_id": 3,
+    "item_id": 73,
+    "question": "Are the pests rice shell pest?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000010.jpg",
+    "type_id": 3,
+    "item_id": 74,
+    "question": "Are the pests rice shell pest?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000027.jpg",
+    "type_id": 3,
+    "item_id": 75,
+    "question": "Are the pests rice leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000042.jpg",
+    "type_id": 3,
+    "item_id": 76,
+    "question": "Are the pests rice leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000044.jpg",
+    "type_id": 3,
+    "item_id": 77,
+    "question": "Are the pests rice leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000018.jpg",
+    "type_id": 3,
+    "item_id": 78,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000023.jpg",
+    "type_id": 3,
+    "item_id": 79,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000026.jpg",
+    "type_id": 3,
+    "item_id": 80,
+    "question": "Are the pests rice shell pest?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000030.jpg",
+    "type_id": 3,
+    "item_id": 81,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000044.jpg",
+    "type_id": 3,
+    "item_id": 82,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000048.jpg",
+    "type_id": 3,
+    "item_id": 83,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000000.jpg",
+    "type_id": 3,
+    "item_id": 84,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000001.jpg",
+    "type_id": 3,
+    "item_id": 85,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000003.jpg",
+    "type_id": 3,
+    "item_id": 86,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000004.jpg",
+    "type_id": 3,
+    "item_id": 87,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000006.jpg",
+    "type_id": 3,
+    "item_id": 88,
+    "question": "Are the pests rice shell pest?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000007.jpg",
+    "type_id": 3,
+    "item_id": 89,
+    "question": "Are the pests rice shell pest?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000000.jpg",
+    "type_id": 3,
+    "item_id": 90,
+    "question": "Are the pests wireworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000003.jpg",
+    "type_id": 3,
+    "item_id": 91,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000004.jpg",
+    "type_id": 3,
+    "item_id": 92,
+    "question": "Are the pests wireworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000005.jpg",
+    "type_id": 3,
+    "item_id": 93,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000006.jpg",
+    "type_id": 3,
+    "item_id": 94,
+    "question": "Are the pests mole cricket?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000007.jpg",
+    "type_id": 3,
+    "item_id": 95,
+    "question": "Are the pests wireworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000004.jpg",
+    "type_id": 3,
+    "item_id": 96,
+    "question": "Are the pests wireworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000005.jpg",
+    "type_id": 3,
+    "item_id": 97,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000007.jpg",
+    "type_id": 3,
+    "item_id": 98,
+    "question": "Are the pests wireworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000012.jpg",
+    "type_id": 3,
+    "item_id": 99,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000013.jpg",
+    "type_id": 3,
+    "item_id": 100,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000014.jpg",
+    "type_id": 3,
+    "item_id": 101,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000002.jpg",
+    "type_id": 3,
+    "item_id": 102,
+    "question": "Are the pests white margined moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000003.jpg",
+    "type_id": 3,
+    "item_id": 103,
+    "question": "Are the pests white margined moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000004.jpg",
+    "type_id": 3,
+    "item_id": 104,
+    "question": "Are the pests white margined moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000009.jpg",
+    "type_id": 3,
+    "item_id": 105,
+    "question": "Are the pests wireworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000012.jpg",
+    "type_id": 3,
+    "item_id": 106,
+    "question": "Are the pests white margined moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000013.jpg",
+    "type_id": 3,
+    "item_id": 107,
+    "question": "Are the pests wireworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000000.jpg",
+    "type_id": 3,
+    "item_id": 108,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000001.jpg",
+    "type_id": 3,
+    "item_id": 109,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000004.jpg",
+    "type_id": 3,
+    "item_id": 110,
+    "question": "Are the pests black cutworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000007.jpg",
+    "type_id": 3,
+    "item_id": 111,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000008.jpg",
+    "type_id": 3,
+    "item_id": 112,
+    "question": "Are the pests large cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000010.jpg",
+    "type_id": 3,
+    "item_id": 113,
+    "question": "Are the pests large cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000000.jpg",
+    "type_id": 3,
+    "item_id": 114,
+    "question": "Are the pests large cutworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000001.jpg",
+    "type_id": 3,
+    "item_id": 115,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000006.jpg",
+    "type_id": 3,
+    "item_id": 116,
+    "question": "Are the pests large cutworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000011.jpg",
+    "type_id": 3,
+    "item_id": 117,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000013.jpg",
+    "type_id": 3,
+    "item_id": 118,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000015.jpg",
+    "type_id": 3,
+    "item_id": 119,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000000.jpg",
+    "type_id": 3,
+    "item_id": 120,
+    "question": "Are the pests red spider?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000001.jpg",
+    "type_id": 3,
+    "item_id": 121,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000002.jpg",
+    "type_id": 3,
+    "item_id": 122,
+    "question": "Are the pests red spider?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000007.jpg",
+    "type_id": 3,
+    "item_id": 123,
+    "question": "Are the pests red spider?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000008.jpg",
+    "type_id": 3,
+    "item_id": 124,
+    "question": "Are the pests red spider?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000009.jpg",
+    "type_id": 3,
+    "item_id": 125,
+    "question": "Are the pests red spider?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000001.jpg",
+    "type_id": 3,
+    "item_id": 126,
+    "question": "Are the pests red spider?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000013.jpg",
+    "type_id": 3,
+    "item_id": 127,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000018.jpg",
+    "type_id": 3,
+    "item_id": 128,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000020.jpg",
+    "type_id": 3,
+    "item_id": 129,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000022.jpg",
+    "type_id": 3,
+    "item_id": 130,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP021000028.jpg",
+    "type_id": 3,
+    "item_id": 131,
+    "question": "Are the pests yellow cutworm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000002.jpg",
+    "type_id": 3,
+    "item_id": 132,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000006.jpg",
+    "type_id": 3,
+    "item_id": 133,
+    "question": "Are the pests corn borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000010.jpg",
+    "type_id": 3,
+    "item_id": 134,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000018.jpg",
+    "type_id": 3,
+    "item_id": 135,
+    "question": "Are the pests corn borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000019.jpg",
+    "type_id": 3,
+    "item_id": 136,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000020.jpg",
+    "type_id": 3,
+    "item_id": 137,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000000.jpg",
+    "type_id": 3,
+    "item_id": 138,
+    "question": "Are the pests army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000018.jpg",
+    "type_id": 3,
+    "item_id": 139,
+    "question": "Are the pests corn borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000019.jpg",
+    "type_id": 3,
+    "item_id": 140,
+    "question": "Are the pests army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000038.jpg",
+    "type_id": 3,
+    "item_id": 141,
+    "question": "Are the pests aphids?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000056.jpg",
+    "type_id": 3,
+    "item_id": 142,
+    "question": "Are the pests corn borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000065.jpg",
+    "type_id": 3,
+    "item_id": 143,
+    "question": "Are the pests aphids?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000016.jpg",
+    "type_id": 3,
+    "item_id": 144,
+    "question": "Are the pests aphids?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000026.jpg",
+    "type_id": 3,
+    "item_id": 145,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000031.jpg",
+    "type_id": 3,
+    "item_id": 146,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000050.jpg",
+    "type_id": 3,
+    "item_id": 147,
+    "question": "Are the pests aphids?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000052.jpg",
+    "type_id": 3,
+    "item_id": 148,
+    "question": "Are the pests aphids?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000059.jpg",
+    "type_id": 3,
+    "item_id": 149,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024001242.jpg",
+    "type_id": 3,
+    "item_id": 150,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024002819.jpg",
+    "type_id": 3,
+    "item_id": 151,
+    "question": "Are the pests army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000004.jpg",
+    "type_id": 3,
+    "item_id": 152,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000005.jpg",
+    "type_id": 3,
+    "item_id": 153,
+    "question": "Are the pests peach borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000006.jpg",
+    "type_id": 3,
+    "item_id": 154,
+    "question": "Are the pests peach borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000008.jpg",
+    "type_id": 3,
+    "item_id": 155,
+    "question": "Are the pests aphids?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000012.jpg",
+    "type_id": 3,
+    "item_id": 156,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000013.jpg",
+    "type_id": 3,
+    "item_id": 157,
+    "question": "Are the pests peach borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000006.jpg",
+    "type_id": 3,
+    "item_id": 158,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000013.jpg",
+    "type_id": 3,
+    "item_id": 159,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000014.jpg",
+    "type_id": 3,
+    "item_id": 160,
+    "question": "Are the pests peach borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000015.jpg",
+    "type_id": 3,
+    "item_id": 161,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000017.jpg",
+    "type_id": 3,
+    "item_id": 162,
+    "question": "Are the pests Potosiabre vitarsis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000024.jpg",
+    "type_id": 3,
+    "item_id": 163,
+    "question": "Are the pests english grain aphid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000003.jpg",
+    "type_id": 3,
+    "item_id": 164,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000011.jpg",
+    "type_id": 3,
+    "item_id": 165,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000013.jpg",
+    "type_id": 3,
+    "item_id": 166,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000037.jpg",
+    "type_id": 3,
+    "item_id": 167,
+    "question": "Are the pests english grain aphid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000047.jpg",
+    "type_id": 3,
+    "item_id": 168,
+    "question": "Are the pests peach borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000050.jpg",
+    "type_id": 3,
+    "item_id": 169,
+    "question": "Are the pests peach borer?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000010.jpg",
+    "type_id": 3,
+    "item_id": 170,
+    "question": "Are the pests english grain aphid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000035.jpg",
+    "type_id": 3,
+    "item_id": 171,
+    "question": "Are the pests green bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000041.jpg",
+    "type_id": 3,
+    "item_id": 172,
+    "question": "Are the pests green bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000049.jpg",
+    "type_id": 3,
+    "item_id": 173,
+    "question": "Are the pests english grain aphid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000050.jpg",
+    "type_id": 3,
+    "item_id": 174,
+    "question": "Are the pests green bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000051.jpg",
+    "type_id": 3,
+    "item_id": 175,
+    "question": "Are the pests bird cherry-oataphid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000005.jpg",
+    "type_id": 3,
+    "item_id": 176,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000021.jpg",
+    "type_id": 3,
+    "item_id": 177,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000023.jpg",
+    "type_id": 3,
+    "item_id": 178,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000028.jpg",
+    "type_id": 3,
+    "item_id": 179,
+    "question": "Are the pests bird cherry-oataphid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000053.jpg",
+    "type_id": 3,
+    "item_id": 180,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000067.jpg",
+    "type_id": 3,
+    "item_id": 181,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000041.jpg",
+    "type_id": 3,
+    "item_id": 182,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000072.jpg",
+    "type_id": 3,
+    "item_id": 183,
+    "question": "Are the pests penthaleus major?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000089.jpg",
+    "type_id": 3,
+    "item_id": 184,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000091.jpg",
+    "type_id": 3,
+    "item_id": 185,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000115.jpg",
+    "type_id": 3,
+    "item_id": 186,
+    "question": "Are the pests penthaleus major?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000122.jpg",
+    "type_id": 3,
+    "item_id": 187,
+    "question": "Are the pests penthaleus major?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000009.jpg",
+    "type_id": 3,
+    "item_id": 188,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000023.jpg",
+    "type_id": 3,
+    "item_id": 189,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000024.jpg",
+    "type_id": 3,
+    "item_id": 190,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000025.jpg",
+    "type_id": 3,
+    "item_id": 191,
+    "question": "Are the pests penthaleus major?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000026.jpg",
+    "type_id": 3,
+    "item_id": 192,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000028.jpg",
+    "type_id": 3,
+    "item_id": 193,
+    "question": "Are the pests wheat blossom midge?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000001.jpg",
+    "type_id": 3,
+    "item_id": 194,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000015.jpg",
+    "type_id": 3,
+    "item_id": 195,
+    "question": "Are the pests penthaleus major?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000018.jpg",
+    "type_id": 3,
+    "item_id": 196,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000019.jpg",
+    "type_id": 3,
+    "item_id": 197,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000036.jpg",
+    "type_id": 3,
+    "item_id": 198,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP033000037.jpg",
+    "type_id": 3,
+    "item_id": 199,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000010.jpg",
+    "type_id": 3,
+    "item_id": 200,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000014.jpg",
+    "type_id": 3,
+    "item_id": 201,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000016.jpg",
+    "type_id": 3,
+    "item_id": 202,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000031.jpg",
+    "type_id": 3,
+    "item_id": 203,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000033.jpg",
+    "type_id": 3,
+    "item_id": 204,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000034.jpg",
+    "type_id": 3,
+    "item_id": 205,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000001.jpg",
+    "type_id": 3,
+    "item_id": 206,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000010.jpg",
+    "type_id": 3,
+    "item_id": 207,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000014.jpg",
+    "type_id": 3,
+    "item_id": 208,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000016.jpg",
+    "type_id": 3,
+    "item_id": 209,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000036.jpg",
+    "type_id": 3,
+    "item_id": 210,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000045.jpg",
+    "type_id": 3,
+    "item_id": 211,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000020.jpg",
+    "type_id": 3,
+    "item_id": 212,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000024.jpg",
+    "type_id": 3,
+    "item_id": 213,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000033.jpg",
+    "type_id": 3,
+    "item_id": 214,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000046.jpg",
+    "type_id": 3,
+    "item_id": 215,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000049.jpg",
+    "type_id": 3,
+    "item_id": 216,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000059.jpg",
+    "type_id": 3,
+    "item_id": 217,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000000.jpg",
+    "type_id": 3,
+    "item_id": 218,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000019.jpg",
+    "type_id": 3,
+    "item_id": 219,
+    "question": "Are the pests beet fly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000021.jpg",
+    "type_id": 3,
+    "item_id": 220,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000025.jpg",
+    "type_id": 3,
+    "item_id": 221,
+    "question": "Are the pests flea beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000026.jpg",
+    "type_id": 3,
+    "item_id": 222,
+    "question": "Are the pests cerodonta denticornis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP037000032.jpg",
+    "type_id": 3,
+    "item_id": 223,
+    "question": "Are the pests flea beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000000.jpg",
+    "type_id": 3,
+    "item_id": 224,
+    "question": "Are the pests beet fly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000001.jpg",
+    "type_id": 3,
+    "item_id": 225,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000002.jpg",
+    "type_id": 3,
+    "item_id": 226,
+    "question": "Are the pests beet fly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000003.jpg",
+    "type_id": 3,
+    "item_id": 227,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000004.jpg",
+    "type_id": 3,
+    "item_id": 228,
+    "question": "Are the pests beet fly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000005.jpg",
+    "type_id": 3,
+    "item_id": 229,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000001.jpg",
+    "type_id": 3,
+    "item_id": 230,
+    "question": "Are the pests flea beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000005.jpg",
+    "type_id": 3,
+    "item_id": 231,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000008.jpg",
+    "type_id": 3,
+    "item_id": 232,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000010.jpg",
+    "type_id": 3,
+    "item_id": 233,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000014.jpg",
+    "type_id": 3,
+    "item_id": 234,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000018.jpg",
+    "type_id": 3,
+    "item_id": 235,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000004.jpg",
+    "type_id": 3,
+    "item_id": 236,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000006.jpg",
+    "type_id": 3,
+    "item_id": 237,
+    "question": "Are the pests beet army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000009.jpg",
+    "type_id": 3,
+    "item_id": 238,
+    "question": "Are the pests Beet spot flies?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000010.jpg",
+    "type_id": 3,
+    "item_id": 239,
+    "question": "Are the pests Beet spot flies?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000011.jpg",
+    "type_id": 3,
+    "item_id": 240,
+    "question": "Are the pests cabbage army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000014.jpg",
+    "type_id": 3,
+    "item_id": 241,
+    "question": "Are the pests beet army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000003.jpg",
+    "type_id": 3,
+    "item_id": 242,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000018.jpg",
+    "type_id": 3,
+    "item_id": 243,
+    "question": "Are the pests Beet spot flies?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000022.jpg",
+    "type_id": 3,
+    "item_id": 244,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000024.jpg",
+    "type_id": 3,
+    "item_id": 245,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000026.jpg",
+    "type_id": 3,
+    "item_id": 246,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000029.jpg",
+    "type_id": 3,
+    "item_id": 247,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000002.jpg",
+    "type_id": 3,
+    "item_id": 248,
+    "question": "Are the pests beet weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000004.jpg",
+    "type_id": 3,
+    "item_id": 249,
+    "question": "Are the pests beet weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000019.jpg",
+    "type_id": 3,
+    "item_id": 250,
+    "question": "Are the pests beet weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000021.jpg",
+    "type_id": 3,
+    "item_id": 251,
+    "question": "Are the pests Beet spot flies?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000022.jpg",
+    "type_id": 3,
+    "item_id": 252,
+    "question": "Are the pests meadow moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000023.jpg",
+    "type_id": 3,
+    "item_id": 253,
+    "question": "Are the pests meadow moth?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000000.jpg",
+    "type_id": 3,
+    "item_id": 254,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000001.jpg",
+    "type_id": 3,
+    "item_id": 255,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000003.jpg",
+    "type_id": 3,
+    "item_id": 256,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000004.jpg",
+    "type_id": 3,
+    "item_id": 257,
+    "question": "Are the pests beet weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000006.jpg",
+    "type_id": 3,
+    "item_id": 258,
+    "question": "Are the pests beet weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000007.jpg",
+    "type_id": 3,
+    "item_id": 259,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000000.jpg",
+    "type_id": 3,
+    "item_id": 260,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000002.jpg",
+    "type_id": 3,
+    "item_id": 261,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000003.jpg",
+    "type_id": 3,
+    "item_id": 262,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000005.jpg",
+    "type_id": 3,
+    "item_id": 263,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000013.jpg",
+    "type_id": 3,
+    "item_id": 264,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000015.jpg",
+    "type_id": 3,
+    "item_id": 265,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000009.jpg",
+    "type_id": 3,
+    "item_id": 266,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000012.jpg",
+    "type_id": 3,
+    "item_id": 267,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000013.jpg",
+    "type_id": 3,
+    "item_id": 268,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000014.jpg",
+    "type_id": 3,
+    "item_id": 269,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000021.jpg",
+    "type_id": 3,
+    "item_id": 270,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000028.jpg",
+    "type_id": 3,
+    "item_id": 271,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000000.jpg",
+    "type_id": 3,
+    "item_id": 272,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000001.jpg",
+    "type_id": 3,
+    "item_id": 273,
+    "question": "Are the pests flax budworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000007.jpg",
+    "type_id": 3,
+    "item_id": 274,
+    "question": "Are the pests flax budworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000012.jpg",
+    "type_id": 3,
+    "item_id": 275,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000013.jpg",
+    "type_id": 3,
+    "item_id": 276,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000014.jpg",
+    "type_id": 3,
+    "item_id": 277,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000002.jpg",
+    "type_id": 3,
+    "item_id": 278,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000004.jpg",
+    "type_id": 3,
+    "item_id": 279,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000007.jpg",
+    "type_id": 3,
+    "item_id": 280,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000008.jpg",
+    "type_id": 3,
+    "item_id": 281,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000011.jpg",
+    "type_id": 3,
+    "item_id": 282,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000012.jpg",
+    "type_id": 3,
+    "item_id": 283,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000016.jpg",
+    "type_id": 3,
+    "item_id": 284,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000026.jpg",
+    "type_id": 3,
+    "item_id": 285,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000032.jpg",
+    "type_id": 3,
+    "item_id": 286,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000034.jpg",
+    "type_id": 3,
+    "item_id": 287,
+    "question": "Are the pests Locustoidea?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000036.jpg",
+    "type_id": 3,
+    "item_id": 288,
+    "question": "Are the pests Locustoidea?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000039.jpg",
+    "type_id": 3,
+    "item_id": 289,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000000.jpg",
+    "type_id": 3,
+    "item_id": 290,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000003.jpg",
+    "type_id": 3,
+    "item_id": 291,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000010.jpg",
+    "type_id": 3,
+    "item_id": 292,
+    "question": "Are the pests lytta polita?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000014.jpg",
+    "type_id": 3,
+    "item_id": 293,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000015.jpg",
+    "type_id": 3,
+    "item_id": 294,
+    "question": "Are the pests Locustoidea?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000017.jpg",
+    "type_id": 3,
+    "item_id": 295,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000000.jpg",
+    "type_id": 3,
+    "item_id": 296,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000002.jpg",
+    "type_id": 3,
+    "item_id": 297,
+    "question": "Are the pests Locustoidea?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000006.jpg",
+    "type_id": 3,
+    "item_id": 298,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000015.jpg",
+    "type_id": 3,
+    "item_id": 299,
+    "question": "Are the pests Locustoidea?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000016.jpg",
+    "type_id": 3,
+    "item_id": 300,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000019.jpg",
+    "type_id": 3,
+    "item_id": 301,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000000.jpg",
+    "type_id": 3,
+    "item_id": 302,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000001.jpg",
+    "type_id": 3,
+    "item_id": 303,
+    "question": "Are the pests lytta polita?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000003.jpg",
+    "type_id": 3,
+    "item_id": 304,
+    "question": "Are the pests lytta polita?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000004.jpg",
+    "type_id": 3,
+    "item_id": 305,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000006.jpg",
+    "type_id": 3,
+    "item_id": 306,
+    "question": "Are the pests lytta polita?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000007.jpg",
+    "type_id": 3,
+    "item_id": 307,
+    "question": "Are the pests blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000000.jpg",
+    "type_id": 3,
+    "item_id": 308,
+    "question": "Are the pests blister beetle?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000002.jpg",
+    "type_id": 3,
+    "item_id": 309,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000004.jpg",
+    "type_id": 3,
+    "item_id": 310,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000005.jpg",
+    "type_id": 3,
+    "item_id": 311,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000007.jpg",
+    "type_id": 3,
+    "item_id": 312,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000010.jpg",
+    "type_id": 3,
+    "item_id": 313,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP053000021.jpg",
+    "type_id": 3,
+    "item_id": 314,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP053000081.jpg",
+    "type_id": 3,
+    "item_id": 315,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP053000096.jpg",
+    "type_id": 3,
+    "item_id": 316,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000006.jpg",
+    "type_id": 3,
+    "item_id": 317,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000007.jpg",
+    "type_id": 3,
+    "item_id": 318,
+    "question": "Are the pests odontothrips loti?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000008.jpg",
+    "type_id": 3,
+    "item_id": 319,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000009.jpg",
+    "type_id": 3,
+    "item_id": 320,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000025.jpg",
+    "type_id": 3,
+    "item_id": 321,
+    "question": "Are the pests Thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000031.jpg",
+    "type_id": 3,
+    "item_id": 322,
+    "question": "Are the pests odontothrips loti?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000004.jpg",
+    "type_id": 3,
+    "item_id": 323,
+    "question": "Are the pests Thrips?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000008.jpg",
+    "type_id": 3,
+    "item_id": 324,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000017.jpg",
+    "type_id": 3,
+    "item_id": 325,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000023.jpg",
+    "type_id": 3,
+    "item_id": 326,
+    "question": "Are the pests Thrips?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000045.jpg",
+    "type_id": 3,
+    "item_id": 327,
+    "question": "Are the pests Thrips?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000047.jpg",
+    "type_id": 3,
+    "item_id": 328,
+    "question": "Are the pests Thrips?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000003.jpg",
+    "type_id": 3,
+    "item_id": 329,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000013.jpg",
+    "type_id": 3,
+    "item_id": 330,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000015.jpg",
+    "type_id": 3,
+    "item_id": 331,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000026.jpg",
+    "type_id": 3,
+    "item_id": 332,
+    "question": "Are the pests Thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000037.jpg",
+    "type_id": 3,
+    "item_id": 333,
+    "question": "Are the pests Thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000044.jpg",
+    "type_id": 3,
+    "item_id": 334,
+    "question": "Are the pests Thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000007.jpg",
+    "type_id": 3,
+    "item_id": 335,
+    "question": "Are the pests Pieris canidia?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000010.jpg",
+    "type_id": 3,
+    "item_id": 336,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000016.jpg",
+    "type_id": 3,
+    "item_id": 337,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000017.jpg",
+    "type_id": 3,
+    "item_id": 338,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000026.jpg",
+    "type_id": 3,
+    "item_id": 339,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000034.jpg",
+    "type_id": 3,
+    "item_id": 340,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000016.jpg",
+    "type_id": 3,
+    "item_id": 341,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000031.jpg",
+    "type_id": 3,
+    "item_id": 342,
+    "question": "Are the pests Limacodidae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000045.jpg",
+    "type_id": 3,
+    "item_id": 343,
+    "question": "Are the pests Limacodidae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000055.jpg",
+    "type_id": 3,
+    "item_id": 344,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000065.jpg",
+    "type_id": 3,
+    "item_id": 345,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000066.jpg",
+    "type_id": 3,
+    "item_id": 346,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000000.jpg",
+    "type_id": 3,
+    "item_id": 347,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000006.jpg",
+    "type_id": 3,
+    "item_id": 348,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000007.jpg",
+    "type_id": 3,
+    "item_id": 349,
+    "question": "Are the pests Limacodidae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000033.jpg",
+    "type_id": 3,
+    "item_id": 350,
+    "question": "Are the pests Limacodidae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000047.jpg",
+    "type_id": 3,
+    "item_id": 351,
+    "question": "Are the pests Viteus vitifoliae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000083.jpg",
+    "type_id": 3,
+    "item_id": 352,
+    "question": "Are the pests Apolygus lucorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP062000066.jpg",
+    "type_id": 3,
+    "item_id": 353,
+    "question": "Are the pests Colomerus vitis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP062000072.jpg",
+    "type_id": 3,
+    "item_id": 354,
+    "question": "Are the pests oides decempunctata?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000000.jpg",
+    "type_id": 3,
+    "item_id": 355,
+    "question": "Are the pests oides decempunctata?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000003.jpg",
+    "type_id": 3,
+    "item_id": 356,
+    "question": "Are the pests Brevipoalpus lewisi McGregor?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000007.jpg",
+    "type_id": 3,
+    "item_id": 357,
+    "question": "Are the pests oides decempunctata?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000012.jpg",
+    "type_id": 3,
+    "item_id": 358,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000018.jpg",
+    "type_id": 3,
+    "item_id": 359,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000019.jpg",
+    "type_id": 3,
+    "item_id": 360,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000000.jpg",
+    "type_id": 3,
+    "item_id": 361,
+    "question": "Are the pests Pseudococcus comstocki Kuwana?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000004.jpg",
+    "type_id": 3,
+    "item_id": 362,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000021.jpg",
+    "type_id": 3,
+    "item_id": 363,
+    "question": "Are the pests Pseudococcus comstocki Kuwana?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000024.jpg",
+    "type_id": 3,
+    "item_id": 364,
+    "question": "Are the pests parathrene regalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000027.jpg",
+    "type_id": 3,
+    "item_id": 365,
+    "question": "Are the pests Pseudococcus comstocki Kuwana?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP065000035.jpg",
+    "type_id": 3,
+    "item_id": 366,
+    "question": "Are the pests parathrene regalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000003.jpg",
+    "type_id": 3,
+    "item_id": 367,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000007.jpg",
+    "type_id": 3,
+    "item_id": 368,
+    "question": "Are the pests parathrene regalis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000016.jpg",
+    "type_id": 3,
+    "item_id": 369,
+    "question": "Are the pests Pseudococcus comstocki Kuwana?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000035.jpg",
+    "type_id": 3,
+    "item_id": 370,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000041.jpg",
+    "type_id": 3,
+    "item_id": 371,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP066000045.jpg",
+    "type_id": 3,
+    "item_id": 372,
+    "question": "Are the pests Pseudococcus comstocki Kuwana?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000004.jpg",
+    "type_id": 3,
+    "item_id": 373,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000007.jpg",
+    "type_id": 3,
+    "item_id": 374,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000019.jpg",
+    "type_id": 3,
+    "item_id": 375,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000020.jpg",
+    "type_id": 3,
+    "item_id": 376,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000024.jpg",
+    "type_id": 3,
+    "item_id": 377,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000032.jpg",
+    "type_id": 3,
+    "item_id": 378,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000003.jpg",
+    "type_id": 3,
+    "item_id": 379,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000018.jpg",
+    "type_id": 3,
+    "item_id": 380,
+    "question": "Are the pests Xylotrechus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000043.jpg",
+    "type_id": 3,
+    "item_id": 381,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000047.jpg",
+    "type_id": 3,
+    "item_id": 382,
+    "question": "Are the pests Ampelophaga?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000048.jpg",
+    "type_id": 3,
+    "item_id": 383,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP068000051.jpg",
+    "type_id": 3,
+    "item_id": 384,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000006.jpg",
+    "type_id": 3,
+    "item_id": 385,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000052.jpg",
+    "type_id": 3,
+    "item_id": 386,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000053.jpg",
+    "type_id": 3,
+    "item_id": 387,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000064.jpg",
+    "type_id": 3,
+    "item_id": 388,
+    "question": "Are the pests Xylotrechus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000071.jpg",
+    "type_id": 3,
+    "item_id": 389,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000087.jpg",
+    "type_id": 3,
+    "item_id": 390,
+    "question": "Are the pests Lycorma delicatula?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000023.jpg",
+    "type_id": 3,
+    "item_id": 391,
+    "question": "Are the pests Miridae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000033.jpg",
+    "type_id": 3,
+    "item_id": 392,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000041.jpg",
+    "type_id": 3,
+    "item_id": 393,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000070.jpg",
+    "type_id": 3,
+    "item_id": 394,
+    "question": "Are the pests Xylotrechus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000154.jpg",
+    "type_id": 3,
+    "item_id": 395,
+    "question": "Are the pests Xylotrechus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000156.jpg",
+    "type_id": 3,
+    "item_id": 396,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000011.jpg",
+    "type_id": 3,
+    "item_id": 397,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000015.jpg",
+    "type_id": 3,
+    "item_id": 398,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000022.jpg",
+    "type_id": 3,
+    "item_id": 399,
+    "question": "Are the pests Trialeurodes vaporariorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000031.jpg",
+    "type_id": 3,
+    "item_id": 400,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000033.jpg",
+    "type_id": 3,
+    "item_id": 401,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000034.jpg",
+    "type_id": 3,
+    "item_id": 402,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000001.jpg",
+    "type_id": 3,
+    "item_id": 403,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000002.jpg",
+    "type_id": 3,
+    "item_id": 404,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000003.jpg",
+    "type_id": 3,
+    "item_id": 405,
+    "question": "Are the pests Trialeurodes vaporariorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000004.jpg",
+    "type_id": 3,
+    "item_id": 406,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000005.jpg",
+    "type_id": 3,
+    "item_id": 407,
+    "question": "Are the pests Miridae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000006.jpg",
+    "type_id": 3,
+    "item_id": 408,
+    "question": "Are the pests Trialeurodes vaporariorum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000013.jpg",
+    "type_id": 3,
+    "item_id": 409,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000021.jpg",
+    "type_id": 3,
+    "item_id": 410,
+    "question": "Are the pests Trialeurodes vaporariorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000027.jpg",
+    "type_id": 3,
+    "item_id": 411,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000039.jpg",
+    "type_id": 3,
+    "item_id": 412,
+    "question": "Are the pests Trialeurodes vaporariorum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000040.jpg",
+    "type_id": 3,
+    "item_id": 413,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000042.jpg",
+    "type_id": 3,
+    "item_id": 414,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000029.jpg",
+    "type_id": 3,
+    "item_id": 415,
+    "question": "Are the pests Panonchus citri McGregor?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000030.jpg",
+    "type_id": 3,
+    "item_id": 416,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000034.jpg",
+    "type_id": 3,
+    "item_id": 417,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000045.jpg",
+    "type_id": 3,
+    "item_id": 418,
+    "question": "Are the pests Panonchus citri McGregor?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000046.jpg",
+    "type_id": 3,
+    "item_id": 419,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000049.jpg",
+    "type_id": 3,
+    "item_id": 420,
+    "question": "Are the pests Panonchus citri McGregor?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000003.jpg",
+    "type_id": 3,
+    "item_id": 421,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000014.jpg",
+    "type_id": 3,
+    "item_id": 422,
+    "question": "Are the pests Phyllocoptes oleiverus ashmead?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000019.jpg",
+    "type_id": 3,
+    "item_id": 423,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000031.jpg",
+    "type_id": 3,
+    "item_id": 424,
+    "question": "Are the pests Panonchus citri McGregor?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000052.jpg",
+    "type_id": 3,
+    "item_id": 425,
+    "question": "Are the pests Panonchus citri McGregor?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000063.jpg",
+    "type_id": 3,
+    "item_id": 426,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000000.jpg",
+    "type_id": 3,
+    "item_id": 427,
+    "question": "Are the pests Icerya purchasi Maskell?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000001.jpg",
+    "type_id": 3,
+    "item_id": 428,
+    "question": "Are the pests Phyllocoptes oleiverus ashmead?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000003.jpg",
+    "type_id": 3,
+    "item_id": 429,
+    "question": "Are the pests Icerya purchasi Maskell?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000004.jpg",
+    "type_id": 3,
+    "item_id": 430,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000006.jpg",
+    "type_id": 3,
+    "item_id": 431,
+    "question": "Are the pests Phyllocoptes oleiverus ashmead?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP077000010.jpg",
+    "type_id": 3,
+    "item_id": 432,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000004.jpg",
+    "type_id": 3,
+    "item_id": 433,
+    "question": "Are the pests Ceroplastes rubens?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000020.jpg",
+    "type_id": 3,
+    "item_id": 434,
+    "question": "Are the pests Ceroplastes rubens?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000030.jpg",
+    "type_id": 3,
+    "item_id": 435,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000050.jpg",
+    "type_id": 3,
+    "item_id": 436,
+    "question": "Are the pests Icerya purchasi Maskell?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000053.jpg",
+    "type_id": 3,
+    "item_id": 437,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP078000060.jpg",
+    "type_id": 3,
+    "item_id": 438,
+    "question": "Are the pests Icerya purchasi Maskell?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000001.jpg",
+    "type_id": 3,
+    "item_id": 439,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000013.jpg",
+    "type_id": 3,
+    "item_id": 440,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000015.jpg",
+    "type_id": 3,
+    "item_id": 441,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000017.jpg",
+    "type_id": 3,
+    "item_id": 442,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000022.jpg",
+    "type_id": 3,
+    "item_id": 443,
+    "question": "Are the pests Unaspis yanonensis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000025.jpg",
+    "type_id": 3,
+    "item_id": 444,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000019.jpg",
+    "type_id": 3,
+    "item_id": 445,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000034.jpg",
+    "type_id": 3,
+    "item_id": 446,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000035.jpg",
+    "type_id": 3,
+    "item_id": 447,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000036.jpg",
+    "type_id": 3,
+    "item_id": 448,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000037.jpg",
+    "type_id": 3,
+    "item_id": 449,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000038.jpg",
+    "type_id": 3,
+    "item_id": 450,
+    "question": "Are the pests Ceroplastes rubens?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000003.jpg",
+    "type_id": 3,
+    "item_id": 451,
+    "question": "Are the pests Parlatoria zizyphus Lucus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000004.jpg",
+    "type_id": 3,
+    "item_id": 452,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000034.jpg",
+    "type_id": 3,
+    "item_id": 453,
+    "question": "Are the pests Nipaecoccus vastalor?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000035.jpg",
+    "type_id": 3,
+    "item_id": 454,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000037.jpg",
+    "type_id": 3,
+    "item_id": 455,
+    "question": "Are the pests Parlatoria zizyphus Lucus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000038.jpg",
+    "type_id": 3,
+    "item_id": 456,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000011.jpg",
+    "type_id": 3,
+    "item_id": 457,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000032.jpg",
+    "type_id": 3,
+    "item_id": 458,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000045.jpg",
+    "type_id": 3,
+    "item_id": 459,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000073.jpg",
+    "type_id": 3,
+    "item_id": 460,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000099.jpg",
+    "type_id": 3,
+    "item_id": 461,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000108.jpg",
+    "type_id": 3,
+    "item_id": 462,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000001.jpg",
+    "type_id": 3,
+    "item_id": 463,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000016.jpg",
+    "type_id": 3,
+    "item_id": 464,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000030.jpg",
+    "type_id": 3,
+    "item_id": 465,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000035.jpg",
+    "type_id": 3,
+    "item_id": 466,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000038.jpg",
+    "type_id": 3,
+    "item_id": 467,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000052.jpg",
+    "type_id": 3,
+    "item_id": 468,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000000.jpg",
+    "type_id": 3,
+    "item_id": 469,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000002.jpg",
+    "type_id": 3,
+    "item_id": 470,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000004.jpg",
+    "type_id": 3,
+    "item_id": 471,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000005.jpg",
+    "type_id": 3,
+    "item_id": 472,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000024.jpg",
+    "type_id": 3,
+    "item_id": 473,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000030.jpg",
+    "type_id": 3,
+    "item_id": 474,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000000.jpg",
+    "type_id": 3,
+    "item_id": 475,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000001.jpg",
+    "type_id": 3,
+    "item_id": 476,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000007.jpg",
+    "type_id": 3,
+    "item_id": 477,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000010.jpg",
+    "type_id": 3,
+    "item_id": 478,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000011.jpg",
+    "type_id": 3,
+    "item_id": 479,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000019.jpg",
+    "type_id": 3,
+    "item_id": 480,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000000.jpg",
+    "type_id": 3,
+    "item_id": 481,
+    "question": "Are the pests Adristyrannus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000003.jpg",
+    "type_id": 3,
+    "item_id": 482,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000005.jpg",
+    "type_id": 3,
+    "item_id": 483,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000006.jpg",
+    "type_id": 3,
+    "item_id": 484,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000009.jpg",
+    "type_id": 3,
+    "item_id": 485,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP087000011.jpg",
+    "type_id": 3,
+    "item_id": 486,
+    "question": "Are the pests Bactrocera tsuneonis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000000.jpg",
+    "type_id": 3,
+    "item_id": 487,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000002.jpg",
+    "type_id": 3,
+    "item_id": 488,
+    "question": "Are the pests Adristyrannus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000007.jpg",
+    "type_id": 3,
+    "item_id": 489,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000008.jpg",
+    "type_id": 3,
+    "item_id": 490,
+    "question": "Are the pests Prodenia litura?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000018.jpg",
+    "type_id": 3,
+    "item_id": 491,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000023.jpg",
+    "type_id": 3,
+    "item_id": 492,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000036.jpg",
+    "type_id": 3,
+    "item_id": 493,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000051.jpg",
+    "type_id": 3,
+    "item_id": 494,
+    "question": "Are the pests Adristyrannus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000061.jpg",
+    "type_id": 3,
+    "item_id": 495,
+    "question": "Are the pests Adristyrannus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000063.jpg",
+    "type_id": 3,
+    "item_id": 496,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000078.jpg",
+    "type_id": 3,
+    "item_id": 497,
+    "question": "Are the pests Adristyrannus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000081.jpg",
+    "type_id": 3,
+    "item_id": 498,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000032.jpg",
+    "type_id": 3,
+    "item_id": 499,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000056.jpg",
+    "type_id": 3,
+    "item_id": 500,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000060.jpg",
+    "type_id": 3,
+    "item_id": 501,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000070.jpg",
+    "type_id": 3,
+    "item_id": 502,
+    "question": "Are the pests Phyllocnistis citrella Stainton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000083.jpg",
+    "type_id": 3,
+    "item_id": 503,
+    "question": "Are the pests Toxoptera aurantii?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000086.jpg",
+    "type_id": 3,
+    "item_id": 504,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000002.jpg",
+    "type_id": 3,
+    "item_id": 505,
+    "question": "Are the pests Aphis citricola Vander Goot?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000015.jpg",
+    "type_id": 3,
+    "item_id": 506,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000017.jpg",
+    "type_id": 3,
+    "item_id": 507,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000019.jpg",
+    "type_id": 3,
+    "item_id": 508,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000030.jpg",
+    "type_id": 3,
+    "item_id": 509,
+    "question": "Are the pests Toxoptera aurantii?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000031.jpg",
+    "type_id": 3,
+    "item_id": 510,
+    "question": "Are the pests Toxoptera aurantii?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000039.jpg",
+    "type_id": 3,
+    "item_id": 511,
+    "question": "Are the pests Aphis citricola Vander Goot?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000119.jpg",
+    "type_id": 3,
+    "item_id": 512,
+    "question": "Are the pests Toxoptera aurantii?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000176.jpg",
+    "type_id": 3,
+    "item_id": 513,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000203.jpg",
+    "type_id": 3,
+    "item_id": 514,
+    "question": "Are the pests Toxoptera aurantii?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000209.jpg",
+    "type_id": 3,
+    "item_id": 515,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000218.jpg",
+    "type_id": 3,
+    "item_id": 516,
+    "question": "Are the pests Aphis citricola Vander Goot?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000017.jpg",
+    "type_id": 3,
+    "item_id": 517,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000077.jpg",
+    "type_id": 3,
+    "item_id": 518,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000097.jpg",
+    "type_id": 3,
+    "item_id": 519,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000101.jpg",
+    "type_id": 3,
+    "item_id": 520,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000105.jpg",
+    "type_id": 3,
+    "item_id": 521,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000109.jpg",
+    "type_id": 3,
+    "item_id": 522,
+    "question": "Are the pests Aphis citricola Vander Goot?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000192.jpg",
+    "type_id": 3,
+    "item_id": 523,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000196.jpg",
+    "type_id": 3,
+    "item_id": 524,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000197.jpg",
+    "type_id": 3,
+    "item_id": 525,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000201.jpg",
+    "type_id": 3,
+    "item_id": 526,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000002.jpg",
+    "type_id": 3,
+    "item_id": 527,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000005.jpg",
+    "type_id": 3,
+    "item_id": 528,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000014.jpg",
+    "type_id": 3,
+    "item_id": 529,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000015.jpg",
+    "type_id": 3,
+    "item_id": 530,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000018.jpg",
+    "type_id": 3,
+    "item_id": 531,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP095000021.jpg",
+    "type_id": 3,
+    "item_id": 532,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000000.jpg",
+    "type_id": 3,
+    "item_id": 533,
+    "question": "Are the pests Deporaus marginatus Pascoe?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000003.jpg",
+    "type_id": 3,
+    "item_id": 534,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000004.jpg",
+    "type_id": 3,
+    "item_id": 535,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000006.jpg",
+    "type_id": 3,
+    "item_id": 536,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000007.jpg",
+    "type_id": 3,
+    "item_id": 537,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000009.jpg",
+    "type_id": 3,
+    "item_id": 538,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000003.jpg",
+    "type_id": 3,
+    "item_id": 539,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000004.jpg",
+    "type_id": 3,
+    "item_id": 540,
+    "question": "Are the pests Deporaus marginatus Pascoe?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000008.jpg",
+    "type_id": 3,
+    "item_id": 541,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000009.jpg",
+    "type_id": 3,
+    "item_id": 542,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000011.jpg",
+    "type_id": 3,
+    "item_id": 543,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000012.jpg",
+    "type_id": 3,
+    "item_id": 544,
+    "question": "Are the pests Salurnis marginella Guerr?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000001.jpg",
+    "type_id": 3,
+    "item_id": 545,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000007.jpg",
+    "type_id": 3,
+    "item_id": 546,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000010.jpg",
+    "type_id": 3,
+    "item_id": 547,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000029.jpg",
+    "type_id": 3,
+    "item_id": 548,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000038.jpg",
+    "type_id": 3,
+    "item_id": 549,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000053.jpg",
+    "type_id": 3,
+    "item_id": 550,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000016.jpg",
+    "type_id": 3,
+    "item_id": 551,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000021.jpg",
+    "type_id": 3,
+    "item_id": 552,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000034.jpg",
+    "type_id": 3,
+    "item_id": 553,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000036.jpg",
+    "type_id": 3,
+    "item_id": 554,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000037.jpg",
+    "type_id": 3,
+    "item_id": 555,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000048.jpg",
+    "type_id": 3,
+    "item_id": 556,
+    "question": "Are the pests Rhytidodera bowrinii white?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000002.jpg",
+    "type_id": 3,
+    "item_id": 557,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000011.jpg",
+    "type_id": 3,
+    "item_id": 558,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000015.jpg",
+    "type_id": 3,
+    "item_id": 559,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000018.jpg",
+    "type_id": 3,
+    "item_id": 560,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000021.jpg",
+    "type_id": 3,
+    "item_id": 561,
+    "question": "Are the pests Rhytidodera bowrinii white?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000039.jpg",
+    "type_id": 3,
+    "item_id": 562,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000000.jpg",
+    "type_id": 3,
+    "item_id": 563,
+    "question": "Are the pests Cicadellidae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000007.jpg",
+    "type_id": 3,
+    "item_id": 564,
+    "question": "Are the pests Cicadellidae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000018.jpg",
+    "type_id": 3,
+    "item_id": 565,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000025.jpg",
+    "type_id": 3,
+    "item_id": 566,
+    "question": "Are the pests Rhytidodera bowrinii white?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000098.jpg",
+    "type_id": 3,
+    "item_id": 567,
+    "question": "Are the pests Cicadellidae?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000112.jpg",
+    "type_id": 3,
+    "item_id": 568,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP102000008.jpg",
+    "type_id": 3,
+    "item_id": 569,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP102000009.jpg",
+    "type_id": 3,
+    "item_id": 570,
+    "question": "Are the pests Sternochetus frigidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP102000010.jpg",
+    "type_id": 3,
+    "item_id": 571,
+    "question": "Are the pests Cicadellidae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP102000015.jpg",
+    "type_id": 3,
+    "item_id": 572,
+    "question": "Are the pests Cicadellidae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  }
+]

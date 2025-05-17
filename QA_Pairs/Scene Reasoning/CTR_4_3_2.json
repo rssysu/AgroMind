@@ -1,0 +1,5373 @@
+[
+  {
+    "type_id": 5,
+    "item_id": 1,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c31d723be6ca30005c74db5_2706.jpg",
+      "B": "./Trees/images/5c672d37c6760000068917b1_1425.jpg",
+      "C": "./Trees/images/60c2f2c4c3b42f000788d321_3662.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2375.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 2,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60bc2b27f59a4300057c5519_72.jpg",
+      "B": "./Trees/images/5a5a21a25a9ef7cb5df1937e_1836.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_3967.jpg",
+      "D": "./Trees/images/5f0476d80570c50007a7fb60_1428.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 3,
+    "isMultiple": true,
+    "question": "which 4 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ddc250a931cf400079c9953_4236.jpg",
+      "B": "./Trees/images/5ac79b2191b5310010e0d4bd_3009.jpg",
+      "C": "./Trees/images/5e4fbd3024710000056a516f_3864.jpg",
+      "D": "./Trees/images/5b003ade2b6a08001185f13e_21.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 4,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5fe3cf0b5f36590007d9f04f_4081.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4713.jpg",
+      "D": "./Trees/images/5fff0f93c46165000547372d_22.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 5,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c83a075f6a3c00007326598_3051.jpg",
+      "B": "./Trees/images/5c8b6813a8ac330005a58af6_4770.jpg",
+      "C": "./Trees/images/5d5d7f2271f7ef0005c1b44f_2331.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_5052.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 6,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5fea120be66cea000786272f_3030.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_433.jpg",
+      "C": "./Trees/images/5e1f63ddd2b5de0006acdd8c_4602.jpg",
+      "D": "./Trees/images/59e62b953d6412ef7220a31c_2819.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 7,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4357.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_1219.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aeff_1946.jpg",
+      "D": "./Trees/images/5d1bd8e593e1130005fc0e92_1278.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 8,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e649d26e6c4ec000688ffab_4290.jpg",
+      "B": "./Trees/images/5f3b3441df88ab000761cb39_849.jpg",
+      "C": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4353.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 9,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_3830.jpg",
+      "B": "./Trees/images/5a2d4387bac48e5b1c64facc_4467.jpg",
+      "C": "./Trees/images/5e2566772554740005d5c9e8_4995.jpg",
+      "D": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 10,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b703d6412ef72208f5a_4989.jpg",
+      "B": "./Trees/images/60d10513eade0f00079b5890_2291.jpg",
+      "C": "./Trees/images/5e25ec6e36067e0005c2752d_1799.jpg",
+      "D": "./Trees/images/5f0eda6b31da550005624682_4207.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 11,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a592_3888.jpg",
+      "B": "./Trees/images/5ca97be23bc29600053c1623_2316.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+      "D": "./Trees/images/5b10358e2b6a08001185f418_2671.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 12,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_517.jpg",
+      "B": "./Trees/images/59e62be63d6412ef7220c37a_2243.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220af02_4717.jpg",
+      "D": "./Trees/images/5dc40b06d0e638000592ebe6_644.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 13,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4282.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_1850.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a5b7_114.jpg",
+      "D": "./Trees/images/5b1041cb2b6a08001185f42f_3347.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 14,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cf70198c25f7e00059bac96_1624.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3028.jpg",
+      "C": "./Trees/images/5abb761965bd8f00110f3e4c_2046.jpg",
+      "D": "./Trees/images/60a7a37029636900059d6491_3474.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 15,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ad7a7c891b5310010e0d550_4971.jpg",
+      "B": "./Trees/images/5ae320c30b093000130afdb5_946.jpg",
+      "C": "./Trees/images/5bfdbd20351e730005346227_3824.jpg",
+      "D": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_3163.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 16,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b9d22b53c691c00060c0262_3775.jpg",
+      "B": "./Trees/images/5a25ae87bac48e5b1c51946f_1194.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1111.jpg",
+      "D": "./Trees/images/5a009b7ebac48e5b1cf6ef81_4118.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 17,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2287.jpg",
+      "B": "./Trees/images/5dc40b06d0e638000592ebe6_763.jpg",
+      "C": "./Trees/images/5b88665d3c07e100077c483a_3213.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_1945.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 18,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aed6_4032.jpg",
+      "B": "./Trees/images/5b5197864bda9e0682edbda6_4754.jpg",
+      "C": "./Trees/images/60606bd0eeae3c000693003f_965.jpg",
+      "D": "./Trees/images/60f138e489ec130007b828c3_709.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 19,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e9d2bc9054194000589a41a_4069.jpg",
+      "B": "./Trees/images/59fc9657bac48e5b1ced2a2f_2160.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aecb_615.jpg",
+      "D": "./Trees/images/5a514dfc5a9ef7cb5ddabac1_3709.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 20,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4fb2fb24710000056a515c_3708.jpg",
+      "B": "./Trees/images/5de55a69b3b5ce0006c2d960_4945.jpg",
+      "C": "./Trees/images/5bce3d12b9e5f20005f7da4d_4268.jpg",
+      "D": "./Trees/images/5ae3923e0b093000130aff38_3904.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 21,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_5006.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_4373.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aefa_1557.jpg",
+      "D": "./Trees/images/5bf6676cad75b80007102067_980.jpg"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 22,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/61951f134cf5080007593269_191.jpg",
+      "B": "./Trees/images/60d2046feade0f00079b58bd_2752.jpg",
+      "C": "./Trees/images/5f8de1dca11f71000673ec58_2753.jpg",
+      "D": "./Trees/images/5a009b7ebac48e5b1cf6ef81_4161.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 23,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4970.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4208.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_1726.jpg",
+      "D": "./Trees/images/5a597fb25a9ef7cb5df003cf_3596.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 24,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b8fc8f88752bd000830170d_1358.jpg",
+      "B": "./Trees/images/59e62b9a3d6412ef7220a51f_2707.jpg",
+      "C": "./Trees/images/60d72a025e4fd500077d46e7_2916.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_2675.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 25,
+    "isMultiple": true,
+    "question": "which 4 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bd13ced007b5600073957e8_3586.jpg",
+      "B": "./Trees/images/5a14b831bac48e5b1c281943_3707.jpg",
+      "C": "./Trees/images/5ca75114b21ec90007944d7d_844.jpg",
+      "D": "./Trees/images/5bac9a13692f850005383f6e_3153.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 26,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cafa1a0f58c0800075d4fc2_3461.jpg",
+      "B": "./Trees/images/5d87983a0e02d300050aa10f_2142.jpg",
+      "C": "./Trees/images/5b518afc4bda9e648eedbd9d_3722.jpg",
+      "D": "./Trees/images/5b925da45d406700087d1514_308.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 27,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f08a349cd2ccd00078c3419_4556.jpg",
+      "B": "./Trees/images/59e62b9a3d6412ef7220a51f_2112.jpg",
+      "C": "./Trees/images/5ea54c1cc70abb0005869ea7_4584.jpg",
+      "D": "./Trees/images/59e62b953d6412ef7220a31c_3731.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 28,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4438.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+      "C": "./Trees/images/5cd4a49f4b7c75000784da34_2522.jpg",
+      "D": "./Trees/images/60a7a37029636900059d6491_3474.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 29,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "B": "./Trees/images/59e62b973d6412ef7220a418_1572.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a31c_1524.jpg",
+      "D": "./Trees/images/5a276972bac48e5b1c561a15_2186.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 30,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a237ea5bac48e5b1c4bf531_2822.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aefa_3613.jpg",
+      "C": "./Trees/images/5de3ac6da9ab930007f2bc8e_2506.jpg",
+      "D": "./Trees/images/5bbd459c3baffb0005fe9ba1_3869.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 31,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a276972bac48e5b1c561a15_2186.jpg",
+      "B": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+      "C": "./Trees/images/5bac9a13692f850005383f6e_1885.jpg",
+      "D": "./Trees/images/5da4eb2dcac1190007698b1b_4676.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 32,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5eada7de3295f300072a6d80_689.jpg",
+      "B": "./Trees/images/5abb761965bd8f00110f3e4c_2704.jpg",
+      "C": "./Trees/images/5e28a0d12329e800051134a5_858.jpg",
+      "D": "./Trees/images/5de1364e0c04590006d335bd_802.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 33,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be33d6412ef7220c25f_2951.jpg",
+      "B": "./Trees/images/5cb64e020a3a5c0005ff12ff_717.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3755.jpg",
+      "D": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 34,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+      "B": "./Trees/images/5dd0f6dda7dadc0006433b5b_5007.jpg",
+      "C": "./Trees/images/6108af51343da30006976e20_1327.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4988.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 35,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c13db9205f40a0007517d15_3642.jpg",
+      "B": "./Trees/images/5c31d723be6ca30005c74db5_2650.jpg",
+      "C": "./Trees/images/5a00bf89bac48e5b1cf74f14_91.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3067.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 36,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e25ec6536067e0005c2752c_3608.jpg",
+      "B": "./Trees/images/5d7764494dfec000074a8cb5_2885.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aeff_2519.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 37,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5abb761965bd8f00110f3e4c_3584.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_310.jpg",
+      "C": "./Trees/images/59e62b8b3d6412ef72209db8_1817.jpg",
+      "D": "./Trees/images/5de7f5ea2290870005e59995_5005.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 38,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62bb03d6412ef7220aea8_3498.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_935.jpg",
+      "C": "./Trees/images/5b10238f2b6a08001185f398_2886.jpg",
+      "D": "./Trees/images/61951f134cf5080007593269_207.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 39,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60d2046feade0f00079b58bd_2000.jpg",
+      "B": "./Trees/images/5fb52130d89ab70006abca33_767.jpg",
+      "C": "./Trees/images/5d1cc58493e1130005fc0eb0_2483.jpg",
+      "D": "./Trees/images/5b6473dd40e11005cf16cc89_1708.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 40,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4961.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_1804.jpg",
+      "C": "./Trees/images/5e72ba9b133f1a000511bead_3073.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_2895.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 41,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_3052.jpg",
+      "B": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+      "C": "./Trees/images/60a7a37029636900059d6491_3411.jpg",
+      "D": "./Trees/images/5d94c6a74f29390005e237c6_3450.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 42,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d7764494dfec000074a8cb5_3774.jpg",
+      "B": "./Trees/images/5c8d82f0b8e7090005010554_1010.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_1406.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a2af_1670.jpg"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 43,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a16788cbac48e5b1c2c47bf_866.jpg",
+      "B": "./Trees/images/613a64a018b2fb000574fb54_1815.jpg",
+      "C": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg",
+      "D": "./Trees/images/5e639bf5ec014e000618876d_1108.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 44,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4295.jpg",
+      "B": "./Trees/images/5ae7f5fa0b093000130affcc_983.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_1004.jpg",
+      "D": "./Trees/images/6037bafb0c174800070d60da_5033.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 45,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d0a57eadef34f0005ab9aa7_425.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_3831.jpg",
+      "C": "./Trees/images/5e232b0050259f000541fc51_1115.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_1618.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 46,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae4afd70b093000130affb1_2109.jpg",
+      "B": "./Trees/images/5e24f9cf2554740005d5c9bb_2983.jpg",
+      "C": "./Trees/images/5a14b831bac48e5b1c281943_2627.jpg",
+      "D": "./Trees/images/5c3cb31865775c0007e79448_2436.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 47,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bde089ac82a1c00056f8fc6_869.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg",
+      "C": "./Trees/images/5e1193a95f5069000738f16a_4217.jpg",
+      "D": "./Trees/images/5e25ec6536067e0005c2752c_3371.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 48,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_3102.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aed6_3245.jpg",
+      "C": "./Trees/images/5ca97be23bc29600053c1623_3659.jpg",
+      "D": "./Trees/images/5a04a02cbac48e5b1c01282b_1613.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 49,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e25ecee36067e0005c2752e_270.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_2078.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a31f_4571.jpg",
+      "D": "./Trees/images/60e988c5719f470008094136_216.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 50,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_948.jpg",
+      "B": "./Trees/images/616de51e73cc220005b8e08b_190.jpg",
+      "C": "./Trees/images/5e8b4a54a652050007863a89_4869.jpg",
+      "D": "./Trees/images/5d1b35f04f53e8000502cfd0_2855.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 51,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/6108af51343da30006976e20_589.jpg",
+      "B": "./Trees/images/5dddd9fecbc7e00006bc31e2_3236.jpg",
+      "C": "./Trees/images/5b10358e2b6a08001185f418_4135.jpg",
+      "D": "./Trees/images/5f7177d91d951a00058695e8_2431.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 52,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bb04dcda28dc0000543f079_2873.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_1431.jpg",
+      "C": "./Trees/images/5c6522c346bdea00053984d1_2793.jpg",
+      "D": "./Trees/images/5c31d723be6ca30005c74db5_1819.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 53,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bbd459c3baffb0005fe9ba1_4015.jpg",
+      "B": "./Trees/images/5f0ed88e31da55000562467f_3215.jpg",
+      "C": "./Trees/images/5ff5a55038bfed0005ea56fb_2395.jpg",
+      "D": "./Trees/images/5c13db9205f40a0007517d15_1790.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 54,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_1852.jpg",
+      "B": "./Trees/images/59e62b943d6412ef7220a302_353.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a366_4817.jpg",
+      "D": "./Trees/images/5da70461b4c6e100054ddb59_2006.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 55,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e8b4a54a652050007863a89_4869.jpg",
+      "B": "./Trees/images/5b88665d3c07e100077c483a_1459.jpg",
+      "C": "./Trees/images/60d2046feade0f00079b58bd_3727.jpg",
+      "D": "./Trees/images/5e068f3605e6590005c2f71a_3751.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 56,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_1778.jpg",
+      "B": "./Trees/images/5a009b7ebac48e5b1cf6ef81_2239.jpg",
+      "C": "./Trees/images/5f85751a7d446d0005fa8178_3666.jpg",
+      "D": "./Trees/images/5c3cb31865775c0007e79448_3316.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 57,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5eef6d0e1bb60b000624b4da_4547.jpg",
+      "B": "./Trees/images/5ad6e3b291b5310010e0d543_243.jpg",
+      "C": "./Trees/images/5d94c6a74f29390005e237c6_3450.jpg",
+      "D": "./Trees/images/5ad7a7c891b5310010e0d550_4709.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 58,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4fb2fb24710000056a515c_4105.jpg",
+      "B": "./Trees/images/5d1bd8e593e1130005fc0e92_760.jpg",
+      "C": "./Trees/images/5d94c6a74f29390005e237c6_2624.jpg",
+      "D": "./Trees/images/5bcdcf3ab9e5f20005f7da40_743.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 59,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4954.jpg",
+      "B": "./Trees/images/5fb3fd470ce25d0006a19532_1220.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4600.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 60,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a04a02cbac48e5b1c01282b_2783.jpg",
+      "B": "./Trees/images/5ff5a55038bfed0005ea56fb_2323.jpg",
+      "C": "./Trees/images/5b6473dd40e11005cf16cc89_2122.jpg",
+      "D": "./Trees/images/59e62bb23d6412ef7220af16_2435.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 61,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5fb52130d89ab70006abca33_2400.jpg",
+      "B": "./Trees/images/5cf06748b9ff690005693589_3094.jpg",
+      "C": "./Trees/images/60d6e00dc700c600080d5531_713.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_4083.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 62,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60a7a37029636900059d6491_3474.jpg",
+      "B": "./Trees/images/5e4fae9a24710000056a5156_261.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_2768.jpg",
+      "D": "./Trees/images/60a2325625820c0005e458d4_275.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 63,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e2566772554740005d5c9e8_4332.jpg",
+      "B": "./Trees/images/5fdccb97cce96c000538f784_2117.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_3697.jpg",
+      "D": "./Trees/images/59e62b943d6412ef7220a302_683.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 64,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_4109.jpg",
+      "B": "./Trees/images/5c3ea615e7ff3f00054889d4_122.jpg",
+      "C": "./Trees/images/5a009b7ebac48e5b1cf6ef81_1415.jpg",
+      "D": "./Trees/images/60a6469525820c0005e45927_297.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 65,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ea54c1cc70abb0005869ea7_4417.jpg",
+      "B": "./Trees/images/5b10416e2b6a08001185f42b_1405.jpg",
+      "C": "./Trees/images/5e25ec6536067e0005c2752c_3001.jpg",
+      "D": "./Trees/images/5e232b0050259f000541fc51_1115.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 66,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4399.jpg",
+      "B": "./Trees/images/5ae4afd70b093000130affb1_3805.jpg",
+      "C": "./Trees/images/59e62b943d6412ef7220a302_826.jpg",
+      "D": "./Trees/images/60b0cccea9600f0008458140_2679.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 67,
+    "isMultiple": true,
+    "question": "which 4 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5df3676447496b0006bc0d2f_1174.jpg",
+      "B": "./Trees/images/60e988c5719f470008094136_1319.jpg",
+      "C": "./Trees/images/5ba251aba7627100062e4510_3870.jpg",
+      "D": "./Trees/images/60d10513eade0f00079b5890_2007.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 68,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1560.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a579_4537.jpg",
+      "C": "./Trees/images/5bb0c7fd7e1a410005fd2eb1_3181.jpg",
+      "D": "./Trees/images/5c5cde10e84ca0000599359f_388.jpg"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 69,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f2fb5190d59fe00057c32ac_4393.jpg",
+      "B": "./Trees/images/5bea85b741f79800070a4f6d_3757.jpg",
+      "C": "./Trees/images/60c44a21338cc80005cfdd0b_496.jpg",
+      "D": "./Trees/images/60606bd0eeae3c000693003f_159.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 70,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e25ec6536067e0005c2752c_1643.jpg",
+      "B": "./Trees/images/59e62b933d6412ef7220a219_2360.jpg",
+      "C": "./Trees/images/60a7a37029636900059d6491_3606.jpg",
+      "D": "./Trees/images/5c466c6c437ee1000616311f_2285.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 71,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e72ba9b133f1a000511bead_2717.jpg",
+      "B": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "C": "./Trees/images/5e4fbd3024710000056a516f_2033.jpg",
+      "D": "./Trees/images/615cde11c47ebe0007c75941_2493.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 72,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e118f5c5f5069000738f161_1449.jpg",
+      "B": "./Trees/images/5ae320420b093000130afdad_4703.jpg",
+      "C": "./Trees/images/5d714d369abb100005e46d9f_186.jpg",
+      "D": "./Trees/images/5e8b4a54a652050007863a89_4706.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 73,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/606a128671c8e90007b49e59_3567.jpg",
+      "B": "./Trees/images/59e62b703d6412ef72208f44_2450.jpg",
+      "C": "./Trees/images/5e8b4a54a652050007863a89_4871.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_177.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 74,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bc119b7c7e1cf0008e45e25_2549.jpg",
+      "B": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3119.jpg",
+      "C": "./Trees/images/60315c91d9c7c8000504d2cb_4727.jpg",
+      "D": "./Trees/images/5d8179a9f3e9b40005be6ef5_18.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 75,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5dd0f6dda7dadc0006433b5b_4270.jpg",
+      "B": "./Trees/images/616de51e73cc220005b8e08b_459.jpg",
+      "C": "./Trees/images/5e40d4dc56992d0006e589e1_2305.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3793.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 76,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60bc2b27f59a4300057c5519_142.jpg",
+      "B": "./Trees/images/5dd7c9b049432100060ef977_502.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_1065.jpg",
+      "D": "./Trees/images/60bffba9ef5d220007c24a8c_3363.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 77,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f0ed88e31da55000562467f_2689.jpg",
+      "B": "./Trees/images/59e62b933d6412ef7220a215_1622.jpg",
+      "C": "./Trees/images/5a789bd45a9ef7cb5d408eb2_63.jpg",
+      "D": "./Trees/images/60d2046feade0f00079b58bd_3833.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 78,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4899.jpg",
+      "B": "./Trees/images/5deee6d4e5d474000640673a_4972.jpg",
+      "C": "./Trees/images/5ca0936a9bc6570005e10aa2_1469.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4786.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 79,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f53b99404c2a50006bd6a05_1061.jpg",
+      "B": "./Trees/images/5c08c36c6918390006b7a8a3_2888.jpg",
+      "C": "./Trees/images/5e25ec6536067e0005c2752c_1643.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aeff_2937.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 80,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a366_4243.jpg",
+      "B": "./Trees/images/5b1096542b6a08001185f4c9_3784.jpg",
+      "C": "./Trees/images/61201a81b7012200056b5c6e_1242.jpg",
+      "D": "./Trees/images/5ad7a7c891b5310010e0d550_5049.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 81,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e1193a95f5069000738f16a_4604.jpg",
+      "B": "./Trees/images/5d73667388556200055f10e4_316.jpg",
+      "C": "./Trees/images/6108b0df343da30006976e23_3056.jpg",
+      "D": "./Trees/images/5dad0e1c16c43b00058d0262_432.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 82,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60f138e489ec130007b828c3_1183.jpg",
+      "B": "./Trees/images/5f12fdeebaa90f0006a0ab23_4910.jpg",
+      "C": "./Trees/images/5f75542e61151700054968d1_3857.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4394.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 83,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ff330589ef28c00068659a9_3159.jpg",
+      "B": "./Trees/images/59e62b703d6412ef72208f5a_4950.jpg",
+      "C": "./Trees/images/60f138e489ec130007b828c3_1183.jpg",
+      "D": "./Trees/images/5b7284639102adba313a5c3a_2393.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 84,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4713.jpg",
+      "B": "./Trees/images/5d97233be2b1f300057cb329_2883.jpg",
+      "C": "./Trees/images/5c13db9205f40a0007517d15_3143.jpg",
+      "D": "./Trees/images/5f12fdeebaa90f0006a0ab23_4891.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 85,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b003ade2b6a08001185f13e_2601.jpg",
+      "B": "./Trees/images/5ae3923e0b093000130aff38_2557.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_5018.jpg",
+      "D": "./Trees/images/5d8cabebabcfaa0008b1d26b_4368.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 86,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a43c_2011.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a579_4694.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_801.jpg",
+      "D": "./Trees/images/5d9afef50ca8d70007c491f8_4114.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 87,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4487.jpg",
+      "B": "./Trees/images/5ae3adc00b093000130affa6_3990.jpg",
+      "C": "./Trees/images/5c36c6eebe3f4e000541d362_529.jpg",
+      "D": "./Trees/images/60d10513eade0f00079b5890_2677.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 88,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/61390c4318b2fb000574fb43_4774.jpg",
+      "B": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "C": "./Trees/images/5b10238f2b6a08001185f398_4045.jpg",
+      "D": "./Trees/images/5d01ac72553f4b000590dbff_1441.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 89,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e1193a95f5069000738f16a_4267.jpg",
+      "B": "./Trees/images/5c97e2fb23189800059f4d41_3637.jpg",
+      "C": "./Trees/images/5b10358e2b6a08001185f418_2132.jpg",
+      "D": "./Trees/images/5f75542e61151700054968d1_2958.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 90,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f059147ce2c9900068d83ee_151.jpg",
+      "B": "./Trees/images/616ea1a173cc220005b8e093_4545.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_902.jpg",
+      "D": "./Trees/images/5b10408a2b6a08001185f427_1018.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 91,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_3198.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_417.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_5051.jpg",
+      "D": "./Trees/images/5a276972bac48e5b1c561a15_2186.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 92,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f75542e61151700054968d1_3857.jpg",
+      "B": "./Trees/images/5c31d71fbe6ca30005c74db4_4766.jpg",
+      "C": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+      "D": "./Trees/images/5ae320420b093000130afdad_4541.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 93,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f75542e61151700054968d1_2805.jpg",
+      "B": "./Trees/images/60b0cccea9600f0008458140_3480.jpg",
+      "C": "./Trees/images/5cd4a49f4b7c75000784da34_2521.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 94,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c6580f31fa6f100070431fa_607.jpg",
+      "B": "./Trees/images/5fd33e61f00c200007292ba8_4744.jpg",
+      "C": "./Trees/images/5b90b45884d0cc000790357c_3011.jpg",
+      "D": "./Trees/images/5bfdbd20351e730005346227_1495.jpg"
+    },
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 95,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_1219.jpg",
+      "B": "./Trees/images/5b90b45884d0cc000790357c_2179.jpg",
+      "C": "./Trees/images/5dbb240d05580100062e0210_3726.jpg",
+      "D": "./Trees/images/59e62b9b3d6412ef7220a579_4316.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 96,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae4afd70b093000130affb1_2606.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_5051.jpg",
+      "C": "./Trees/images/5f85751a7d446d0005fa8178_2924.jpg",
+      "D": "./Trees/images/5a9980b15a9ef7cb5d982284_491.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 97,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c5cde10e84ca0000599359f_943.jpg",
+      "B": "./Trees/images/5a514dfc5a9ef7cb5ddabac1_3338.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c37a_2003.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_1347.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 98,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_2009.jpg",
+      "B": "./Trees/images/5dbb734605580100062e021a_4187.jpg",
+      "C": "./Trees/images/5d3460558a5c8b000519fd96_1257.jpg",
+      "D": "./Trees/images/5e2566772554740005d5c9e8_4588.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 99,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_3547.jpg",
+      "B": "./Trees/images/5e17cc7f76e4f20005c1b85c_1963.jpg",
+      "C": "./Trees/images/5f7486da6115170005496874_463.jpg",
+      "D": "./Trees/images/60a7f8f729636900059d6498_2587.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 100,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5dde8d370140b80006d2e547_964.jpg",
+      "B": "./Trees/images/5d5293f4c522e6000532f61b_2334.jpg",
+      "C": "./Trees/images/5d73667388556200055f10e4_605.jpg",
+      "D": "./Trees/images/6018b89174ca1900066fa4cb_4836.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 101,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be33d6412ef7220c269_4028.jpg",
+      "B": "./Trees/images/5ddb95a2aff195000554e7e4_5070.jpg",
+      "C": "./Trees/images/5d7764494dfec000074a8cb5_3178.jpg",
+      "D": "./Trees/images/5d971d17e2b1f300057cb307_280.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 102,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d5293f4c522e6000532f61b_3464.jpg",
+      "B": "./Trees/images/5e9d2bc9054194000589a41a_1752.jpg",
+      "C": "./Trees/images/5f0eda6b31da550005624682_4346.jpg",
+      "D": "./Trees/images/6108af51343da30006976e20_1258.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 103,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f8904d84e901800057b461f_2245.jpg",
+      "B": "./Trees/images/5c5cde10e84ca0000599359f_388.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_3765.jpg",
+      "D": "./Trees/images/5d4e5e1c317dd900055f7407_399.jpg"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 104,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e639bf5ec014e000618876d_587.jpg",
+      "B": "./Trees/images/5ad9eb6a91b5310010e0d56f_988.jpg",
+      "C": "./Trees/images/60606bd0eeae3c000693003f_708.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_2394.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 105,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60c2f2c4c3b42f000788d321_3758.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220af02_2082.jpg",
+      "C": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3832.jpg",
+      "D": "./Trees/images/5d5ee0fe1d3eab00054f8e69_3378.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 106,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d971d17e2b1f300057cb307_654.jpg",
+      "B": "./Trees/images/5e17cc7f76e4f20005c1b85c_3721.jpg",
+      "C": "./Trees/images/5ae378c00b093000130afe28_4983.jpg",
+      "D": "./Trees/images/59e62b953d6412ef7220a31c_1524.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 107,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_4049.jpg",
+      "B": "./Trees/images/59e62bb03d6412ef7220aea8_3878.jpg",
+      "C": "./Trees/images/5efc9375e2733400059609b5_3894.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209f97_359.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 108,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a237ea5bac48e5b1c4bf531_2265.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_2418.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1738.jpg",
+      "D": "./Trees/images/5e8b4a54a652050007863a89_4838.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 109,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e2566772554740005d5c9e8_4840.jpg",
+      "B": "./Trees/images/5cc33d143dc94a0006940504_1596.jpg",
+      "C": "./Trees/images/5c3cb31865775c0007e79448_1845.jpg",
+      "D": "./Trees/images/5cd4a3bb4b7c75000784da32_2732.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 110,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4282.jpg",
+      "B": "./Trees/images/5ae31f3c0b093000130afda4_3185.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3993.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_1834.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 111,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_1846.jpg",
+      "B": "./Trees/images/5f7486da6115170005496874_463.jpg",
+      "C": "./Trees/images/5e639ceaec014e0006188772_3670.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4371.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 112,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5eada7de3295f300072a6d80_689.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_4964.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1036.jpg",
+      "D": "./Trees/images/5ae3923e0b093000130aff38_3665.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 113,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b925da45d406700087d1514_579.jpg",
+      "B": "./Trees/images/5b10238f2b6a08001185f398_2465.jpg",
+      "C": "./Trees/images/5a9980b15a9ef7cb5d982284_4179.jpg",
+      "D": "./Trees/images/5b7284639102adba313a5c3a_3037.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 114,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60a6469525820c0005e45927_426.jpg",
+      "B": "./Trees/images/59e62b933d6412ef7220a248_3048.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_424.jpg",
+      "D": "./Trees/images/5c6580f31fa6f100070431fa_43.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 115,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5fbdd9ef1f79c3000788a403_4568.jpg",
+      "B": "./Trees/images/5a00bf89bac48e5b1cf74f14_91.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_3294.jpg",
+      "D": "./Trees/images/59e62bb23d6412ef7220af16_3103.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 116,
+    "isMultiple": true,
+    "question": "which 3 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ad6e3b291b5310010e0d543_1059.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_2866.jpg",
+      "C": "./Trees/images/5b6473dd40e11005cf16cc89_3475.jpg",
+      "D": "./Trees/images/5bc119b7c7e1cf0008e45e25_704.jpg"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 117,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3362.jpg",
+      "B": "./Trees/images/5b518afc4bda9e648eedbd9d_1902.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg",
+      "D": "./Trees/images/5bc119b7c7e1cf0008e45e25_69.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 118,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_2552.jpg",
+      "B": "./Trees/images/5d629d8d1b36840007184206_2816.jpg",
+      "C": "./Trees/images/5f12fdeebaa90f0006a0ab23_4852.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 119,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4fb2fb24710000056a515c_3557.jpg",
+      "B": "./Trees/images/60d6eaa1c700c600080d5534_3341.jpg",
+      "C": "./Trees/images/5de7f5ea2290870005e59995_4336.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209fd4_4804.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 120,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a31c_2055.jpg",
+      "B": "./Trees/images/5bba1c4f9ed15b0006d24f3b_2546.jpg",
+      "C": "./Trees/images/5dd0f6dda7dadc0006433b5b_4468.jpg",
+      "D": "./Trees/images/60606bd0eeae3c000693003f_289.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 121,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a579_4427.jpg",
+      "B": "./Trees/images/5e23284750259f000541fc4e_4258.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aed6_4032.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_948.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 122,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_3133.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_3992.jpg",
+      "C": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+      "D": "./Trees/images/5e068f3605e6590005c2f71a_3234.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 123,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_149.jpg",
+      "B": "./Trees/images/5dbb240d05580100062e0210_2099.jpg",
+      "C": "./Trees/images/5f08a349cd2ccd00078c3419_5057.jpg",
+      "D": "./Trees/images/5b83d0e19c36dd0005ebf48d_3406.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 124,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a31f_4571.jpg",
+      "B": "./Trees/images/5c37c42e4ab5bc000733441e_1781.jpg",
+      "C": "./Trees/images/5c97e2fb23189800059f4d41_1548.jpg",
+      "D": "./Trees/images/5e649d26e6c4ec000688ffab_4213.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 125,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a25ae87bac48e5b1c51946f_761.jpg",
+      "B": "./Trees/images/5be1b0b9430b4d000569fa33_2335.jpg",
+      "C": "./Trees/images/5dd0f6dda7dadc0006433b5b_5007.jpg",
+      "D": "./Trees/images/5a808bed5a9ef7cb5d552d69_581.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 126,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5de7f5ea2290870005e59995_4933.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_146.jpg",
+      "C": "./Trees/images/5e28a0d12329e800051134a5_10.jpg",
+      "D": "./Trees/images/616de51e73cc220005b8e08b_1330.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 127,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d1bded793e1130005fc0e98_2100.jpg",
+      "B": "./Trees/images/5d97277fe2b1f300057cb341_2444.jpg",
+      "C": "./Trees/images/5bce3d12b9e5f20005f7da4d_5040.jpg",
+      "D": "./Trees/images/5a597fb25a9ef7cb5df003cf_3495.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 128,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_4067.jpg",
+      "B": "./Trees/images/5c0f729e05f40a0007517ac6_3352.jpg",
+      "C": "./Trees/images/5e1193a95f5069000738f16a_4267.jpg",
+      "D": "./Trees/images/5e17cc7f76e4f20005c1b85c_3046.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 129,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d1bded793e1130005fc0e98_3624.jpg",
+      "B": "./Trees/images/5d255c1d161a790005c03e6a_2128.jpg",
+      "C": "./Trees/images/59e62be73d6412ef7220c434_2379.jpg",
+      "D": "./Trees/images/5ca97be23bc29600053c1623_2605.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 130,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef72209ff3_3446.jpg",
+      "B": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+      "D": "./Trees/images/5a25ae87bac48e5b1c51946f_761.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 131,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a59b_456.jpg",
+      "B": "./Trees/images/5f53b99404c2a50006bd6a05_166.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_636.jpg",
+      "D": "./Trees/images/5c5cde10e84ca0000599359f_996.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 132,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f8de1dca11f71000673ec58_4082.jpg",
+      "B": "./Trees/images/5bf6676cad75b80007102067_980.jpg",
+      "C": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+      "D": "./Trees/images/5bf6a8f50d1a8c00054a41cc_4041.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 133,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cc0de38de86d30005801122_3842.jpg",
+      "B": "./Trees/images/5f0476d80570c50007a7fb60_3006.jpg",
+      "C": "./Trees/images/5a14b831bac48e5b1c281943_3167.jpg",
+      "D": "./Trees/images/5f7177d91d951a00058695e8_3918.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 134,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d7cb858ecaf880008a9bc7d_5065.jpg",
+      "B": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4918.jpg",
+      "C": "./Trees/images/5bfdbd20351e730005346227_2443.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_1314.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 135,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e068f3605e6590005c2f71a_3783.jpg",
+      "B": "./Trees/images/5e28a0d12329e800051134a5_1173.jpg",
+      "C": "./Trees/images/5d8179a9f3e9b40005be6ef5_18.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a248_2415.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 136,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_1523.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_1582.jpg",
+      "D": "./Trees/images/5d94c6a74f29390005e237c6_2729.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 137,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c15321f63d9810007f8b06f_925.jpg",
+      "B": "./Trees/images/5fbe8a7992a5e70006c7498b_3033.jpg",
+      "C": "./Trees/images/59e62b913d6412ef7220a0d1_3885.jpg",
+      "D": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 138,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f711df61d951a00058695d8_1976.jpg",
+      "B": "./Trees/images/60d6e00dc700c600080d5531_278.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_963.jpg",
+      "D": "./Trees/images/5b10416e2b6a08001185f42b_1405.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 139,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10416e2b6a08001185f42b_2126.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aee9_3991.jpg",
+      "C": "./Trees/images/5e28a0d12329e800051134a5_301.jpg",
+      "D": "./Trees/images/5b10356c2b6a08001185f417_1880.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 140,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a276972bac48e5b1c561a15_1858.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_1892.jpg",
+      "C": "./Trees/images/59e62bb23d6412ef7220af16_1630.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_993.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 141,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_3302.jpg",
+      "B": "./Trees/images/6037bafb0c174800070d60da_4358.jpg",
+      "C": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_2448.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 142,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f75542e61151700054968d1_4132.jpg",
+      "B": "./Trees/images/5a597fb25a9ef7cb5df003cf_3710.jpg",
+      "C": "./Trees/images/5e9d2bc9054194000589a41a_2593.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 143,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4952.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_4370.jpg",
+      "C": "./Trees/images/5c37c42e4ab5bc000733441e_1494.jpg",
+      "D": "./Trees/images/5ae3adc00b093000130affa6_361.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 144,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/61d17ef2081c15000543458b_3744.jpg",
+      "B": "./Trees/images/5fc8b3ae088b49000751afda_5025.jpg",
+      "C": "./Trees/images/59e62be83d6412ef7220c45c_2144.jpg",
+      "D": "./Trees/images/5e25ec6536067e0005c2752c_2735.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 145,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8f3d6412ef72209f6d_1313.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_3587.jpg",
+      "C": "./Trees/images/5c36c6eebe3f4e000541d362_529.jpg",
+      "D": "./Trees/images/5de55a69b3b5ce0006c2d960_4637.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 146,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b7284639102adba313a5c3a_3593.jpg",
+      "B": "./Trees/images/60cc7f03eade0f00079b5848_2629.jpg",
+      "C": "./Trees/images/5e28a0d12329e800051134a5_858.jpg",
+      "D": "./Trees/images/5d385458a93b8e000752d2cc_3359.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 147,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_1442.jpg",
+      "B": "./Trees/images/5c37c42e4ab5bc000733441e_4168.jpg",
+      "C": "./Trees/images/5b73a47a115c4ca626fc4df2_2730.jpg",
+      "D": "./Trees/images/5ae4afd70b093000130affb1_2109.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 148,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c6580f31fa6f100070431fa_1062.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_40.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+      "D": "./Trees/images/5d01ac72553f4b000590dbff_3553.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 149,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/608e0e08c23e4c0007d21440_4792.jpg",
+      "B": "./Trees/images/5e2566772554740005d5c9e8_4197.jpg",
+      "C": "./Trees/images/5e17cc7f76e4f20005c1b85c_4117.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c476_76.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 150,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a6087c45a9ef7cb5d020fd3_1729.jpg",
+      "B": "./Trees/images/5c0f729e05f40a0007517ac6_3002.jpg",
+      "C": "./Trees/images/5ff5a55038bfed0005ea56fb_3231.jpg",
+      "D": "./Trees/images/59e62be73d6412ef7220c434_2982.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 151,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_1166.jpg",
+      "B": "./Trees/images/5d8cabebabcfaa0008b1d26b_4528.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_1527.jpg",
+      "D": "./Trees/images/5b8fc8f88752bd000830170d_539.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 152,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4fae9a24710000056a5156_1371.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_3901.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_1527.jpg",
+      "D": "./Trees/images/5caf60a7f58c0800075d4fb8_1216.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 153,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b1041cb2b6a08001185f42f_2683.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "C": "./Trees/images/5d4e5e1c317dd900055f7407_399.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_292.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 154,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/616de51e73cc220005b8e08b_376.jpg",
+      "B": "./Trees/images/5da4eb2dcac1190007698b1b_4223.jpg",
+      "C": "./Trees/images/5d8bd155a62db1000612178d_410.jpg",
+      "D": "./Trees/images/61201a81b7012200056b5c6e_1067.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 155,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4889.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_180.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_537.jpg",
+      "D": "./Trees/images/5a16788cbac48e5b1c2c47bf_1050.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 156,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4975.jpg",
+      "B": "./Trees/images/5f26d981b0052e00067dbaa6_3516.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_1134.jpg",
+      "D": "./Trees/images/60c44a21338cc80005cfdd0b_293.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 157,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e720a29ccc61e00059aedd0_77.jpg",
+      "B": "./Trees/images/5e25ec6536067e0005c2752c_1640.jpg",
+      "C": "./Trees/images/5cb0ece9fa020e0006eb43d4_848.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_4505.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 158,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aefa_1844.jpg",
+      "B": "./Trees/images/5a597fb25a9ef7cb5df003cf_3710.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1850.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_3766.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 159,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f1f106d57ddda00054a03f4_1977.jpg",
+      "B": "./Trees/images/5da4eb2dcac1190007698b1b_4957.jpg",
+      "C": "./Trees/images/5cc0de38de86d30005801122_4066.jpg",
+      "D": "./Trees/images/5b0040ca2b6a08001185f14c_541.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 160,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_3413.jpg",
+      "B": "./Trees/images/5a597fb25a9ef7cb5df003cf_3596.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_2313.jpg",
+      "D": "./Trees/images/5a16788cbac48e5b1c2c47bf_1382.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 161,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/6087b78e6914ef000561b333_4577.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a05f_2225.jpg",
+      "C": "./Trees/images/5c3cb31865775c0007e79448_2836.jpg",
+      "D": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 162,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bc119b7c7e1cf0008e45e25_2549.jpg",
+      "B": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg",
+      "C": "./Trees/images/5ad7a7c891b5310010e0d550_4709.jpg",
+      "D": "./Trees/images/5ddb95a2aff195000554e7e4_4956.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 163,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3923e0b093000130aff38_3665.jpg",
+      "B": "./Trees/images/5a5c13545a9ef7cb5df674f1_87.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+      "D": "./Trees/images/5efc9375e2733400059609b5_3384.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 164,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a5a21dc5a9ef7cb5df19529_2042.jpg",
+      "B": "./Trees/images/59e62be33d6412ef7220c25f_3243.jpg",
+      "C": "./Trees/images/5ebaa28880832d00073367b2_3157.jpg",
+      "D": "./Trees/images/5caf60a7f58c0800075d4fb8_511.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 165,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b963d6412ef7220a3d7_1796.jpg",
+      "B": "./Trees/images/5f0eda6b31da550005624682_4827.jpg",
+      "C": "./Trees/images/59e62b953d6412ef7220a34d_924.jpg",
+      "D": "./Trees/images/5edc8305c692f1000793f1fa_51.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 166,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_34.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_4295.jpg",
+      "C": "./Trees/images/5d8bd155a62db1000612178d_455.jpg",
+      "D": "./Trees/images/5f363b374e328d00066b0175_2059.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 167,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb64e020a3a5c0005ff12ff_642.jpg",
+      "B": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+      "C": "./Trees/images/5f2fb5190d59fe00057c32ac_4300.jpg",
+      "D": "./Trees/images/5e28a0d12329e800051134a5_671.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 168,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d1bd8e593e1130005fc0e92_750.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_2635.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+      "D": "./Trees/images/59e62be93d6412ef7220c4a6_2457.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 169,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5daf1db69f4b100006add9f9_2630.jpg",
+      "B": "./Trees/images/59e62b973d6412ef7220a43c_1901.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_956.jpg",
+      "D": "./Trees/images/5a780f925a9ef7cb5d3f17bb_389.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 170,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb64e020a3a5c0005ff12ff_474.jpg",
+      "B": "./Trees/images/5e28a0d12329e800051134a5_473.jpg",
+      "C": "./Trees/images/5f75542e61151700054968d1_2731.jpg",
+      "D": "./Trees/images/5e2566772554740005d5c9e8_5008.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 171,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+      "B": "./Trees/images/6174af1f3b51b90006e0e79a_1352.jpg",
+      "C": "./Trees/images/5d73667388556200055f10e4_163.jpg",
+      "D": "./Trees/images/5a04a02cbac48e5b1c01282b_3530.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 172,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60606bd0eeae3c000693003f_1214.jpg",
+      "B": "./Trees/images/5e232b0050259f000541fc51_875.jpg",
+      "C": "./Trees/images/5b1041cb2b6a08001185f42f_2227.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 173,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae31f3c0b093000130afda4_4859.jpg",
+      "B": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4380.jpg",
+      "D": "./Trees/images/5d0511a873de290005853a93_4743.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 174,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg",
+      "B": "./Trees/images/5a5a20fa5a9ef7cb5df18e5c_198.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_3617.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_4472.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 175,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e649d26e6c4ec000688ffab_4536.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_1249.jpg",
+      "D": "./Trees/images/5ae320390b093000130afdab_1892.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 176,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d4ded8a317dd900055f73ff_939.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_1065.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_28.jpg",
+      "D": "./Trees/images/5b911275a0d7280005fab35d_1755.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 177,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "B": "./Trees/images/59e62be73d6412ef7220c434_1541.jpg",
+      "C": "./Trees/images/5cd1de27e885bf000637c38e_3528.jpg",
+      "D": "./Trees/images/59e62b9a3d6412ef7220a51f_3133.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 178,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c8d82f0b8e7090005010554_585.jpg",
+      "B": "./Trees/images/60f0a29989ec130007b828a8_448.jpg",
+      "C": "./Trees/images/61cf4e56081c150005434574_4141.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_3391.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 179,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5de7f5ea2290870005e59995_4955.jpg",
+      "B": "./Trees/images/5d1bded793e1130005fc0e98_1969.jpg",
+      "C": "./Trees/images/5b003ade2b6a08001185f13e_112.jpg",
+      "D": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 180,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_1841.jpg",
+      "B": "./Trees/images/5b8fc8f88752bd000830170d_1358.jpg",
+      "C": "./Trees/images/5dbb734605580100062e021a_4651.jpg",
+      "D": "./Trees/images/5dbb240d05580100062e0210_3043.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 181,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "B": "./Trees/images/5a009b7ebac48e5b1cf6ef81_1701.jpg",
+      "C": "./Trees/images/5c37c42e4ab5bc000733441e_2971.jpg",
+      "D": "./Trees/images/5f26d981b0052e00067dbaa6_2741.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 182,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bfdbd20351e730005346227_3824.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_4964.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_1252.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1036.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 183,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60b0cccea9600f0008458140_1878.jpg",
+      "B": "./Trees/images/5d5d7f2271f7ef0005c1b44f_2331.jpg",
+      "C": "./Trees/images/5dd0f6dda7dadc0006433b5b_4590.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 184,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_669.jpg",
+      "B": "./Trees/images/5dad0e1c16c43b00058d0262_185.jpg",
+      "C": "./Trees/images/5a5a21dc5a9ef7cb5df19529_2027.jpg",
+      "D": "./Trees/images/5a789bd45a9ef7cb5d408eb2_283.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 185,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_1552.jpg",
+      "B": "./Trees/images/5f12fdeebaa90f0006a0ab23_4877.jpg",
+      "C": "./Trees/images/5a009b7ebac48e5b1cf6ef81_4013.jpg",
+      "D": "./Trees/images/5a04a02cbac48e5b1c01282b_4071.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 186,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f4d31ea464f1c0005fc5721_73.jpg",
+      "B": "./Trees/images/5d1bd8e593e1130005fc0e92_760.jpg",
+      "C": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+      "D": "./Trees/images/5dd59dbb4cae450005374d3e_2845.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 187,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cf70198c25f7e00059bac96_1624.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1684.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_313.jpg",
+      "D": "./Trees/images/5d5d7f2271f7ef0005c1b44f_1990.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 188,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b703d6412ef72208f5a_4447.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_1374.jpg",
+      "C": "./Trees/images/5ae3adc00b093000130affa6_1176.jpg",
+      "D": "./Trees/images/5f8de1dca11f71000673ec58_2642.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 189,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320420b093000130afdad_4205.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aeff_2742.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4249.jpg",
+      "D": "./Trees/images/59e62b973d6412ef7220a40a_880.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 190,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a418_2995.jpg",
+      "B": "./Trees/images/5fdccb97cce96c000538f784_2117.jpg",
+      "C": "./Trees/images/5ad9eb6a91b5310010e0d56f_1005.jpg",
+      "D": "./Trees/images/610abdb3a2f7d6000711f8a8_3233.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 191,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f12fdeebaa90f0006a0ab23_4992.jpg",
+      "B": "./Trees/images/5dd7c9b049432100060ef977_1366.jpg",
+      "C": "./Trees/images/6018b89174ca1900066fa4cb_4464.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3144.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 192,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3190.jpg",
+      "B": "./Trees/images/5d8cabebabcfaa0008b1d26b_4673.jpg",
+      "C": "./Trees/images/5d714d369abb100005e46d9f_919.jpg",
+      "D": "./Trees/images/60c44a21338cc80005cfdd0b_634.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 193,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b1096a62b6a08001185f4cf_1452.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4073.jpg",
+      "C": "./Trees/images/5b6473dd40e11005cf16cc89_2536.jpg",
+      "D": "./Trees/images/5f08a349cd2ccd00078c3419_4421.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 194,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a418_3211.jpg",
+      "B": "./Trees/images/59e62b793d6412ef722094d2_4106.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "D": "./Trees/images/59e62be73d6412ef7220c423_1429.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 195,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/607c9008bfb5350008e665af_2656.jpg",
+      "B": "./Trees/images/5de875b7b332ff0007897508_378.jpg",
+      "C": "./Trees/images/5b90f92da0d7280005fab355_4200.jpg",
+      "D": "./Trees/images/5ae4afd70b093000130affb1_3592.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 196,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_2530.jpg",
+      "B": "./Trees/images/60a6469525820c0005e45927_538.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_4835.jpg",
+      "D": "./Trees/images/61951f134cf5080007593269_207.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 197,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_902.jpg",
+      "B": "./Trees/images/5c743446cf2ace0006724237_2171.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1793.jpg",
+      "D": "./Trees/images/5d87983a0e02d300050aa10f_1412.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 198,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_2008.jpg",
+      "B": "./Trees/images/5ae7f5fa0b093000130affcc_726.jpg",
+      "C": "./Trees/images/59e62b913d6412ef7220a0d1_2277.jpg",
+      "D": "./Trees/images/60a7a37029636900059d6491_2781.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 199,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5efc9375e2733400059609b5_3894.jpg",
+      "B": "./Trees/images/5b1041cb2b6a08001185f42f_2185.jpg",
+      "C": "./Trees/images/5d970af00a75b7000670395f_2846.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_3803.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 200,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b10408a2b6a08001185f427_2337.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2645.jpg",
+      "C": "./Trees/images/5bc119b7c7e1cf0008e45e25_219.jpg",
+      "D": "./Trees/images/5ad7a7c891b5310010e0d550_4486.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 201,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/61951f134cf5080007593269_781.jpg",
+      "B": "./Trees/images/59e62b703d6412ef72208f5a_4613.jpg",
+      "C": "./Trees/images/5d97350ae2b1f300057cb38a_2068.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_3203.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 202,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5dc40b06d0e638000592ebe6_644.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_3958.jpg",
+      "C": "./Trees/images/5e2566772554740005d5c9e8_4960.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1036.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 203,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae378c00b093000130afe28_4983.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3931.jpg",
+      "C": "./Trees/images/5e068f3605e6590005c2f71a_3229.jpg",
+      "D": "./Trees/images/59e62b703d6412ef72208f5a_4594.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 204,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_149.jpg",
+      "B": "./Trees/images/5aea3d3b8153990013b938e8_2345.jpg",
+      "C": "./Trees/images/5e72ba9b133f1a000511bead_4058.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 205,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60bffba9ef5d220007c24a8c_2385.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg",
+      "C": "./Trees/images/59e62bb23d6412ef7220af16_3266.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_4491.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 206,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/6112fad7ac1a340005a1ccf4_1325.jpg",
+      "B": "./Trees/images/5bce3d12b9e5f20005f7da4d_4242.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg",
+      "D": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3571.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 207,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f059147ce2c9900068d83ee_705.jpg",
+      "B": "./Trees/images/5d970af00a75b7000670395f_1824.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3124.jpg",
+      "D": "./Trees/images/616de51e73cc220005b8e08b_376.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 208,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb64e020a3a5c0005ff12ff_1243.jpg",
+      "B": "./Trees/images/59e62b983d6412ef7220a48e_2978.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_486.jpg",
+      "D": "./Trees/images/5e8b4a54a652050007863a89_4722.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 209,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f8de1dca11f71000673ec58_3091.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+      "C": "./Trees/images/5c6522c346bdea00053984d1_2202.jpg",
+      "D": "./Trees/images/5e25ec6e36067e0005c2752d_3437.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 210,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cd1de27e885bf000637c38e_2806.jpg",
+      "B": "./Trees/images/5a9980b15a9ef7cb5d982284_4327.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_933.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_3957.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 211,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_1130.jpg",
+      "B": "./Trees/images/5d96feee0a75b70006703919_4786.jpg",
+      "C": "./Trees/images/59e62b8e3d6412ef72209f3f_465.jpg",
+      "D": "./Trees/images/5f059147ce2c9900068d83ee_151.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 212,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "B": "./Trees/images/59e62b973d6412ef7220a418_3619.jpg",
+      "C": "./Trees/images/5e9d2bc9054194000589a41a_3781.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1006.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 213,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_3125.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_910.jpg",
+      "C": "./Trees/images/5f8de1dca11f71000673ec58_4082.jpg",
+      "D": "./Trees/images/5c6522c346bdea00053984d1_2959.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 214,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a5c13545a9ef7cb5df674f1_889.jpg",
+      "B": "./Trees/images/5bc119b7c7e1cf0008e45e25_2829.jpg",
+      "C": "./Trees/images/5d759fe501f89a00057481ab_1462.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_4074.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 215,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+      "B": "./Trees/images/60a6469525820c0005e45927_570.jpg",
+      "C": "./Trees/images/5c15321f63d9810007f8b06f_925.jpg",
+      "D": "./Trees/images/5cdd8aef6e10670005c5996e_2231.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 216,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a5a21a25a9ef7cb5df1937e_3443.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31f_4571.jpg",
+      "C": "./Trees/images/5a597fb25a9ef7cb5df003cf_3319.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4826.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 217,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d9dbda4fd16f600065395c3_3448.jpg",
+      "B": "./Trees/images/5eef8f511bb60b000624b4f6_1099.jpg",
+      "C": "./Trees/images/60bffba9ef5d220007c24a8c_2051.jpg",
+      "D": "./Trees/images/5de1091c0c04590006d335b3_2877.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 218,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_1945.jpg",
+      "B": "./Trees/images/5f5dfa54d9f87200078c7f2d_1443.jpg",
+      "C": "./Trees/images/60f0a29989ec130007b828a8_1165.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_245.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 219,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae378c00b093000130afe28_4412.jpg",
+      "B": "./Trees/images/5d970af00a75b7000670395f_1725.jpg",
+      "C": "./Trees/images/5deee6d4e5d474000640673a_4972.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3460.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 220,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b953d6412ef7220a366_4245.jpg",
+      "B": "./Trees/images/5ea54c1cc70abb0005869ea7_4584.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4600.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_4225.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 221,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a592_3087.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+      "C": "./Trees/images/5e1193a95f5069000738f16a_4984.jpg",
+      "D": "./Trees/images/5d689459bc6eb00006d373a4_2938.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 222,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d3561a98a5c8b000519fdac_2631.jpg",
+      "B": "./Trees/images/5c13db9205f40a0007517d15_2417.jpg",
+      "C": "./Trees/images/5ff330589ef28c00068659a9_3159.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_2068.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 223,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/6018b89174ca1900066fa4cb_4443.jpg",
+      "B": "./Trees/images/5c08c36c6918390006b7a8a3_2031.jpg",
+      "C": "./Trees/images/5d8179a9f3e9b40005be6ef5_547.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_863.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 224,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bba1c4f9ed15b0006d24f3b_2149.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a5b7_1368.jpg",
+      "C": "./Trees/images/5a5a22305a9ef7cb5df1977e_3350.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_4074.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 225,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f75542e61151700054968d1_2805.jpg",
+      "B": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+      "C": "./Trees/images/5e118f5c5f5069000738f161_3957.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_4517.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 226,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b7284639102adba313a5c3a_2393.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_1085.jpg",
+      "C": "./Trees/images/5c83a075f6a3c00007326598_3348.jpg",
+      "D": "./Trees/images/5bac9a13692f850005383f6e_1885.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 227,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d0a57eadef34f0005ab9aa7_327.jpg",
+      "B": "./Trees/images/5d5ee0fe1d3eab00054f8e69_2659.jpg",
+      "C": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg",
+      "D": "./Trees/images/5d255c1d161a790005c03e6a_3407.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 228,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be93d6412ef7220c4a6_3071.jpg",
+      "B": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+      "C": "./Trees/images/5ea54c1cc70abb0005869ea7_4489.jpg",
+      "D": "./Trees/images/60c44a21338cc80005cfdd0b_1084.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 229,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_1116.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a579_4907.jpg",
+      "C": "./Trees/images/5f8de1dca11f71000673ec58_2753.jpg",
+      "D": "./Trees/images/5d5ee0fe1d3eab00054f8e69_3337.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 230,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c672d37c6760000068917b1_1425.jpg",
+      "B": "./Trees/images/607bd156bfb5350008e66597_1864.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_4078.jpg",
+      "D": "./Trees/images/5f3b3441df88ab000761cb39_84.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 231,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be63d6412ef7220c3a5_504.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_4034.jpg",
+      "C": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+      "D": "./Trees/images/59e62b913d6412ef7220a0b6_477.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 232,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4394.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_2862.jpg",
+      "C": "./Trees/images/5d4e5e1c317dd900055f7407_263.jpg",
+      "D": "./Trees/images/5cabb76d3f7d750005495e7f_4387.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 233,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b7284639102adba313a5c3a_3037.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2425.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_4381.jpg"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 234,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cfd0e83499b9b0005f49cfd_4139.jpg",
+      "B": "./Trees/images/60722f9de618d50005a98182_4773.jpg",
+      "C": "./Trees/images/60722f9de618d50005a98182_4872.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 235,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4f53b14f7e510007981d17_710.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+      "C": "./Trees/images/5bfdbd20351e730005346227_1533.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a215_1622.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 236,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5dbb240d05580100062e0210_1926.jpg",
+      "B": "./Trees/images/5ddb95a2aff195000554e7e4_4956.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220af02_4717.jpg",
+      "D": "./Trees/images/5b729f5e9102ad0b033a5c3f_4034.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 237,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ad9eb6a91b5310010e0d56f_770.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_1726.jpg",
+      "D": "./Trees/images/59e62b913d6412ef7220a0b6_508.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 238,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b0040ca2b6a08001185f14c_1989.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+      "C": "./Trees/images/5bce3d12b9e5f20005f7da4d_5020.jpg",
+      "D": "./Trees/images/5d1bded793e1130005fc0e98_1417.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 239,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d6031e609b71c000678e664_1877.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_2733.jpg",
+      "C": "./Trees/images/59e62be73d6412ef7220c423_408.jpg",
+      "D": "./Trees/images/5a514dfc5a9ef7cb5ddabac1_3709.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 240,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60f138e489ec130007b828c3_1183.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_3994.jpg",
+      "C": "./Trees/images/607bd156bfb5350008e66597_2898.jpg",
+      "D": "./Trees/images/5d29ec177a18fd0005e2978e_105.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 241,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d4ded8a317dd900055f73ff_939.jpg",
+      "B": "./Trees/images/613dc1b918b2fb000574fb94_514.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220af02_4037.jpg",
+      "D": "./Trees/images/5d970af10a75b70006703960_4239.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 242,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e1194bc5f5069000738f16e_2532.jpg",
+      "B": "./Trees/images/5ae320c30b093000130afdb5_1337.jpg",
+      "C": "./Trees/images/5ea54c1cc70abb0005869ea7_4738.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_483.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 243,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3822.jpg",
+      "B": "./Trees/images/5a14b831bac48e5b1c281943_2333.jpg",
+      "C": "./Trees/images/607af86cbfb5350008e66588_3509.jpg",
+      "D": "./Trees/images/59e62be83d6412ef7220c476_76.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 244,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b518afc4bda9e648eedbd9d_3604.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aee9_3636.jpg",
+      "C": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "D": "./Trees/images/5c892a92225fc20007ab4e31_3038.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 245,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_469.jpg",
+      "B": "./Trees/images/61a5879bca228100065cb98a_3809.jpg",
+      "C": "./Trees/images/5ae4afd70b093000130affb1_1955.jpg",
+      "D": "./Trees/images/5c8b6813a8ac330005a58af6_4850.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 246,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/618ebf6d502455000734581c_469.jpg",
+      "B": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4625.jpg",
+      "C": "./Trees/images/5d973639e2b1f300057cb3a8_2786.jpg",
+      "D": "./Trees/images/60a7a37029636900059d6491_4052.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 247,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+      "B": "./Trees/images/59e62b9a3d6412ef7220a51f_3047.jpg",
+      "C": "./Trees/images/5b0040ca2b6a08001185f14c_1989.jpg",
+      "D": "./Trees/images/5d970af00a75b7000670395f_3693.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 248,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_4626.jpg",
+      "C": "./Trees/images/59e62beb3d6412ef7220c5aa_2487.jpg",
+      "D": "./Trees/images/5d1bded793e1130005fc0e98_3469.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 249,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c08c36c6918390006b7a8a3_3219.jpg",
+      "B": "./Trees/images/5e639bf5ec014e000618876d_1108.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_469.jpg",
+      "D": "./Trees/images/5fbfc070d0c51c0005eb1e02_3585.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 250,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+      "B": "./Trees/images/5a9980b15a9ef7cb5d982284_4779.jpg",
+      "C": "./Trees/images/60e988c5719f470008094136_259.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4768.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 251,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5df3676447496b0006bc0d2f_466.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+      "C": "./Trees/images/618ebf6d502455000734581c_1130.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4929.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 252,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5abb761965bd8f00110f3e4c_2413.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_2730.jpg",
+      "C": "./Trees/images/5e2566772554740005d5c9e8_5008.jpg",
+      "D": "./Trees/images/5caf60a7f58c0800075d4fb8_1202.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 253,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e95fbd57b6533000663b235_1873.jpg",
+      "B": "./Trees/images/5a16788cbac48e5b1c2c47bf_470.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_4677.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 254,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5dc40b06d0e638000592ebe6_47.jpg",
+      "B": "./Trees/images/5f12fdeebaa90f0006a0ab23_4992.jpg",
+      "C": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg",
+      "D": "./Trees/images/5d5d7f2271f7ef0005c1b44f_2119.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 255,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae3adc00b093000130affa6_749.jpg",
+      "B": "./Trees/images/59e62b8f3d6412ef72209f6d_1313.jpg",
+      "C": "./Trees/images/5da4eb2dcac1190007698b1b_4552.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_2371.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 256,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_1015.jpg",
+      "B": "./Trees/images/5c83a075f6a3c00007326598_3740.jpg",
+      "C": "./Trees/images/60315c91d9c7c8000504d2cb_4337.jpg",
+      "D": "./Trees/images/5d0511a873de290005853a93_4756.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 257,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d3561a98a5c8b000519fdac_1802.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2030.jpg",
+      "C": "./Trees/images/59e62be73d6412ef7220c423_3700.jpg",
+      "D": "./Trees/images/5f059147ce2c9900068d83ee_705.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 258,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4516.jpg",
+      "B": "./Trees/images/5e25ec6536067e0005c2752c_3059.jpg",
+      "C": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1972.jpg",
+      "D": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 259,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/61a5879bca228100065cb98a_2458.jpg",
+      "B": "./Trees/images/6029f2f22ff7030005a4e822_1340.jpg",
+      "C": "./Trees/images/5c15321f63d9810007f8b06f_925.jpg",
+      "D": "./Trees/images/5ae7f5fa0b093000130affcc_393.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 260,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60bc2b27f59a4300057c5519_348.jpg",
+      "B": "./Trees/images/5cf43896c25f7e00059bac5f_1294.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3506.jpg",
+      "D": "./Trees/images/5d9afef50ca8d70007c491f8_3504.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 261,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c6522c346bdea00053984d1_2782.jpg",
+      "B": "./Trees/images/5a14b831bac48e5b1c281943_3707.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_932.jpg",
+      "D": "./Trees/images/606a128671c8e90007b49e59_2258.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 262,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_1850.jpg",
+      "C": "./Trees/images/59e62b933d6412ef7220a248_1778.jpg",
+      "D": "./Trees/images/5dad0e1c16c43b00058d0262_1045.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 263,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_1719.jpg",
+      "B": "./Trees/images/5b10358e2b6a08001185f418_4135.jpg",
+      "C": "./Trees/images/5e649d26e6c4ec000688ffab_4290.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_3722.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 264,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60a7f8f729636900059d6498_3826.jpg",
+      "B": "./Trees/images/5c4f16588ca97d00054982aa_2229.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1089.jpg",
+      "D": "./Trees/images/5de55a69b3b5ce0006c2d960_4945.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 265,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c466c6c437ee1000616311f_1575.jpg",
+      "B": "./Trees/images/5b10238f2b6a08001185f398_1681.jpg",
+      "C": "./Trees/images/5e4fae9a24710000056a5156_171.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 266,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e232b0050259f000541fc51_1124.jpg",
+      "B": "./Trees/images/5a04a02cbac48e5b1c01282b_2420.jpg",
+      "C": "./Trees/images/5de7f5ea2290870005e59995_5001.jpg",
+      "D": "./Trees/images/5fc8b3ae088b49000751afda_4847.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 267,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aefa_3415.jpg",
+      "B": "./Trees/images/5b003ade2b6a08001185f13e_1002.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a59b_565.jpg",
+      "D": "./Trees/images/5fe072620cf0b40005ddf6c3_2719.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 268,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f0eda6b31da550005624682_4610.jpg",
+      "B": "./Trees/images/5e4f53b14f7e510007981d17_805.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_2459.jpg",
+      "D": "./Trees/images/5c6522c346bdea00053984d1_1529.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 269,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60a7f8f729636900059d6498_1530.jpg",
+      "B": "./Trees/images/59e62b9b3d6412ef7220a579_4730.jpg",
+      "C": "./Trees/images/5b729f5e9102ad0b033a5c3f_4129.jpg",
+      "D": "./Trees/images/5e649d26e6c4ec000688ffab_4534.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 270,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d73667388556200055f10e4_321.jpg",
+      "B": "./Trees/images/5fe072620cf0b40005ddf6c3_3123.jpg",
+      "C": "./Trees/images/59e62b933d6412ef7220a215_1622.jpg",
+      "D": "./Trees/images/5f0476d80570c50007a7fb60_2569.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 271,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "B": "./Trees/images/5a25ae87bac48e5b1c51946f_761.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_1233.jpg",
+      "D": "./Trees/images/5c8b6813a8ac330005a58af6_4844.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 272,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+      "B": "./Trees/images/5d97277fe2b1f300057cb341_2120.jpg",
+      "C": "./Trees/images/5b8fc8f88752bd000830170d_1264.jpg",
+      "D": "./Trees/images/5a8213345a9ef7cb5d5973bb_3877.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 273,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e8b4a54a652050007863a89_4856.jpg",
+      "B": "./Trees/images/5b5d6c3bfb9b12de9d9dac90_998.jpg",
+      "C": "./Trees/images/5ae4afd70b093000130affb1_2701.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_2501.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 274,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62be93d6412ef7220c4a6_3071.jpg",
+      "B": "./Trees/images/61a5879bca228100065cb98a_3809.jpg",
+      "C": "./Trees/images/60b0cccea9600f0008458140_2679.jpg",
+      "D": "./Trees/images/5eef6d0e1bb60b000624b4da_4794.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 275,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f0ed88e31da55000562467f_1982.jpg",
+      "B": "./Trees/images/5bbd459c3baffb0005fe9ba1_2903.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_2895.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 276,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "B": "./Trees/images/5e9d2bc9054194000589a41a_4070.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "D": "./Trees/images/5e17cc7f76e4f20005c1b85c_2531.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 277,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8f3d6412ef72209f6d_145.jpg",
+      "B": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f97_752.jpg",
+      "D": "./Trees/images/5d97233be2b1f300057cb329_3394.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 278,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bf6676cad75b80007102067_153.jpg",
+      "B": "./Trees/images/5a21f230bac48e5b1c48135a_2207.jpg",
+      "C": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4488.jpg",
+      "D": "./Trees/images/5fdccb97cce96c000538f784_3799.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 279,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d1cc58493e1130005fc0eb0_2090.jpg",
+      "B": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+      "C": "./Trees/images/5e649d26e6c4ec000688ffab_4828.jpg",
+      "D": "./Trees/images/5bf6676cad75b80007102067_793.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 280,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+      "B": "./Trees/images/5f75542e61151700054968d1_3987.jpg",
+      "C": "./Trees/images/5b713a5291cf644aafeeacc4_453.jpg",
+      "D": "./Trees/images/5bba1c4f9ed15b0006d24f3b_3494.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 281,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_2675.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "C": "./Trees/images/5c36c6eebe3f4e000541d362_516.jpg",
+      "D": "./Trees/images/6108af51343da30006976e20_211.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 282,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5da4eb2dcac1190007698b1b_4508.jpg",
+      "B": "./Trees/images/5e4fb2fb24710000056a515c_3111.jpg",
+      "C": "./Trees/images/5ac79b2191b5310010e0d4bd_1568.jpg",
+      "D": "./Trees/images/5b729f5e9102ad0b033a5c3f_2733.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 283,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_4849.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_1761.jpg",
+      "C": "./Trees/images/5f5dfa54d9f87200078c7f2d_4115.jpg",
+      "D": "./Trees/images/5f7486da6115170005496874_413.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 284,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_1442.jpg",
+      "B": "./Trees/images/5fb52130d89ab70006abca33_2400.jpg",
+      "C": "./Trees/images/5a2649ffbac48e5b1c532826_4437.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3853.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 285,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_1618.jpg",
+      "C": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+      "D": "./Trees/images/5d96feee0a75b70006703919_4455.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 286,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c3cb31865775c0007e79448_2353.jpg",
+      "B": "./Trees/images/59e62b943d6412ef7220a29d_227.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_1035.jpg",
+      "D": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2985.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 287,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "B": "./Trees/images/5b10238f2b6a08001185f398_2445.jpg",
+      "C": "./Trees/images/60606bd0eeae3c000693003f_1170.jpg",
+      "D": "./Trees/images/5dbb240d05580100062e0210_3787.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 288,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d6892c0bc6eb00006d3739e_1228.jpg",
+      "B": "./Trees/images/5e25ec6e36067e0005c2752d_3412.jpg",
+      "C": "./Trees/images/5d5293f4c522e6000532f61b_2708.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_3809.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 289,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4562.jpg",
+      "B": "./Trees/images/5d00073d8276e4000507811b_2012.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_2349.jpg",
+      "D": "./Trees/images/5d759fe501f89a00057481ab_3912.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 290,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ad7a7c891b5310010e0d550_5014.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_3839.jpg",
+      "C": "./Trees/images/5a597fb25a9ef7cb5df003cf_3710.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2434.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 291,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a789bd45a9ef7cb5d408eb2_865.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_142.jpg",
+      "C": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_537.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 292,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ad7a7c891b5310010e0d550_4801.jpg",
+      "B": "./Trees/images/5cf43896c25f7e00059bac5f_7.jpg",
+      "C": "./Trees/images/59e62b8d3d6412ef72209ebb_4829.jpg",
+      "D": "./Trees/images/59e62beb3d6412ef7220c5aa_2841.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 293,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a14b831bac48e5b1c281943_2627.jpg",
+      "B": "./Trees/images/5bef66291a6e1b00054b79ff_157.jpg",
+      "C": "./Trees/images/61201a81b7012200056b5c6e_1067.jpg",
+      "D": "./Trees/images/5ae320420b093000130afdad_4541.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  }
+]

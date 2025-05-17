@@ -1,0 +1,6402 @@
+[
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3790_432.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "3.52m",
+      "C": "4.88m",
+      "D": "13.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1628_2451.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.36m",
+      "B": "6.96m",
+      "C": "10.80m",
+      "D": "4.24m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2978_1179.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.88m",
+      "B": "3.12m",
+      "C": "6.00m",
+      "D": "7.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3347_3945.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.52m",
+      "B": "3.28m",
+      "C": "5.68m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1810_3870.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.44m",
+      "B": "8.00m",
+      "C": "9.44m",
+      "D": "12.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_755_173.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.92m",
+      "B": "9.92m",
+      "C": "9.04m",
+      "D": "14.64m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1813_2333.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "4.16m",
+      "C": "4.00m",
+      "D": "3.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_640_3266.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.72m",
+      "B": "11.84m",
+      "C": "3.52m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1994_579.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "12.48m",
+      "C": "10.96m",
+      "D": "6.80m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2347_2028.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "2.32m",
+      "C": "3.60m",
+      "D": "1.04m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3865_1681.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.68m",
+      "B": "10.24m",
+      "C": "8.00m",
+      "D": "3.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2290_496.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.32m",
+      "B": "9.04m",
+      "C": "13.44m",
+      "D": "12.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2097_2043.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "6.72m",
+      "C": "4.56m",
+      "D": "12.96m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1673_2920.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "6.32m",
+      "C": "3.28m",
+      "D": "4.64m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_291_1961.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.76m",
+      "B": "4.80m",
+      "C": "7.04m",
+      "D": "6.24m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2961_1453.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.52m",
+      "B": "14.88m",
+      "C": "8.96m",
+      "D": "13.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2173_3769.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "13.60m",
+      "C": "5.28m",
+      "D": "6.64m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3299_2204.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "3.20m",
+      "C": "4.56m",
+      "D": "8.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1563_2936.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.00m",
+      "B": "2.88m",
+      "C": "2.80m",
+      "D": "3.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2619_2526.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "5.36m",
+      "C": "1.92m",
+      "D": "5.68m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1087_716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "8.00m",
+      "C": "10.08m",
+      "D": "9.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_895_3421.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.52m",
+      "B": "8.48m",
+      "C": "9.04m",
+      "D": "13.76m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3790_1529.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "12.00m",
+      "C": "10.64m",
+      "D": "13.68m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2348_3545.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.68m",
+      "B": "10.96m",
+      "C": "8.88m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1811_30.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.64m",
+      "B": "12.00m",
+      "C": "10.00m",
+      "D": "15.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_277_2067.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "4.24m",
+      "C": "4.40m",
+      "D": "3.44m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3730_94.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "6.96m",
+      "C": "8.88m",
+      "D": "8.24m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2242_2574.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "2.32m",
+      "C": "2.80m",
+      "D": "3.76m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3510_81.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.00m",
+      "B": "8.96m",
+      "C": "6.88m",
+      "D": "3.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2373_2415.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.08m",
+      "B": "6.96m",
+      "C": "5.04m",
+      "D": "1.68m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3528_530.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.92m",
+      "B": "5.68m",
+      "C": "10.08m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_714_2140.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "12.16m",
+      "C": "9.04m",
+      "D": "6.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3304_3690.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.64m",
+      "B": "7.04m",
+      "C": "5.52m",
+      "D": "10.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2597_1675.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.36m",
+      "B": "6.00m",
+      "C": "3.28m",
+      "D": "9.60m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2930_3143.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.88m",
+      "B": "3.92m",
+      "C": "4.56m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_429_2335.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "6.96m",
+      "C": "6.00m",
+      "D": "2.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_551_1579.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.72m",
+      "B": "4.24m",
+      "C": "3.52m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_458_2718.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.12m",
+      "B": "6.96m",
+      "C": "4.72m",
+      "D": "3.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2112_1282.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.72m",
+      "B": "1.76m",
+      "C": "2.64m",
+      "D": "4.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1885_3158.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "5.60m",
+      "C": "4.96m",
+      "D": "10.96m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1795_5.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.92m",
+      "B": "4.32m",
+      "C": "4.16m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_522_832.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.68m",
+      "B": "14.08m",
+      "C": "10.00m",
+      "D": "13.84m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3587_1303.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.36m",
+      "B": "8.88m",
+      "C": "8.96m",
+      "D": "3.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_209_2979.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.56m",
+      "B": "11.12m",
+      "C": "9.52m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_213_934.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "11.52m",
+      "C": "7.04m",
+      "D": "8.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2283_2476.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "4.96m",
+      "C": "9.60m",
+      "D": "5.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1435_1814.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.92m",
+      "B": "4.08m",
+      "C": "4.96m",
+      "D": "3.68m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1555_2926.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "3.52m",
+      "C": "4.72m",
+      "D": "7.84m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1193_123.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.08m",
+      "B": "8.88m",
+      "C": "9.04m",
+      "D": "3.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2116_3579.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.52m",
+      "B": "10.00m",
+      "C": "16.24m",
+      "D": "6.48m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2788_2208.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.52m",
+      "B": "9.04m",
+      "C": "8.00m",
+      "D": "3.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_69_1515.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "9.76m",
+      "C": "2.32m",
+      "D": "5.44m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2437_1115.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "13.12m",
+      "C": "8.00m",
+      "D": "13.52m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1502_2086.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.52m",
+      "B": "9.36m",
+      "C": "6.96m",
+      "D": "11.76m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2788_2208.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "12.56m",
+      "C": "14.88m",
+      "D": "9.76m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2765_59.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "10.00m",
+      "C": "4.16m",
+      "D": "11.76m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1628_2451.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.96m",
+      "B": "7.04m",
+      "C": "11.68m",
+      "D": "6.32m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2225_1792.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.88m",
+      "B": "7.04m",
+      "C": "11.44m",
+      "D": "4.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2941_1907.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.08m",
+      "B": "6.16m",
+      "C": "9.68m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_339_2752.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "5.76m",
+      "C": "1.36m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_771_142.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.68m",
+      "B": "5.12m",
+      "C": "9.04m",
+      "D": "3.28m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_42_3186.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.96m",
+      "B": "7.68m",
+      "C": "4.16m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2530_3810.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "8.16m",
+      "C": "6.40m",
+      "D": "14.40m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1381_1809.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.56m",
+      "B": "3.68m",
+      "C": "2.96m",
+      "D": "3.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_803_3207.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.76m",
+      "B": "12.16m",
+      "C": "9.04m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3351_3922.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.16m",
+      "B": "2.88m",
+      "C": "8.08m",
+      "D": "6.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2988_1305.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.84m",
+      "B": "4.32m",
+      "C": "2.88m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2532_2975.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "2.88m",
+      "C": "2.40m",
+      "D": "1.84m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3571_2290.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.96m",
+      "B": "7.92m",
+      "C": "9.52m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_717_1747.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.20m",
+      "B": "8.72m",
+      "C": "6.80m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1405_1308.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.76m",
+      "B": "5.44m",
+      "C": "7.04m",
+      "D": "7.68m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2443_357.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.16m",
+      "B": "6.16m",
+      "C": "6.96m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1731_3047.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "5.20m",
+      "C": "6.40m",
+      "D": "5.12m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2765_59.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.44m",
+      "B": "5.20m",
+      "C": "6.64m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2513_3066.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.16m",
+      "B": "2.96m",
+      "C": "1.04m",
+      "D": "2.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_291_1764.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.76m",
+      "B": "6.40m",
+      "C": "4.00m",
+      "D": "3.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 76,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2958_2254.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.84m",
+      "B": "3.04m",
+      "C": "3.36m",
+      "D": "3.60m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 77,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3868_3413.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "6.80m",
+      "C": "5.28m",
+      "D": "12.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 78,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2788_2208.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "9.84m",
+      "C": "8.72m",
+      "D": "14.32m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 79,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1968_501.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.56m",
+      "B": "8.00m",
+      "C": "2.48m",
+      "D": "3.12m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 80,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2391_2954.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.16m",
+      "B": "5.44m",
+      "C": "8.00m",
+      "D": "11.84m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 81,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2_2962.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "5.92m",
+      "C": "9.28m",
+      "D": "6.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 82,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_457_1380.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.56m",
+      "B": "10.32m",
+      "C": "12.56m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 83,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1993_1013.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.80m",
+      "B": "10.08m",
+      "C": "8.00m",
+      "D": "12.16m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 84,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1699_643.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.52m",
+      "B": "2.96m",
+      "C": "11.04m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 85,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2272_3968.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.20m",
+      "B": "8.00m",
+      "C": "11.76m",
+      "D": "13.28m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 86,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2561_2338.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "7.76m",
+      "C": "3.84m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 87,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2565_335.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.44m",
+      "B": "8.96m",
+      "C": "5.44m",
+      "D": "5.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 88,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_331_978.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "6.24m",
+      "C": "5.44m",
+      "D": "4.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 89,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2010_962.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.36m",
+      "B": "3.84m",
+      "C": "2.24m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 90,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_278_1690.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.20m",
+      "B": "6.80m",
+      "C": "6.96m",
+      "D": "7.92m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 91,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3754_236.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "8.00m",
+      "C": "11.28m",
+      "D": "6.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 92,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_672_1992.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.80m",
+      "B": "3.28m",
+      "C": "4.00m",
+      "D": "4.32m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 93,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3064_3300.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "4.64m",
+      "C": "3.52m",
+      "D": "4.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 94,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_114_1996.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "7.92m",
+      "C": "4.48m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 95,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3502_3155.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.48m",
+      "C": "8.72m",
+      "D": "11.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 96,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2961_1453.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "11.12m",
+      "C": "3.60m",
+      "D": "10.96m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 97,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2755_3550.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.40m",
+      "B": "3.28m",
+      "C": "4.96m",
+      "D": "6.72m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 98,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2119_2975.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "9.60m",
+      "C": "4.56m",
+      "D": "13.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 99,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3562_1720.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "3.68m",
+      "C": "8.32m",
+      "D": "4.80m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 100,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3117_686.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "10.48m",
+      "C": "7.04m",
+      "D": "7.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 101,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1668_1895.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.44m",
+      "B": "4.56m",
+      "C": "9.12m",
+      "D": "6.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 102,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1771_3533.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.44m",
+      "B": "8.00m",
+      "C": "9.28m",
+      "D": "3.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 103,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2417_3417.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.28m",
+      "B": "6.08m",
+      "C": "4.48m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 104,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1193_123.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.28m",
+      "B": "8.96m",
+      "C": "9.92m",
+      "D": "6.96m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 105,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_448_3531.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.68m",
+      "B": "6.88m",
+      "C": "8.56m",
+      "D": "10.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 106,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_329_2860.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.40m",
+      "B": "5.04m",
+      "C": "7.12m",
+      "D": "7.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 107,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1487_845.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "8.96m",
+      "C": "11.04m",
+      "D": "3.44m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 108,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3859_3069.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.08m",
+      "B": "9.36m",
+      "C": "5.84m",
+      "D": "10.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 109,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3026_54.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.24m",
+      "B": "9.44m",
+      "C": "6.96m",
+      "D": "6.32m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 110,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_861_852.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "7.68m",
+      "C": "3.44m",
+      "D": "5.12m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 111,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1695_101.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.84m",
+      "B": "11.60m",
+      "C": "6.24m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 112,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2148_95.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "10.00m",
+      "C": "12.24m",
+      "D": "15.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 113,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3351_3922.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.12m",
+      "B": "5.12m",
+      "C": "4.32m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 114,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3502_2707.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "7.52m",
+      "C": "10.56m",
+      "D": "3.84m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 115,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2502_1302.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.40m",
+      "B": "8.96m",
+      "C": "2.80m",
+      "D": "9.44m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 116,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_623_3971.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.84m",
+      "B": "8.00m",
+      "C": "4.48m",
+      "D": "2.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 117,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3674_2364.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "13.44m",
+      "C": "8.96m",
+      "D": "4.00m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 118,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3957_2929.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.40m",
+      "B": "6.96m",
+      "C": "7.04m",
+      "D": "6.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 119,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_63_3657.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.80m",
+      "B": "10.00m",
+      "C": "9.36m",
+      "D": "7.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 120,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1677_1312.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "11.44m",
+      "C": "10.16m",
+      "D": "6.40m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 121,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_162_862.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.76m",
+      "B": "5.12m",
+      "C": "7.04m",
+      "D": "3.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 122,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_20_1462.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "2.72m",
+      "C": "6.08m",
+      "D": "2.96m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 123,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_167_388.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.16m",
+      "B": "9.20m",
+      "C": "6.96m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 124,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1738_2001.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.52m",
+      "B": "2.08m",
+      "C": "2.72m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 125,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1055_3767.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.92m",
+      "B": "10.08m",
+      "C": "6.96m",
+      "D": "11.76m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 126,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2285_1392.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "7.76m",
+      "C": "10.72m",
+      "D": "5.04m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 127,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3959_327.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "7.92m",
+      "C": "14.96m",
+      "D": "14.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 128,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1133_3591.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "6.56m",
+      "C": "9.44m",
+      "D": "14.48m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 129,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_540_3057.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.56m",
+      "B": "4.00m",
+      "C": "8.00m",
+      "D": "7.28m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 130,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_41_2150.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.40m",
+      "B": "6.88m",
+      "C": "11.04m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 131,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_440_2523.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.20m",
+      "B": "3.68m",
+      "C": "6.00m",
+      "D": "6.16m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 132,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1182_1445.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.32m",
+      "B": "4.16m",
+      "C": "9.04m",
+      "D": "14.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 133,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2513_1131.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "8.00m",
+      "C": "7.44m",
+      "D": "10.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 134,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_254_851.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "5.92m",
+      "C": "4.96m",
+      "D": "10.48m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 135,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_525_3156.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.96m",
+      "B": "5.12m",
+      "C": "6.00m",
+      "D": "2.64m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 136,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2415_32.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "11.76m",
+      "C": "4.00m",
+      "D": "7.04m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 137,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1127_1672.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.16m",
+      "B": "6.56m",
+      "C": "5.60m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 138,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2123_2771.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.68m",
+      "B": "12.80m",
+      "C": "8.64m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 139,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1403_2407.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.72m",
+      "B": "2.56m",
+      "C": "1.60m",
+      "D": "2.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 140,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1657_1147.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.72m",
+      "B": "6.88m",
+      "C": "9.04m",
+      "D": "10.72m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 141,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1327_2813.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.04m",
+      "B": "3.44m",
+      "C": "4.08m",
+      "D": "3.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 142,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2173_3769.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.44m",
+      "B": "16.56m",
+      "C": "10.00m",
+      "D": "14.40m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 143,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_997_2358.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.68m",
+      "B": "5.04m",
+      "C": "9.92m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 144,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_392_3443.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.64m",
+      "B": "2.56m",
+      "C": "3.04m",
+      "D": "5.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 145,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2148_95.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.96m",
+      "B": "14.64m",
+      "C": "9.04m",
+      "D": "2.80m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 146,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1300_2934.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.96m",
+      "B": "5.04m",
+      "C": "8.40m",
+      "D": "8.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 147,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1732_2590.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "8.56m",
+      "C": "3.76m",
+      "D": "8.80m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 148,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3405_2527.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.60m",
+      "B": "4.16m",
+      "C": "12.88m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 149,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_825_2665.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "3.84m",
+      "C": "6.00m",
+      "D": "2.88m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 150,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3729_1026.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.24m",
+      "B": "8.96m",
+      "C": "5.68m",
+      "D": "12.72m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 151,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_469_2248.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.60m",
+      "B": "9.04m",
+      "C": "8.96m",
+      "D": "8.48m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 152,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3026_54.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "9.12m",
+      "C": "3.04m",
+      "D": "7.20m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 153,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2670_3716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.40m",
+      "B": "5.76m",
+      "C": "7.52m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 154,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1943_3007.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "4.48m",
+      "C": "7.28m",
+      "D": "8.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 155,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3351_3922.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "11.36m",
+      "C": "9.04m",
+      "D": "7.36m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 156,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2022_129.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.32m",
+      "B": "8.00m",
+      "C": "12.56m",
+      "D": "9.20m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 157,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1416_2568.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.92m",
+      "B": "5.04m",
+      "C": "5.20m",
+      "D": "8.32m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 158,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3370_1949.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.52m",
+      "B": "12.72m",
+      "C": "8.80m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 159,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_771_2006.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "1.52m",
+      "C": "1.36m",
+      "D": "4.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 160,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1893_2904.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "6.56m",
+      "C": "6.16m",
+      "D": "11.12m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 161,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_162_862.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "5.04m",
+      "C": "8.88m",
+      "D": "10.88m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 162,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3417_3358.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.12m",
+      "B": "4.96m",
+      "C": "4.00m",
+      "D": "4.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 163,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1450_1226.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.48m",
+      "B": "8.00m",
+      "C": "3.36m",
+      "D": "6.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 164,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2810_2501.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.76m",
+      "B": "3.28m",
+      "C": "9.76m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 165,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3534_3938.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.16m",
+      "B": "5.68m",
+      "C": "5.04m",
+      "D": "7.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 166,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2648_1689.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "5.20m",
+      "C": "10.80m",
+      "D": "6.88m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 167,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1857_2214.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "9.36m",
+      "C": "9.52m",
+      "D": "8.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 168,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3730_1762.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.52m",
+      "B": "9.04m",
+      "C": "13.04m",
+      "D": "10.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 169,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3041_2847.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.08m",
+      "B": "2.32m",
+      "C": "10.96m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 170,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2857_801.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.92m",
+      "B": "1.20m",
+      "C": "2.96m",
+      "D": "1.44m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 171,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3400_2188.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.96m",
+      "B": "6.88m",
+      "C": "9.04m",
+      "D": "9.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 172,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3696_2833.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.08m",
+      "B": "8.00m",
+      "C": "2.64m",
+      "D": "10.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 173,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_748_2144.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "13.68m",
+      "C": "8.00m",
+      "D": "12.80m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 174,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2760_1968.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "8.96m",
+      "C": "2.88m",
+      "D": "9.92m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 175,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2022_129.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.56m",
+      "B": "4.72m",
+      "C": "3.12m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 176,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_616_2578.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.56m",
+      "B": "11.20m",
+      "C": "9.44m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 177,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2547_485.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.24m",
+      "B": "1.28m",
+      "C": "4.00m",
+      "D": "1.44m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 178,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_372_547.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.12m",
+      "B": "8.00m",
+      "C": "6.08m",
+      "D": "4.96m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 179,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_958_2340.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.08m",
+      "B": "10.56m",
+      "C": "7.04m",
+      "D": "2.64m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 180,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3263_2996.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.72m",
+      "C": "3.20m",
+      "D": "11.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 181,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_412_1972.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.44m",
+      "B": "3.04m",
+      "C": "1.20m",
+      "D": "4.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 182,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_156_3527.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "11.52m",
+      "C": "9.04m",
+      "D": "11.92m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 183,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_8_1582.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "6.48m",
+      "C": "11.76m",
+      "D": "4.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 184,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3615_2609.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.92m",
+      "B": "8.96m",
+      "C": "6.72m",
+      "D": "13.60m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 185,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_943_1648.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.68m",
+      "B": "2.00m",
+      "C": "1.76m",
+      "D": "2.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 186,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1317_1038.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "6.56m",
+      "C": "9.04m",
+      "D": "7.92m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 187,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1873_3470.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.40m",
+      "B": "4.40m",
+      "C": "12.64m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 188,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_941_1846.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "2.80m",
+      "C": "8.08m",
+      "D": "11.52m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 189,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2930_3143.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.60m",
+      "B": "1.36m",
+      "C": "2.56m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 190,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_601_1934.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.20m",
+      "B": "2.48m",
+      "C": "6.72m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 191,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2428_959.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "8.96m",
+      "C": "4.40m",
+      "D": "11.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 192,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_122_1389.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.44m",
+      "B": "6.80m",
+      "C": "6.72m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 193,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_678_1159.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "4.16m",
+      "C": "4.32m",
+      "D": "3.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 194,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3095_3591.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.44m",
+      "B": "8.00m",
+      "C": "6.48m",
+      "D": "2.64m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 195,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3973_3257.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "11.20m",
+      "C": "9.28m",
+      "D": "10.40m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 196,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1312_967.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "15.12m",
+      "C": "8.96m",
+      "D": "12.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 197,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2823_2050.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.00m",
+      "B": "1.04m",
+      "C": "0.96m",
+      "D": "2.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 198,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1657_2386.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.08m",
+      "B": "7.04m",
+      "C": "8.48m",
+      "D": "3.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 199,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1776_37.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.20m",
+      "B": "4.48m",
+      "C": "6.08m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 200,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1139_1539.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "11.76m",
+      "C": "9.36m",
+      "D": "5.52m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 201,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_16_2592.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.80m",
+      "B": "3.84m",
+      "C": "6.96m",
+      "D": "6.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 202,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1823_3215.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.84m",
+      "B": "4.48m",
+      "C": "6.96m",
+      "D": "3.84m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 203,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1304_329.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.12m",
+      "B": "13.12m",
+      "C": "7.44m",
+      "D": "10.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 204,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3835_972.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "10.40m",
+      "C": "9.60m",
+      "D": "8.48m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 205,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_100_1471.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "12.56m",
+      "C": "11.60m",
+      "D": "8.72m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 206,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_404_705.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "7.20m",
+      "C": "13.52m",
+      "D": "11.52m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 207,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_204_1799.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.12m",
+      "B": "9.68m",
+      "C": "8.00m",
+      "D": "2.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 208,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1902_2076.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "6.24m",
+      "C": "9.76m",
+      "D": "9.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 209,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3745_1869.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "10.24m",
+      "C": "4.08m",
+      "D": "13.12m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 210,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2222_3778.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "8.32m",
+      "C": "5.52m",
+      "D": "6.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 211,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3712_2264.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.52m",
+      "B": "2.80m",
+      "C": "9.04m",
+      "D": "6.80m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 212,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1488_2975.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "2.00m",
+      "C": "6.72m",
+      "D": "4.88m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 213,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_97_3650.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.28m",
+      "B": "3.84m",
+      "C": "4.88m",
+      "D": "6.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 214,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1233_429.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.40m",
+      "B": "7.84m",
+      "C": "9.04m",
+      "D": "14.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 215,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2245_987.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "8.16m",
+      "C": "5.20m",
+      "D": "6.72m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 216,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_171_3744.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.04m",
+      "B": "6.40m",
+      "C": "12.24m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 217,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_105_3843.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.16m",
+      "B": "9.84m",
+      "C": "8.00m",
+      "D": "10.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 218,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_800_2994.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.68m",
+      "B": "5.92m",
+      "C": "7.84m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 219,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3132_3889.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.64m",
+      "B": "4.96m",
+      "C": "7.04m",
+      "D": "9.84m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 220,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1514_3157.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.28m",
+      "B": "2.64m",
+      "C": "2.00m",
+      "D": "2.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 221,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1764_184.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.12m",
+      "B": "8.96m",
+      "C": "9.28m",
+      "D": "13.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 222,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1160_633.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "9.92m",
+      "C": "10.72m",
+      "D": "13.28m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 223,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2521_3560.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.08m",
+      "B": "2.88m",
+      "C": "4.00m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 224,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3168_101.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.08m",
+      "B": "8.00m",
+      "C": "7.76m",
+      "D": "3.28m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 225,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2214_2955.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "2.48m",
+      "C": "7.60m",
+      "D": "10.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 226,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3169_2382.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.16m",
+      "B": "6.08m",
+      "C": "8.96m",
+      "D": "5.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 227,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1226_1112.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "4.40m",
+      "C": "4.72m",
+      "D": "7.20m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 228,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3093_2486.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "11.60m",
+      "C": "11.68m",
+      "D": "4.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 229,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2783_221.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.44m",
+      "B": "7.04m",
+      "C": "6.32m",
+      "D": "6.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 230,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3800_1201.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.72m",
+      "B": "10.80m",
+      "C": "9.04m",
+      "D": "13.76m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 231,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1530_2780.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.16m",
+      "B": "7.04m",
+      "C": "8.56m",
+      "D": "9.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 232,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1556_537.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.24m",
+      "B": "5.28m",
+      "C": "12.08m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 233,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1320_1928.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.80m",
+      "B": "8.00m",
+      "C": "8.48m",
+      "D": "13.20m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 234,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1772_2134.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "5.04m",
+      "C": "4.56m",
+      "D": "3.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 235,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3846_3376.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "5.76m",
+      "C": "8.88m",
+      "D": "4.72m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 236,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_349_1172.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.44m",
+      "B": "7.20m",
+      "C": "5.12m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 237,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3667_3911.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "3.20m",
+      "C": "9.36m",
+      "D": "8.64m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 238,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2077_945.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.08m",
+      "B": "8.00m",
+      "C": "3.68m",
+      "D": "7.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 239,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3889_2063.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.04m",
+      "B": "9.04m",
+      "C": "7.84m",
+      "D": "14.72m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 240,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_920_1763.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.28m",
+      "B": "8.00m",
+      "C": "6.80m",
+      "D": "5.28m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 241,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1509_3008.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.60m",
+      "B": "6.96m",
+      "C": "3.44m",
+      "D": "3.04m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 242,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1914_2110.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "5.68m",
+      "C": "4.64m",
+      "D": "4.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 243,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_291_2076.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.88m",
+      "B": "4.00m",
+      "C": "5.52m",
+      "D": "3.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 244,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_368_3688.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.32m",
+      "B": "8.96m",
+      "C": "15.12m",
+      "D": "9.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 245,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_26_1783.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.36m",
+      "B": "8.00m",
+      "C": "6.32m",
+      "D": "7.36m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 246,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1956_121.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "15.12m",
+      "B": "3.28m",
+      "C": "9.04m",
+      "D": "8.88m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 247,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_771_142.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.88m",
+      "B": "8.72m",
+      "C": "11.20m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 248,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3297_3501.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "2.96m",
+      "C": "11.44m",
+      "D": "4.00m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 249,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_565_2003.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.20m",
+      "B": "13.60m",
+      "C": "8.24m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 250,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2988_1305.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "4.72m",
+      "C": "2.32m",
+      "D": "6.00m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 251,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_111_2258.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.80m",
+      "B": "2.96m",
+      "C": "2.16m",
+      "D": "2.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 252,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1087_716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.24m",
+      "B": "3.04m",
+      "C": "13.04m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 253,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2419_2365.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.92m",
+      "B": "6.96m",
+      "C": "3.68m",
+      "D": "6.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 254,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3730_94.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "8.00m",
+      "C": "7.12m",
+      "D": "8.48m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 255,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3973_3257.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.60m",
+      "B": "9.04m",
+      "C": "8.96m",
+      "D": "6.48m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 256,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2605_2623.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.68m",
+      "B": "6.96m",
+      "C": "5.36m",
+      "D": "8.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 257,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2150_1235.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "3.52m",
+      "C": "2.56m",
+      "D": "6.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 258,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_964_3880.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "5.52m",
+      "C": "3.36m",
+      "D": "2.96m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 259,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2498_3378.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.88m",
+      "B": "5.28m",
+      "C": "5.04m",
+      "D": "4.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 260,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_229_2267.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.84m",
+      "B": "11.76m",
+      "C": "11.04m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 261,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1450_1226.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.36m",
+      "B": "8.00m",
+      "C": "7.92m",
+      "D": "3.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 262,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3086_182.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "2.88m",
+      "C": "7.28m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 263,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_127_2591.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.24m",
+      "B": "6.96m",
+      "C": "11.36m",
+      "D": "11.52m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 264,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_127_2591.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "5.44m",
+      "C": "6.40m",
+      "D": "10.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 265,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2768_1804.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.60m",
+      "B": "2.32m",
+      "C": "4.00m",
+      "D": "4.40m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 266,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_652_985.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.64m",
+      "B": "2.48m",
+      "C": "4.08m",
+      "D": "6.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 267,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3790_365.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.56m",
+      "B": "7.04m",
+      "C": "11.68m",
+      "D": "3.20m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 268,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_535_1698.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "10.80m",
+      "C": "4.48m",
+      "D": "10.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 269,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3760_1972.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.64m",
+      "B": "6.64m",
+      "C": "8.00m",
+      "D": "13.20m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 270,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3273_330.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.60m",
+      "B": "7.52m",
+      "C": "9.04m",
+      "D": "6.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 271,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2472_1958.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.24m",
+      "B": "4.00m",
+      "C": "6.72m",
+      "D": "1.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 272,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_370_1629.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.88m",
+      "B": "3.44m",
+      "C": "2.96m",
+      "D": "2.16m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 273,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_941_1846.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "11.04m",
+      "C": "8.64m",
+      "D": "10.16m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 274,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_734_3637.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "2.88m",
+      "C": "4.56m",
+      "D": "5.68m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 275,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_450_362.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.36m",
+      "B": "4.80m",
+      "C": "13.44m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 276,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1449_3333.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.68m",
+      "B": "5.04m",
+      "C": "7.76m",
+      "D": "6.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 277,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1304_329.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.24m",
+      "B": "11.84m",
+      "C": "10.00m",
+      "D": "6.24m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 278,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1699_1965.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.80m",
+      "B": "13.92m",
+      "C": "8.96m",
+      "D": "8.00m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 279,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1741_962.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "14.24m",
+      "C": "15.60m",
+      "D": "3.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 280,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_111_2258.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.72m",
+      "B": "2.88m",
+      "C": "2.80m",
+      "D": "3.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 281,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_416_497.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "15.92m",
+      "B": "12.00m",
+      "C": "16.48m",
+      "D": "10.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 282,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_646_2704.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.08m",
+      "B": "5.84m",
+      "C": "2.48m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 283,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2281_3480.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.72m",
+      "B": "4.72m",
+      "C": "8.64m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 284,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1023_139.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "13.44m",
+      "C": "8.00m",
+      "D": "4.80m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 285,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1570_1153.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "10.16m",
+      "C": "7.04m",
+      "D": "12.72m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 286,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1936_213.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.84m",
+      "B": "8.24m",
+      "C": "11.36m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 287,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2730_1991.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.32m",
+      "B": "7.04m",
+      "C": "10.24m",
+      "D": "2.56m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 288,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2730_1991.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.16m",
+      "B": "9.60m",
+      "C": "7.36m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 289,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2988_37.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.24m",
+      "B": "8.80m",
+      "C": "9.04m",
+      "D": "13.28m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 290,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2099_3862.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.00m",
+      "C": "4.48m",
+      "D": "12.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 291,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_979_1512.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.80m",
+      "B": "8.00m",
+      "C": "10.72m",
+      "D": "2.64m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 292,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1737_1513.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "11.28m",
+      "C": "2.48m",
+      "D": "4.88m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 293,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_950_676.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.20m",
+      "B": "4.48m",
+      "C": "12.88m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 294,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1534_3799.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.16m",
+      "B": "7.04m",
+      "C": "9.36m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 295,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1879_2267.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "2.96m",
+      "C": "6.48m",
+      "D": "5.12m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 296,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_478_1678.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.44m",
+      "B": "7.04m",
+      "C": "5.04m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 297,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2096_1118.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.80m",
+      "B": "2.08m",
+      "C": "2.00m",
+      "D": "2.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 298,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_244_2979.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.96m",
+      "B": "14.72m",
+      "C": "8.96m",
+      "D": "7.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 299,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3713_3518.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.28m",
+      "B": "9.04m",
+      "C": "4.96m",
+      "D": "10.64m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 300,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2048_2023.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.60m",
+      "B": "8.96m",
+      "C": "8.24m",
+      "D": "14.64m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 301,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_771_2006.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.84m",
+      "B": "4.00m",
+      "C": "6.40m",
+      "D": "4.56m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 302,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_291_1764.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.20m",
+      "B": "2.48m",
+      "C": "2.96m",
+      "D": "4.32m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 303,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1432_2339.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.36m",
+      "B": "1.68m",
+      "C": "2.00m",
+      "D": "2.88m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 304,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_768_2559.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "11.28m",
+      "C": "6.96m",
+      "D": "7.84m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 305,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1743_593.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.52m",
+      "B": "10.72m",
+      "C": "4.24m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 306,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1233_429.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.36m",
+      "B": "12.80m",
+      "C": "7.76m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 307,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_525_3156.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.96m",
+      "B": "5.52m",
+      "C": "7.76m",
+      "D": "7.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 308,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2713_2388.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "6.40m",
+      "C": "6.16m",
+      "D": "3.84m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 309,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1338_2538.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.24m",
+      "B": "7.44m",
+      "C": "4.16m",
+      "D": "4.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 310,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1021_3574.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "2.64m",
+      "C": "7.92m",
+      "D": "8.32m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 311,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1233_429.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "13.28m",
+      "C": "14.32m",
+      "D": "9.20m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 312,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1267_290.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "9.04m",
+      "C": "12.56m",
+      "D": "11.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 313,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2654_2141.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.28m",
+      "B": "8.00m",
+      "C": "4.88m",
+      "D": "9.04m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 314,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_429_3067.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.72m",
+      "B": "6.00m",
+      "C": "9.20m",
+      "D": "7.28m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 315,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_528_1617.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.12m",
+      "B": "8.96m",
+      "C": "9.92m",
+      "D": "6.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 316,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2574_886.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.72m",
+      "B": "9.04m",
+      "C": "15.28m",
+      "D": "13.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 317,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1634_2199.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "8.96m",
+      "C": "7.60m",
+      "D": "4.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 318,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_507_1620.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.48m",
+      "B": "3.20m",
+      "C": "3.44m",
+      "D": "2.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 319,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_597_2782.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "6.72m",
+      "C": "5.36m",
+      "D": "3.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 320,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2925_1421.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "0.88m",
+      "B": "1.60m",
+      "C": "2.00m",
+      "D": "2.80m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 321,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1921_2771.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.52m",
+      "B": "4.16m",
+      "C": "7.36m",
+      "D": "4.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 322,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3683_1597.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.76m",
+      "B": "7.60m",
+      "C": "8.96m",
+      "D": "3.52m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 323,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_312_2804.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.32m",
+      "B": "8.64m",
+      "C": "6.96m",
+      "D": "9.76m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 324,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_416_497.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.24m",
+      "B": "9.04m",
+      "C": "9.76m",
+      "D": "7.44m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 325,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2097_3495.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.60m",
+      "B": "9.28m",
+      "C": "5.60m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 326,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1199_1924.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.80m",
+      "B": "6.96m",
+      "C": "6.32m",
+      "D": "2.16m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 327,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_868_3693.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.12m",
+      "B": "10.00m",
+      "C": "13.12m",
+      "D": "12.48m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 328,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_377_3336.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.40m",
+      "B": "7.20m",
+      "C": "8.00m",
+      "D": "7.44m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 329,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3619_2248.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.60m",
+      "B": "10.00m",
+      "C": "8.96m",
+      "D": "13.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 330,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1381_2226.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.56m",
+      "B": "4.96m",
+      "C": "6.00m",
+      "D": "4.40m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 331,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_429_2335.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.76m",
+      "B": "6.00m",
+      "C": "5.68m",
+      "D": "1.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 332,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3557_543.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "12.80m",
+      "C": "4.48m",
+      "D": "13.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 333,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2099_1766.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.88m",
+      "B": "4.24m",
+      "C": "5.04m",
+      "D": "8.08m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 334,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_849_3459.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.20m",
+      "B": "8.00m",
+      "C": "3.28m",
+      "D": "6.24m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 335,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_757_363.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "12.32m",
+      "C": "11.04m",
+      "D": "14.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 336,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_995_3060.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.00m",
+      "B": "9.04m",
+      "C": "14.00m",
+      "D": "10.48m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 337,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2506_1139.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.28m",
+      "B": "4.00m",
+      "C": "1.36m",
+      "D": "2.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 338,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1226_1112.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.80m",
+      "B": "5.28m",
+      "C": "7.76m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 339,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3693_3937.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "4.56m",
+      "C": "3.28m",
+      "D": "3.52m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 340,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_193_3364.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.08m",
+      "B": "8.40m",
+      "C": "5.04m",
+      "D": "2.00m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 341,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_903_3414.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.40m",
+      "B": "8.00m",
+      "C": "10.88m",
+      "D": "7.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 342,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_633_2032.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "9.04m",
+      "C": "4.24m",
+      "D": "14.32m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 343,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2571_2762.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.32m",
+      "B": "5.60m",
+      "C": "3.52m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 344,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2823_2050.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "3.52m",
+      "C": "1.76m",
+      "D": "4.80m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 345,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3078_520.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.32m",
+      "B": "10.48m",
+      "C": "7.04m",
+      "D": "9.36m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 346,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1432_2339.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.52m",
+      "B": "5.92m",
+      "C": "1.68m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 347,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2826_49.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.60m",
+      "B": "8.96m",
+      "C": "14.48m",
+      "D": "5.44m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 348,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_162_862.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.56m",
+      "B": "4.24m",
+      "C": "6.64m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 349,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3562_3858.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.08m",
+      "B": "3.44m",
+      "C": "9.84m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 350,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3923_2813.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.88m",
+      "B": "5.60m",
+      "C": "6.96m",
+      "D": "4.16m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 351,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_419_2130.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "3.04m",
+      "C": "4.24m",
+      "D": "2.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 352,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_459_3583.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.88m",
+      "B": "3.84m",
+      "C": "2.40m",
+      "D": "2.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 353,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_540_3057.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.40m",
+      "B": "9.68m",
+      "C": "9.12m",
+      "D": "6.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 354,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2272_3968.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.88m",
+      "B": "4.56m",
+      "C": "8.00m",
+      "D": "11.36m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 355,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_927_2558.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.44m",
+      "B": "8.00m",
+      "C": "2.80m",
+      "D": "3.04m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 356,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2065_2716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.52m",
+      "B": "4.96m",
+      "C": "6.00m",
+      "D": "2.72m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 357,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2232_3558.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "16.56m",
+      "B": "10.00m",
+      "C": "7.68m",
+      "D": "7.04m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 358,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2952_1174.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.56m",
+      "B": "9.04m",
+      "C": "10.64m",
+      "D": "11.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 359,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_112_2197.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.80m",
+      "B": "4.00m",
+      "C": "6.64m",
+      "D": "4.56m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 360,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_528_1555.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.20m",
+      "B": "8.00m",
+      "C": "10.24m",
+      "D": "5.20m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 361,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_344_1595.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.44m",
+      "B": "9.60m",
+      "C": "6.96m",
+      "D": "6.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 362,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2674_2148.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.16m",
+      "B": "4.00m",
+      "C": "4.88m",
+      "D": "3.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 363,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3397_3197.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.52m",
+      "B": "8.64m",
+      "C": "8.00m",
+      "D": "7.92m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 364,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3957_2929.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.20m",
+      "B": "7.04m",
+      "C": "9.52m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 365,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_369_2600.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.28m",
+      "B": "9.28m",
+      "C": "11.12m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 366,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2330_1772.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.96m",
+      "B": "1.28m",
+      "C": "2.40m",
+      "D": "4.24m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 367,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3266_379.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.88m",
+      "B": "8.00m",
+      "C": "6.72m",
+      "D": "8.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 368,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1003_2190.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.44m",
+      "B": "5.60m",
+      "C": "8.00m",
+      "D": "9.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 369,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2853_1722.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.96m",
+      "B": "3.52m",
+      "C": "10.80m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 370,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_861_852.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.00m",
+      "B": "9.04m",
+      "C": "12.88m",
+      "D": "13.76m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 371,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3745_1869.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.92m",
+      "B": "10.64m",
+      "C": "7.04m",
+      "D": "2.40m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 372,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_370_1629.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.64m",
+      "B": "2.00m",
+      "C": "1.68m",
+      "D": "1.12m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 373,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1823_3215.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.56m",
+      "B": "6.16m",
+      "C": "4.80m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 374,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_988_2749.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.64m",
+      "C": "4.64m",
+      "D": "10.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 375,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_2760_1968.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "14.88m",
+      "B": "6.16m",
+      "C": "9.04m",
+      "D": "4.48m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 376,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3025_1969.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.12m",
+      "B": "8.00m",
+      "C": "10.40m",
+      "D": "8.08m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 377,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2149_3364.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.04m",
+      "B": "6.48m",
+      "C": "6.80m",
+      "D": "6.64m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 378,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1246_876.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.48m",
+      "B": "3.36m",
+      "C": "6.00m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 379,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_553_2749.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "1.84m",
+      "C": "8.96m",
+      "D": "3.92m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 380,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_354_1928.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.36m",
+      "B": "1.44m",
+      "C": "3.04m",
+      "D": "1.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 381,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2121_359.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.80m",
+      "B": "12.08m",
+      "C": "8.00m",
+      "D": "2.96m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 382,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_603_2076.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.92m",
+      "B": "12.88m",
+      "C": "3.68m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 383,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1734_1053.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.96m",
+      "B": "6.48m",
+      "C": "5.12m",
+      "D": "12.00m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 384,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_600_3806.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.16m",
+      "B": "4.00m",
+      "C": "1.44m",
+      "D": "3.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 385,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2121_359.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.36m",
+      "B": "14.00m",
+      "C": "5.20m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 386,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1038_3744.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "4.16m",
+      "C": "7.92m",
+      "D": "5.44m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 387,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3868_3413.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.84m",
+      "B": "7.76m",
+      "C": "6.00m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 388,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3846_3376.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.08m",
+      "B": "5.44m",
+      "C": "14.00m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 389,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1211_1506.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.96m",
+      "B": "9.04m",
+      "C": "11.20m",
+      "D": "3.20m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 390,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3218_1217.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "3.76m",
+      "C": "9.28m",
+      "D": "5.92m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 391,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3194_113.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.60m",
+      "B": "10.00m",
+      "C": "4.24m",
+      "D": "16.24m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 392,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2173_3769.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.72m",
+      "B": "4.64m",
+      "C": "6.96m",
+      "D": "11.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 393,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3732_2863.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.40m",
+      "B": "10.96m",
+      "C": "9.04m",
+      "D": "6.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 394,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_772_2861.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "11.20m",
+      "B": "9.04m",
+      "C": "12.00m",
+      "D": "12.40m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 395,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_941_1780.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "5.04m",
+      "C": "5.52m",
+      "D": "3.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 396,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1727_2536.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.36m",
+      "B": "7.04m",
+      "C": "4.00m",
+      "D": "3.52m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 397,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1180_2602.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.28m",
+      "B": "7.36m",
+      "C": "12.88m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 398,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_883_65.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "9.04m",
+      "C": "5.44m",
+      "D": "14.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 399,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1999_130.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.12m",
+      "B": "2.48m",
+      "C": "12.96m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 400,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  }
+]

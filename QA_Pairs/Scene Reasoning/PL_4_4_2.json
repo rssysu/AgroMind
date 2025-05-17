@@ -1,0 +1,2022 @@
+[
+  {
+    "image_path": "./corn/images/image_0177.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0044.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0114.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0023.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0215.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0126.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0138.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0016.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0084.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0113.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0221.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0089.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0225.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0242.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0102.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0129.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0184.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0027.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0208.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0191.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0051.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0045.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0168.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0148.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0057.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0107.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0233.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0025.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0112.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0195.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0080.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0031.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0173.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0096.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0243.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0041.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0030.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0169.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0006.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0078.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0037.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 41,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0143.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 42,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0095.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 43,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0036.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 44,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0230.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 45,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0110.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 46,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0091.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 47,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0198.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 48,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0009.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 49,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0017.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 50,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0018.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 51,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0210.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 52,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0087.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 53,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0176.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 54,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0214.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 55,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0135.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 56,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0200.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 57,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0132.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 58,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0151.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 59,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0058.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 60,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0079.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 61,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0042.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 62,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0190.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 63,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0094.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 64,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0065.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 65,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0055.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 66,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0116.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 67,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0130.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 68,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0085.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 69,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0115.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 70,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0142.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 71,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0183.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 72,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0098.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 73,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0028.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 74,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0201.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 75,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0109.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 76,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0074.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 77,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0068.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 78,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0097.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 79,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0199.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 80,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0092.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 81,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0032.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 82,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0019.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 83,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0004.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 84,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0156.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 85,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0193.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 86,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0149.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 87,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0035.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 88,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0120.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 89,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0108.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 90,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0024.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 91,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0182.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 92,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0144.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 93,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0153.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 94,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0147.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 95,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0063.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 96,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0040.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 97,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0103.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 98,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0179.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 99,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0140.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 100,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0136.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 101,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0236.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 102,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0164.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 103,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0161.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 104,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0026.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 105,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0128.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 106,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0043.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 107,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0100.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 108,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0105.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 109,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0216.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 110,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0240.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 111,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0034.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 112,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0111.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 113,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0211.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 114,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0053.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 115,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0158.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 116,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0154.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 117,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0047.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 118,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0052.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 119,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0075.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 120,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0174.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 121,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0106.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 122,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0141.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 123,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0192.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 124,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0150.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 125,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0152.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 126,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0039.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 127,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0060.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 128,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0172.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 129,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0181.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 130,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0061.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 131,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0021.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 132,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0076.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 133,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0232.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 134,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0050.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 135,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0049.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 136,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0186.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 137,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0117.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 138,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0127.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 139,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0157.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 140,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0008.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 141,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0015.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 142,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0162.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 143,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0048.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 144,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0001.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 145,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0137.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 146,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0005.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 147,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0121.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 148,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0187.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 149,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0217.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 150,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0163.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 151,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0124.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 152,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0064.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 153,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0134.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 154,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0118.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 155,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0155.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 156,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0165.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 157,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0123.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 158,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0145.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 159,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0160.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 160,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0170.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 161,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0071.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 162,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0222.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 163,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0119.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 164,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0139.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 165,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0196.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 166,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0131.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 167,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0167.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 168,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0229.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 169,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0062.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 170,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0133.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 171,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0066.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 172,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0185.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 173,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0194.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 174,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0239.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 175,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0104.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 176,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0022.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 177,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0067.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 178,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0122.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 179,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0180.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 180,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0081.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 181,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0038.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 182,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0197.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 183,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0082.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 184,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0171.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 185,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0178.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 186,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0056.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 187,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0125.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 188,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0077.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 189,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0101.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 190,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0241.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 191,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0175.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 192,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0159.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 193,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0033.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 194,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0046.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 195,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0020.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 196,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0188.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 197,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0166.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 198,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0059.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 199,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0086.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 200,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0189.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 201,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0088.jpg",
+    "question": "Based on the number of tassels in the image, will the corn in the figure be reduced in yield?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 202,
+    "level1_id": 4,
+    "level2_id": 4,
+    "level3_id": 2
+  }
+]

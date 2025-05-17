@@ -1,0 +1,6002 @@
+[
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031301.002220_i1588j169.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4436_i2700j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032301.314948_i2095j1013.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041244.626467_i1441j1418.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.477385_33.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4346_i2400j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025542.324649_i2645j531.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042105.128911_i2018j1200.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005036.000567.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031741.892148_i1454j216.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_53_IMG_4735_i1800j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041935.578460_i2406j1434.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025722.866608_i1747j1149.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_43_IMG_4702_i1200j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4402_i2100j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005957.154982.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041329.493594_i2550j1221.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032252.582300_i2619j745.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041819.105466_i2351j1894.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_56_IMG_4747_i1500j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i2100j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005222.478990.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030953.453993_i1809j1462.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030311.348933_i2188j80.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4357_i600j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030951.395792_i1662j1296.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043601.339007_i1797j519.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_42_IMG_4759_i0j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032525.132050_i2042j295.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_15_IMG_4784_i2700j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044008.438754_i2357j359.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030938.880736_i2236j1406.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013312.433956_22.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004528.184672.Cam6_11.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031157.260604_i2757j1071.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030956.310322_i1663j973.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041742.079349_i1619j1106.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043931.005760_i2007j571.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042128.715935_i1647j1012.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045009.756550_i2237j1791.png",
+    "question": "How many mangos are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031428.417229_i2102j1880.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004353.135082.Cam6_53.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013604.627962_52.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013608.247035_32.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4349_i900j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_51_IMG_4724_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030249.458744_i2449j999.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041734.021801_i2078j415.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043954.775698_i1545j665.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012822.713796_41.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030445.101558_i1444j1879.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005645.912932.Cam6_63.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042129.916264_i1453j1720.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041340.683931_i2190j1438.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024818.999861_i2767j1959.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031913.852655_i1702j75.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013709.391164_61.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004405.706847.Cam6_53.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005548.197486.Cam6_44.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032437.227403_i2203j96.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004941.332813.Cam6_21.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 61,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041544.453146_i2389j92.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 62,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005439.434188.Cam6_24.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 63,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030400.595914_i1630j1731.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 64,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042419.656766_i2265j1273.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 65,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043958.104693_i2435j1644.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 66,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_02_IMG_4802_i1200j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "23",
+    "type_id": 2,
+    "item_id": 67,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005810.676682.Cam6_54.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 68,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044549.736357_i1542j818.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 69,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_02_IMG_4801_i1500j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 70,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4470_i1800j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 71,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_56_IMG_4742_i3000j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 72,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013135.670117_13.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 73,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004853.331815.Cam6_63.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 74,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030126.350441_i1976j569.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 75,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041404.040546_i1357j1140.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 76,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005432.195921.Cam6_33.png",
+    "question": "How many apples are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 77,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024818.600067_i1895j12.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 78,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041422.143930_i2643j1305.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 79,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041929.391930_i1554j1625.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 80,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032248.372828_i2178j858.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 81,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013320.243612_41.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 82,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043156.891241_i2031j1134.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 83,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004803.045018.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 84,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042351.077709_i2060j1012.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 85,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042405.992432_i2422j311.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 86,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004358.278063.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 87,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031138.888398_i2018j1563.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 88,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045057.708414_i2676j1580.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 89,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043657.249507_i1532j787.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 90,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005027.238508.Cam6_53.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 91,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044553.340906_i1870j1430.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 92,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_12_IMG_4681_i900j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 93,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031203.380298_i2459j1414.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 94,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032109.530702_i2094j599.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 95,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043344.170371_i1757j1498.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 96,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013431.483186_53.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 97,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_64_02_IMG_4799_i900j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 98,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045126.583273_i2344j1609.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 99,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042300.967017_i2115j937.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 100,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_04_IMG_4658_i2700j900.png",
+    "question": "How many almonds are there?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 101,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031605.088841_i2116j1576.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 102,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042343.149142_i2010j573.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 103,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041248.155468_i2089j1693.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 104,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032011.962006_i1911j34.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 105,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043139.225360_i1350j1537.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 106,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043728.998549_i1919j275.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 107,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005803.057403.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 108,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004707.424859.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 109,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005743.628504.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 110,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024631.797784_i1652j75.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 111,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025747.026216_i2611j996.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 112,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031304.659398_i2319j1526.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 113,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041737.150847_i2045j467.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 114,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030916.763477_i1721j587.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 115,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4787_i2100j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 116,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032138.551448_i2383j1435.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 117,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045031.607493_i2451j117.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 118,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030707.137318_i1966j206.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 119,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4470_i1200j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "16",
+    "type_id": 2,
+    "item_id": 120,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032119.846106_i2251j203.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 121,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045103.765888_i1509j172.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 122,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4346_i1200j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 123,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042001.651000_i2200j527.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 124,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004924.761097.Cam6_73.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 125,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042158.541202_i2514j596.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 126,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_32_IMG_4461_i3000j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 127,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031132.960043_i1805j1276.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 128,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042853.080202_i1493j1015.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 129,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031213.318817_i1708j1917.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 130,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005734.485442.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 131,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_56_IMG_4742_i1800j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "16",
+    "type_id": 2,
+    "item_id": 132,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_32_IMG_4466_i1200j600.png",
+    "question": "How many almonds are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 133,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043133.563164_i1765j53.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 134,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004848.379337.Cam6_11.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 135,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005327.242198.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 136,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004451.993418.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 137,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024547.196942_i1459j1111.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 138,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004705.520069.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 139,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042517.506093_i1642j645.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 140,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042532.020958_i2084j1406.png",
+    "question": "How many mangos are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 141,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042140.306077_i2669j432.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 142,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013315.481640_32.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 143,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_53_IMG_4372_i3000j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 144,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4349_i1200j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 145,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004727.234781.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 146,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_07_IMG_4439_i900j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "20",
+    "type_id": 2,
+    "item_id": 147,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041359.783244_i2213j832.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 148,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024649.798070_i2351j1826.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 149,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041205.271241_i1305j235.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 150,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_62_02_IMG_4414_i600j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 151,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005231.622053.Cam6_11.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 152,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042532.221207_i1466j1735.png",
+    "question": "How many mangos are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 153,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_15_IMG_4663_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 154,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004717.901207.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 155,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4786_i2700j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 156,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.394144_i1658j752.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 157,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024511.195849_i1734j1918.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 158,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044901.282755_i1398j1250.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 159,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005950.107217.Cam6_44.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 160,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004609.899802.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 161,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013322.910417_12.png",
+    "question": "How many apples are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 162,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_27_IMG_4463_i2400j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 163,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013230.337859_32.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 164,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004348.182606.Cam6_54.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 165,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013116.812606_32.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 166,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013351.101377_43.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 167,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030509.562878_i1600j1546.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 168,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031736.833678_i1682j1692.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 169,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031211.695401_i1584j1290.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 170,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042144.163444_i2606j1386.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 171,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005959.821662.Cam6_14.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 172,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031243.372634_i1540j1371.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 173,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024916.530821_i1946j1240.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 174,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005602.674040.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "17",
+    "type_id": 2,
+    "item_id": 175,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030934.022801_i1613j218.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 176,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045047.794600_i2360j1967.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 177,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042433.304068_i2290j785.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 178,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_51_IMG_4481_i1800j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "17",
+    "type_id": 2,
+    "item_id": 179,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004756.568760.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 180,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042913.383717_i1637j588.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 181,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004757.330649.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 182,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025952.991866_i1511j1874.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 183,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043511.375930_i1464j704.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 184,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043147.153850_i1719j407.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 185,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_54_IMG_4730_i1200j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 186,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005944.392853.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 187,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043754.643069_i1425j46.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 188,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031510.885805_i1917j149.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 189,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004851.998412.Cam6_23.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 190,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005459.434598.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 191,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041948.079210_i1619j1803.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 192,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042955.295890_i1981j1512.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 193,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005758.295430.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 194,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_09_IMG_4332_i600j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 195,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013023.287634_33.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 196,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030906.576583_i2310j725.png",
+    "question": "How many mangos are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 197,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004555.804388.Cam6_33.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 198,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024519.396151_i1924j1228.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 199,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032049.691479_i1609j1016.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 200,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_10_IMG_4667_i2100j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 201,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042510.372907_i2237j1661.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 202,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_30_IMG_4765_i2700j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 203,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012945.763098_23.png",
+    "question": "How many apples are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 204,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_15_IMG_4451_i300j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 205,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032036.883197_i1508j1085.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 206,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024736.799121_i1697j1349.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 207,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005546.102195.Cam6_52.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 208,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041411.899862_i1976j261.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 209,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_30_IMG_4454_i300j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 210,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031709.338473_i2027j1377.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 211,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031725.113349_i1538j1095.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 212,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_30_IMG_4454_i2400j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 213,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045002.675866_i1827j454.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 214,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025839.228574_i2533j1290.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 215,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005547.245092.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 216,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025618.740464_i2777j1343.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 217,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030506.234100_i2032j1159.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 218,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043104.115237_i2556j1040.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 219,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024524.196447_i2349j212.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 220,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005110.287026.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 221,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005044.000731.Cam6_21.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 222,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041823.562703_i2328j189.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 223,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005415.433701.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 224,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031702.209400_i1945j527.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 225,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004719.234611.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 226,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031919.482411_i2714j1117.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 227,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005544.959297.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 228,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004427.612047.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 229,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4350_i2700j600.png",
+    "question": "How many almonds are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 230,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042314.269427_i2569j1931.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 231,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031607.911700_i1794j482.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 232,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044013.167563_i2626j319.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 233,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004923.808702.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 234,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004739.806547.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 235,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004426.469151.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 236,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032124.032367_i1716j1069.png",
+    "question": "How many mangos are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 237,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013224.432991_43.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 238,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025018.931882_i1763j1372.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 239,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013443.864444_62.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 240,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_16_IMG_4780_i1500j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 241,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013134.146211_43.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 242,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_56_IMG_4494_i1800j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 243,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030134.936146_i1765j1018.png",
+    "question": "How many mangos are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 244,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012855.857338_42.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 245,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.190138_i2502j193.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 246,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043056.186105_i2590j558.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 247,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024846.600295_i1942j548.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 248,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004532.565766.Cam6_33.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 249,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_30_IMG_4458_i1200j900.png",
+    "question": "How many almonds are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 250,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.993845_i2163j235.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 251,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030913.963952_i1524j1920.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 252,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024431.395020_i2352j1915.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 253,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044856.553456_i1990j1463.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 254,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013314.910128_21.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 255,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041328.693238_i2386j1815.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 256,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.286881_21.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 257,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004710.853432.Cam6_73.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 258,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025723.995778_i2428j832.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 259,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025549.182052_i2089j1783.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 260,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013106.526640_33.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 261,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_54_IMG_4730_i300j4500.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 262,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031529.152526_i2589j1365.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 263,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012834.523528_41.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 264,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024805.599426_i2409j328.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 265,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024821.200051_i2328j1817.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 266,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005240.955499.Cam6_63.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 267,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_47_IMG_4720_i0j900.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 268,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031756.411034_i2002j1807.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 269,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043812.344637_i1873j1623.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 270,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042406.392147_i2131j803.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 271,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4403_i1800j4800.png",
+    "question": "How many almonds are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 272,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031159.517735_i2433j1615.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 273,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041956.993915_i1612j817.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 274,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030759.669266_i2373j293.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 275,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005131.620831.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 276,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043403.894127_i1399j1797.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 277,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_09_IMG_4661_i600j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 278,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042057.398500_i1912j62.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 279,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032200.784711_i2673j981.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 280,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043511.776021_i2288j159.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 281,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_45_IMG_4709_i2700j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 282,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013606.151743_11.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 283,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_01_IMG_4805_i300j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 284,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032113.459434_i1365j1200.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 285,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042453.252591_i2235j1888.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 286,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005655.817889.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 287,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005953.916792.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 288,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004757.902037.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 289,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043459.661966_i2403j600.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 290,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_60_49_IMG_4718_i1500j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 291,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4437_i900j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 292,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004855.808117.Cam6_24.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 293,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005239.050709.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 294,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4403_i3000j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 295,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031110.730619_i1980j13.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 296,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024929.330936_i1992j752.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 297,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043553.895081_i1684j1897.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 298,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.623044.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 299,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4349_i1800j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 300,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005804.581307.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 301,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025740.240040_i2686j1704.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 302,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.051533.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 303,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043709.913902_i1513j216.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 304,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_53_IMG_4735_i2700j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 305,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044503.479096_i2288j1644.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 306,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_02_IMG_4344_i2400j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 307,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005951.250115.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 308,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_56_IMG_4748_i600j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 309,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_49_IMG_4369_i1500j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 310,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005428.005335.Cam6_21.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 311,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005425.529158.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 312,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013022.906751_13.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 313,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032421.183884_i2195j113.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 314,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005947.821546.Cam6_21.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 315,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032241.311275_i1983j222.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 316,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004715.044021.Cam6_44.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 317,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005817.914830.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 318,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032047.691397_i1765j495.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 319,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045104.966210_i2181j1412.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 320,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025940.771541_i1528j762.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 321,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043056.986014_i1441j376.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 322,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030534.731587_i1642j1460.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 323,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041205.471097_i2146j1949.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 324,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004616.376184.Cam6_52.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 325,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041928.591879_i1406j1924.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 326,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044205.504374_i2478j1852.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 327,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043937.392116_i2333j1513.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 328,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005219.240799.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 329,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041345.540071_i2623j1071.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 330,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005501.339388.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 331,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025012.531796_i1934j747.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 332,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004849.331732.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 333,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043332.775765_i1757j202.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 334,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_18_IMG_4684_i1500j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 335,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005943.440459.Cam6_44.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 336,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4363_i1500j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 337,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005505.910854.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 338,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025732.853610_i2589j400.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 339,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004549.137497.Cam6_21.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 340,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043503.391101_i1823j1477.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 341,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_45_IMG_4757_i600j4200.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 342,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4469_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 343,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 344,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005051.048506.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 345,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043038.744792_i1544j302.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 346,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013459.864773_41.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 347,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013232.433153_31.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 348,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032128.817396_i1932j1857.png",
+    "question": "How many mangos are there?",
+    "answer": "20",
+    "type_id": 2,
+    "item_id": 349,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031132.560120_i1732j994.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 350,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005956.583597.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 351,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024905.330512_i2488j826.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 352,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_53_IMG_4373_i900j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "23",
+    "type_id": 2,
+    "item_id": 353,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030502.976263_i1294j982.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 354,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025045.732668_i2099j1823.png",
+    "question": "How many mangos are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 355,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032512.069796_i1586j475.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 356,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004353.706594.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 357,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T010006.488549.Cam6_23.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 358,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031131.159897_i2653j450.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 359,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4364_i300j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 360,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032305.114830_i2278j1086.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 361,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030101.442833_i1726j56.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 362,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024829.400180_i1711j1106.png",
+    "question": "How many mangos are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 363,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_06_IMG_4421_i1200j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 364,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i900j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "21",
+    "type_id": 2,
+    "item_id": 365,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025754.284147_i2715j1779.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 366,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024848.200342_i1938j731.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 367,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005805.533702.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 368,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031353.274441_i1847j1735.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 369,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041344.940374_i1526j1764.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 370,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024523.396406_i2164j937.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 371,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004421.516678.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 372,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005224.574282.Cam6_33.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 373,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043949.462002_i1390j1281.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 374,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042100.328711_i1862j159.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 375,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_35_IMG_4762_i1500j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "26",
+    "type_id": 2,
+    "item_id": 376,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030807.488229_i2022j915.png",
+    "question": "How many mangos are there?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 377,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043712.370473_i2434j1058.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 378,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024836.000107_i2222j263.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 379,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025540.925425_i2323j111.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 380,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031802.468252_i1562j1919.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 381,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024420.195210_i2574j950.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 382,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_15_IMG_4335_i1500j4200.png",
+    "question": "How many almonds are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 383,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_18_IMG_4449_i2700j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 384,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043645.077619_i1787j527.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 385,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044502.278830_i2456j328.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 386,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043732.598592_i1737j1333.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 387,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013025.954440_34.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 388,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030325.319795_i2171j596.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 389,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024452.995917_i2397j1767.png",
+    "question": "How many mangos are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 390,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042410.792286_i1490j580.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 391,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045000.346837_i2130j1705.png",
+    "question": "How many mangos are there?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 392,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044038.507721_i2096j1199.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 393,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_50_IMG_4754_i2700j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 394,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032440.227773_i2076j1968.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 395,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041821.034565_i1713j951.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 396,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_06_IMG_4673_i1200j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 397,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032555.134149_i1717j1481.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 398,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030715.654311_i2611j528.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 399,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_50_IMG_4754_i2700j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 400,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030855.474150_i1694j1482.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 401,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043812.944659_i1937j1767.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 402,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013507.674427_21.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 403,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005735.247332.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 404,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_53_IMG_4373_i1200j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 405,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024339.594134_i2357j1694.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 406,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032501.212589_i2294j73.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 407,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031531.081622_i2463j775.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 408,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044034.903498_i2199j1061.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 409,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012821.951781_12.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 410,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025932.829605_i2061j231.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 411,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042529.220976_i1860j1361.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 412,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024406.594943_i2127j395.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 413,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004924.189585.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 414,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032343.952798_i1813j318.png",
+    "question": "How many mangos are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 415,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_53_IMG_4736_i2400j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 416,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005313.527669.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 417,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005318.670649.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 418,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i1200j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 419,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005420.576678.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 420,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044959.547023_i1852j1669.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 421,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031807.091477_i1736j1031.png",
+    "question": "How many mangos are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 422,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031350.474516_i1716j1888.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 423,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041433.340584_i2398j1778.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 424,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004804.378421.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 425,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004718.853603.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 426,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042547.051980_i2390j1352.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 427,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005908.011100.Cam6_23.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 428,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_43_IMG_4703_i900j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 429,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013638.152395_11.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 430,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T010012.964803.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 431,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041724.322072_i1630j188.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 432,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043408.823210_i1488j1730.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 433,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005329.337492.Cam6_63.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 434,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042032.340449_i1761j1853.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 435,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013026.335322_23.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 436,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045018.813665_i1571j546.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 437,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024940.131172_i1959j84.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 438,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004411.421218.Cam6_54.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 439,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044602.054569_i2706j1767.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 440,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031226.872885_i2050j1747.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 441,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024542.796532_i1753j124.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 442,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042135.173113_i2723j1635.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 443,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030839.607745_i1616j1691.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 444,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013657.200420_21.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 445,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i2700j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 446,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041304.927824_i2623j137.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 447,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042954.695834_i2140j1189.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 448,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030711.124169_i2230j1229.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 449,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4470_i1500j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "20",
+    "type_id": 2,
+    "item_id": 450,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042549.180408_i1558j1074.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 451,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045010.156586_i2071j1215.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 452,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044847.567049_i2451j1250.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 453,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032345.881863_i2484j824.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 454,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_32_IMG_4460_i1500j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 455,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031805.668170_i2213j301.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 456,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032405.868520_i2043j1430.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 457,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004915.618035.Cam6_23.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 458,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013506.722034_31.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 459,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032028.019925_i1637j12.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 460,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024417.600390_i1988j1865.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 461,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004440.374187.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 462,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031549.711928_i1681j1913.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 463,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042912.783997_i1532j611.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 464,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_44_IMG_4360_i2700j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 465,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043458.732317_i1748j901.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 466,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005913.915969.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 467,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043259.091758_i1919j1735.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 468,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005607.817023.Cam6_72.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 469,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030304.632907_i2250j769.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 470,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031008.978052_i1936j173.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 471,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_42_IMG_4488_i1800j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 472,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041230.848267_i1990j1861.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 473,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030103.647992_i1942j981.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 474,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_49_IMG_4711_i1200j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 475,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_07_IMG_4408_i600j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 476,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004854.093706.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 477,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042453.652637_i2094j725.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 478,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024514.196325_i2205j1163.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 479,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041636.571604_i2126j1208.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 480,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_57_IMG_4385_i1200j4500.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 481,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005821.914913.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 482,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024510.795802_i2460j375.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 483,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045102.965815_i2009j840.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 484,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005816.391049.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 485,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i2100j900.png",
+    "question": "How many almonds are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 486,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i2700j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 487,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024529.396540_i2246j965.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 488,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_30_IMG_4455_i2700j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 489,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_04_IMG_4657_i1500j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "24",
+    "type_id": 2,
+    "item_id": 490,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030416.224953_i1454j433.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 491,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031156.660695_i2004j774.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 492,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025755.684359_i1596j1518.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 493,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041619.990219_i2184j1881.png",
+    "question": "How many mangos are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 494,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_48_IMG_4366_i1500j600.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 495,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032505.412663_i2003j362.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 496,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041756.928242_i2286j18.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 497,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004355.801761.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 498,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005919.630463.Cam6_61.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 499,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043257.762238_i2050j1174.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 500,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_27_IMG_4690_i1200j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 501,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024609.397230_i2208j561.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 502,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044403.341817_i2348j1801.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 503,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025644.588445_i2650j375.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 504,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013150.146539_34.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 505,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031238.914892_i1816j1041.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 506,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030529.868886_i1816j1963.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 507,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042903.780721_i1780j1831.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 508,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012933.762855_12.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 509,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041223.662451_i2370j1154.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 510,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044019.044462_i2128j599.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 511,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_27_IMG_4463_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 512,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024330.594197_i1674j328.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 513,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005948.773940.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 514,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013507.864807_33.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 515,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_50_IMG_4753_i600j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 516,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4364_i2400j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 517,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013112.050506_34.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 518,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004603.614052.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 519,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013350.339486_32.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 520,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024613.597169_i2168j772.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 521,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031640.839592_i2476j1723.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 522,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042507.243916_i2379j1751.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 523,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042525.964621_i2609j1195.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 524,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042515.777470_i2411j620.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 525,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_31_IMG_4354_i1500j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 526,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025511.962892_i2576j1786.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 527,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025028.532409_i1775j1519.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 528,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_31_IMG_4354_i3000j3900.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 529,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013115.669706_21.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 530,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030725.568978_i2160j15.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 531,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.667888_32.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 532,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i600j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 533,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005058.667785.Cam6_44.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 534,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044905.287979_i1577j1526.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 535,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041615.731950_i1958j449.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 536,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030939.080660_i1625j1735.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 537,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005553.530973.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 538,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004801.140229.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 539,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005445.910443.Cam6_61.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 540,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_21_IMG_4400_i1200j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 541,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_30_IMG_4455_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 542,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043955.376010_i1657j801.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 543,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_21_IMG_4399_i3000j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 544,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041354.726254_i2535j1104.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 545,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005247.050874.Cam6_22.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 546,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005908.963493.Cam6_31.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 547,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024759.799570_i2576j780.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 548,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005739.818800.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 549,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004418.278486.Cam6_51.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 550,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013505.198129_43.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 551,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013319.672227_22.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 552,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_27_IMG_4691_i600j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 553,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030524.011052_i1838j332.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 554,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024630.797785_i2009j504.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 555,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005127.049241.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 556,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013143.098770_13.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 557,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030600.214956_i2296j312.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 558,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005057.905769.Cam6_61.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 559,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_32_IMG_4700_i1200j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 560,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044320.291486_i1839j1954.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 561,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_62_56_IMG_4381_i1200j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 562,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044256.355244_i2175j1789.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 563,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_45_IMG_4757_i3000j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 564,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005124.382560.Cam6_43.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 565,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042513.649272_i1765j587.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 566,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004406.278234.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 567,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031403.861490_i1265j811.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 568,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_30_IMG_4768_i1200j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 569,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024826.800155_i2555j1898.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 570,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032006.705071_i2197j675.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 571,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004400.563862.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 572,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044257.155280_i2542j1826.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 573,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043757.571853_i1735j1243.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 574,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012846.333271_43.png",
+    "question": "How many apples are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 575,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024853.531358_i1970j951.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 576,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013223.290091_21.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 577,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.590101_i1578j474.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 578,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_27_IMG_4396_i3000j3600.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 579,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030127.950515_i2052j361.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 580,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042203.798629_i1620j317.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 581,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_04_IMG_4658_i1500j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "37",
+    "type_id": 2,
+    "item_id": 582,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030454.617591_i1769j1897.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 583,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005952.393012.Cam6_32.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 584,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_18_IMG_4448_i2400j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 585,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_02_IMG_4675_i1800j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 586,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004349.135000.Cam6_11.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 587,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013308.624380_31.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 588,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041149.967617_i1588j1462.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 589,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005240.384112.Cam6_62.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 590,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005229.717262.Cam6_14.png",
+    "question": "How many apples are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 591,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043157.091180_i1414j1514.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 592,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025917.659303_i1904j1218.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 593,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005641.531967.Cam6_13.png",
+    "question": "How many apples are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 594,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004433.135911.Cam6_52.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 595,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045006.204146_i2194j752.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 596,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025957.976517_i2047j328.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 597,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024809.399785_i2466j213.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 598,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024639.597997_i1465j1046.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 599,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_53_IMG_4388_i1800j2700.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 600,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  }
+]
