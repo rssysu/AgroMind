@@ -6,8 +6,8 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 
 ## 🔗 Link
 
-- **GitHub Pages**: https://agrointelligence.github.io/AgroMind
-- **Paper(PDF)**: 
+- **GitHub Pages**: https://rssysu.github.io/AgroMind/
+- **Paper(PDF)**: https://arxiv.org/abs/2505.12207
 - **Dataset**: https://huggingface.co/datasets/AgroMind/AgroMind
 - **Code**: https://github.com/AgroIntelligence/AgroMind
 
@@ -31,5 +31,13 @@ AgroMind/
 
 
 ## 📜 Cite
-
+@misc{li2025largemultimodalmodelsunderstand,
+      title={Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind}, 
+      author={Qingmei Li and Yang Zhang and Zurong Mai and Yuhang Chen and Shuohong Lou and Henglian Huang and Jiarui Zhang and Zhiwei Zhang and Yibin Wen and Weijia Li and Haohuan Fu and Jianxi Huang and Juepeng Zheng},
+      year={2025},
+      eprint={2505.12207},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.12207}, 
+}
 
