@@ -9,7 +9,7 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 - **GitHub Pages**: https://rssysu.github.io/AgroMind/
 - **Paper(PDF)**: https://arxiv.org/abs/2505.12207
 - **Dataset**: https://huggingface.co/datasets/AgroMind/AgroMind
-- **Code**: https://github.com/AgroIntelligence/AgroMind
+- **Code**: https://github.com/rssysu/AgroMind
 
 
 
