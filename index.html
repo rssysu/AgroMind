@@ -7,7 +7,7 @@
   <!-- ⚠️修改社交媒体元信息 -->
   <meta name="description" content="AgroMind">
   <meta property="og:title" content="AgroMind"/>
-  <meta property="og:url" content="https://agrointelligence.github.io/"/> <!-- ⚠️替换为项目页面地址 -->
+  <meta property="og:url" content="https://rssysu.github.io/AgroMind/"/> <!-- ⚠️替换为项目页面地址 -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="AgroMind Project">
 
@@ -45,7 +45,7 @@
             <!-- ⚠️作者信息已移除，保持匿名 -->
             <!-- ⚠️资源链接部分 -->
             <p>
-              <a href="https://github.com/AgroIntelligence/AgroMind" target="_blank"
+              <a href="https://github.com/rssysu/AgroMind" target="_blank"
                  class="button is-normal is-rounded is-dark">
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>View on GitHub</span>
@@ -67,13 +67,13 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              Large Multimodal Models (LMMs) has demonstrated capabilities across various domains, but comprehensive benchmarks for agricultural remote sensing (RS) remain scarce. Existing RS benchmarks primarily focus on urban scenarios, with agricultural tasks limited to crop disease diagnosis, leading to an incomplete assessment of LMMs' capabilities in agricultural RS.
-  To bridge this gap, we introduce AgroMind, a comprehensive agricultural remote sensing benchmark covering four task dimensions: Spatial Perception, Object Understanding, Scene Understanding, and Scene Reasoning, with a total of 13 task types, ranging from crop identification and health monitoring to environmental analysis.
-  We curate a high-quality evaluation set by integrating 8 public datasets and 1 private farmland plot dataset, containing 25,026 QA pairs and 15,556 images. The pipeline begins with multi-source data preprocessing, including collection, format standardization, and annotation refinement. We then generate a diverse set of agriculturally relevant questions through the systematic definition of tasks. Finally, we employ LMMs for inference, generating responses, and performing detailed examinations. 
-  We evaluated 16 open-source LMMs and 3 closed-source models on AgroMind.
-  Experiments reveal significant performance gaps, particularly in spatial reasoning and fine-grained recognition, where even the best models substantially trail human experts. 
+              Large Multimodal Models (LMMs) has demonstrated capabilities across various domains, but comprehensive benchmarks for agricultural remote sensing (RS) remain scarce. Existing benchmarks designed for agricultural RS scenarios exhibit notable limitations, primarily in terms of insufficient scene diversity in the dataset and oversimplified task design.
+  To bridge this gap, we introduce AgroMind, a comprehensive agricultural remote sensing benchmark covering four task dimensions: spatial perception, object understanding, scene understanding, and scene reasoning, with a total of 13 task types, ranging from crop identification and health monitoring to environmental analysis.
+  We curate a high-quality evaluation set by integrating eight public datasets and one private farmland plot dataset, containing 25,026 QA pairs and 15,556 images. The pipeline begins with multi-source data pre-processing, including collection, format standardization, and annotation refinement. We then generate a diverse set of agriculturally relevant questions through the systematic definition of tasks. Finally, we employ LMMs for inference, generating responses, and performing detailed examinations. 
+  We evaluated 18 open-source LMMs and 3 closed-source models on AgroMind.
+  Experiments reveal significant performance gaps, particularly in spatial reasoning and fine-grained recognition, it is notable that human performance lags behind several leading LMMs. 
   By establishing a standardized evaluation framework for agricultural RS, AgroMind reveals the limitations of LMMs in domain knowledge and highlights critical challenges for future work.
-  Data and code can be accessed at https://agrointelligence.github.io/AgroMind/.
+  Data and code can be accessed at \url{https://rssysu.github.io/AgroMind/}.
             </p>
           </div>
         </div>
