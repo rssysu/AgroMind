@@ -31,6 +31,7 @@ AgroMind/
 
 
 ## 📜 Cite
+```plaintext
 @misc{li2025largemultimodalmodelsunderstand,
       title={Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind}, 
       author={Qingmei Li and Yang Zhang and Zurong Mai and Yuhang Chen and Shuohong Lou and Henglian Huang and Jiarui Zhang and Zhiwei Zhang and Yibin Wen and Weijia Li and Haohuan Fu and Jianxi Huang and Juepeng Zheng},
@@ -40,4 +41,4 @@ AgroMind/
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2505.12207}, 
 }
-
+```
