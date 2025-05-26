@@ -26,7 +26,16 @@ AgroMind/
 └── README.md        # Project description (this file)
 ```
 
+## 📌 Key Features
+- **Multidimensional Evaluation**
+  - 🌍 Spatial Perception
+  - 🔍 Object Understanding
+  - 🏞️ Scene Understanding
+  - 🤖 Scene Reasoning
 
+- **Technical Specifications**
+  - 13 specialized agricultural tasks
+  - Multimodal data support 
 
 
 
