@@ -11,19 +11,28 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 - **Dataset**: https://huggingface.co/datasets/AgroMind/AgroMind
 - **Code**: https://github.com/rssysu/AgroMind
 
-
-
 ## 📂 Structure
 
 ```plaintext
 AgroMind/
-├── index.html       # Homepage
-├── conceptual.pdf   # Poster
-├── static/
-│   ├── css/         # Stylesheets
-│   ├── js/          # JavaScript files
-│   └── images/      # Images and favicon
-└── README.md        # Project description (this file)
+├── AgroMind/
+│   ├── models/                 # LLMs    
+│   ├── utils/      
+│   └── eval.py     
+├── QA_Pairs/                   # Tasks
+│   ├── Spatial Perception/
+│   ├── Object Understanding/
+│   ├── Scene Understanding/   
+│   └── Scene Reasoning/
+├── static/          
+│   ├── css/         
+│   ├── images/                  # data examples
+│   └── js/          
+├── .nojekyll    
+├── conceptual.pdf               # Project poster
+├── README.md                    # introduction
+├── index.html                   # GitHub-Page
+└── test.txt                     # just for testing
 ```
 
 ## 📌 Key Features
