@@ -48,23 +48,16 @@ AgroMind/
 
 ## Dataset
 {
-  "metadata": {
-    "major_task": "Spatial Perception",  // 大任务类型
-    "minor_task": "Boundary Detection",   // 子任务类型
-    "sensor_type": "satellite"            // 传感器类型
-  },
-  "items": [
-    {
-      "qid": "SP-BD-001",                // 问题唯一标识符
-      "image_path": "images/satellite/field_001.png",
-      "question": "Find the boundaries of cultivated land",
-      "answer": {
-        "type": "coordinate",
-        "value": [0.12, 0.45, 0.87, 0.92]  // [xmin, ymin, xmax, ymax]
-      }
-    }
-  ]
-}
+    "image_path":图片路径
+    "type_id":问题格式的类型
+    "item_id":问题的序号
+    "level1_id":问题大类
+    "level2_id": 大类细分级别
+    "level3_id": 具体问题级别
+    "question": 问题
+    "options": 选项（部分有）
+    "answer":回答（选项或open-end形式）
+  }
 
 
 ## 📜 Cite
