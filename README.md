@@ -46,7 +46,8 @@ AgroMind/
   - 13 specialized agricultural tasks
   - Multimodal data support 
 
-## Dataset
+## Dataset/Benchmarks
+每个json文件含同一种level-3的的问题，其问题条目框架基本如下所示：
 {
     "image_path":图片路径
     "type_id":问题格式的类型
@@ -58,7 +59,23 @@ AgroMind/
     "options": 选项（部分有）
     "answer":回答（选项或open-end形式）
   }
+只需把huggingface的数据集部署至本地的与当前github项目同一个文件夹下，即可根据需要自由读取item，获得图片路径与问题以测评模型。
 
+Each JSON file contains questions of the same level-3 type, with items structured as follows:
+
+```json
+{
+    "image_path": "path/to/image",    // Image file path
+    "type_id": question_format_type,  // Question response format
+    "item_id": "unique_id",           // Question identifier
+    "level1_id": "main_category",     // Top-level task dimension
+    "level2_id": "sub_category",      // Task subtype
+    "level3_id": "specific_task",     // Detailed task type
+    "question": "query_text",         // Natural language question
+    "options": ["A", ...],      // Answer choices (when applicable)
+    "answer": "correct_response"      // Ground truth answer
+}
+Simply deploy the Hugging Face dataset locally in the same directory as this GitHub project. You can then freely access items to obtain image paths and corresponding questions for model evaluation.
 
 ## 📜 Cite
 ```plaintext
