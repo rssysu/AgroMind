@@ -50,7 +50,7 @@ AgroMind/
 
 Each JSON file contains questions of the same level-3 type, with items structured as follows:
 
-```json
+```text
 {
     "image_path": "path/to/image",    // Image file path
     "type_id": question_format_type,  // Question response format
@@ -63,7 +63,7 @@ Each JSON file contains questions of the same level-3 type, with items structure
     "answer": "correct_response"      // Ground truth answer
 }
 ```
-Simply deploy the Hugging Face dataset locally in the same directory as this GitHub project. You can then freely access items to obtain image paths and corresponding questions for model evaluation.
+Simply deploy the Hugging Face dataset locally in the ./images as this GitHub project and then unzip. You can then freely access items to obtain image paths and corresponding questions for model evaluation.
 
 ## 📜 Cite
 ```plaintext
