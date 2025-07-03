@@ -1,1 +1,1 @@
-you can place the pictures here.
+you can put the images in this directory.
