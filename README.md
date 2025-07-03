@@ -54,12 +54,12 @@ Each JSON file contains questions of the same level-3 type, with items structure
 {
     "image_path": "path/to/image",    // Image file path
     "type_id": question_format_type,  // Question response format
-    "item_id": "id",           // Question id in this file(Start with the number 1)
+    "item_id": "id",                  // Question id in this file(Start with the number 1)
     "level1_id": "main_category",     // Top-level task dimension
     "level2_id": "sub_category",      // Task subtype
     "level3_id": "specific_task",     // Detailed task type
     "question": "query_text",         // Natural language question
-    "options": ["A", ...],      // Answer choices (when applicable)
+    "options": ["A", ...],            // Answer choices (when applicable)
     "answer": "correct_response"      // Ground truth answer
 }
 ```
