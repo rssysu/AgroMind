@@ -1,0 +1,5713 @@
+[
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_19.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "40.0% - 50.0%",
+      "C": "50.0% - 60.0%",
+      "D": "0% - 10.0%",
+      "E": "90.0% - 100.0%",
+      "F": "60.0% - 70.0%",
+      "G": "20.0% - 30.0%",
+      "H": "70.0% - 80.0%",
+      "I": "80.0% - 90.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_73.png",
+    "question": "Image Area: 22164482.80 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "3084000 - 3085000 square meters",
+      "B": "3086000 - 3087000 square meters",
+      "C": "3083000 - 3084000 square meters",
+      "D": "3082000 - 3083000 square meters",
+      "E": "3085000 - 3086000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/7U38VPTKA_2786-8098-3298-8610.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "20%~30%",
+      "D": "70%~80%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/HGGRCHZKT_3257-3155-3769-3667.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "50%~60%",
+      "C": "0%~10%",
+      "D": "60%~70%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "WC9ANV6N1_3989-4430-4501-4942",
+    "image_path": "./Agriculture/images/WC9ANV6N1_3989-4430-4501-4942.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "60%~70%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "10%~20%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_1586.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "80-90%",
+      "C": "90-100%",
+      "D": "10-20%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_973.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "40-50%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/128_q_8.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "70.0% - 80.0%",
+      "B": "10.0% - 20.0%",
+      "C": "30.0% - 40.0%",
+      "D": "50.0% - 60.0%",
+      "E": "40.0% - 50.0%",
+      "F": "90.0% - 100.0%",
+      "G": "80.0% - 90.0%",
+      "H": "0% - 10.0%",
+      "I": "60.0% - 70.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/9BGMMWN3K_5359-3179-5871-3691.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "20%~30%",
+      "B": "10%~20%",
+      "C": "50%~60%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "YMUEM2Q3J_3756-1949-4268-2461",
+    "image_path": "./Agriculture/images/YMUEM2Q3J_3756-1949-4268-2461.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "90%~100%",
+      "C": "60%~70%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_7.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "40.0% - 50.0%",
+      "C": "70.0% - 80.0%",
+      "D": "20.0% - 30.0%",
+      "E": "10.0% - 20.0%",
+      "F": "0% - 10.0%",
+      "G": "60.0% - 70.0%",
+      "H": "80.0% - 90.0%",
+      "I": "90.0% - 100.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "EB29I2AK8_3116-3775-3628-4287",
+    "image_path": "./Agriculture/images/EB29I2AK8_3116-3775-3628-4287.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "80%~90%",
+      "B": "60%~70%",
+      "C": "0%~10%",
+      "D": "20%~30%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/29PWCB1DI_1495-4763-2007-5275.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "10%~20%",
+      "C": "70%~80%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/GEEZW9LDE_1356-4692-1868-5204.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "50%~60%",
+      "C": "80%~90%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_94.png",
+    "question": "Image Area: 15274554.70 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "2378000 - 2379000 square meters",
+      "B": "2380000 - 2381000 square meters",
+      "C": "2382000 - 2383000 square meters",
+      "D": "2379000 - 2380000 square meters",
+      "E": "2381000 - 2382000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/600fce6e55481e0005e312a8_2264.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "90-100%",
+      "C": "50-60%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_30.png",
+    "question": "Image Area: 15273571.52 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "4614000 - 4615000 square meters",
+      "B": "4615000 - 4616000 square meters",
+      "C": "4613000 - 4614000 square meters",
+      "D": "4616000 - 4617000 square meters",
+      "E": "4612000 - 4613000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/R9UKUXZBF_2432-4958-2944-5470.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "90%~100%",
+      "C": "60%~70%",
+      "D": "0%~10%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/WVLNWZ83A_1872-690-2384-1202.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "60%~70%",
+      "C": "10%~20%",
+      "D": "70%~80%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/EHW96XWLJ_4080-2199-4592-2711.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "80%~90%",
+      "C": "90%~100%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/238_q_62.png",
+    "question": "Image Area: 3186535.68 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "385000 - 386000 square meters",
+      "B": "381000 - 382000 square meters",
+      "C": "382000 - 383000 square meters",
+      "D": "383000 - 384000 square meters",
+      "E": "384000 - 385000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_77.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "60.0% - 70.0%",
+      "C": "30.0% - 40.0%",
+      "D": "0% - 10.0%",
+      "E": "80.0% - 90.0%",
+      "F": "10.0% - 20.0%",
+      "G": "50.0% - 60.0%",
+      "H": "70.0% - 80.0%",
+      "I": "90.0% - 100.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_87.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "80.0% - 90.0%",
+      "C": "0% - 10.0%",
+      "D": "70.0% - 80.0%",
+      "E": "30.0% - 40.0%",
+      "F": "10.0% - 20.0%",
+      "G": "40.0% - 50.0%",
+      "H": "20.0% - 30.0%",
+      "I": "60.0% - 70.0%",
+      "J": "50.0% - 60.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "X6AKKXU19_6376-1264-6888-1776",
+    "image_path": "./Agriculture/images/X6AKKXU19_6376-1264-6888-1776.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "30%~40%",
+      "C": "80%~90%",
+      "D": "60%~70%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_73.png",
+    "question": "Image Area: 553456.11 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "7000 - 8000 square meters",
+      "B": "3000 - 4000 square meters",
+      "C": "5000 - 6000 square meters",
+      "D": "6000 - 7000 square meters",
+      "E": "4000 - 5000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/128_q_93.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "0% - 10.0%",
+      "C": "10.0% - 20.0%",
+      "D": "80.0% - 90.0%",
+      "E": "40.0% - 50.0%",
+      "F": "70.0% - 80.0%",
+      "G": "20.0% - 30.0%",
+      "H": "50.0% - 60.0%",
+      "I": "90.0% - 100.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_1.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "60.0% - 70.0%",
+      "C": "80.0% - 90.0%",
+      "D": "90.0% - 100.0%",
+      "E": "0% - 10.0%",
+      "F": "70.0% - 80.0%",
+      "G": "50.0% - 60.0%",
+      "H": "30.0% - 40.0%",
+      "I": "40.0% - 50.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2540.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "Given that the actual geographical area of the entire image is 41983.36 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[0-100]square meters",
+      "B": "[11200-11300]square meters",
+      "C": "[42500-42600]square meters",
+      "D": "[6900-7000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/R9UKUXZBF_3588-2429-4100-2941.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "90%~100%",
+      "C": "0%~10%",
+      "D": "30%~40%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/HGGRCHZKT_2033-2184-2545-2696.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "90%~100%",
+      "C": "20%~30%",
+      "D": "0%~10%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "9BGMMWN3K_4125-15959-4637-16471",
+    "image_path": "./Agriculture/images/9BGMMWN3K_4125-15959-4637-16471.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "10%~20%",
+      "B": "0%~10%",
+      "C": "50%~60%",
+      "D": "30%~40%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60c44a21338cc80005cfdd0b_400.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4700-4800]square meters",
+      "B": "[17400-17500]square meters",
+      "C": "[40700-40800]square meters",
+      "D": "[1500-1600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/9GBH4CWZI_4043-830-4555-1342.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "30%~40%",
+      "C": "50%~60%",
+      "D": "0%~10%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/Q9L3MHQAB_5598-1371-6110-1883.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "60%~70%",
+      "C": "90%~100%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/128_q_39.png",
+    "question": "Image Area: 883268.99 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "430000 - 431000 square meters",
+      "B": "428000 - 429000 square meters",
+      "C": "427000 - 428000 square meters",
+      "D": "431000 - 432000 square meters",
+      "E": "429000 - 430000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "NWTIEC88G_2401-3363-2913-3875",
+    "image_path": "./Agriculture/images/NWTIEC88G_2401-3363-2913-3875.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "90%~100%",
+      "C": "0%~10%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5eada7de3295f300072a6d80_1198.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "60-70%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_28.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "70.0% - 80.0%",
+      "C": "60.0% - 70.0%",
+      "D": "0% - 10.0%",
+      "E": "40.0% - 50.0%",
+      "F": "30.0% - 40.0%",
+      "G": "10.0% - 20.0%",
+      "H": "80.0% - 90.0%",
+      "I": "50.0% - 60.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "BWR67YGTX_800-6160-1312-6672",
+    "image_path": "./Agriculture/images/BWR67YGTX_800-6160-1312-6672.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "20%~30%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/9Y8D12VML_1766-1011-2278-1523.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "20%~30%",
+      "C": "70%~80%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "9Y8D12VML_3177-1286-3689-1798",
+    "image_path": "./Agriculture/images/9Y8D12VML_3177-1286-3689-1798.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "0%~10%",
+      "C": "70%~80%",
+      "D": "40%~50%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_31.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "80.0% - 90.0%",
+      "C": "70.0% - 80.0%",
+      "D": "20.0% - 30.0%",
+      "E": "50.0% - 60.0%",
+      "F": "30.0% - 40.0%",
+      "G": "10.0% - 20.0%",
+      "H": "40.0% - 50.0%",
+      "I": "0% - 10.0%",
+      "J": "60.0% - 70.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_26.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "20.0% - 30.0%",
+      "C": "40.0% - 50.0%",
+      "D": "30.0% - 40.0%",
+      "E": "70.0% - 80.0%",
+      "F": "90.0% - 100.0%",
+      "G": "0% - 10.0%",
+      "H": "10.0% - 20.0%",
+      "I": "50.0% - 60.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "J",
+    "type_id": 6,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/8ENFEUT7N_10656-5742-11168-6254.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "70%~80%",
+      "C": "60%~70%",
+      "D": "40%~50%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "WVLNWZ83A_4616-8018-5128-8530",
+    "image_path": "./Agriculture/images/WVLNWZ83A_4616-8018-5128-8530.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "80%~90%",
+      "C": "60%~70%",
+      "D": "30%~40%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/128_q_78.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "30.0% - 40.0%",
+      "B": "70.0% - 80.0%",
+      "C": "10.0% - 20.0%",
+      "D": "90.0% - 100.0%",
+      "E": "20.0% - 30.0%",
+      "F": "0% - 10.0%",
+      "G": "60.0% - 70.0%",
+      "H": "40.0% - 50.0%",
+      "I": "80.0% - 90.0%",
+      "J": "50.0% - 60.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/A3BLVRDKG_4528-3233-5040-3745.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "20%~30%",
+      "B": "60%~70%",
+      "C": "0%~10%",
+      "D": "80%~90%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/YVHWFQWQL_3070-3590-3582-4102.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "40%~50%",
+      "C": "80%~90%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_34.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "80.0% - 90.0%",
+      "C": "0% - 10.0%",
+      "D": "90.0% - 100.0%",
+      "E": "30.0% - 40.0%",
+      "F": "70.0% - 80.0%",
+      "G": "40.0% - 50.0%",
+      "H": "50.0% - 60.0%",
+      "I": "20.0% - 30.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_51.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "60.0% - 70.0%",
+      "C": "20.0% - 30.0%",
+      "D": "0% - 10.0%",
+      "E": "70.0% - 80.0%",
+      "F": "10.0% - 20.0%",
+      "G": "50.0% - 60.0%",
+      "H": "30.0% - 40.0%",
+      "I": "90.0% - 100.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/608b0a06503fab00058bba72_3223.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "Given that the actual geographical area of the entire image is 41980.16 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[10300-10400]square meters",
+      "B": "[22900-23000]square meters",
+      "C": "[27800-27900]square meters",
+      "D": "[30000-30100]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/BDGAMZNE4_1101-2786-1613-3298.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "20%~30%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "80%~90%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/3KYIGUGBQ_7808-7520-8320-8032.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "20%~30%",
+      "C": "30%~40%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2296.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "10-20%",
+      "C": "50-60%",
+      "D": "70-80%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/GEEZW9LDE_2892-4692-3404-5204.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "70%~80%",
+      "B": "20%~30%",
+      "C": "90%~100%",
+      "D": "60%~70%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_63.png",
+    "question": "Image Area: 2123400.90 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "1086000 - 1087000 square meters",
+      "B": "1087000 - 1088000 square meters",
+      "C": "1090000 - 1091000 square meters",
+      "D": "1088000 - 1089000 square meters",
+      "E": "1089000 - 1090000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/238_q_42.png",
+    "question": "Image Area: 3184670.91 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "1592000 - 1593000 square meters",
+      "B": "1594000 - 1595000 square meters",
+      "C": "1593000 - 1594000 square meters",
+      "D": "1596000 - 1597000 square meters",
+      "E": "1595000 - 1596000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3067.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1900-2000]square meters",
+      "B": "[34100-34200]square meters",
+      "C": "[8700-8800]square meters",
+      "D": "[15900-16000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "A3NNB926P_3434-6782-3946-7294",
+    "image_path": "./Agriculture/images/A3NNB926P_3434-6782-3946-7294.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "40%~50%",
+      "C": "90%~100%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_49.png",
+    "question": "Image Area: 6122139.06 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "105000 - 106000 square meters",
+      "B": "103000 - 104000 square meters",
+      "C": "102000 - 103000 square meters",
+      "D": "106000 - 107000 square meters",
+      "E": "104000 - 105000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "Z9CQA7FUT_2813-3008-3325-3520",
+    "image_path": "./Agriculture/images/Z9CQA7FUT_2813-3008-3325-3520.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "10%~20%",
+      "B": "60%~70%",
+      "C": "0%~10%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_99.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "10.0% - 20.0%",
+      "C": "80.0% - 90.0%",
+      "D": "0% - 10.0%",
+      "E": "30.0% - 40.0%",
+      "F": "50.0% - 60.0%",
+      "G": "20.0% - 30.0%",
+      "H": "90.0% - 100.0%",
+      "I": "40.0% - 50.0%",
+      "J": "70.0% - 80.0%"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_82.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "90.0% - 100.0%",
+      "C": "30.0% - 40.0%",
+      "D": "50.0% - 60.0%",
+      "E": "20.0% - 30.0%",
+      "F": "70.0% - 80.0%",
+      "G": "60.0% - 70.0%",
+      "H": "10.0% - 20.0%",
+      "I": "80.0% - 90.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "J",
+    "type_id": 6,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "UYY79YV6N_3931-2073-4443-2585",
+    "image_path": "./Agriculture/images/UYY79YV6N_3931-2073-4443-2585.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "70%~80%",
+      "B": "40%~50%",
+      "C": "60%~70%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/DAHLJKA2W_2568-4828-3080-5340.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "30%~40%",
+      "C": "70%~80%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_54.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "0% - 10.0%",
+      "C": "10.0% - 20.0%",
+      "D": "60.0% - 70.0%",
+      "E": "40.0% - 50.0%",
+      "F": "30.0% - 40.0%",
+      "G": "20.0% - 30.0%",
+      "H": "90.0% - 100.0%",
+      "I": "70.0% - 80.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/128_q_21.png",
+    "question": "Image Area: 883018.28 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "209000 - 210000 square meters",
+      "B": "206000 - 207000 square meters",
+      "C": "208000 - 209000 square meters",
+      "D": "207000 - 208000 square meters",
+      "E": "210000 - 211000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "1W6YEHJJU_5419-1140-5931-1652",
+    "image_path": "./Agriculture/images/1W6YEHJJU_5419-1140-5931-1652.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "60%~70%",
+      "D": "70%~80%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "60-70%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "30-40%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "FDDIXGJVK_1843-2066-2355-2578",
+    "image_path": "./Agriculture/images/FDDIXGJVK_1843-2066-2355-2578.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "10%~20%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_10.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "20.0% - 30.0%",
+      "B": "50.0% - 60.0%",
+      "C": "60.0% - 70.0%",
+      "D": "90.0% - 100.0%",
+      "E": "40.0% - 50.0%",
+      "F": "10.0% - 20.0%",
+      "G": "30.0% - 40.0%",
+      "H": "80.0% - 90.0%",
+      "I": "70.0% - 80.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_28.png",
+    "question": "Image Area: 479461.21 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "167000 - 168000 square meters",
+      "B": "168000 - 169000 square meters",
+      "C": "165000 - 166000 square meters",
+      "D": "166000 - 167000 square meters",
+      "E": "169000 - 170000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/XQ64HH2IN_4664-6075-5176-6587.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "90%~100%",
+      "C": "20%~30%",
+      "D": "50%~60%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_41.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "40.0% - 50.0%",
+      "C": "50.0% - 60.0%",
+      "D": "90.0% - 100.0%",
+      "E": "30.0% - 40.0%",
+      "F": "80.0% - 90.0%",
+      "G": "20.0% - 30.0%",
+      "H": "0% - 10.0%",
+      "I": "70.0% - 80.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "J",
+    "type_id": 6,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_17.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "60.0% - 70.0%",
+      "C": "10.0% - 20.0%",
+      "D": "50.0% - 60.0%",
+      "E": "70.0% - 80.0%",
+      "F": "20.0% - 30.0%",
+      "G": "30.0% - 40.0%",
+      "H": "0% - 10.0%",
+      "I": "80.0% - 90.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/238_q_90.png",
+    "question": "Image Area: 199036.48 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "79000 - 80000 square meters",
+      "B": "77000 - 78000 square meters",
+      "C": "81000 - 82000 square meters",
+      "D": "78000 - 79000 square meters",
+      "E": "80000 - 81000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/A9JI4C9UX_4081-2602-4593-3114.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "90%~100%",
+      "C": "60%~70%",
+      "D": "80%~90%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/T1IECFYT6_6424-6610-6936-7122.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "70%~80%",
+      "B": "60%~70%",
+      "C": "40%~50%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/PATUBUNUY_2519-4350-3031-4862.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "90%~100%",
+      "C": "20%~30%",
+      "D": "10%~20%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5d8cabebabcfaa0008b1d26b_4562.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[4200-4300]square meters",
+      "B": "[2600-2700]square meters",
+      "C": "[12800-12900]square meters",
+      "D": "[9000-9100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "L9WB8LI6U_3268-5607-3780-6119",
+    "image_path": "./Agriculture/images/L9WB8LI6U_3268-5607-3780-6119.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "80%~90%",
+      "D": "50%~60%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_124.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "40-50%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_74.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "90.0% - 100.0%",
+      "C": "40.0% - 50.0%",
+      "D": "70.0% - 80.0%",
+      "E": "80.0% - 90.0%",
+      "F": "50.0% - 60.0%",
+      "G": "0% - 10.0%",
+      "H": "60.0% - 70.0%",
+      "I": "20.0% - 30.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/9BGMMWN3K_6722-4402-7234-4914.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "20%~30%",
+      "C": "90%~100%",
+      "D": "40%~50%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/X6AKKXU19_8424-752-8936-1264.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "40%~50%",
+      "C": "70%~80%",
+      "D": "80%~90%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5cd4a49f4b7c75000784da34_3719.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "Given that the actual geographical area of the entire image is 41986.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[3600-3700]square meters",
+      "B": "[4300-4400]square meters",
+      "C": "[44300-44400]square meters",
+      "D": "[36000-36100]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[15600-15700]square meters",
+      "B": "[4000-4100]square meters",
+      "C": "[44000-44100]square meters",
+      "D": "[8900-9000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/238_q_34.png",
+    "question": "Image Area: 3184926.81 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "817000 - 818000 square meters",
+      "B": "821000 - 822000 square meters",
+      "C": "820000 - 821000 square meters",
+      "D": "819000 - 820000 square meters",
+      "E": "818000 - 819000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "9A6LXU7CL_1187-1147-1699-1659",
+    "image_path": "./Agriculture/images/9A6LXU7CL_1187-1147-1699-1659.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "70%~80%",
+      "C": "0%~10%",
+      "D": "80%~90%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "70-80%",
+      "C": "10-20%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_55.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "0% - 10.0%",
+      "C": "30.0% - 40.0%",
+      "D": "80.0% - 90.0%",
+      "E": "70.0% - 80.0%",
+      "F": "40.0% - 50.0%",
+      "G": "60.0% - 70.0%",
+      "H": "90.0% - 100.0%",
+      "I": "20.0% - 30.0%",
+      "J": "50.0% - 60.0%"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/D74ZRGWTJ_6375-1174-6887-1686.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "80%~90%",
+      "C": "90%~100%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "Given that the actual geographical area of the entire image is 41922.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[8200-8300]square meters",
+      "B": "[13500-13600]square meters",
+      "C": "[12600-12700]square meters",
+      "D": "[40300-40400]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5f0dbb76f70d2a0006c1e8f0_2967.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "0-10%",
+      "C": "40-50%",
+      "D": "80-90%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/I9I41RH3G_7384-1761-7896-2273.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "70%~80%",
+      "B": "60%~70%",
+      "C": "10%~20%",
+      "D": "30%~40%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5c4c03a120749e0007653157_748.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "80-90%",
+      "B": "40-50%",
+      "C": "50-60%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_26.png",
+    "question": "Image Area: 22160749.96 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "115000 - 116000 square meters",
+      "B": "112000 - 113000 square meters",
+      "C": "114000 - 115000 square meters",
+      "D": "111000 - 112000 square meters",
+      "E": "113000 - 114000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "UU96XNV9X_4505-1066-5017-1578",
+    "image_path": "./Agriculture/images/UU96XNV9X_4505-1066-5017-1578.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "20%~30%",
+      "C": "70%~80%",
+      "D": "60%~70%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_63.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "20.0% - 30.0%",
+      "B": "10.0% - 20.0%",
+      "C": "80.0% - 90.0%",
+      "D": "60.0% - 70.0%",
+      "E": "30.0% - 40.0%",
+      "F": "0% - 10.0%",
+      "G": "50.0% - 60.0%",
+      "H": "90.0% - 100.0%",
+      "I": "40.0% - 50.0%",
+      "J": "70.0% - 80.0%"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_94.png",
+    "question": "Image Area: 2123362.27 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "982000 - 983000 square meters",
+      "B": "983000 - 984000 square meters",
+      "C": "981000 - 982000 square meters",
+      "D": "984000 - 985000 square meters",
+      "E": "980000 - 981000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[6900-7000]square meters",
+      "B": "[22900-23000]square meters",
+      "C": "[27200-27300]square meters",
+      "D": "[17800-17900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "UYY79YV6N_1153-4704-1665-5216",
+    "image_path": "./Agriculture/images/UYY79YV6N_1153-4704-1665-5216.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "30%~40%",
+      "C": "10%~20%",
+      "D": "0%~10%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/WF2P27MI9_1345-2545-1857-3057.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "30%~40%",
+      "C": "50%~60%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "9B8TQ8R6D_1366-6970-1878-7482",
+    "image_path": "./Agriculture/images/9B8TQ8R6D_1366-6970-1878-7482.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "50%~60%",
+      "B": "0%~10%",
+      "C": "30%~40%",
+      "D": "10%~20%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "XQ3IEWURW_1429-4406-1941-4918",
+    "image_path": "./Agriculture/images/XQ3IEWURW_1429-4406-1941-4918.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "50%~60%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_98.png",
+    "question": "Image Area: 479416.72 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "278000 - 279000 square meters",
+      "B": "276000 - 277000 square meters",
+      "C": "274000 - 275000 square meters",
+      "D": "275000 - 276000 square meters",
+      "E": "277000 - 278000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[12200-12300]square meters",
+      "B": "[1200-1300]square meters",
+      "C": "[8400-8500]square meters",
+      "D": "[36300-36400]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/11UBQLX1B_2454-11258-2966-11770.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "20%~30%",
+      "C": "0%~10%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_36.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "0% - 10.0%",
+      "C": "70.0% - 80.0%",
+      "D": "90.0% - 100.0%",
+      "E": "50.0% - 60.0%",
+      "F": "80.0% - 90.0%",
+      "G": "30.0% - 40.0%",
+      "H": "20.0% - 30.0%",
+      "I": "60.0% - 70.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_42.png",
+    "question": "Image Area: 642883.50 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "222000 - 223000 square meters",
+      "B": "221000 - 222000 square meters",
+      "C": "220000 - 221000 square meters",
+      "D": "224000 - 225000 square meters",
+      "E": "223000 - 224000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/238_q_29.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "40.0% - 50.0%",
+      "C": "30.0% - 40.0%",
+      "D": "20.0% - 30.0%",
+      "E": "90.0% - 100.0%",
+      "F": "10.0% - 20.0%",
+      "G": "60.0% - 70.0%",
+      "H": "80.0% - 90.0%",
+      "I": "0% - 10.0%",
+      "J": "70.0% - 80.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/11UBQLX1B_4623-1006-5135-1518.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "80%~90%",
+      "C": "20%~30%",
+      "D": "90%~100%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_68.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "70.0% - 80.0%",
+      "B": "80.0% - 90.0%",
+      "C": "90.0% - 100.0%",
+      "D": "50.0% - 60.0%",
+      "E": "60.0% - 70.0%",
+      "F": "20.0% - 30.0%",
+      "G": "10.0% - 20.0%",
+      "H": "0% - 10.0%",
+      "I": "40.0% - 50.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_45.png",
+    "question": "Image Area: 553320.13 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "2000 - 3000 square meters",
+      "B": "3000 - 4000 square meters",
+      "C": "0 - 1000 square meters",
+      "D": "4000 - 5000 square meters",
+      "E": "1000 - 2000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_93.png",
+    "question": "Image Area: 132665.08 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "11000 - 12000 square meters",
+      "B": "7000 - 8000 square meters",
+      "C": "10000 - 11000 square meters",
+      "D": "8000 - 9000 square meters",
+      "E": "9000 - 10000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "WVBDY6DLZ_960-3235-1472-3747",
+    "image_path": "./Agriculture/images/WVBDY6DLZ_960-3235-1472-3747.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "70%~80%",
+      "C": "0%~10%",
+      "D": "40%~50%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/17XVPGGZ1_1328-7359-1840-7871.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "90%~100%",
+      "C": "30%~40%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_673.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "50-60%",
+      "D": "70-80%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_3669.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "50-60%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "XQ64HH2IN_2711-3720-3223-4232",
+    "image_path": "./Agriculture/images/XQ64HH2IN_2711-3720-3223-4232.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "80%~90%",
+      "B": "60%~70%",
+      "C": "70%~80%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_69.png",
+    "question": "Image Area: 3185782.79 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "1640000 - 1641000 square meters",
+      "B": "1639000 - 1640000 square meters",
+      "C": "1636000 - 1637000 square meters",
+      "D": "1637000 - 1638000 square meters",
+      "E": "1638000 - 1639000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/128_q_20.png",
+    "question": "Image Area: 882817.53 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "292000 - 293000 square meters",
+      "B": "290000 - 291000 square meters",
+      "C": "293000 - 294000 square meters",
+      "D": "291000 - 292000 square meters",
+      "E": "294000 - 295000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_57.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "60.0% - 70.0%",
+      "B": "40.0% - 50.0%",
+      "C": "70.0% - 80.0%",
+      "D": "50.0% - 60.0%",
+      "E": "80.0% - 90.0%",
+      "F": "90.0% - 100.0%",
+      "G": "20.0% - 30.0%",
+      "H": "10.0% - 20.0%",
+      "I": "0% - 10.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "ZKDM3I7V4_5718-2118-6230-2630",
+    "image_path": "./Agriculture/images/ZKDM3I7V4_5718-2118-6230-2630.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e72ba9b133f1a000511bead_1975.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[35700-35800]square meters",
+      "B": "[19300-19400]square meters",
+      "C": "[17500-17600]square meters",
+      "D": "[2900-3000]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_22.png",
+    "question": "Image Area: 132703.29 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "7000 - 8000 square meters",
+      "B": "5000 - 6000 square meters",
+      "C": "8000 - 9000 square meters",
+      "D": "6000 - 7000 square meters",
+      "E": "9000 - 10000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_49.png",
+    "question": "Image Area: 643181.96 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "0 - 1000 square meters",
+      "B": "4000 - 5000 square meters",
+      "C": "1000 - 2000 square meters",
+      "D": "2000 - 3000 square meters",
+      "E": "3000 - 4000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1972.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "Given that the actual geographical area of the entire image is 41820.25 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[25300-25400]square meters",
+      "B": "[26300-26400]square meters",
+      "C": "[6400-6500]square meters",
+      "D": "[25500-25600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_3769.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "Given that the actual geographical area of the entire image is 42230.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[100-200]square meters",
+      "B": "[36800-36900]square meters",
+      "C": "[16000-16100]square meters",
+      "D": "[32400-32500]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/AKV6YKFKI_8534-4606-9046-5118.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "70%~80%",
+      "C": "80%~90%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_14.png",
+    "question": "Image Area: 6123668.15 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "114000 - 115000 square meters",
+      "B": "116000 - 117000 square meters",
+      "C": "112000 - 113000 square meters",
+      "D": "115000 - 116000 square meters",
+      "E": "113000 - 114000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/2CTF1YW2N_1259-314-1771-826.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "0%~10%",
+      "C": "70%~80%",
+      "D": "50%~60%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/128_q_97.png",
+    "question": "Image Area: 882852.17 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "129000 - 130000 square meters",
+      "B": "130000 - 131000 square meters",
+      "C": "131000 - 132000 square meters",
+      "D": "127000 - 128000 square meters",
+      "E": "128000 - 129000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_4.png",
+    "question": "Image Area: 15269803.20 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "2737000 - 2738000 square meters",
+      "B": "2741000 - 2742000 square meters",
+      "C": "2738000 - 2739000 square meters",
+      "D": "2739000 - 2740000 square meters",
+      "E": "2740000 - 2741000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "U79N6TQYE_8179-2746-8691-3258",
+    "image_path": "./Agriculture/images/U79N6TQYE_8179-2746-8691-3258.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "60%~70%",
+      "B": "10%~20%",
+      "C": "0%~10%",
+      "D": "40%~50%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_36.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "10.0% - 20.0%",
+      "C": "0% - 10.0%",
+      "D": "90.0% - 100.0%",
+      "E": "80.0% - 90.0%",
+      "F": "40.0% - 50.0%",
+      "G": "60.0% - 70.0%",
+      "H": "20.0% - 30.0%",
+      "I": "70.0% - 80.0%",
+      "J": "30.0% - 40.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "90-100%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "2FPNYIQY1_4859-3112-5371-3624",
+    "image_path": "./Agriculture/images/2FPNYIQY1_4859-3112-5371-3624.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "70%~80%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_28.png",
+    "question": "Image Area: 199186.58 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "71000 - 72000 square meters",
+      "B": "70000 - 71000 square meters",
+      "C": "67000 - 68000 square meters",
+      "D": "68000 - 69000 square meters",
+      "E": "69000 - 70000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/V7JNGHRTJ_6427-4857-6939-5369.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "70%~80%",
+      "B": "0%~10%",
+      "C": "60%~70%",
+      "D": "80%~90%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62bb13d6412ef7220aed6_3687.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "30-40%",
+      "C": "80-90%",
+      "D": "90-100%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/238_q_22.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "80.0% - 90.0%",
+      "B": "30.0% - 40.0%",
+      "C": "20.0% - 30.0%",
+      "D": "0% - 10.0%",
+      "E": "70.0% - 80.0%",
+      "F": "50.0% - 60.0%",
+      "G": "10.0% - 20.0%",
+      "H": "90.0% - 100.0%",
+      "I": "60.0% - 70.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5abb761965bd8f00110f3e4c_1411.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[19800-19900]square meters",
+      "B": "[33800-33900]square meters",
+      "C": "[26200-26300]square meters",
+      "D": "[14400-14500]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_36.png",
+    "question": "Image Area: 6124575.58 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "558000 - 559000 square meters",
+      "B": "559000 - 560000 square meters",
+      "C": "560000 - 561000 square meters",
+      "D": "557000 - 558000 square meters",
+      "E": "561000 - 562000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/PXVPFDWJG_2313-530-2825-1042.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "90%~100%",
+      "C": "60%~70%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5e43dbd3d9a1b700063006df_442.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "0-10%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3845.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[500-600]square meters",
+      "B": "[41600-41700]square meters",
+      "C": "[34400-34500]square meters",
+      "D": "[30000-30100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/6DLUEEKR4_1272-5219-1784-5731.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "0%~10%",
+      "C": "50%~60%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/128_q_97.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "20.0% - 30.0%",
+      "B": "40.0% - 50.0%",
+      "C": "60.0% - 70.0%",
+      "D": "90.0% - 100.0%",
+      "E": "80.0% - 90.0%",
+      "F": "50.0% - 60.0%",
+      "G": "10.0% - 20.0%",
+      "H": "30.0% - 40.0%",
+      "I": "0% - 10.0%",
+      "J": "70.0% - 80.0%"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "ZKDM3I7V4_987-6441-1499-6953",
+    "image_path": "./Agriculture/images/ZKDM3I7V4_987-6441-1499-6953.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "90%~100%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_74.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "80.0% - 90.0%",
+      "B": "70.0% - 80.0%",
+      "C": "40.0% - 50.0%",
+      "D": "50.0% - 60.0%",
+      "E": "30.0% - 40.0%",
+      "F": "20.0% - 30.0%",
+      "G": "60.0% - 70.0%",
+      "H": "10.0% - 20.0%",
+      "I": "90.0% - 100.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/607c9008bfb5350008e665af_3939.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[20300-20400]square meters",
+      "B": "[17100-17200]square meters",
+      "C": "[22600-22700]square meters",
+      "D": "[39800-39900]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "7GIB3YDF8_3287-7892-3799-8404",
+    "image_path": "./Agriculture/images/7GIB3YDF8_3287-7892-3799-8404.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "80%~90%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_82.png",
+    "question": "Image Area: 10287819.65 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "4482000 - 4483000 square meters",
+      "B": "4481000 - 4482000 square meters",
+      "C": "4483000 - 4484000 square meters",
+      "D": "4480000 - 4481000 square meters",
+      "E": "4484000 - 4485000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_59.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "70.0% - 80.0%",
+      "C": "10.0% - 20.0%",
+      "D": "20.0% - 30.0%",
+      "E": "80.0% - 90.0%",
+      "F": "30.0% - 40.0%",
+      "G": "0% - 10.0%",
+      "H": "60.0% - 70.0%",
+      "I": "50.0% - 60.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_52.png",
+    "question": "Image Area: 6124597.89 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "436000 - 437000 square meters",
+      "B": "432000 - 433000 square meters",
+      "C": "434000 - 435000 square meters",
+      "D": "433000 - 434000 square meters",
+      "E": "435000 - 436000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_77.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "20.0% - 30.0%",
+      "B": "50.0% - 60.0%",
+      "C": "70.0% - 80.0%",
+      "D": "80.0% - 90.0%",
+      "E": "10.0% - 20.0%",
+      "F": "30.0% - 40.0%",
+      "G": "90.0% - 100.0%",
+      "H": "0% - 10.0%",
+      "I": "60.0% - 70.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_5.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "50.0% - 60.0%",
+      "C": "40.0% - 50.0%",
+      "D": "20.0% - 30.0%",
+      "E": "90.0% - 100.0%",
+      "F": "80.0% - 90.0%",
+      "G": "70.0% - 80.0%",
+      "H": "0% - 10.0%",
+      "I": "30.0% - 40.0%",
+      "J": "60.0% - 70.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/X6AKKXU19_5662-7356-6174-7868.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "70%~80%",
+      "C": "40%~50%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/VLABVAH3T_9416-6894-9928-7406.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "20%~30%",
+      "C": "10%~20%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "0-10%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "J8XMNNEBP_2912-2232-3424-2744",
+    "image_path": "./Agriculture/images/J8XMNNEBP_2912-2232-3424-2744.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "50%~60%",
+      "C": "40%~50%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e72ba9b133f1a000511bead_1975.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "40-50%",
+      "B": "90-100%",
+      "C": "30-40%",
+      "D": "20-30%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_5.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "30.0% - 40.0%",
+      "C": "20.0% - 30.0%",
+      "D": "60.0% - 70.0%",
+      "E": "80.0% - 90.0%",
+      "F": "70.0% - 80.0%",
+      "G": "90.0% - 100.0%",
+      "H": "40.0% - 50.0%",
+      "I": "10.0% - 20.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "J",
+    "type_id": 6,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_44.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "20.0% - 30.0%",
+      "C": "50.0% - 60.0%",
+      "D": "80.0% - 90.0%",
+      "E": "0% - 10.0%",
+      "F": "70.0% - 80.0%",
+      "G": "30.0% - 40.0%",
+      "H": "40.0% - 50.0%",
+      "I": "60.0% - 70.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/238_q_5.png",
+    "question": "Image Area: 3186052.73 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "244000 - 245000 square meters",
+      "B": "246000 - 247000 square meters",
+      "C": "247000 - 248000 square meters",
+      "D": "245000 - 246000 square meters",
+      "E": "243000 - 244000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/W2IGRGHL8_2647-1696-3159-2208.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "90%~100%",
+      "C": "80%~90%",
+      "D": "0%~10%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "PFGHUDVXM_7442-5793-7954-6305",
+    "image_path": "./Agriculture/images/PFGHUDVXM_7442-5793-7954-6305.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "0%~10%",
+      "C": "60%~70%",
+      "D": "70%~80%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/128_q_42.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "30.0% - 40.0%",
+      "C": "60.0% - 70.0%",
+      "D": "0% - 10.0%",
+      "E": "80.0% - 90.0%",
+      "F": "70.0% - 80.0%",
+      "G": "40.0% - 50.0%",
+      "H": "10.0% - 20.0%",
+      "I": "20.0% - 30.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_52.png",
+    "question": "Image Area: 15273743.68 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "755000 - 756000 square meters",
+      "B": "753000 - 754000 square meters",
+      "C": "756000 - 757000 square meters",
+      "D": "752000 - 753000 square meters",
+      "E": "754000 - 755000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/T89JYE12U_938-7882-1450-8394.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "0%~10%",
+      "C": "20%~30%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_59.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "20.0% - 30.0%",
+      "C": "50.0% - 60.0%",
+      "D": "90.0% - 100.0%",
+      "E": "60.0% - 70.0%",
+      "F": "0% - 10.0%",
+      "G": "70.0% - 80.0%",
+      "H": "30.0% - 40.0%",
+      "I": "80.0% - 90.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "FYW1NTJDF_1777-3171-2289-3683",
+    "image_path": "./Agriculture/images/FYW1NTJDF_1777-3171-2289-3683.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "70%~80%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/VB9RDUVTE_1874-1162-2386-1674.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "50%~60%",
+      "C": "80%~90%",
+      "D": "20%~30%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "KG7Y6Z6M4_3020-3614-3532-4126",
+    "image_path": "./Agriculture/images/KG7Y6Z6M4_3020-3614-3532-4126.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "20%~30%",
+      "C": "30%~40%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c62753b404f1000050d78c4_2510.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[9600-9700]square meters",
+      "B": "[21600-21700]square meters",
+      "C": "[41100-41200]square meters",
+      "D": "[11800-11900]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_30.png",
+    "question": "Image Area: 22183756.41 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "771000 - 772000 square meters",
+      "B": "774000 - 775000 square meters",
+      "C": "773000 - 774000 square meters",
+      "D": "770000 - 771000 square meters",
+      "E": "772000 - 773000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "I9I41RH3G_3328-2047-3840-2559",
+    "image_path": "./Agriculture/images/I9I41RH3G_3328-2047-3840-2559.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "70%~80%",
+      "C": "0%~10%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "9IRKKLA3E_5615-4760-6127-5272",
+    "image_path": "./Agriculture/images/9IRKKLA3E_5615-4760-6127-5272.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "30%~40%",
+      "C": "0%~10%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "WJZJEE14I_2234-3848-2746-4360",
+    "image_path": "./Agriculture/images/WJZJEE14I_2234-3848-2746-4360.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "10%~20%",
+      "B": "90%~100%",
+      "C": "40%~50%",
+      "D": "70%~80%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_45.png",
+    "question": "Image Area: 2123540.10 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "876000 - 877000 square meters",
+      "B": "879000 - 880000 square meters",
+      "C": "877000 - 878000 square meters",
+      "D": "878000 - 879000 square meters",
+      "E": "875000 - 876000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4473.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "80-90%",
+      "C": "10-20%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/61a5879bca228100065cb98a_2371.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "20-30%",
+      "C": "10-20%",
+      "D": "30-40%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "A4AXP3TT2_2315-2263-2827-2775",
+    "image_path": "./Agriculture/images/A4AXP3TT2_2315-2263-2827-2775.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "70%~80%",
+      "C": "30%~40%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/XK187XW9Y_3021-1217-3533-1729.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "20%~30%",
+      "C": "90%~100%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "XD6GQK3HF_2676-3821-3188-4333",
+    "image_path": "./Agriculture/images/XD6GQK3HF_2676-3821-3188-4333.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "70%~80%",
+      "B": "0%~10%",
+      "C": "10%~20%",
+      "D": "90%~100%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "7UPDUIJLA_669-6437-1181-6949",
+    "image_path": "./Agriculture/images/7UPDUIJLA_669-6437-1181-6949.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "80%~90%",
+      "B": "90%~100%",
+      "C": "0%~10%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/YW6HMDL18_1004-2173-1516-2685.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "30%~40%",
+      "C": "60%~70%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/LR9RV9IYZ_1437-1148-1949-1660.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "90%~100%",
+      "C": "50%~60%",
+      "D": "0%~10%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "PPWFE6YHY_7057-6376-7569-6888",
+    "image_path": "./Agriculture/images/PPWFE6YHY_7057-6376-7569-6888.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "10%~20%",
+      "B": "60%~70%",
+      "C": "70%~80%",
+      "D": "50%~60%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b9b3d6412ef7220a57f_1351.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "50-60%",
+      "C": "0-10%",
+      "D": "20-30%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/8XB4EUWI1_5999-11585-6511-12097.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "90%~100%",
+      "C": "10%~20%",
+      "D": "70%~80%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/VPDZMN9XK_3444-817-3956-1329.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "60%~70%",
+      "C": "40%~50%",
+      "D": "70%~80%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "Z61VPDCGP_2139-581-2651-1093",
+    "image_path": "./Agriculture/images/Z61VPDCGP_2139-581-2651-1093.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "20%~30%",
+      "C": "70%~80%",
+      "D": "40%~50%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_84.png",
+    "question": "Image Area: 7670467.26 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "4767000 - 4768000 square meters",
+      "B": "4766000 - 4767000 square meters",
+      "C": "4763000 - 4764000 square meters",
+      "D": "4764000 - 4765000 square meters",
+      "E": "4765000 - 4766000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "Z9LG8WCTE_5012-6266-5524-6778",
+    "image_path": "./Agriculture/images/Z9LG8WCTE_5012-6266-5524-6778.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "90%~100%",
+      "D": "80%~90%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "A9JI4C9UX_3688-4005-4200-4517",
+    "image_path": "./Agriculture/images/A9JI4C9UX_3688-4005-4200-4517.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "10%~20%",
+      "D": "20%~30%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_2.png",
+    "question": "Image Area: 22178558.49 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "2219000 - 2220000 square meters",
+      "B": "2221000 - 2222000 square meters",
+      "C": "2218000 - 2219000 square meters",
+      "D": "2220000 - 2221000 square meters",
+      "E": "2222000 - 2223000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_3.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "60.0% - 70.0%",
+      "C": "50.0% - 60.0%",
+      "D": "0% - 10.0%",
+      "E": "30.0% - 40.0%",
+      "F": "40.0% - 50.0%",
+      "G": "70.0% - 80.0%",
+      "H": "20.0% - 30.0%",
+      "I": "10.0% - 20.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_89.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "0% - 10.0%",
+      "B": "70.0% - 80.0%",
+      "C": "80.0% - 90.0%",
+      "D": "10.0% - 20.0%",
+      "E": "50.0% - 60.0%",
+      "F": "30.0% - 40.0%",
+      "G": "60.0% - 70.0%",
+      "H": "40.0% - 50.0%",
+      "I": "20.0% - 30.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_44.png",
+    "question": "Image Area: 850765.01 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "704000 - 705000 square meters",
+      "B": "705000 - 706000 square meters",
+      "C": "707000 - 708000 square meters",
+      "D": "706000 - 707000 square meters",
+      "E": "703000 - 704000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/4AI2XJDRL_2571-6182-3083-6694.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_56.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "40.0% - 50.0%",
+      "C": "80.0% - 90.0%",
+      "D": "20.0% - 30.0%",
+      "E": "50.0% - 60.0%",
+      "F": "60.0% - 70.0%",
+      "G": "90.0% - 100.0%",
+      "H": "30.0% - 40.0%",
+      "I": "70.0% - 80.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "J",
+    "type_id": 6,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3874.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "20-30%",
+      "D": "80-90%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "WPK3J6FET_3235-5452-3747-5964",
+    "image_path": "./Agriculture/images/WPK3J6FET_3235-5452-3747-5964.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "50%~60%",
+      "B": "30%~40%",
+      "C": "80%~90%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "A2GW8JMYA_1408-14660-1920-15172",
+    "image_path": "./Agriculture/images/A2GW8JMYA_1408-14660-1920-15172.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "70%~80%",
+      "B": "10%~20%",
+      "C": "60%~70%",
+      "D": "50%~60%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "Given that the actual geographical area of the entire image is 41871.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[1500-1600]square meters",
+      "B": "[39200-39300]square meters",
+      "C": "[8600-8700]square meters",
+      "D": "[29500-29600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "YNMRGGVQ3_5292-1441-5804-1953",
+    "image_path": "./Agriculture/images/YNMRGGVQ3_5292-1441-5804-1953.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "30%~40%",
+      "C": "70%~80%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/128_q_52.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "70.0% - 80.0%",
+      "C": "20.0% - 30.0%",
+      "D": "30.0% - 40.0%",
+      "E": "60.0% - 70.0%",
+      "F": "0% - 10.0%",
+      "G": "10.0% - 20.0%",
+      "H": "80.0% - 90.0%",
+      "I": "40.0% - 50.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "EDJ4RLCY9_3195-4078-3707-4590",
+    "image_path": "./Agriculture/images/EDJ4RLCY9_3195-4078-3707-4590.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "30%~40%",
+      "C": "20%~30%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_86.png",
+    "question": "Image Area: 15268806.27 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "3935000 - 3936000 square meters",
+      "B": "3938000 - 3939000 square meters",
+      "C": "3936000 - 3937000 square meters",
+      "D": "3937000 - 3938000 square meters",
+      "E": "3939000 - 3940000 square meters"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "VB9RDUVTE_2936-3036-3448-3548",
+    "image_path": "./Agriculture/images/VB9RDUVTE_2936-3036-3448-3548.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "90%~100%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "XQ64HH2IN_3502-1451-4014-1963",
+    "image_path": "./Agriculture/images/XQ64HH2IN_3502-1451-4014-1963.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "60%~70%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "90%~100%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "60-70%",
+      "C": "0-10%",
+      "D": "50-60%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/6108b0df343da30006976e23_3056.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "30-40%",
+      "B": "60-70%",
+      "C": "10-20%",
+      "D": "50-60%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "D3MMX6AEW_2263-536-2775-1048",
+    "image_path": "./Agriculture/images/D3MMX6AEW_2263-536-2775-1048.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "70%~80%",
+      "C": "40%~50%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60ff2cea5a90f10006fd3008_1335.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21100-21200]square meters",
+      "B": "[28600-28700]square meters",
+      "C": "[22700-22800]square meters",
+      "D": "[43900-44000]square meters"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "EDJ4RLCY9_5243-3566-5755-4078",
+    "image_path": "./Agriculture/images/EDJ4RLCY9_5243-3566-5755-4078.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "50%~60%",
+      "B": "0%~10%",
+      "C": "80%~90%",
+      "D": "60%~70%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/C6Q8TIXDH_3049-4468-3561-4980.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "30%~40%",
+      "C": "0%~10%",
+      "D": "20%~30%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_51.png",
+    "question": "Image Area: 2123000.69 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "458000 - 459000 square meters",
+      "B": "460000 - 461000 square meters",
+      "C": "457000 - 458000 square meters",
+      "D": "456000 - 457000 square meters",
+      "E": "459000 - 460000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_91.png",
+    "question": "Image Area: 850553.66 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "127000 - 128000 square meters",
+      "B": "129000 - 130000 square meters",
+      "C": "128000 - 129000 square meters",
+      "D": "125000 - 126000 square meters",
+      "E": "126000 - 127000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5cb0ece9fa020e0006eb43d4_746.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[26800-26900]square meters",
+      "B": "[21400-21500]square meters",
+      "C": "[37000-37100]square meters",
+      "D": "[0-100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/DZ2LH4HCL_6939-7427-7451-7939.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "90%~100%",
+      "C": "70%~80%",
+      "D": "10%~20%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/42DT9R2QN_7168-547-7680-1059.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "50%~60%",
+      "C": "80%~90%",
+      "D": "60%~70%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "WPK3J6FET_866-6031-1378-6543",
+    "image_path": "./Agriculture/images/WPK3J6FET_866-6031-1378-6543.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "10%~20%",
+      "D": "50%~60%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "R27DCU9LK_1413-1255-1925-1767",
+    "image_path": "./Agriculture/images/R27DCU9LK_1413-1255-1925-1767.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "10%~20%",
+      "C": "50%~60%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "82EIA2GC9_1020-3907-1532-4419",
+    "image_path": "./Agriculture/images/82EIA2GC9_1020-3907-1532-4419.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "60%~70%",
+      "B": "50%~60%",
+      "C": "0%~10%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "T89JYE12U_5598-790-6110-1302",
+    "image_path": "./Agriculture/images/T89JYE12U_5598-790-6110-1302.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "90%~100%",
+      "C": "0%~10%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/128_q_87.png",
+    "question": "Image Area: 14131628.98 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "154000 - 155000 square meters",
+      "B": "155000 - 156000 square meters",
+      "C": "156000 - 157000 square meters",
+      "D": "153000 - 154000 square meters",
+      "E": "157000 - 158000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_92.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "80.0% - 90.0%",
+      "B": "90.0% - 100.0%",
+      "C": "20.0% - 30.0%",
+      "D": "0% - 10.0%",
+      "E": "50.0% - 60.0%",
+      "F": "10.0% - 20.0%",
+      "G": "30.0% - 40.0%",
+      "H": "60.0% - 70.0%",
+      "I": "70.0% - 80.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_11.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "90.0% - 100.0%",
+      "C": "30.0% - 40.0%",
+      "D": "0% - 10.0%",
+      "E": "70.0% - 80.0%",
+      "F": "50.0% - 60.0%",
+      "G": "20.0% - 30.0%",
+      "H": "80.0% - 90.0%",
+      "I": "60.0% - 70.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/I9I41RH3G_4633-773-5145-1285.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "60%~70%",
+      "C": "70%~80%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "Given that the actual geographical area of the entire image is 42025.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[16300-16400]square meters",
+      "B": "[7000-7100]square meters",
+      "C": "[25100-25200]square meters",
+      "D": "[13100-13200]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "71T6XLF4T_2812-1517-3324-2029",
+    "image_path": "./Agriculture/images/71T6XLF4T_2812-1517-3324-2029.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "10%~20%",
+      "C": "30%~40%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "JRJ43GRJR_6350-3239-6862-3751",
+    "image_path": "./Agriculture/images/JRJ43GRJR_6350-3239-6862-3751.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "80%~90%",
+      "D": "60%~70%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_57.png",
+    "question": "Image Area: 8846451.57 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "551000 - 552000 square meters",
+      "B": "553000 - 554000 square meters",
+      "C": "554000 - 555000 square meters",
+      "D": "555000 - 556000 square meters",
+      "E": "552000 - 553000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "PQ269DIWL_7719-1145-8231-1657",
+    "image_path": "./Agriculture/images/PQ269DIWL_7719-1145-8231-1657.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "70%~80%",
+      "D": "40%~50%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60a7a37029636900059d6491_2919.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "Given that the actual geographical area of the entire image is 41973.75 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[38300-38400]square meters",
+      "B": "[600-700]square meters",
+      "C": "[30500-30600]square meters",
+      "D": "[19600-19700]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "XK187XW9Y_6097-960-6609-1472",
+    "image_path": "./Agriculture/images/XK187XW9Y_6097-960-6609-1472.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "70%~80%",
+      "B": "20%~30%",
+      "C": "80%~90%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/ECLFL7M7P_9611-8854-10123-9366.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "40%~50%",
+      "B": "30%~40%",
+      "C": "20%~30%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "A9JI4C9UX_3156-5171-3668-5683",
+    "image_path": "./Agriculture/images/A9JI4C9UX_3156-5171-3668-5683.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "50%~60%",
+      "B": "10%~20%",
+      "C": "0%~10%",
+      "D": "80%~90%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_1.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "20.0% - 30.0%",
+      "C": "60.0% - 70.0%",
+      "D": "10.0% - 20.0%",
+      "E": "30.0% - 40.0%",
+      "F": "70.0% - 80.0%",
+      "G": "90.0% - 100.0%",
+      "H": "0% - 10.0%",
+      "I": "80.0% - 90.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5a8213345a9ef7cb5d5973bb_3931.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "Given that the actual geographical area of the entire image is 42178.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[42100-42200]square meters",
+      "B": "[23500-23600]square meters",
+      "C": "[34000-34100]square meters",
+      "D": "[4500-4600]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_id": "T89JYE12U_16232-7923-16744-8435",
+    "image_path": "./Agriculture/images/T89JYE12U_16232-7923-16744-8435.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "80%~90%",
+      "C": "0%~10%",
+      "D": "50%~60%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_90.png",
+    "question": "Image Area: 10285720.49 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "5380000 - 5381000 square meters",
+      "B": "5382000 - 5383000 square meters",
+      "C": "5381000 - 5382000 square meters",
+      "D": "5383000 - 5384000 square meters",
+      "E": "5379000 - 5380000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "RM83LJTH6_1513-1486-2025-1998",
+    "image_path": "./Agriculture/images/RM83LJTH6_1513-1486-2025-1998.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "90%~100%",
+      "C": "20%~30%",
+      "D": "30%~40%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/24M49T6CC_8341-2781-8853-3293.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "50%~60%",
+      "C": "0%~10%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/EDJ4RLCY9_8315-5614-8827-6126.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "70%~80%",
+      "C": "60%~70%",
+      "D": "10%~20%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5fe072620cf0b40005ddf6c3_3946.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "Given that the actual geographical area of the entire image is 41999.38 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[700-800]square meters",
+      "B": "[18600-18700]square meters",
+      "C": "[35300-35400]square meters",
+      "D": "[1000-1100]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_76.png",
+    "question": "Image Area: 22178982.30 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "917000 - 918000 square meters",
+      "B": "918000 - 919000 square meters",
+      "C": "919000 - 920000 square meters",
+      "D": "920000 - 921000 square meters",
+      "E": "916000 - 917000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/128_q_99.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "10.0% - 20.0%",
+      "C": "20.0% - 30.0%",
+      "D": "70.0% - 80.0%",
+      "E": "60.0% - 70.0%",
+      "F": "40.0% - 50.0%",
+      "G": "0% - 10.0%",
+      "H": "30.0% - 40.0%",
+      "I": "50.0% - 60.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/3WR4DRMU8_6302-7198-6814-7710.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "60%~70%",
+      "C": "40%~50%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_34.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "90.0% - 100.0%",
+      "B": "50.0% - 60.0%",
+      "C": "0% - 10.0%",
+      "D": "60.0% - 70.0%",
+      "E": "70.0% - 80.0%",
+      "F": "10.0% - 20.0%",
+      "G": "40.0% - 50.0%",
+      "H": "80.0% - 90.0%",
+      "I": "30.0% - 40.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/H99Q69Z7T_8271-985-8783-1497.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "10%~20%",
+      "C": "90%~100%",
+      "D": "80%~90%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_70.png",
+    "question": "Image Area: 10290155.12 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "3074000 - 3075000 square meters",
+      "B": "3073000 - 3074000 square meters",
+      "C": "3071000 - 3072000 square meters",
+      "D": "3070000 - 3071000 square meters",
+      "E": "3072000 - 3073000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_51.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "70.0% - 80.0%",
+      "B": "0% - 10.0%",
+      "C": "90.0% - 100.0%",
+      "D": "30.0% - 40.0%",
+      "E": "60.0% - 70.0%",
+      "F": "50.0% - 60.0%",
+      "G": "40.0% - 50.0%",
+      "H": "20.0% - 30.0%",
+      "I": "80.0% - 90.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4310.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "0-10%",
+      "B": "50-60%",
+      "C": "80-90%",
+      "D": "60-70%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_9.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "80.0% - 90.0%",
+      "B": "70.0% - 80.0%",
+      "C": "0% - 10.0%",
+      "D": "30.0% - 40.0%",
+      "E": "90.0% - 100.0%",
+      "F": "20.0% - 30.0%",
+      "G": "50.0% - 60.0%",
+      "H": "60.0% - 70.0%",
+      "I": "10.0% - 20.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "M2DTHGIVK_713-3824-1225-4336",
+    "image_path": "./Agriculture/images/M2DTHGIVK_713-3824-1225-4336.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "70%~80%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "EX3J1449C_4189-3781-4701-4293",
+    "image_path": "./Agriculture/images/EX3J1449C_4189-3781-4701-4293.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "50%~60%",
+      "C": "0%~10%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_63.png",
+    "question": "Image Area: 8851500.00 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "576000 - 577000 square meters",
+      "B": "577000 - 578000 square meters",
+      "C": "574000 - 575000 square meters",
+      "D": "578000 - 579000 square meters",
+      "E": "575000 - 576000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_11.png",
+    "question": "Image Area: 6122892.57 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "438000 - 439000 square meters",
+      "B": "436000 - 437000 square meters",
+      "C": "437000 - 438000 square meters",
+      "D": "434000 - 435000 square meters",
+      "E": "435000 - 436000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/5e28a0d12329e800051134a5_301.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "Given that the actual geographical area of the entire image is 41922.5 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[21800-21900]square meters",
+      "B": "[44700-44800]square meters",
+      "C": "[2600-2700]square meters",
+      "D": "[25700-25800]square meters"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/8ENFEUT7N_3921-4086-4433-4598.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "20%~30%",
+      "C": "60%~70%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/ZKDM3I7V4_2715-3980-3227-4492.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "10%~20%",
+      "C": "40%~50%",
+      "D": "20%~30%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/NWTIEC88G_2090-1764-2602-2276.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "0%~10%",
+      "C": "90%~100%",
+      "D": "30%~40%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/PATUBUNUY_8099-2807-8611-3319.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "30%~40%",
+      "C": "10%~20%",
+      "D": "50%~60%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/8I4TUPMLL_11690-7862-12202-8374.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "90%~100%",
+      "C": "50%~60%",
+      "D": "80%~90%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/8I4TUPMLL_10575-1037-11087-1549.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "90%~100%",
+      "C": "80%~90%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_8.png",
+    "question": "Image Area: 22161952.68 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "2118000 - 2119000 square meters",
+      "B": "2119000 - 2120000 square meters",
+      "C": "2122000 - 2123000 square meters",
+      "D": "2121000 - 2122000 square meters",
+      "E": "2120000 - 2121000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/128_q_70.png",
+    "question": "Image Area: 14128972.37 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "4953000 - 4954000 square meters",
+      "B": "4952000 - 4953000 square meters",
+      "C": "4951000 - 4952000 square meters",
+      "D": "4954000 - 4955000 square meters",
+      "E": "4955000 - 4956000 square meters"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "JTRQBIUYY_3790-4475-4302-4987",
+    "image_path": "./Agriculture/images/JTRQBIUYY_3790-4475-4302-4987.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "0%~10%",
+      "C": "70%~80%",
+      "D": "20%~30%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_7.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "20.0% - 30.0%",
+      "C": "70.0% - 80.0%",
+      "D": "40.0% - 50.0%",
+      "E": "10.0% - 20.0%",
+      "F": "60.0% - 70.0%",
+      "G": "0% - 10.0%",
+      "H": "80.0% - 90.0%",
+      "I": "30.0% - 40.0%",
+      "J": "90.0% - 100.0%"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "8R66AIU1G_3619-8052-4131-8564",
+    "image_path": "./Agriculture/images/8R66AIU1G_3619-8052-4131-8564.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "40%~50%",
+      "D": "50%~60%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "P9PF7CXJ8_6712-684-7224-1196",
+    "image_path": "./Agriculture/images/P9PF7CXJ8_6712-684-7224-1196.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "10%~20%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/IXIYJWE6L_7574-3301-8086-3813.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "70%~80%",
+      "B": "50%~60%",
+      "C": "60%~70%",
+      "D": "80%~90%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/60baf684f59a4300057c54fe_1282.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "Given that the actual geographical area of the entire image is 41718.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[17400-17500]square meters",
+      "B": "[41100-41200]square meters",
+      "C": "[22400-22500]square meters",
+      "D": "[7500-7600]square meters"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/T3VCF28KD_609-3832-1121-4344.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "10%~20%",
+      "B": "80%~90%",
+      "C": "60%~70%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "AKV6YKFKI_628-4957-1140-5469",
+    "image_path": "./Agriculture/images/AKV6YKFKI_628-4957-1140-5469.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "30%~40%",
+      "B": "0%~10%",
+      "C": "10%~20%",
+      "D": "90%~100%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/GPKK4QZHC_812-2790-1324-3302.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "10%~20%",
+      "C": "20%~30%",
+      "D": "0%~10%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/WVBDY6DLZ_1472-2211-1984-2723.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "60%~70%",
+      "C": "40%~50%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_80.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "30.0% - 40.0%",
+      "B": "20.0% - 30.0%",
+      "C": "90.0% - 100.0%",
+      "D": "70.0% - 80.0%",
+      "E": "10.0% - 20.0%",
+      "F": "50.0% - 60.0%",
+      "G": "0% - 10.0%",
+      "H": "40.0% - 50.0%",
+      "I": "80.0% - 90.0%",
+      "J": "60.0% - 70.0%"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_6.png",
+    "question": "Image Area: 849896.38 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "45000 - 46000 square meters",
+      "B": "43000 - 44000 square meters",
+      "C": "46000 - 47000 square meters",
+      "D": "42000 - 43000 square meters",
+      "E": "44000 - 45000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_id": "8ENFEUT7N_8019-6745-8531-7257",
+    "image_path": "./Agriculture/images/8ENFEUT7N_8019-6745-8531-7257.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "90%~100%",
+      "B": "0%~10%",
+      "C": "70%~80%",
+      "D": "10%~20%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "A4FD8EW6R_1852-4423-2364-4935",
+    "image_path": "./Agriculture/images/A4FD8EW6R_1852-4423-2364-4935.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "60%~70%",
+      "C": "50%~60%",
+      "D": "40%~50%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/E7HEPPFRM_8050-6736-8562-7248.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "30%~40%",
+      "B": "40%~50%",
+      "C": "90%~100%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_9.png",
+    "question": "Image Area: 849722.71 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "663000 - 664000 square meters",
+      "B": "665000 - 666000 square meters",
+      "C": "664000 - 665000 square meters",
+      "D": "666000 - 667000 square meters",
+      "E": "662000 - 663000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_40.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "20.0% - 30.0%",
+      "B": "0% - 10.0%",
+      "C": "60.0% - 70.0%",
+      "D": "40.0% - 50.0%",
+      "E": "80.0% - 90.0%",
+      "F": "50.0% - 60.0%",
+      "G": "30.0% - 40.0%",
+      "H": "90.0% - 100.0%",
+      "I": "10.0% - 20.0%",
+      "J": "70.0% - 80.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "FYW1NTJDF_2105-1525-2617-2037",
+    "image_path": "./Agriculture/images/FYW1NTJDF_2105-1525-2617-2037.jpg",
+    "question": "What percentage of the area in the planter_skip area is in this graph?",
+    "options": {
+      "A": "10%~20%",
+      "B": "30%~40%",
+      "C": "50%~60%",
+      "D": "0%~10%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Agriculture/images/ZAD3NZMXK_1827-904-2339-1416.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "30%~40%",
+      "C": "60%~70%",
+      "D": "90%~100%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_47.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "80.0% - 90.0%",
+      "B": "30.0% - 40.0%",
+      "C": "50.0% - 60.0%",
+      "D": "40.0% - 50.0%",
+      "E": "0% - 10.0%",
+      "F": "90.0% - 100.0%",
+      "G": "60.0% - 70.0%",
+      "H": "70.0% - 80.0%",
+      "I": "10.0% - 20.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/H9I7QHGV3_5397-4057-5909-4569.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "60%~70%",
+      "C": "50%~60%",
+      "D": "90%~100%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/128_q_25.png",
+    "question": "Image Area: 883144.88 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "107000 - 108000 square meters",
+      "B": "109000 - 110000 square meters",
+      "C": "108000 - 109000 square meters",
+      "D": "106000 - 107000 square meters",
+      "E": "110000 - 111000 square meters"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_66.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "30.0% - 40.0%",
+      "B": "70.0% - 80.0%",
+      "C": "60.0% - 70.0%",
+      "D": "50.0% - 60.0%",
+      "E": "20.0% - 30.0%",
+      "F": "40.0% - 50.0%",
+      "G": "90.0% - 100.0%",
+      "H": "0% - 10.0%",
+      "I": "80.0% - 90.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Agriculture/images/NZ9MAMQG8_6481-622-6993-1134.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "60%~70%",
+      "B": "20%~30%",
+      "C": "50%~60%",
+      "D": "70%~80%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_id": "HQCTHVYB4_4899-11953-5411-12465",
+    "image_path": "./Agriculture/images/HQCTHVYB4_4899-11953-5411-12465.jpg",
+    "question": "What percentage of the area in the standing_water area is in this graph?",
+    "options": {
+      "A": "20%~30%",
+      "B": "30%~40%",
+      "C": "40%~50%",
+      "D": "70%~80%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_33.png",
+    "question": "Image Area: 22164978.17 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "546000 - 547000 square meters",
+      "B": "545000 - 546000 square meters",
+      "C": "549000 - 550000 square meters",
+      "D": "548000 - 549000 square meters",
+      "E": "547000 - 548000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_17.png",
+    "question": "Image Area: 13600501.72 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "9064000 - 9065000 square meters",
+      "B": "9066000 - 9067000 square meters",
+      "C": "9065000 - 9066000 square meters",
+      "D": "9067000 - 9068000 square meters",
+      "E": "9068000 - 9069000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_64.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "60.0% - 70.0%",
+      "C": "40.0% - 50.0%",
+      "D": "50.0% - 60.0%",
+      "E": "80.0% - 90.0%",
+      "F": "20.0% - 30.0%",
+      "G": "70.0% - 80.0%",
+      "H": "30.0% - 40.0%",
+      "I": "90.0% - 100.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_4.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "40.0% - 50.0%",
+      "B": "10.0% - 20.0%",
+      "C": "60.0% - 70.0%",
+      "D": "50.0% - 60.0%",
+      "E": "70.0% - 80.0%",
+      "F": "90.0% - 100.0%",
+      "G": "30.0% - 40.0%",
+      "H": "20.0% - 30.0%",
+      "I": "0% - 10.0%",
+      "J": "80.0% - 90.0%"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5d4636d1152cf70005439fa9_1971.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "Given that the actual geographical area of the entire image is 41769.0 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[2500-2600]square meters",
+      "B": "[35100-35200]square meters",
+      "C": "[22200-22300]square meters",
+      "D": "[34900-35000]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/VB9RDUVTE_1575-2763-2087-3275.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "80%~90%",
+      "B": "90%~100%",
+      "C": "70%~80%",
+      "D": "0%~10%"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/UY9ARPBUH_3417-4591-3929-5103.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "0%~10%",
+      "B": "70%~80%",
+      "C": "80%~90%",
+      "D": "50%~60%"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_48.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "50.0% - 60.0%",
+      "B": "60.0% - 70.0%",
+      "C": "90.0% - 100.0%",
+      "D": "20.0% - 30.0%",
+      "E": "30.0% - 40.0%",
+      "F": "10.0% - 20.0%",
+      "G": "70.0% - 80.0%",
+      "H": "80.0% - 90.0%",
+      "I": "40.0% - 50.0%",
+      "J": "0% - 10.0%"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_70.png",
+    "question": "Image Area: 8859917.29 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "77000 - 78000 square meters",
+      "B": "76000 - 77000 square meters",
+      "C": "78000 - 79000 square meters",
+      "D": "74000 - 75000 square meters",
+      "E": "75000 - 76000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/238_q_66.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "70.0% - 80.0%",
+      "B": "60.0% - 70.0%",
+      "C": "30.0% - 40.0%",
+      "D": "90.0% - 100.0%",
+      "E": "50.0% - 60.0%",
+      "F": "10.0% - 20.0%",
+      "G": "0% - 10.0%",
+      "H": "20.0% - 30.0%",
+      "I": "80.0% - 90.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "WJZJEE14I_3178-2623-3690-3135",
+    "image_path": "./Agriculture/images/WJZJEE14I_3178-2623-3690-3135.jpg",
+    "question": "What percentage of the area in the waterway area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "10%~20%",
+      "C": "30%~40%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_45.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "10.0% - 20.0%",
+      "B": "80.0% - 90.0%",
+      "C": "70.0% - 80.0%",
+      "D": "0% - 10.0%",
+      "E": "40.0% - 50.0%",
+      "F": "60.0% - 70.0%",
+      "G": "30.0% - 40.0%",
+      "H": "50.0% - 60.0%",
+      "I": "90.0% - 100.0%",
+      "J": "20.0% - 30.0%"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/238_q_11.png",
+    "question": "Image Area: 3185963.07 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "879000 - 880000 square meters",
+      "B": "882000 - 883000 square meters",
+      "C": "883000 - 884000 square meters",
+      "D": "880000 - 881000 square meters",
+      "E": "881000 - 882000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_13.png",
+    "question": "Image Area: 7673255.39 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "5723000 - 5724000 square meters",
+      "B": "5722000 - 5723000 square meters",
+      "C": "5721000 - 5722000 square meters",
+      "D": "5720000 - 5721000 square meters",
+      "E": "5724000 - 5725000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_19.png",
+    "question": "Image Area: 479497.07 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "331000 - 332000 square meters",
+      "B": "329000 - 330000 square meters",
+      "C": "328000 - 329000 square meters",
+      "D": "327000 - 328000 square meters",
+      "E": "330000 - 331000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_22.png",
+    "question": "Image Area: 478876.50 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "423000 - 424000 square meters",
+      "B": "424000 - 425000 square meters",
+      "C": "426000 - 427000 square meters",
+      "D": "427000 - 428000 square meters",
+      "E": "425000 - 426000 square meters"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_92.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "70.0% - 80.0%",
+      "B": "0% - 10.0%",
+      "C": "80.0% - 90.0%",
+      "D": "30.0% - 40.0%",
+      "E": "10.0% - 20.0%",
+      "F": "90.0% - 100.0%",
+      "G": "20.0% - 30.0%",
+      "H": "60.0% - 70.0%",
+      "I": "50.0% - 60.0%",
+      "J": "40.0% - 50.0%"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "20-30%",
+      "B": "0-10%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_id": "L6MIJQ386_1642-9151-2154-9663",
+    "image_path": "./Agriculture/images/L6MIJQ386_1642-9151-2154-9663.jpg",
+    "question": "What percentage of the area in the double_plant area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "90%~100%",
+      "C": "0%~10%",
+      "D": "10%~20%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5dbb734605580100062e021a_4187.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "90-100%",
+      "B": "70-80%",
+      "C": "20-30%",
+      "D": "60-70%"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_58.png",
+    "question": "In this image, what is the cultivated land coverage rate? Which of the following ranges is the possible range of the cultivated land coverage rate in this image? ",
+    "options": {
+      "A": "0% - 10.0%",
+      "B": "40.0% - 50.0%",
+      "C": "30.0% - 40.0%",
+      "D": "20.0% - 30.0%",
+      "E": "60.0% - 70.0%",
+      "F": "50.0% - 60.0%",
+      "G": "80.0% - 90.0%",
+      "H": "70.0% - 80.0%",
+      "I": "90.0% - 100.0%",
+      "J": "10.0% - 20.0%"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 4
+  },
+  {
+    "image_id": "I9I41RH3G_635-4898-1147-5410",
+    "image_path": "./Agriculture/images/I9I41RH3G_635-4898-1147-5410.jpg",
+    "question": "What percentage of the area in the cloud_shadow area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "50%~60%",
+      "C": "90%~100%",
+      "D": "20%~30%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "MWK791B1K_4346-8312-4858-8824",
+    "image_path": "./Agriculture/images/MWK791B1K_4346-8312-4858-8824.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "0%~10%",
+      "B": "90%~100%",
+      "C": "10%~20%",
+      "D": "80%~90%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_id": "7GIB3YDF8_3901-7629-4413-8141",
+    "image_path": "./Agriculture/images/7GIB3YDF8_3901-7629-4413-8141.jpg",
+    "question": "What percentage of the area in the weed_cluster area is in this graph?",
+    "options": {
+      "A": "40%~50%",
+      "B": "70%~80%",
+      "C": "20%~30%",
+      "D": "90%~100%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_18.png",
+    "question": "Image Area: 3185252.41 m². In the area , approximately how much area of cultivated land is in this area? Which of the following ranges is the possible range of the area of cultivated land in this image? ",
+    "options": {
+      "A": "1295000 - 1296000 square meters",
+      "B": "1296000 - 1297000 square meters",
+      "C": "1298000 - 1299000 square meters",
+      "D": "1294000 - 1295000 square meters",
+      "E": "1297000 - 1298000 square meters"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Agriculture/images/T8FZ89VLC_6235-7983-6747-8495.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "50%~60%",
+      "B": "60%~70%",
+      "C": "90%~100%",
+      "D": "20%~30%"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "70-80%",
+      "B": "90-100%",
+      "C": "50-60%",
+      "D": "40-50%"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5eada7de3295f300072a6d80_1198.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "Given that the actual geographical area of the entire image is 41881.56 square meters, what is the approximate tree-covered area of the ecosystem(Can be calculated based on coverage ratio)?",
+    "options": {
+      "A": "[18000-18100]square meters",
+      "B": "[4000-4100]square meters",
+      "C": "[3100-3200]square meters",
+      "D": "[20000-20100]square meters"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Agriculture/images/8PDXN7D9C_3772-1843-4284-2355.jpg",
+    "question": "What is the proportion interval of farmland area?",
+    "options": {
+      "A": "90%~100%",
+      "B": "50%~60%",
+      "C": "0%~10%",
+      "D": "20%~30%"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5d2d1302f416f40006cffcc6_106.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "What is the tree coverage percentage within the image area?",
+    "options": {
+      "A": "10-20%",
+      "B": "80-90%",
+      "C": "60-70%",
+      "D": "0-10%"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 3,
+    "level3_id": 1
+  }
+]

@@ -1,0 +1,4372 @@
+[
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024649.798070_i2351j1826.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004349.135000.Cam6_11.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/238_q_10.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "2100 - 2200",
+      "B": "1800 - 1900",
+      "C": "2000 - 2100",
+      "D": "1900 - 2000",
+      "E": "1500 - 1600",
+      "F": "1600 - 1700",
+      "G": "1400 - 1500",
+      "H": "1700 - 1800"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000091.jpg",
+    "question": "How many wheat blossom midge are in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041344.940374_i1526j1764.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3730_3844.jpg",
+    "type_id": 2,
+    "item_id": 18,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "62",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP015000003.jpg",
+    "question": "How many mole cricket are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.190138_i2502j193.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/06-05_00135_P0037820.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "20",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000047.jpg",
+    "question": "How many white backed plant hopper are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/06-05_00101_P0037987.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00248_P0030690.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3253_2478.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 95,
+      "B": 118,
+      "C": 89,
+      "D": 77
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_74.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "300 - 400",
+      "C": "200 - 300",
+      "D": "400 - 500",
+      "E": "700 - 800",
+      "F": "100 - 200",
+      "G": "0 - 100",
+      "H": "500 - 600"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3502_2707.jpg",
+    "type_id": 2,
+    "item_id": 7,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "74",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000035.jpg",
+    "question": "How many Nipaecoccus vastalor are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_75.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1600 - 1700",
+      "B": "2000 - 2100",
+      "C": "1900 - 2000",
+      "D": "1500 - 1600",
+      "E": "1300 - 1400",
+      "F": "1400 - 1500",
+      "G": "1800 - 1900",
+      "H": "1700 - 1800"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-15_00202_P0030690.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/06-05_00095_P0037987.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "22",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./corn/images/image_0043.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_0.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "400 - 500",
+      "C": "600 - 700",
+      "D": "300 - 400",
+      "E": "500 - 600",
+      "F": "0 - 100",
+      "G": "100 - 200",
+      "H": "200 - 300"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004348.182606.Cam6_54.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000018.jpg",
+    "question": "How many Rhytidodera bowrinii white are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_8.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "500 - 600",
+      "C": "300 - 400",
+      "D": "0 - 100",
+      "E": "100 - 200",
+      "F": "400 - 500",
+      "G": "200 - 300",
+      "H": "700 - 800"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004603.614052.Cam6_41.png",
+    "question": "How many apples are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-26_00099_P0034280.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/238_q_80.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "0 - 100",
+      "C": "700 - 800",
+      "D": "500 - 600",
+      "E": "100 - 200",
+      "F": "400 - 500",
+      "G": "300 - 400",
+      "H": "200 - 300"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_13.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1400 - 1500",
+      "B": "1300 - 1400",
+      "C": "1000 - 1100",
+      "D": "1200 - 1300",
+      "E": "900 - 1000",
+      "F": "1500 - 1600",
+      "G": "1600 - 1700",
+      "H": "1100 - 1200"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_279_2756.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 53,
+      "B": 71,
+      "C": 110,
+      "D": 65
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-15_00240_P0030949.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "21",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/238_q_1.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "500 - 600",
+      "C": "200 - 300",
+      "D": "800 - 900",
+      "E": "600 - 700",
+      "F": "100 - 200",
+      "G": "400 - 500",
+      "H": "700 - 800"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1194_3685.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 44,
+      "B": 29,
+      "C": 46,
+      "D": 53
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1782_2527.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 38,
+      "B": 55,
+      "C": 81,
+      "D": 17
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_49_IMG_4369_i1500j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/06-05_00136_P0037818.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-26_00219_P0034018.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/06-05_00070_P0037820.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1381_1809.jpg",
+    "type_id": 2,
+    "item_id": 6,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "80",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0227.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2812_3487.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 100,
+      "B": 60,
+      "C": 63,
+      "D": 91
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0091.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1028_2557.jpg",
+    "type_id": 2,
+    "item_id": 2,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "69",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_313_3177.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 25,
+      "B": 46,
+      "C": 71,
+      "D": 60
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1897_500.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 120,
+      "B": 76,
+      "C": 86,
+      "D": 74
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_590_664.jpg",
+    "type_id": 2,
+    "item_id": 11,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "73",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_0.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "2000 - 2100",
+      "B": "2500 - 2600",
+      "C": "2300 - 2400",
+      "D": "2700 - 2800",
+      "E": "2600 - 2700",
+      "F": "2100 - 2200",
+      "G": "2400 - 2500",
+      "H": "2200 - 2300"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012945.763098_23.png",
+    "question": "How many apples are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0001.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "31",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2214_2955.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 71,
+      "B": 105,
+      "C": 116,
+      "D": 75
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000000.jpg",
+    "question": "How many Salurnis marginella Guerr are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_3253_1270.jpg",
+    "type_id": 2,
+    "item_id": 20,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "23",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_2576_3928.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 34,
+      "B": 61,
+      "C": 73,
+      "D": 100
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3105_1609.jpg",
+    "type_id": 2,
+    "item_id": 14,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "83",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1274_2080.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 52,
+      "B": 77,
+      "C": 37,
+      "D": 90
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0191.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000002.jpg",
+    "question": "How many meadow moth are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000013.jpg",
+    "question": "How many flax budworm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000004.jpg",
+    "question": "How many grub are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000000.jpg",
+    "question": "How many blister beetle are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041205.271241_i1305j235.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_88.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "100 - 200",
+      "C": "200 - 300",
+      "D": "400 - 500",
+      "E": "500 - 600",
+      "F": "0 - 100",
+      "G": "600 - 700",
+      "H": "300 - 400"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/128_q_44.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "300 - 400",
+      "C": "200 - 300",
+      "D": "600 - 700",
+      "E": "0 - 100",
+      "F": "500 - 600",
+      "G": "400 - 500",
+      "H": "100 - 200"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1435_3310.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 54,
+      "B": 90,
+      "C": 62,
+      "D": 92
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3937_2925.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 81,
+      "B": 69,
+      "C": 70,
+      "D": 67
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_01_IMG_4805_i300j2400.png",
+    "question": "How many almonds are there?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_97.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "0 - 100",
+      "B": "200 - 300",
+      "C": "400 - 500",
+      "D": "600 - 700",
+      "E": "500 - 600",
+      "F": "700 - 800",
+      "G": "100 - 200",
+      "H": "300 - 400"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4437_i900j1800.png",
+    "question": "How many almonds are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013604.627962_52.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_33.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "400 - 500",
+      "B": "100 - 200",
+      "C": "800 - 900",
+      "D": "200 - 300",
+      "E": "700 - 800",
+      "F": "600 - 700",
+      "G": "300 - 400",
+      "H": "500 - 600"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0229.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_18.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "400 - 500",
+      "C": "700 - 800",
+      "D": "200 - 300",
+      "E": "600 - 700",
+      "F": "500 - 600",
+      "G": "100 - 200",
+      "H": "0 - 100"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1044_3052.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 29,
+      "B": 19,
+      "C": 31,
+      "D": 11
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_771_142.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 71,
+      "B": 52,
+      "C": 35,
+      "D": 116
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/06-05_00053_P0037818.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3050_2254.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 41,
+      "B": 59,
+      "C": 95,
+      "D": 92
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_32.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "700 - 800",
+      "C": "200 - 300",
+      "D": "100 - 200",
+      "E": "0 - 100",
+      "F": "500 - 600",
+      "G": "400 - 500",
+      "H": "600 - 700"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/06-05_00050_P0037989.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_392_16.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 133,
+      "B": 100,
+      "C": 85,
+      "D": 79
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_89.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "0 - 100",
+      "C": "400 - 500",
+      "D": "600 - 700",
+      "E": "200 - 300",
+      "F": "300 - 400",
+      "G": "700 - 800",
+      "H": "100 - 200"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041823.562703_i2328j189.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0136.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2249_1082.jpg",
+    "type_id": 2,
+    "item_id": 16,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "65",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./crop/images/05-15_00160_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000014.jpg",
+    "question": "How many flax budworm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043553.895081_i1684j1897.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-15_00081_P0030852.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-26_00158_P0034119.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_88.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "200 - 300",
+      "B": "100 - 200",
+      "C": "500 - 600",
+      "D": "300 - 400",
+      "E": "0 - 100",
+      "F": "400 - 500",
+      "G": "600 - 700",
+      "H": "700 - 800"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/06-05_00132_P0037820.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "25",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.477385_33.png",
+    "question": "How many apples are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_51_IMG_4724_i2100j2100.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-26_00224_P0034018.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "21",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00186_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_120_3762.jpg",
+    "type_id": 2,
+    "item_id": 15,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "77",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_62.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "2000 - 2100",
+      "B": "1400 - 1500",
+      "C": "1700 - 1800",
+      "D": "1900 - 2000",
+      "E": "1800 - 1900",
+      "F": "2100 - 2200",
+      "G": "1500 - 1600",
+      "H": "1600 - 1700"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031805.668170_i2213j301.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000026.jpg",
+    "question": "How many penthaleus major are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012821.951781_12.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_3318_3903.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 59,
+      "B": 30,
+      "C": 48,
+      "D": 73
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1803_3374.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 74,
+      "B": 82,
+      "C": 58,
+      "D": 67
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2125_1624.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 63,
+      "B": 98,
+      "C": 72,
+      "D": 104
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_76_1521.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 81,
+      "B": 111,
+      "C": 78,
+      "D": 87
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_34.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "200 - 300",
+      "B": "700 - 800",
+      "C": "600 - 700",
+      "D": "300 - 400",
+      "E": "0 - 100",
+      "F": "500 - 600",
+      "G": "400 - 500",
+      "H": "100 - 200"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/128_q_48.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "0 - 100",
+      "C": "400 - 500",
+      "D": "700 - 800",
+      "E": "100 - 200",
+      "F": "300 - 400",
+      "G": "600 - 700",
+      "H": "200 - 300"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_97.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "400 - 500",
+      "B": "300 - 400",
+      "C": "100 - 200",
+      "D": "600 - 700",
+      "E": "0 - 100",
+      "F": "500 - 600",
+      "G": "200 - 300",
+      "H": "700 - 800"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1219_3423.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 56,
+      "B": 40,
+      "C": 66,
+      "D": 22
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_44.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "400 - 500",
+      "C": "700 - 800",
+      "D": "500 - 600",
+      "E": "600 - 700",
+      "F": "200 - 300",
+      "G": "0 - 100",
+      "H": "100 - 200"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024639.597997_i1465j1046.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_43.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "700 - 800",
+      "C": "600 - 700",
+      "D": "0 - 100",
+      "E": "100 - 200",
+      "F": "200 - 300",
+      "G": "300 - 400",
+      "H": "400 - 500"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/128_q_83.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "0 - 100",
+      "C": "500 - 600",
+      "D": "400 - 500",
+      "E": "200 - 300",
+      "F": "600 - 700",
+      "G": "100 - 200",
+      "H": "300 - 400"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-26_00184_P0034279.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000000.jpg",
+    "question": "How many legume blister beetle are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/238_q_96.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1600 - 1700",
+      "B": "2100 - 2200",
+      "C": "2000 - 2100",
+      "D": "1800 - 1900",
+      "E": "1700 - 1800",
+      "F": "2300 - 2400",
+      "G": "2200 - 2300",
+      "H": "1900 - 2000"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1550_3648.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 77,
+      "B": 91,
+      "C": 55,
+      "D": 35
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000002.jpg",
+    "question": "How many Toxoptera aurantii are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0180.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_3451_1181.jpg",
+    "type_id": 2,
+    "item_id": 8,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "7",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_02_IMG_4675_i1800j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000009.jpg",
+    "question": "How many Salurnis marginella Guerr are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/06-05_00076_P0037989.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000030.jpg",
+    "question": "How many Papilio xuthus are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0209.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000012.jpg",
+    "question": "How many alfalfa plant bug are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1213_1835.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 107,
+      "B": 74,
+      "C": 38,
+      "D": 33
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-26_00201_P0034279.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "22",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004757.330649.Cam6_42.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2636_2911.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 58,
+      "B": 78,
+      "C": 93,
+      "D": 61
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_64_02_IMG_4799_i900j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005036.000567.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000022.jpg",
+    "question": "How many Ceroplastes rubens are in this image?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1429_648.jpg",
+    "type_id": 2,
+    "item_id": 19,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "76",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031353.274441_i1847j1735.png",
+    "question": "How many mangos are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_21_IMG_4400_i1200j1500.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2533_3742.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 41,
+      "B": 97,
+      "C": 67,
+      "D": 71
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0192.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./crop/images/05-15_00193_P0030688.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "17",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00177_P0030692.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005953.916792.Cam6_12.png",
+    "question": "How many apples are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/06-05_00177_P0038053.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "20",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043344.170371_i1757j1498.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000010.jpg",
+    "question": "How many beet army worm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031913.852655_i1702j75.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031802.468252_i1562j1919.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0131.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000027.jpg",
+    "question": "How many grain spreader thrips are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1821_495.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 114,
+      "B": 123,
+      "C": 125,
+      "D": 76
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044602.054569_i2706j1767.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-26_00177_P0034117.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "23",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000196.jpg",
+    "question": "How many Dasineura sp are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030600.214956_i2296j312.png",
+    "question": "How many mangos are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_2138_1386.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 63,
+      "B": 44,
+      "C": 91,
+      "D": 38
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-15_00146_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000154.jpg",
+    "question": "How many Cicadella viridis are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_99.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "100 - 200",
+      "B": "700 - 800",
+      "C": "300 - 400",
+      "D": "600 - 700",
+      "E": "400 - 500",
+      "F": "200 - 300",
+      "G": "500 - 600",
+      "H": "0 - 100"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1667_2649.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 113,
+      "B": 84,
+      "C": 60,
+      "D": 116
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000026.jpg",
+    "question": "How many aphids are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_46.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "800 - 900",
+      "B": "1500 - 1600",
+      "C": "1000 - 1100",
+      "D": "1200 - 1300",
+      "E": "1100 - 1200",
+      "F": "1300 - 1400",
+      "G": "900 - 1000",
+      "H": "1400 - 1500"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_62_56_IMG_4742_i1800j3300.png",
+    "question": "How many almonds are there?",
+    "answer": "16",
+    "type_id": 2,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_56_53_IMG_4736_i2400j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000026.jpg",
+    "question": "How many Beet spot flies are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/238_q_85.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "700 - 800",
+      "C": "200 - 300",
+      "D": "600 - 700",
+      "E": "0 - 100",
+      "F": "300 - 400",
+      "G": "400 - 500",
+      "H": "100 - 200"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045000.346837_i2130j1705.png",
+    "question": "How many mangos are there?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000024.jpg",
+    "question": "How many cerodonta denticornis are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000083.jpg",
+    "question": "How many Toxoptera citricidus are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3489_2627.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 112,
+      "B": 44,
+      "C": 86,
+      "D": 116
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000004.jpg",
+    "question": "How many Salurnis marginella Guerr are in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/06-05_00068_P0037820.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "15",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042032.340449_i1761j1853.png",
+    "question": "How many mangos are there?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_930_2045.jpg",
+    "type_id": 2,
+    "item_id": 10,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "70",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043056.986014_i1441j376.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043931.005760_i2007j571.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3388_2040.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 83,
+      "B": 43,
+      "C": 51,
+      "D": 80
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_247_2906.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 21,
+      "B": 66,
+      "C": 61,
+      "D": 26
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3693_3937.jpg",
+    "type_id": 2,
+    "item_id": 17,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "64",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1756_3658.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 25,
+      "B": 68,
+      "C": 81,
+      "D": 42
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/238_q_26.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1800 - 1900",
+      "B": "2200 - 2300",
+      "C": "2400 - 2500",
+      "D": "2100 - 2200",
+      "E": "2500 - 2600",
+      "F": "1900 - 2000",
+      "G": "2000 - 2100",
+      "H": "2300 - 2400"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000053.jpg",
+    "question": "How many Xylotrechus are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2412_3298.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 94,
+      "B": 65,
+      "C": 67,
+      "D": 91
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_60_49_IMG_4718_i1500j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_6.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "4100 - 4200",
+      "B": "3700 - 3800",
+      "C": "3800 - 3900",
+      "D": "3400 - 3500",
+      "E": "3900 - 4000",
+      "F": "4000 - 4100",
+      "G": "3600 - 3700",
+      "H": "3500 - 3600"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000026.jpg",
+    "question": "How many tarnished plant bug are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/05-15_00178_P0030947.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/06-05_00158_P0037820.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000000.jpg",
+    "question": "How many flax budworm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3891_804.jpg",
+    "type_id": 2,
+    "item_id": 12,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "76",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_509_3782.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 56,
+      "B": 29,
+      "C": 33,
+      "D": 54
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-15_00242_P0030688.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_42.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "400 - 500",
+      "C": "600 - 700",
+      "D": "200 - 300",
+      "E": "0 - 100",
+      "F": "100 - 200",
+      "G": "300 - 400",
+      "H": "500 - 600"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004353.135082.Cam6_53.png",
+    "question": "How many apples are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0147.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./crop/images/06-05_00040_P0037987.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00229_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00196_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_73.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1500 - 1600",
+      "B": "1300 - 1400",
+      "C": "1600 - 1700",
+      "D": "1400 - 1500",
+      "E": "1800 - 1900",
+      "F": "1700 - 1800",
+      "G": "2000 - 2100",
+      "H": "1900 - 2000"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_11.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "200 - 300",
+      "C": "500 - 600",
+      "D": "400 - 500",
+      "E": "600 - 700",
+      "F": "100 - 200",
+      "G": "0 - 100",
+      "H": "700 - 800"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000021.jpg",
+    "question": "How many Rhytidodera bowrinii white are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000021.jpg",
+    "question": "How many Erythroneura apicalis are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1849_2171.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 54,
+      "B": 30,
+      "C": 31,
+      "D": 63
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_40.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "400 - 500",
+      "C": "0 - 100",
+      "D": "700 - 800",
+      "E": "100 - 200",
+      "F": "600 - 700",
+      "G": "300 - 400",
+      "H": "200 - 300"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_83_803.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 39,
+      "B": 79,
+      "C": 36,
+      "D": 78
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000032.jpg",
+    "question": "How many Aleurocanthus spiniferus are in this image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/06-05_00102_P0037989.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 60,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./corn/images/image_0223.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./crop/images/06-05_00178_P0038055.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "21",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_75.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "4000 - 4100",
+      "B": "3500 - 3600",
+      "C": "3600 - 3700",
+      "D": "3400 - 3500",
+      "E": "3900 - 4000",
+      "F": "3300 - 3400",
+      "G": "3800 - 3900",
+      "H": "3700 - 3800"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/06-05_00153_P0038053.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "24",
+    "type_id": 2,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042419.656766_i2265j1273.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1244_1626.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 44,
+      "B": 81,
+      "C": 30,
+      "D": 57
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-15_00140_P0030692.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/06-05_00032_P0037987.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./corn/images/image_0234.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_657_2335.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 67,
+      "B": 21,
+      "C": 61,
+      "D": 86
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_2180_278.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 74,
+      "B": 62,
+      "C": 51,
+      "D": 36
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_429_3067.jpg",
+    "type_id": 2,
+    "item_id": 9,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "70",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0080.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_27.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "700 - 800",
+      "C": "200 - 300",
+      "D": "300 - 400",
+      "E": "100 - 200",
+      "F": "0 - 100",
+      "G": "500 - 600",
+      "H": "400 - 500"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-15_00221_P0030947.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/128_q_20.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "200 - 300",
+      "B": "700 - 800",
+      "C": "400 - 500",
+      "D": "600 - 700",
+      "E": "0 - 100",
+      "F": "100 - 200",
+      "G": "500 - 600",
+      "H": "300 - 400"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000016.jpg",
+    "question": "How many tarnished plant bug are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2214_3304.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 113,
+      "B": 69,
+      "C": 83,
+      "D": 46
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000003.jpg",
+    "question": "How many Locustoidea are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000016.jpg",
+    "question": "How many wheat sawfly are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "question": "How many almonds are there?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-26_00246_P0034018.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030126.350441_i1976j569.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005432.195921.Cam6_33.png",
+    "question": "How many apples are there?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-26_00255_P0034119.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013319.672227_22.png",
+    "question": "How many apples are there?",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000004.jpg",
+    "question": "How many white margined moth are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_13.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "200 - 300",
+      "B": "800 - 900",
+      "C": "600 - 700",
+      "D": "500 - 600",
+      "E": "700 - 800",
+      "F": "400 - 500",
+      "G": "100 - 200",
+      "H": "300 - 400"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2674_2148.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 41,
+      "B": 42,
+      "C": 51,
+      "D": 38
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043038.744792_i1544j302.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_85.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "600 - 700",
+      "C": "300 - 400",
+      "D": "700 - 800",
+      "E": "400 - 500",
+      "F": "900 - 1000",
+      "G": "200 - 300",
+      "H": "800 - 900"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 58,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-26_00139_P0034280.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "25",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./corn/images/image_0056.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2754_2339.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 53,
+      "B": 88,
+      "C": 46,
+      "D": 24
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0115.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./crop/images/05-26_00150_P0034119.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024519.396151_i1924j1228.png",
+    "question": "How many mangos are there?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-15_00167_P0030855.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_23_940.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 83,
+      "B": 63,
+      "C": 68,
+      "D": 84
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2984_2137.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 55,
+      "B": 74,
+      "C": 46,
+      "D": 33
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP053000096.jpg",
+    "question": "How many therioaphis maculata Buckton are in this image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_51.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "0 - 100",
+      "C": "500 - 600",
+      "D": "200 - 300",
+      "E": "600 - 700",
+      "F": "400 - 500",
+      "G": "300 - 400",
+      "H": "100 - 200"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 59,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000019.jpg",
+    "question": "How many corn borer are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_11.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "700 - 800",
+      "C": "600 - 700",
+      "D": "1000 - 1100",
+      "E": "400 - 500",
+      "F": "300 - 400",
+      "G": "800 - 900",
+      "H": "900 - 1000"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1519_1561.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 71,
+      "B": 64,
+      "C": 45,
+      "D": 68
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_51.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "5000 - 5100",
+      "B": "5100 - 5200",
+      "C": "5200 - 5300",
+      "D": "5500 - 5600",
+      "E": "5300 - 5400",
+      "F": "5400 - 5500",
+      "G": "4900 - 5000",
+      "H": "5600 - 5700"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_17.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1400 - 1500",
+      "B": "1200 - 1300",
+      "C": "1000 - 1100",
+      "D": "1300 - 1400",
+      "E": "800 - 900",
+      "F": "1100 - 1200",
+      "G": "900 - 1000",
+      "H": "1500 - 1600"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-26_00259_P0034020.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000024.jpg",
+    "question": "How many Dacus dorsalis(Hendel) are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005908.011100.Cam6_23.png",
+    "question": "How many apples are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0008.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024542.796532_i1753j124.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/panshuixiang_q_91.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "200 - 300",
+      "C": "300 - 400",
+      "D": "600 - 700",
+      "E": "0 - 100",
+      "F": "500 - 600",
+      "G": "400 - 500",
+      "H": "100 - 200"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1534_71.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 92,
+      "B": 83,
+      "C": 69,
+      "D": 58
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3892_1218.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 75,
+      "B": 74,
+      "C": 25,
+      "D": 24
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1158_3152.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 39,
+      "B": 62,
+      "C": 70,
+      "D": 60
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000014.jpg",
+    "question": "How many Locustoidea are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000039.jpg",
+    "question": "How many tarnished plant bug are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/05-26_00176_P0034119.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3770_2197.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 116,
+      "B": 124,
+      "C": 74,
+      "D": 84
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0237.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_3856_3958.jpg",
+    "type_id": 2,
+    "item_id": 4,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "81",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041422.143930_i2643j1305.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/06-05_00116_P0037987.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_387_2333.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 81,
+      "B": 39,
+      "C": 90,
+      "D": 85
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./corn/images/image_0127.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./crop/images/05-15_00056_P0030852.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_58.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "1200 - 1300",
+      "B": "1600 - 1700",
+      "C": "1100 - 1200",
+      "D": "1500 - 1600",
+      "E": "1300 - 1400",
+      "F": "1000 - 1100",
+      "G": "1400 - 1500",
+      "H": "1700 - 1800"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042140.306077_i2669j432.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041411.899862_i1976j261.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_174_2594.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 125,
+      "B": 73,
+      "C": 84,
+      "D": 76
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000032.jpg",
+    "question": "How many Ampelophaga are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/238_q_3.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "2600 - 2700",
+      "B": "2200 - 2300",
+      "C": "2300 - 2400",
+      "D": "2500 - 2600",
+      "E": "2700 - 2800",
+      "F": "2000 - 2100",
+      "G": "2400 - 2500",
+      "H": "2100 - 2200"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_50.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "2700 - 2800",
+      "B": "3200 - 3300",
+      "C": "2500 - 2600",
+      "D": "3000 - 3100",
+      "E": "2900 - 3000",
+      "F": "3100 - 3200",
+      "G": "2800 - 2900",
+      "H": "2600 - 2700"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 55,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP101000018.jpg",
+    "question": "How many Sternochetus frigidus are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041935.578460_i2406j1434.png",
+    "question": "How many mangos are there?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP059000007.jpg",
+    "question": "How many Limacodidae are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_55.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "3100 - 3200",
+      "B": "3300 - 3400",
+      "C": "2800 - 2900",
+      "D": "3200 - 3300",
+      "E": "3400 - 3500",
+      "F": "2700 - 2800",
+      "G": "3000 - 3100",
+      "H": "2900 - 3000"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1105_1297.jpg",
+    "type_id": 2,
+    "item_id": 3,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "78",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_17.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "500 - 600",
+      "C": "300 - 400",
+      "D": "700 - 800",
+      "E": "200 - 300",
+      "F": "100 - 200",
+      "G": "400 - 500",
+      "H": "0 - 100"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031531.081622_i2463j775.png",
+    "question": "How many mangos are there?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/heitazhen_q_80.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "900 - 1000",
+      "B": "1400 - 1500",
+      "C": "1300 - 1400",
+      "D": "1100 - 1200",
+      "E": "1200 - 1300",
+      "F": "1500 - 1600",
+      "G": "1600 - 1700",
+      "H": "1000 - 1100"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 49,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000012.jpg",
+    "question": "How many Deporaus marginatus Pascoe are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_46.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "4500 - 4600",
+      "B": "4900 - 5000",
+      "C": "4400 - 4500",
+      "D": "4300 - 4400",
+      "E": "4600 - 4700",
+      "F": "4800 - 4900",
+      "G": "4700 - 4800",
+      "H": "5000 - 5100"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031138.888398_i2018j1563.png",
+    "question": "How many mangos are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_2579_702.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 33,
+      "B": 12,
+      "C": 29,
+      "D": 39
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2373_2415.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 41,
+      "B": 28,
+      "C": 60,
+      "D": 61
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1011_3210.jpg",
+    "type_id": 2,
+    "item_id": 5,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "67",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Rural/images/fulizhen_q_61.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "900 - 1000",
+      "C": "600 - 700",
+      "D": "800 - 900",
+      "E": "700 - 800",
+      "F": "1000 - 1100",
+      "G": "300 - 400",
+      "H": "400 - 500"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0090.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_306_606.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 87,
+      "B": 75,
+      "C": 30,
+      "D": 108
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_29.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "200 - 300",
+      "C": "500 - 600",
+      "D": "400 - 500",
+      "E": "300 - 400",
+      "F": "100 - 200",
+      "G": "800 - 900",
+      "H": "600 - 700"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004739.806547.Cam6_64.png",
+    "question": "How many apples are there?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000007.jpg",
+    "question": "How many flax budworm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000004.jpg",
+    "question": "How many black cutworm are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024848.200342_i1938j731.png",
+    "question": "How many mangos are there?",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/05-15_00224_P0030688.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "12",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000002.jpg",
+    "question": "How many white margined moth are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000026.jpg",
+    "question": "How many alfalfa seed chalcid are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_1024_3718.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 74,
+      "B": 55,
+      "C": 48,
+      "D": 63
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/05-26_00213_P0034117.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00161_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "14",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/liangxuzhen_q_99.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "700 - 800",
+      "B": "100 - 200",
+      "C": "300 - 400",
+      "D": "600 - 700",
+      "E": "500 - 600",
+      "F": "200 - 300",
+      "G": "0 - 100",
+      "H": "400 - 500"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/06-05_00159_P0038055.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "17",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000000.jpg",
+    "question": "How many lytta polita are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/05-26_00237_P0034119.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "16",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./corn/images/image_0128.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/238_q_37.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "800 - 900",
+      "B": "1000 - 1100",
+      "C": "700 - 800",
+      "D": "1300 - 1400",
+      "E": "1100 - 1200",
+      "F": "1200 - 1300",
+      "G": "900 - 1000",
+      "H": "600 - 700"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0006.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "111",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_60.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "500 - 600",
+      "B": "300 - 400",
+      "C": "100 - 200",
+      "D": "400 - 500",
+      "E": "700 - 800",
+      "F": "600 - 700",
+      "G": "0 - 100",
+      "H": "200 - 300"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030529.868886_i1816j1963.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024818.600067_i1895j12.png",
+    "question": "How many mangos are there?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/images/yangchengzhuangxiang_q_14.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "200 - 300",
+      "C": "100 - 200",
+      "D": "600 - 700",
+      "E": "400 - 500",
+      "F": "500 - 600",
+      "G": "700 - 800",
+      "H": "0 - 100"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/05-15_00251_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00083_P0030852.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_3093_2486.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 53,
+      "B": 51,
+      "C": 34,
+      "D": 56
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042128.715935_i1647j1012.png",
+    "question": "How many mangos are there?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000029.jpg",
+    "question": "How many Beet spot flies are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_45_IMG_4709_i2700j3000.png",
+    "question": "How many almonds are there?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./crop/images/06-05_00181_P0037818.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3830_26.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 42,
+      "B": 82,
+      "C": 49,
+      "D": 57
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./crop/images/06-05_00136_P0037989.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "19",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_1177_2258.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 111,
+      "B": 67,
+      "C": 70,
+      "D": 50
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000038.jpg",
+    "question": "How many Chrysomphalus aonidum are in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000048.jpg",
+    "question": "How many Mango flat beak leafhopper are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/images/420704005_q_7.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "3000 - 3100",
+      "B": "2800 - 2900",
+      "C": "2700 - 2800",
+      "D": "2500 - 2600",
+      "E": "2900 - 3000",
+      "F": "2600 - 2700",
+      "G": "2400 - 2500",
+      "H": "3100 - 3200"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 47,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./crop/images/06-05_00218_P0038055.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "25",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000016.jpg",
+    "question": "How many Tetradacus c Bactrocera minax are in this image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./crop/images/05-15_00034_P0030852.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "11",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./crop/images/05-15_00182_P0030853.png",
+    "question": "How many different plant individuals are in the image?",
+    "answer": "13",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Rural/images/huangwutunzhen_q_77.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "600 - 700",
+      "B": "500 - 600",
+      "C": "300 - 400",
+      "D": "100 - 200",
+      "E": "700 - 800",
+      "F": "0 - 100",
+      "G": "200 - 300",
+      "H": "400 - 500"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_20_1462.jpg",
+    "type_id": 2,
+    "item_id": 1,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "58",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000042.jpg",
+    "question": "How many brown plant hopper are in this image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0242.jpg",
+    "question": "How many tassels are there in this image?",
+    "answer": "38",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_4000_3565_1566.jpg",
+    "type_id": 2,
+    "item_id": 13,
+    "question": "How many oil palm trees are there in the image?",
+    "answer": "79",
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/52000_20000_2832_3410.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 79,
+      "B": 60,
+      "C": 83,
+      "D": 21
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/44000_16000_1394_1714.jpg",
+    "question": "How many oil palm trees are there in the image?",
+    "options": {
+      "A": 96,
+      "B": 45,
+      "C": 42,
+      "D": 77
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 7
+  },
+  {
+    "image_path": "./Rural/images/420222454_q_56.png",
+    "question": "In this image, how many patches of cultivated land are there? Which of the following ranges is the possible range of the quantity of cultivated land in this image? ",
+    "options": {
+      "A": "300 - 400",
+      "B": "200 - 300",
+      "C": "100 - 200",
+      "D": "500 - 600",
+      "E": "600 - 700",
+      "F": "400 - 500",
+      "G": "700 - 800",
+      "H": "0 - 100"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000007.jpg",
+    "question": "How many grub are in this image?",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 2,
+    "level3_id": 1
+  }
+]

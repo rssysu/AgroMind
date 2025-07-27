@@ -1,0 +1,622 @@
+[
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_13.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 16,
+    "options": {
+      "A": "[0.32, 0.196, 0.894, 0.394]",
+      "B": "[0.484, 0.209, 0.599, 0.787]",
+      "C": "[0.366, 0.067, 0.864, 0.789]",
+      "D": "[0.3342, 0.0, 1.0, 0.8071]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_5.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 9,
+    "options": {
+      "A": "[0.023, 0.411, 0.484, 0.436]",
+      "B": "[0.818, 0.44, 0.92, 0.95]",
+      "C": "[0.1722, 0.5254, 0.4694, 1.0]",
+      "D": "[0.213, 0.488, 0.599, 0.734]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_14.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 2,
+    "options": {
+      "A": "[0.2719, 0.1628, 0.7425, 0.9696]",
+      "B": "[0.484, 0.121, 0.877, 0.386]",
+      "C": "[0.149, 0.084, 0.972, 0.164]",
+      "D": "[0.275, 0.514, 0.326, 0.678]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_4.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 1,
+    "options": {
+      "A": "[0.203, 0.604, 0.305, 0.965]",
+      "B": "[0.72, 0.442, 0.982, 0.514]",
+      "C": "[0.624, 0.27, 0.933, 0.723]",
+      "D": "[0.0, 0.0, 1.0, 0.6014]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_12.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.4618,
+      0.3267,
+      0.8328,
+      0.8879
+    ],
+    "type_id": 11,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_17.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "options": {
+      "A": "[0.392, 0.261, 0.798, 0.915]",
+      "B": "[0.638, 0.01, 0.792, 0.171]",
+      "C": "[0.732, 0.579, 0.9, 0.883]",
+      "D": "[0.1961, 0.0, 0.5785, 0.4874]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3908,
+      1.0,
+      0.9311
+    ],
+    "type_id": 11,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.473,
+      0.5883,
+      0.866,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      1.0,
+      0.6051
+    ],
+    "type_id": 11,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_7.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 8,
+    "options": {
+      "A": "[0.073, 0.206, 0.884, 0.263]",
+      "B": "[0.0189, 0.0, 0.8928, 0.8503]",
+      "C": "[0.113, 0.429, 0.942, 0.497]",
+      "D": "[0.089, 0.22, 0.537, 0.795]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2323,
+      0.1418,
+      1.0,
+      0.9002
+    ],
+    "type_id": 11,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2414,
+      0.0,
+      0.6569,
+      0.3676
+    ],
+    "type_id": 11,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5039,
+      0.0,
+      1.0,
+      0.5596
+    ],
+    "type_id": 11,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_13.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 12,
+    "options": {
+      "A": "[0.066, 0.075, 0.25, 0.583]",
+      "B": "[0.0, 0.2865, 0.6016, 0.8286]",
+      "C": "[0.048, 0.094, 0.126, 0.137]",
+      "D": "[0.662, 0.115, 0.774, 0.563]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1339,
+      0.1082,
+      0.5302,
+      0.6613
+    ],
+    "type_id": 11,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.5725,
+      0.0,
+      0.9558,
+      0.4699
+    ],
+    "type_id": 11,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_7.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 15,
+    "options": {
+      "A": "[0.112, 0.592, 0.964, 0.955]",
+      "B": "[0.086, 0.575, 0.673, 0.973]",
+      "C": "[0.2261, 0.0, 1.0, 0.9539]",
+      "D": "[0.248, 0.599, 0.522, 0.786]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_14.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3419,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "type_id": 11,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_15.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7618,
+      0.5208
+    ],
+    "type_id": 11,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_14.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 19,
+    "options": {
+      "A": "[0.0, 0.2082, 0.7154, 0.9314]",
+      "B": "[0.409, 0.262, 0.631, 0.291]",
+      "C": "[0.365, 0.529, 0.645, 0.72]",
+      "D": "[0.351, 0.181, 0.489, 0.557]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_1.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 18,
+    "options": {
+      "A": "[0.0, 0.3908, 1.0, 0.9311]",
+      "B": "[0.122, 0.862, 0.978, 0.896]",
+      "C": "[0.756, 0.083, 0.919, 0.376]",
+      "D": "[0.354, 0.224, 0.781, 0.388]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_1.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 6,
+    "options": {
+      "A": "[0.429, 0.381, 0.988, 0.625]",
+      "B": "[0.039, 0.198, 0.421, 0.637]",
+      "C": "[0.2695, 0.1658, 1.0, 1.0]",
+      "D": "[0.554, 0.433, 0.555, 0.521]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.3147,
+      0.9666,
+      0.9227
+    ],
+    "type_id": 11,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_11.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3916,
+      0.0,
+      0.8548,
+      0.5572
+    ],
+    "type_id": 11,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_3.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.3586,
+      0.0,
+      0.9068,
+      0.7535
+    ],
+    "type_id": 11,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_1.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0,
+      0.0,
+      0.7227,
+      0.4041
+    ],
+    "type_id": 11,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_9.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 11,
+    "options": {
+      "A": "[0.675, 0.436, 0.833, 0.518]",
+      "B": "[0.402, 0.482, 0.884, 0.555]",
+      "C": "[0.377, 0.201, 0.482, 0.655]",
+      "D": "[0.0, 0.4151, 0.763, 1.0]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/420704005_new_q_2.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1336,
+      0.4052,
+      0.7967,
+      0.9513
+    ],
+    "type_id": 11,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/420222454_new_q_11.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 10,
+    "options": {
+      "A": "[0.079, 0.717, 0.168, 0.902]",
+      "B": "[0.241, 0.169, 0.947, 0.712]",
+      "C": "[0.155, 0.281, 0.429, 0.299]",
+      "D": "[0.2736, 0.1238, 1.0, 0.8353]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_18.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0113,
+      0.0,
+      1.0,
+      0.6024
+    ],
+    "type_id": 11,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_18.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 3,
+    "options": {
+      "A": "[0.824, 0.199, 0.926, 0.325]",
+      "B": "[0.105, 0.702, 0.44, 0.825]",
+      "C": "[0.3944, 0.2956, 0.7884, 0.969]",
+      "D": "[0.092, 0.201, 0.205, 0.292]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_13.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 17,
+    "options": {
+      "A": "[0.2617, 0.2887, 0.8053, 0.6309]",
+      "B": "[0.65, 0.638, 0.71, 0.819]",
+      "C": "[0.62, 0.835, 0.979, 0.863]",
+      "D": "[0.477, 0.45, 0.893, 0.728]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/yangchengzhuangxiang_new_q_7.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 14,
+    "options": {
+      "A": "[0.019, 0.038, 0.758, 0.149]",
+      "B": "[0.089, 0.055, 0.602, 0.897]",
+      "C": "[0.3983, 0.0, 1.0, 1.0]",
+      "D": "[0.147, 0.039, 0.874, 0.907]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/liangxuzhen_new_q_13.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 4,
+    "options": {
+      "A": "[0.472, 0.04, 0.481, 0.385]",
+      "B": "[0.0, 0.0, 0.6725, 0.4714]",
+      "C": "[0.398, 0.252, 0.547, 0.972]",
+      "D": "[0.63, 0.152, 0.936, 0.936]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/heitazhen_new_q_3.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 7,
+    "options": {
+      "A": "[0.054, 0.933, 0.27, 0.973]",
+      "B": "[0.101, 0.662, 0.77, 0.966]",
+      "C": "[0.153, 0.08, 0.648, 0.93]",
+      "D": "[0.076, 0.2596, 1.0, 1.0]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/fulizhen_new_q_10.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.1402,
+      0.0,
+      1.0,
+      0.7711
+    ],
+    "type_id": 11,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/panshuixiang_new_q_0.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.2974,
+      0.1407,
+      0.6094,
+      0.583
+    ],
+    "type_id": 11,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Rural/piece_images/128_new_q_6.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 20,
+    "options": {
+      "A": "[0.624, 0.062, 0.694, 0.661]",
+      "B": "[0.032, 0.674, 0.942, 0.847]",
+      "C": "[0.219, 0.796, 0.608, 0.847]",
+      "D": "[0.0584, 0.1521, 0.7759, 0.8745]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/huangwutunzhen_new_q_6.png",
+    "question": "Find the most appropriate rectangular angular coordinates that can enclose all the cultivated land in the image. (The upper left corner is xmin, ymin; x is horizontal, y is vertical; both range from 0 to 1)",
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 5,
+    "options": {
+      "A": "[0.27, 0.463, 0.904, 0.662]",
+      "B": "[0.038, 0.11, 0.772, 0.613]",
+      "C": "[0.253, 0.22, 0.315, 0.223]",
+      "D": "[0.4194, 0.2031, 0.6861, 0.5524]"
+    },
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Rural/piece_images/238_new_q_16.png",
+    "question": "Find the corner coordinates of the square that can enclose all the cultivated areas in the image.",
+    "answer": [
+      0.0446,
+      0.0,
+      0.7779,
+      0.6324
+    ],
+    "type_id": 11,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 3,
+    "level3_id": 1
+  }
+]

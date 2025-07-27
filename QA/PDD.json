@@ -1,0 +1,3202 @@
+[
+  {
+    "image_path": "./Leaf_diseases/images/ea1bf9088571bc6ae76d2aa42b351c8b.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/74e32f6b-3bab-49b9-8665-aa8ce546d555___FREC_Pwd.M 0260.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b139bee0-97bd-40ae-80f8-29e472e6b19c___CREC_HLB 7546.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "No, it has Leaf Blight Fungus",
+      "C": "No, it has Late Blight Water Mold",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 99,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/99a2d3c8efd3894164f80aa8a3ce6ecb.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has Spider Mite Damage"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 78,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2c51b21d-6890-491a-9fd0-08fd5628f26f___Matt.S_CG 7598.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3405ee8e88f8b01d30466ce75cf1ee17.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Bacterial Spot",
+      "B": "Yes",
+      "C": "No, it has Spotting Leaf Spot Fungus",
+      "D": "No, it has Scab"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 90,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/df88a9915ea1bcc024f455e7c3d298ee.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has polysora",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Scab",
+      "D": "No, it has Target Spot Bacteria"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/12826416-efc5-49d3-b615-731629c95435___RS_Early.B 7215.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f1cba359-4553-46a7-a1b3-3b6dbbcb81ae___Crnl_L.Mold 7151.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4af097a64fc500b60fa589a94f67f41a.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8e6afe37-0b36-4470-bb3a-bf3bf96475d4___FAM_B.Rot 3521.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "healthy",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/38eec81d80b9c7381f5fa34160598f79.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 76,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1d1ba3d0-5ac6-40ac-93ea-e59845dee598___RS_NLB 4092.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Measles Fungus",
+      "B": "No, it has Tomv",
+      "C": "No, it has Curvularia leaf spot fungus",
+      "D": "No, it has Target Spot Bacteria"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ae2d27f3-37a3-4744-84c5-d7b093798b04___RS_Rust 2348.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/fb947330937bac4a72d81254abe8452d.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 80,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1d389f4a-ac40-4233-8b73-5bbf4428fda2___UF.GRC_YLCV_Lab 01279.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Curvularia leaf spot fungus",
+      "B": "No, it has Spotting Leaf Spot Fungus",
+      "C": "No, it has Leaf Mold Fungus",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d62ec935-6f58-4521-8e07-e107bd5bcd82___Rut._Bact.S 0793.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 81,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/95fb0d37088264b7a04f5ba76570ca0b.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ce6d8f47276781bf555a515b615b15a8.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "Yes",
+      "C": "No, it has Late Blight Fungus",
+      "D": "No, it has dwarf mosaic virus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a60c3801f80a4ca45f59acbecbad62ff.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has YLCV Virus",
+      "B": "No, it has Black Rot Fungus",
+      "C": "No, it has Bacterial Spot",
+      "D": "No, it has zeaemaydis Tehon and Daniels"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/504fee370231cf57c930ba4576d2173c.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has Curvularia leaf spot fungus",
+      "D": "No, it has Target Spot Bacteria"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 77,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ac62dbac92257c9117e055b349a9a331.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Cedar Apple Rust",
+      "B": "No, it has scarab",
+      "C": "No, it has Curvularia leaf spot fungus",
+      "D": "No, it has Scab"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 83,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cf6a12294c83256587546e77272b4705.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Spotting Leaf Spot Fungus",
+      "B": "No, it has Scab",
+      "C": "No, it has Spider Mite Damage",
+      "D": "No, it has Tomv"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b379ab04-3780-4283-b388-2a038b773d79___UF.GRC_YLCV_Lab 01389 - 副本.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 99,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/dbd86b21b4b3209fa077fc28ee812cf0.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/82aa4815b5f7019f068ac7701ff0143c - 副本.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f058c607-09ac-4fe6-ad0f-c957d48bb0ed___RS_HL 4348.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Target Spot Bacteria",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "Yes",
+      "D": "No, it has Powdery Mildew"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/941860dc077cc814e9637e391820c979.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3ef0fb32-97fd-4614-8407-f564e910ea96___RS_HL 5519 1.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "Yes",
+      "C": "No, it has Powdery Mildew",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2bf54e83-c962-4b46-84b1-d5a8a7b686da___RS_HL 5858.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2f6ff6794d576f5f52ac770c5888d12d.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has YLCV Virus",
+      "B": "No, it has Powdery Mildew",
+      "C": "No, it has Late Blight Water Mold",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5fe144774c131573291fea7ff1ca51a8.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "healthy",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/56f9744f-d517-49f5-9c76-0870da25c035___Crnl_L.Mold 6891.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d37f82b2d58c1d3942ae608c41136ab7.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/334fd34b-f4aa-4cc2-9ac9-8b85df65b96c___RS_Early.B 6773.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8403e7ac-4588-4af2-b000-843b1e7fc7a1___RS_Rust 2735.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has scarab",
+      "C": "No, it has polysora",
+      "D": "No, it has Cedar Apple Rust"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 79,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/42f206faa7ddfe41e2f1cd2da814393d.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has Curvularia leaf spot fungus",
+      "C": "No, it has Scab",
+      "D": "No, it has Greening June"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6be7a3688097e1ce9b4d707616a3cfa1.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has zeaemaydis Tehon and Daniels",
+      "B": "No, it has Spider Mite Damage",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1064c2928e2bf40326df485b9ac44480.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3d62fde5ad4899dcabecbe50fcdb6ce9.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has YLCV Virus",
+      "B": "No, it has Leaf Blight Fungus",
+      "C": "No, it has Spotting Leaf Spot Fungus",
+      "D": "No, it has Tomv"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/fee89f0917925f08e3283b82ffd9ef45.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6a0d3076d19ac967b4c87c02bf146346.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Fungus",
+      "B": "Yes",
+      "C": "No, it has Early Blight Fungus",
+      "D": "No, it has Curvularia leaf spot fungus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2ecde13c16a1d1c0cc712283dfbe17e6.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has dwarf mosaic virus",
+      "B": "No, it has Bacterial Spot Bacteria",
+      "C": "No, it has Late Blight Fungus",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/59e6db045cafdad6d565e9451c890fb4.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b24b21e8d88358c79c83a4709f5e4061.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/38afc1811f1ef8e028ea77f057185c85.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Leaf Mold Fungus",
+      "D": "No, it has Bacterial Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ecdeac10-f463-4f66-a264-78c0f69f5ea3___Matt.S_CG 7473.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Curvularia leaf spot fungus",
+      "B": "No, it has Spider Mite Damage",
+      "C": "No, it has Late Blight Fungus",
+      "D": "No, it has Spotting Leaf Spot Fungus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/499cff4dbb6e7d26952028697fe8bc84.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has powdery mildew",
+      "B": "No, it has Early Blight Fungus",
+      "C": "No, it has Cedar Apple Rust",
+      "D": "No, it has Curvularia leaf spot fungus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/76df02fa7c309bd8890755fd6791f01f.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 82,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1ab8f9302866ab9d7e6d1eb13bc8c5a8.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has polysora",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has powdery mildew"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/83165148298cc901b8b3bd9d00b35119.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4daea54f-0aed-4fe1-9194-74f8acc23bc1___RS_HL 5507.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "healthy",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 93,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b011c870-c5a5-4990-9ddd-e00e02613780___FREC_Scab 3493.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Spotting Leaf Spot Fungus",
+      "B": "No, it has Tomv",
+      "C": "No, it has Scab",
+      "D": "No, it has Black Measles Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 100,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/19787f8b-a78e-4cf2-8fb2-3aae59b20c47___RS_HL 0456.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/538f4e9682528f7c4a20201e010468a4.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Frog-eye Spot",
+      "B": "No, it has Cedar Apple Rust",
+      "C": "No, it has Greening June",
+      "D": "No, it has polysora"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b5346dcc-29b8-4d5b-96b2-f013b055b7c7___MD_Powd.M 0442.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Spotting Leaf Spot Fungus",
+      "B": "No, it has Scorch",
+      "C": "No, it has powdery mildew",
+      "D": "No, it has Leaf Blight Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b90794d0f145cf4c7ce2fb881abb462b.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/11e01399-e741-49de-b59c-aa2c2f1a0f66___RS_L.Scorch 1603.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d8ab14288a594983cb3cee951cf5498f.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Late Blight Water Mold",
+      "D": "No, it has Bacterial Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 85,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b3e9794ec7bd87cc97d3523d10ed2ee3.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/56307288-28da-4bb0-9ace-575f84935bcb___UMD_Powd.M 9703.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Fungus",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has Scab",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ab4ccae1274e23e5173f60c5b62879ed.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has Black Rot Fungus",
+      "C": "No, it has Frog-eye Spot",
+      "D": "No, it has Early Blight Fungus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f68a59b32d6155c37617ad1783d50a59.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "Yes",
+      "C": "No, it has powdery mildew",
+      "D": "No, it has Tomv"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9251ae74b1c80135e3f4bea9a8d64083 - 副本.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a7fdf102-4bb3-40d9-b402-c408dbbe8e68___RS_Rust 1823.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has polysora",
+      "D": "No, it has scarab"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 89,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/34c71c3b1b31aa0870733b07a35d338a.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has Scab",
+      "C": "No, it has Greening June",
+      "D": "No, it has Tomv"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9e159df4-2951-459d-850a-bd822b9faf9b___JR_HL 4023.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/55e3aeb1-2c97-4cdd-9b75-8ab8d94c8447___RS_HL 7778.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "No, it has YLCV Virus",
+      "C": "Yes",
+      "D": "No, it has Spotting Leaf Spot Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e1b3535e-675c-4021-a14f-75da349d6127___Com.G_SpM_FL 8757.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9d9bd0524efb63c43c09dac44a8ebc1f.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cd184f39c35156a5e312467d53c2eb45.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4af92c2cc6e5c329b8da43f57e9d6a0c.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has dwarf mosaic virus",
+      "B": "No, it has Scorch",
+      "C": "No, it has Spider Mite Damage",
+      "D": "No, it has Early Blight Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9e159df4-2951-459d-850a-bd822b9faf9b___JR_HL 4023.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has Scorch",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c7e59e8b-80a7-44db-b8ff-626ffaf9edd4___YLCV_GCREC 2875.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has dwarf mosaic virus",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c525571b8026d203410c57570ab99713.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 93,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b9c5a381ded21bf6b183babfedc2368b.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a6f9c3c55924a6cf518c9553d420badc.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has polysora",
+      "B": "No, it has scarab",
+      "C": "No, it has Scab",
+      "D": "No, it has Black Measles Fungus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e1b3535e-675c-4021-a14f-75da349d6127___Com.G_SpM_FL 8757.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has powdery mildew",
+      "B": "No, it has Bacterial Spot Bacteria",
+      "C": "No, it has Spider Mite Damage",
+      "D": "No, it has dwarf mosaic virus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6ca77a76c81193c39f9a9a0a9ec42272.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_182000.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Early Blight Fungus",
+      "B": "No, it has Bacterial Spot Bacteria",
+      "C": "No, it has Curvularia leaf spot fungus",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 80,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2d503c3cf5995d0c908268b4875cb76e.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has YLCV Virus",
+      "B": "No, it has Early Blight Fungus",
+      "C": "No, it has Leaf Mold Fungus",
+      "D": "No, it has Curvularia leaf spot fungus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 82,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4c07844d68fb317ede9be77ea60a20a0.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has polysora",
+      "D": "No, it has Powdery Mildew"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/506c5715244d0b87d270d4ae07f93832.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "No, it has Greening June",
+      "C": "No, it has Tomv",
+      "D": "No, it has Powdery Mildew"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_190708.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has Black Measles Fungus",
+      "C": "No, it has Frog-eye Spot",
+      "D": "No, it has Scorch"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5367e167-14f3-4d65-bd93-4c4b693e0bc7___FREC_C.Rust 4109.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has polysora",
+      "B": "No, it has Black Measles Fungus",
+      "C": "No, it has Late Blight Fungus",
+      "D": "No, it has Cedar Apple Rust"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 96,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/391fc912-874a-4ccd-a397-e64333fba679___UF.GRC_YLCV_Lab 01509.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c0122559-66d7-42db-942b-6da43334c176___RS_HL 7131.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has Greening June",
+      "C": "No, it has Curvularia leaf spot fungus",
+      "D": "No, it has Leaf Blight Fungus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c7c6ae96e65e78879fdd97a40fb00184.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has Greening June",
+      "C": "No, it has Scorch",
+      "D": "No, it has polysora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 84,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c7c6ae96e65e78879fdd97a40fb00184.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/40d334224a1941aafe3dbea63d6fb39a.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "healthy",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 90,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0525060bfcb29853999344cd9fbced1c.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/07dfe4d2372194f7b330d414d4a1e75f.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/576b8c46-13d4-46bd-bd5d-02558395670e___UF.Citrus_HLB_Lab 0831.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4c639d1d91f42b938765e9440a164d52.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 83,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1f84f48c-5088-4c4c-ad8d-010603ff2709___RS_HL 3256.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Water Mold",
+      "B": "No, it has dwarf mosaic virus",
+      "C": "Yes",
+      "D": "No, it has scarab"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1b41b244b694af8840483661c9218c53.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Early Blight Fungus",
+      "B": "No, it has Frog-eye Spot",
+      "C": "No, it has Late Blight Water Mold",
+      "D": "No, it has Black Rot Fungus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 91,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0b7d190e505d8c8e91a505d93850266b_看图王.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Frog-eye Spot",
+      "B": "No, it has Scab",
+      "C": "No, it has Leaf Mold Fungus",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d42287f838f87ac545d0913e7a47f6de.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/25014ae7-b016-430a-b6a6-aa77dc3c4a8a___Mt.N.V_HL 8986.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a35323ee405357f48d75baebbcddc76f.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Bacterial Spot",
+      "B": "No, it has Scorch",
+      "C": "No, it has powdery mildew",
+      "D": "No, it has dwarf mosaic virus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_181811.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "Yes",
+      "C": "No, it has Target Spot Bacteria",
+      "D": "No, it has Tomv"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d7026729-ccc2-4818-b8a4-1e13120a4b7a___Keller.St_CG 1879.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/538f4e9682528f7c4a20201e010468a4.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b1330bff6d2ef979aea585e6dbf1b3ba.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8b50f2db-cbf2-4758-bea6-a011f0cc1497___JR_B.Spot 3235.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9df8462a9581466cb885969fc4a52ea5.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/439ab5172ef1a8843bb09664f86ae4bc.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has zeaemaydis Tehon and Daniels",
+      "B": "No, it has dwarf mosaic virus",
+      "C": "Yes",
+      "D": "No, it has Late Blight Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/04f7f7e4-c94a-4a9f-932f-9e54384a3d01___MD_Powd.M 0153.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 91,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/08ffc7d1-b618-41eb-a633-f7b453f1da03___FAM_L.Blight 4720.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has zeaemaydis Tehon and Daniels"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0b33d7a7-d017-4857-845a-874a004ccd26___RS_Late.B 4970.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Water Mold",
+      "B": "No, it has Bacterial Spot",
+      "C": "No, it has dwarf mosaic virus",
+      "D": "No, it has Tomv"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2691980c-7324-49e2-85b3-dbfa0a283f2a___Mt.N.V_HL 9019.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has powdery mildew",
+      "B": "Yes",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Cedar Apple Rust"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 94,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c02b90e9-753e-44a7-a4b8-1e19f1de42f4___RS_HL 7971.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2ffcdf9e-9cf5-492e-80f8-6f80cd0be7cb___RS_Erly.B 7421.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has Greening June",
+      "C": "No, it has Early Blight Fungus",
+      "D": "No, it has Target Spot Bacteria"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 76,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4daea54f-0aed-4fe1-9194-74f8acc23bc1___RS_HL 5507.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has Spider Mite Damage",
+      "C": "Yes",
+      "D": "No, it has Scorch"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/aad5f483-16a2-4208-ab0b-00bd4df4a03b___JR_B.Spot 3326.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has scarab",
+      "D": "No, it has Tomv"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f49b32b6f9799a59a13d76a0575ad676.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 92,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/376440f84ac9876982d9c58c3654e028.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Leaf Blight Fungus",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has Cedar Apple Rust",
+      "D": "No, it has scarab"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/7439be99b3e137843cdab02798b3ef95.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has Greening June",
+      "C": "No, it has scarab",
+      "D": "No, it has Bacterial Spot"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 98,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a681733fdd85b866953db11c2596fef8.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/175819ccd510279d254670ca60172ed0.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "healthy",
+      "D": "general"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8403e7ac-4588-4af2-b000-843b1e7fc7a1___RS_Rust 2735.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/090643b4cde07420c0625cf60659cf13.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has dwarf mosaic virus",
+      "B": "No, it has Cedar Apple Rust",
+      "C": "No, it has Leaf Mold Fungus",
+      "D": "No, it has Bacterial Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0fd3988f-61a8-4c21-baea-3538755ce745___FAM_B.Msls 3939.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/afcdbeec-902f-435b-8586-5068b63c8189___RS_HL 5812.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d0299a1340a1392c0db0f0fed44c5c41.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/77730acc-705a-4b8f-8e3a-dc70bd348d40___GHLB_PS Leaf 32 Day 13.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Measles Fungus",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has Greening June",
+      "D": "No, it has Bacterial Spot Bacteria"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b825544a-33a3-4bf7-8568-506acca8eaf5___Crnl_L.Mold 8826.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 89,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9fb693a989fe56c3626191c4765df187.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has dwarf mosaic virus",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has Bacterial Spot",
+      "D": "No, it has Scab"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f1fa6e84-2002-4bfa-bd4b-fae24c0bd492___Matt.S_CG 1370.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Leaf Mold Fungus",
+      "B": "No, it has Spotting Leaf Spot Fungus",
+      "C": "No, it has Cedar Apple Rust",
+      "D": "No, it has Bacterial Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0725d8228494f207a38667c74529455b.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "No, it has Frog-eye Spot",
+      "C": "No, it has Bacterial Spot Bacteria",
+      "D": "No, it has Tomv"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/53836353-a6bc-47b7-be89-b409a1be5b4e___RS_Rust 2645.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Bacterial Spot Bacteria",
+      "B": "No, it has polysora",
+      "C": "No, it has Scorch",
+      "D": "No, it has Scab"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/526b3a7c6de3c702e4d6d28288c58f73.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/04f7f7e4-c94a-4a9f-932f-9e54384a3d01___MD_Powd.M 0153.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has powdery mildew",
+      "B": "No, it has Leaf Mold Fungus",
+      "C": "No, it has dwarf mosaic virus",
+      "D": "No, it has Scab"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9718ddc7-7afb-40e4-b94a-bf86c9e0beea___GHLB2 Leaf 8642.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Measles Fungus",
+      "B": "No, it has Powdery Mildew",
+      "C": "No, it has Bacterial Spot Bacteria",
+      "D": "No, it has Late Blight Water Mold"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 88,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/476e6aa3-ad1e-4f86-abea-c37dfb3f8df9___RS_HL 0522.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c5e8b581-45e1-4164-9a0a-4719a79264c2___RS_HL 4452.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "healthy",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 88,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/493523c6-c658-4c8f-bc8c-0ac673d396c7___JR_HL 7662.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "healthy",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "general"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5ada96db-43de-4510-8c10-eaaebb106c0c___RS_Early.B 7216.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "general",
+      "C": "healthy",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/76b88916-5ecd-4ce5-8473-bea626b0e2ac___RS_HL 4172.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Greening June",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has dwarf mosaic virus",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d7578840fde31ec974a5582798ceeb51.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 86,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6f24e55f7df8e51d792eec1034df90b1.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has YLCV Virus",
+      "B": "No, it has Spotting Leaf Spot Fungus",
+      "C": "No, it has Black Rot Fungus",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e3eead59-f821-41dd-9794-ba3ad35c71c7___JR_FrgE.S 2937.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scab",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Late Blight Fungus",
+      "D": "No, it has Frog-eye Spot"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5f0d36970c988875475f9c9f3a1c71ef.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Target Spot Bacteria",
+      "B": "No, it has scarab",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Tomv"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cf2880f0-dd62-4c28-a389-61d1dbf95821___Rutg._Bact.S 1831.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 100,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1122ce37-d8a9-451e-b78c-841200726e0b___JR_HL 4204.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "Yes",
+      "C": "No, it has polysora",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e7e8036edd14c9602b1e01bca9fc6b21.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Spider Mite Damage",
+      "B": "No, it has Bacterial Spot Bacteria",
+      "C": "No, it has Frog-eye Spot",
+      "D": "No, it has Black Measles Fungus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 87,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ac52213f-6cf5-48a3-94dc-3fffb01b38d4___CREC_HLB 4678.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Water Mold",
+      "B": "No, it has Leaf Mold Fungus",
+      "C": "Yes",
+      "D": "No, it has Greening June"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3ef0fb32-97fd-4614-8407-f564e910ea96___RS_HL 5519 1.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/04c912dc-3e26-43ff-a6e3-69de49a6e529___JR_Sept.L.S 8519.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/7fd2f20cf6bef9ae966419bad99df5f8.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/43a40a416d14c9f9808de062360f5a2d.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e1a19a032fcedd163422422da65b517a.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/392dc882-aab1-47e7-bd86-efc3506ce047___CREC_HLB 6571.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has Greening June",
+      "C": "No, it has zeaemaydis Tehon and Daniels",
+      "D": "No, it has Spotting Leaf Spot Fungus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0bab9e95ed44d3bbbddbe6a3c36b1895.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 84,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b73e2e547e3b946dfdf1d9d73a189b45.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Fungus",
+      "B": "Yes",
+      "C": "No, it has Cedar Apple Rust",
+      "D": "No, it has polysora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3cbdecf2-1139-457e-ae80-12a504806b78___FAM_B.Rot 3294.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 77,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0618b46e-b4fb-4069-9b95-6c6c2387688a___R.S_HL 0609 copy 3.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Leaf Blight Fungus",
+      "B": "No, it has Greening June",
+      "C": "No, it has dwarf mosaic virus",
+      "D": "No, it has Late Blight Water Mold"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/90a12158-1212-4a7c-a279-019a63d02b87___UF.Citrus_HLB_Lab 9637.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Target Spot Bacteria",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Greening June"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 81,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3021c8f705642a759f78c501104b441f.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ff4c0895-3845-44ef-ae28-3dc77a06a4e1___UF.Citrus_HLB_Lab 0201.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/201ada31-7b91-42c1-a245-4d37df0b2c52___Crnl_L.Mold 8742.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/aee5160fe76348f2cb409cbbe15137e7.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Cedar Apple Rust",
+      "B": "No, it has Black Measles Fungus",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Scorch"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 86,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/75bb2a58655b04354cd4192593fa142c.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "serious",
+      "D": "general"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c6c3b881-6770-4bcc-8262-cc0f0b85b121___Keller.St_CG 2037.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 78,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/70be307a7d9a5fc460468302750af68b.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Bacterial Spot",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has Black Rot Fungus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2ef5c988bd924b77d747fc7783d3af92.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Late Blight Fungus",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "Yes",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9995dbcc9ecf90d752a97bccc4f3e9a4.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scab",
+      "B": "Yes",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has powdery mildew"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/caf3fab69067f12d205802ff0764e44b.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has scarab",
+      "B": "No, it has Greening June",
+      "C": "No, it has Leaf Blight Fungus",
+      "D": "No, it has Scab"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/548948f4-0c1b-4deb-8f13-c0a5c9134f52___UF.GRC_YLCV_Lab 09502.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/df53547e-28ef-4619-8b01-aa2d50e6c8b3___JR_HL 8733.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 85,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4f7c8fa5-f8cf-4b64-aaff-14d4a1c2cb27___RS_HL 7421.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Curvularia leaf spot fungus",
+      "B": "No, it has Late Blight Fungus",
+      "C": "No, it has Scab",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cf507d7d-0635-4123-8988-fcd92ed17d76___JR_HL 7968.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Bacterial Spot",
+      "B": "No, it has Black Measles Fungus",
+      "C": "Yes",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/39de939bdf09aa70a753eda5c86de015.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has powdery mildew",
+      "C": "No, it has Black Measles Fungus",
+      "D": "No, it has YLCV Virus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4fca1600-ca6b-4141-b890-7577b733be62___Rutg._Bact.S 2113.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e25dd154bd22e173760858b4eee7c1ca.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Curvularia leaf spot fungus",
+      "B": "No, it has Tomv",
+      "C": "No, it has Greening June",
+      "D": "No, it has Late Blight Fungus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3549996e62a901695b1377c7a65f1242.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has scarab",
+      "C": "No, it has powdery mildew",
+      "D": "No, it has polysora"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/fd605bc7848af7574d65e4e4bad91bd2.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "serious",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "healthy"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 94,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/dfc9d24d0cf310bdf0151e05ad9085b8.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "Yes",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Powdery Mildew",
+      "D": "No, it has Spotting Leaf Spot Fungus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/67feeb9f17bb85866a24b148535c2929.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 96,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c161c91d8e960c850b9db2688e797b49.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 97,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cb82648e-af22-4475-894a-a215c8d8c09e___JR_HL 3976.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Frog-eye Spot",
+      "B": "Yes",
+      "C": "No, it has Spider Mite Damage",
+      "D": "No, it has Tomv"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 95,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6da5be60efbd758713ed62fe43f6c291.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/7162cc3f-21ca-4196-b967-10376a4940d9___YLCV_GCREC 2844.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Tomv",
+      "B": "No, it has YLCV Virus",
+      "C": "No, it has Late Blight Fungus",
+      "D": "No, it has polysora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 97,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d88ba1e3ff80e135e0c778dac25507d6.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 87,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2db3c3a27fb6580ffcbb8806efc6bfea.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Scorch",
+      "B": "No, it has Cedar Apple Rust",
+      "C": "No, it has Black Rot Fungus",
+      "D": "No, it has Powdery Mildew"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 92,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ba228541-4441-4e15-9d4d-7cd4aababf12___Com.G_SpM_FL 8453.JPG",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 95,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/24e615133aa0d1f68169cb4dbc3b5b61.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Black Rot Fungus",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has Bacterial Spot Bacteria",
+      "D": "No, it has Greening June"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a81b3ccbaea01ba5dda031ae556b8701.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "healthy",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 98,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d05283940784ebc00051a9d90a1bcd22.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "serious",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 79,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ce3ae9735e690d967ed007aca6a32c67.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_181041.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "general",
+      "C": "serious",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/89c134ee-41f7-46b7-b4dc-4229b3b3ca08___GHLB2 Leaf 8952.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has powdery mildew",
+      "B": "No, it has Late Blight Water Mold",
+      "C": "No, it has Target Spot Bacteria",
+      "D": "No, it has polysora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ff0ff989-d576-4837-9026-b0c2d629585a___CREC_HLB 5005.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Powdery Mildew",
+      "B": "No, it has zeaemaydis Tehon and Daniels",
+      "C": "No, it has Greening June",
+      "D": "No, it has Scab"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2d9ed34ae7dbb10ec47e4932ce69b5bd.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "serious",
+      "C": "general",
+      "D": "It's diseased, but the status is almost negligible"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c4b20c747bc24841ac74247170775ff4.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "general",
+      "B": "healthy",
+      "C": "It's diseased, but the status is almost negligible",
+      "D": "serious"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/87703f0b04fd7f33def9ae52a64260ad.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "It's diseased, but the status is almost negligible",
+      "B": "general",
+      "C": "serious",
+      "D": "healthy"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/17dd7abaeaac0c6def07fb6b1e8eff45.jpg",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Spider Mite Damage",
+      "B": "No, it has scarab",
+      "C": "No, it has Scab",
+      "D": "Yes"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4396fc84-fea6-4cfd-a352-01241e44efda___NREC_B.Spot 1927.JPG",
+    "question": "Is the leaf healthy? If not, what disease does it have?",
+    "options": {
+      "A": "No, it has Target Spot Bacteria",
+      "B": "No, it has Early Blight Fungus",
+      "C": "No, it has scarab",
+      "D": "No, it has Tomv"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6e81df28b3299932249e7d7ee48fa488.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "serious",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "general",
+      "D": "healthy"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3db941cbd522c479abca640d81146717.jpg",
+    "question": "What is the health status of the leaves in the picture?",
+    "options": {
+      "A": "healthy",
+      "B": "It's diseased, but the status is almost negligible",
+      "C": "serious",
+      "D": "general"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 2,
+    "level2_id": 2,
+    "level3_id": 2
+  }
+]

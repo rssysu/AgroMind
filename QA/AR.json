@@ -1,0 +1,2424 @@
+[
+  {
+    "image_path": "./Agriculture/images/D74ZRGWTJ_743-5270-1255-5782.jpg",
+    "type_id": 9,
+    "item_id": 7,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "A",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/T89JYE12U_991-882-1503-1394.jpg",
+    "type_id": 9,
+    "item_id": 61,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/A2GW8JMYA_2327-15717-2839-16229.jpg",
+    "type_id": 9,
+    "item_id": 38,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Vitis?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP071002571.jpg",
+      "B": "./Pest/JPEGImages/IP096000175.jpg",
+      "C": "./Pest/JPEGImages/IP072000571.jpg",
+      "D": "./Pest/JPEGImages/IP016000081.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 43,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/C2NCM9HN7_2296-1027-2808-1539.jpg",
+    "type_id": 9,
+    "item_id": 27,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/29PWCB1DI_3986-2903-4498-3415.jpg",
+    "type_id": 9,
+    "item_id": 69,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP095000353.jpg",
+      "B": "./Pest/JPEGImages/IP101000098.jpg",
+      "C": "./Pest/JPEGImages/IP102000697.jpg",
+      "D": "./Pest/JPEGImages/IP102001529.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP069000291.jpg",
+      "B": "./Pest/JPEGImages/IP024003716.jpg",
+      "C": "./Pest/JPEGImages/IP038000396.jpg",
+      "D": "./Pest/JPEGImages/IP052000640.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/Y2GN8Z1YE_962-15622-1474-16134.jpg",
+    "type_id": 9,
+    "item_id": 2,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP040000443.jpg",
+      "B": "./Pest/JPEGImages/IP085000221.jpg",
+      "C": "./Pest/JPEGImages/IP097000036.jpg",
+      "D": "./Pest/JPEGImages/IP065000118.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/VUPDG86D2_928-731-1440-1243.jpg",
+    "type_id": 9,
+    "item_id": 28,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/X6AKKXU19_5905-4367-6417-4879.jpg",
+    "type_id": 9,
+    "item_id": 14,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Corn?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP022000192.jpg",
+      "B": "./Pest/JPEGImages/IP039000461.jpg",
+      "C": "./Pest/JPEGImages/IP047000348.jpg",
+      "D": "./Pest/JPEGImages/IP059000155.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP022001048.jpg",
+      "B": "./Pest/JPEGImages/IP050000063.jpg",
+      "C": "./Pest/JPEGImages/IP071000743.jpg",
+      "D": "./Pest/JPEGImages/IP039000589.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 54,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/NUNZ2EUCC_5678-1201-6190-1713.jpg",
+    "type_id": 9,
+    "item_id": 35,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/NWTIEC88G_3553-1666-4065-2178.jpg",
+    "type_id": 9,
+    "item_id": 3,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/8ENFEUT7N_2609-1582-3121-2094.jpg",
+    "type_id": 9,
+    "item_id": 4,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/X6AKKXU19_5662-4796-6174-5308.jpg",
+    "type_id": 9,
+    "item_id": 65,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/XD6GQK3HF_426-4525-938-5037.jpg",
+    "type_id": 9,
+    "item_id": 46,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Corn?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102005469.jpg",
+      "B": "./Pest/JPEGImages/IP047000150.jpg",
+      "C": "./Pest/JPEGImages/IP017000136.jpg",
+      "D": "./Pest/JPEGImages/IP054000189.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/WVLNWZ83A_3263-7465-3775-7977.jpg",
+    "type_id": 9,
+    "item_id": 16,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Vitis?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP068001344.jpg",
+      "B": "./Pest/JPEGImages/IP015000558.jpg",
+      "C": "./Pest/JPEGImages/IP101000129.jpg",
+      "D": "./Pest/JPEGImages/IP062000072.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 50,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP023000608.jpg",
+      "B": "./Pest/JPEGImages/IP033000056.jpg",
+      "C": "./Pest/JPEGImages/IP102005460.jpg",
+      "D": "./Pest/JPEGImages/IP071000203.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/6JRU99W1I_7288-2467-7800-2979.jpg",
+    "type_id": 9,
+    "item_id": 6,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP059001109.jpg",
+      "B": "./Pest/JPEGImages/IP067000164.jpg",
+      "C": "./Pest/JPEGImages/IP038000410.jpg",
+      "D": "./Pest/JPEGImages/IP071003542.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/WVLNWZ83A_3656-4657-4168-5169.jpg",
+    "type_id": 9,
+    "item_id": 50,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP097000004.jpg",
+      "B": "./Pest/JPEGImages/IP015001208.jpg",
+      "C": "./Pest/JPEGImages/IP035000191.jpg",
+      "D": "./Pest/JPEGImages/IP087000901.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/U79N6TQYE_7086-2941-7598-3453.jpg",
+    "type_id": 9,
+    "item_id": 73,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/6LQNA2P7Z_5217-3627-5729-4139.jpg",
+    "type_id": 9,
+    "item_id": 32,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP015000943.jpg",
+      "B": "./Pest/JPEGImages/IP010000572.jpg",
+      "C": "./Pest/JPEGImages/IP068001899.jpg",
+      "D": "./Pest/JPEGImages/IP085000437.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/VPDZMN9XK_4091-7984-4603-8496.jpg",
+    "type_id": 9,
+    "item_id": 24,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/ECLFL7M7P_635-7018-1147-7530.jpg",
+    "type_id": 9,
+    "item_id": 43,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP025000112.jpg",
+      "B": "./Pest/JPEGImages/IP042000171.jpg",
+      "C": "./Pest/JPEGImages/IP102005109.jpg",
+      "D": "./Pest/JPEGImages/IP070000954.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 53,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/X4LG6KQK6_2965-2362-3477-2874.jpg",
+    "type_id": 9,
+    "item_id": 49,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP099000058.jpg",
+      "B": "./Pest/JPEGImages/IP022000186.jpg",
+      "C": "./Pest/JPEGImages/IP093000259.jpg",
+      "D": "./Pest/JPEGImages/IP084000038.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP024003731.jpg",
+      "B": "./Pest/JPEGImages/IP101000309.jpg",
+      "C": "./Pest/JPEGImages/IP008000703.jpg",
+      "D": "./Pest/JPEGImages/IP030000257.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP046000529.jpg",
+      "B": "./Pest/JPEGImages/IP040000201.jpg",
+      "C": "./Pest/JPEGImages/IP071000578.jpg",
+      "D": "./Pest/JPEGImages/IP047000633.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 41,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Corn?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP096000409.jpg",
+      "B": "./Pest/JPEGImages/IP016000557.jpg",
+      "C": "./Pest/JPEGImages/IP020000030.jpg",
+      "D": "./Pest/JPEGImages/IP071001229.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/EB29I2AK8_3432-2848-3944-3360.jpg",
+    "type_id": 9,
+    "item_id": 18,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102003011.jpg",
+      "B": "./Pest/JPEGImages/IP059001129.jpg",
+      "C": "./Pest/JPEGImages/IP055000417.jpg",
+      "D": "./Pest/JPEGImages/IP051000702.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 57,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Rice?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP050000111.jpg",
+      "B": "./Pest/JPEGImages/IP039000596.jpg",
+      "C": "./Pest/JPEGImages/IP050000356.jpg",
+      "D": "./Pest/JPEGImages/IP009000148.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/FYW1NTJDF_1933-4033-2445-4545.jpg",
+    "type_id": 9,
+    "item_id": 48,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/J4IXXECHN_1074-3640-1586-4152.jpg",
+    "type_id": 9,
+    "item_id": 34,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP038000016.jpg",
+      "B": "./Pest/JPEGImages/IP007000598.jpg",
+      "C": "./Pest/JPEGImages/IP102001912.jpg",
+      "D": "./Pest/JPEGImages/IP084000058.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP097000053.jpg",
+      "B": "./Pest/JPEGImages/IP014000071.jpg",
+      "C": "./Pest/JPEGImages/IP025000099.jpg",
+      "D": "./Pest/JPEGImages/IP071000707.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/NYIXWWPDF_5226-1336-5738-1848.jpg",
+    "type_id": 9,
+    "item_id": 29,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/WF2P27MI9_693-2850-1205-3362.jpg",
+    "type_id": 9,
+    "item_id": 26,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP101000307.jpg",
+      "B": "./Pest/JPEGImages/IP046000488.jpg",
+      "C": "./Pest/JPEGImages/IP100000484.jpg",
+      "D": "./Pest/JPEGImages/IP049000667.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/PFGHUDVXM_7665-4949-8177-5461.jpg",
+    "type_id": 9,
+    "item_id": 52,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/8XB4EUWI1_5999-10561-6511-11073.jpg",
+    "type_id": 9,
+    "item_id": 59,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Rice?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP007000156.jpg",
+      "B": "./Pest/JPEGImages/IP010000637.jpg",
+      "C": "./Pest/JPEGImages/IP069000898.jpg",
+      "D": "./Pest/JPEGImages/IP051000855.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP049000495.jpg",
+      "B": "./Pest/JPEGImages/IP052001075.jpg",
+      "C": "./Pest/JPEGImages/IP024001412.jpg",
+      "D": "./Pest/JPEGImages/IP046000234.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/P7AV2CW67_3352-6925-3864-7437.jpg",
+    "type_id": 9,
+    "item_id": 21,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/FRJDLHY8X_3188-1636-3700-2148.jpg",
+    "type_id": 9,
+    "item_id": 17,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "E"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP040000068.jpg",
+      "B": "./Pest/JPEGImages/IP039000064.jpg",
+      "C": "./Pest/JPEGImages/IP102005630.jpg",
+      "D": "./Pest/JPEGImages/IP032000023.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/IXIYJWE6L_3154-3757-3666-4269.jpg",
+    "type_id": 9,
+    "item_id": 13,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/HGGRCHZKT_3818-1674-4330-2186.jpg",
+    "type_id": 9,
+    "item_id": 30,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/71T6XLF4T_2234-1038-2746-1550.jpg",
+    "type_id": 9,
+    "item_id": 56,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102003456.jpg",
+      "B": "./Pest/JPEGImages/IP024000547.jpg",
+      "C": "./Pest/JPEGImages/IP039000756.jpg",
+      "D": "./Pest/JPEGImages/IP044000158.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/FYJB9376P_1388-557-1900-1069.jpg",
+    "type_id": 9,
+    "item_id": 51,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/PATUBUNUY_8097-3433-8609-3945.jpg",
+    "type_id": 9,
+    "item_id": 22,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/NUNZ2EUCC_5234-2913-5746-3425.jpg",
+    "type_id": 9,
+    "item_id": 44,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP038000131.jpg",
+      "B": "./Pest/JPEGImages/IP048000075.jpg",
+      "C": "./Pest/JPEGImages/IP049000479.jpg",
+      "D": "./Pest/JPEGImages/IP004000008.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/PFGHUDVXM_6723-4440-7235-4952.jpg",
+    "type_id": 9,
+    "item_id": 71,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/6GDCTNWXY_5489-2831-6001-3343.jpg",
+    "type_id": 9,
+    "item_id": 54,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Vitis?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP072000257.jpg",
+      "B": "./Pest/JPEGImages/IP102004705.jpg",
+      "C": "./Pest/JPEGImages/IP102005302.jpg",
+      "D": "./Pest/JPEGImages/IP074000394.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102003492.jpg",
+      "B": "./Pest/JPEGImages/IP100000384.jpg",
+      "C": "./Pest/JPEGImages/IP102004369.jpg",
+      "D": "./Pest/JPEGImages/IP029000493.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 55,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP074000062.jpg",
+      "B": "./Pest/JPEGImages/IP015001323.jpg",
+      "C": "./Pest/JPEGImages/IP029000485.jpg",
+      "D": "./Pest/JPEGImages/IP024002885.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/L8H19QDM6_3079-1754-3591-2266.jpg",
+    "type_id": 9,
+    "item_id": 64,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/HJ44YYDWF_1290-4221-1802-4733.jpg",
+    "type_id": 9,
+    "item_id": 9,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102002121.jpg",
+      "B": "./Pest/JPEGImages/IP052000623.jpg",
+      "C": "./Pest/JPEGImages/IP082000004.jpg",
+      "D": "./Pest/JPEGImages/IP048000186.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 47,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/4KTMNU1T3_5278-2300-5790-2812.jpg",
+    "type_id": 9,
+    "item_id": 5,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/D74ZRGWTJ_2279-6294-2791-6806.jpg",
+    "type_id": 9,
+    "item_id": 57,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/42DT9R2QN_2207-7952-2719-8464.jpg",
+    "type_id": 9,
+    "item_id": 8,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/XQ64HH2IN_2990-939-3502-1451.jpg",
+    "type_id": 9,
+    "item_id": 66,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/3D7CVWEG3_4821-3058-5333-3570.jpg",
+    "type_id": 9,
+    "item_id": 23,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP046000834.jpg",
+      "B": "./Pest/JPEGImages/IP071001188.jpg",
+      "C": "./Pest/JPEGImages/IP039000188.jpg",
+      "D": "./Pest/JPEGImages/IP001000057.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 45,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Rice?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP067000757.jpg",
+      "B": "./Pest/JPEGImages/IP024001548.jpg",
+      "C": "./Pest/JPEGImages/IP007000646.jpg",
+      "D": "./Pest/JPEGImages/IP052000376.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/6JRU99W1I_6211-3162-6723-3674.jpg",
+    "type_id": 9,
+    "item_id": 63,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/G9CZQFLMA_3931-1858-4443-2370.jpg",
+    "type_id": 9,
+    "item_id": 33,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/G2TW7ZUP9_1504-2494-2016-3006.jpg",
+    "type_id": 9,
+    "item_id": 40,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/UYY79YV6N_3571-7537-4083-8049.jpg",
+    "type_id": 9,
+    "item_id": 37,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102001959.jpg",
+      "B": "./Pest/JPEGImages/IP057000447.jpg",
+      "C": "./Pest/JPEGImages/IP100000187.jpg",
+      "D": "./Pest/JPEGImages/IP067000611.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP080000036.jpg",
+      "B": "./Pest/JPEGImages/IP075000359.jpg",
+      "C": "./Pest/JPEGImages/IP071003495.jpg",
+      "D": "./Pest/JPEGImages/IP016000285.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP095000434.jpg",
+      "B": "./Pest/JPEGImages/IP035000036.jpg",
+      "C": "./Pest/JPEGImages/IP014000697.jpg",
+      "D": "./Pest/JPEGImages/IP102005688.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/NYIXWWPDF_4714-2360-5226-2872.jpg",
+    "type_id": 9,
+    "item_id": 39,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP026000621.jpg",
+      "B": "./Pest/JPEGImages/IP035000265.jpg",
+      "C": "./Pest/JPEGImages/IP087001184.jpg",
+      "D": "./Pest/JPEGImages/IP036000088.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP000000383.jpg",
+      "B": "./Pest/JPEGImages/IP041000091.jpg",
+      "C": "./Pest/JPEGImages/IP011000382.jpg",
+      "D": "./Pest/JPEGImages/IP102000613.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP028000251.jpg",
+      "B": "./Pest/JPEGImages/IP049000218.jpg",
+      "C": "./Pest/JPEGImages/IP102003523.jpg",
+      "D": "./Pest/JPEGImages/IP071001300.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 49,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP049000439.jpg",
+      "B": "./Pest/JPEGImages/IP079000048.jpg",
+      "C": "./Pest/JPEGImages/IP080000207.jpg",
+      "D": "./Pest/JPEGImages/IP102000722.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/XQ3IEWURW_613-1844-1125-2356.jpg",
+    "type_id": 9,
+    "item_id": 1,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/LLKUGCFKV_1605-723-2117-1235.jpg",
+    "type_id": 9,
+    "item_id": 60,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP022000427.jpg",
+      "B": "./Pest/JPEGImages/IP058000103.jpg",
+      "C": "./Pest/JPEGImages/IP041000298.jpg",
+      "D": "./Pest/JPEGImages/IP015000481.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/C2NCM9HN7_2776-6488-3288-7000.jpg",
+    "type_id": 9,
+    "item_id": 10,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/6LQNA2P7Z_5428-3305-5940-3817.jpg",
+    "type_id": 9,
+    "item_id": 25,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP035000055.jpg",
+      "B": "./Pest/JPEGImages/IP015000695.jpg",
+      "C": "./Pest/JPEGImages/IP075000014.jpg",
+      "D": "./Pest/JPEGImages/IP001000429.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 52,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/NZ9MAMQG8_6748-4630-7260-5142.jpg",
+    "type_id": 9,
+    "item_id": 70,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Vitis?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP048000171.jpg",
+      "B": "./Pest/JPEGImages/IP048000055.jpg",
+      "C": "./Pest/JPEGImages/IP094000213.jpg",
+      "D": "./Pest/JPEGImages/IP066000092.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP018000845.jpg",
+      "B": "./Pest/JPEGImages/IP069000840.jpg",
+      "C": "./Pest/JPEGImages/IP049001057.jpg",
+      "D": "./Pest/JPEGImages/IP016000183.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 46,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/WVLNWZ83A_5536-5968-6048-6480.jpg",
+    "type_id": 9,
+    "item_id": 68,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Wheat?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP051001301.jpg",
+      "B": "./Pest/JPEGImages/IP033000207.jpg",
+      "C": "./Pest/JPEGImages/IP102004281.jpg",
+      "D": "./Pest/JPEGImages/IP051000851.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/I9I41RH3G_5469-7529-5981-8041.jpg",
+    "type_id": 9,
+    "item_id": 12,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP048000725.jpg",
+      "B": "./Pest/JPEGImages/IP071004885.jpg",
+      "C": "./Pest/JPEGImages/IP096000089.jpg",
+      "D": "./Pest/JPEGImages/IP097000083.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 44,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102004249.jpg",
+      "B": "./Pest/JPEGImages/IP085000244.jpg",
+      "C": "./Pest/JPEGImages/IP091000152.jpg",
+      "D": "./Pest/JPEGImages/IP035000198.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/8ENFEUT7N_11680-5742-12192-6254.jpg",
+    "type_id": 9,
+    "item_id": 20,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP071002034.jpg",
+      "B": "./Pest/JPEGImages/IP102003457.jpg",
+      "C": "./Pest/JPEGImages/IP051000046.jpg",
+      "D": "./Pest/JPEGImages/IP074000428.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/MQ894WR89_1969-10520-2481-11032.jpg",
+    "type_id": 9,
+    "item_id": 19,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/Z61VPDCGP_4932-7251-5444-7763.jpg",
+    "type_id": 9,
+    "item_id": 36,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/JZK83CJWD_2828-784-3340-1296.jpg",
+    "type_id": 9,
+    "item_id": 62,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/X6AKKXU19_2280-5360-2792-5872.jpg",
+    "type_id": 9,
+    "item_id": 45,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/GFTW7X6C6_1039-4010-1551-4522.jpg",
+    "type_id": 9,
+    "item_id": 42,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/H9I7QHGV3_7741-4153-8253-4665.jpg",
+    "type_id": 9,
+    "item_id": 41,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102000906.jpg",
+      "B": "./Pest/JPEGImages/IP089000229.jpg",
+      "C": "./Pest/JPEGImages/IP005000262.jpg",
+      "D": "./Pest/JPEGImages/IP051000573.jpg"
+    },
+    "answer": "B",
+    "type_id": 4,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/DZ2LH4HCL_5170-3498-5682-4010.jpg",
+    "type_id": 9,
+    "item_id": 11,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/D62V2ITVG_4712-3208-5224-3720.jpg",
+    "type_id": 9,
+    "item_id": 58,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/QUVX9VRLT_1176-988-1688-1500.jpg",
+    "type_id": 9,
+    "item_id": 72,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/UYY79YV6N_3166-856-3678-1368.jpg",
+    "type_id": 9,
+    "item_id": 31,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Alfalfa?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP049000910.jpg",
+      "B": "./Pest/JPEGImages/IP096000332.jpg",
+      "C": "./Pest/JPEGImages/IP102005535.jpg",
+      "D": "./Pest/JPEGImages/IP040001367.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 51,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/7EMEVA1HK_3119-705-3631-1217.jpg",
+    "type_id": 9,
+    "item_id": 55,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "E",
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP023000242.jpg",
+      "B": "./Pest/JPEGImages/IP067000659.jpg",
+      "C": "./Pest/JPEGImages/IP001000275.jpg",
+      "D": "./Pest/JPEGImages/IP037000091.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 56,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/T89JYE12U_20546-3943-21058-4455.jpg",
+    "type_id": 9,
+    "item_id": 67,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Vitis?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP102003501.jpg",
+      "B": "./Pest/JPEGImages/IP043000103.jpg",
+      "C": "./Pest/JPEGImages/IP022000904.jpg",
+      "D": "./Pest/JPEGImages/IP062000072.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 42,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/I9I41RH3G_2800-763-3312-1275.jpg",
+    "type_id": 9,
+    "item_id": 53,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Agriculture/images/7GIB3YDF8_1751-5844-2263-6356.jpg",
+    "type_id": 9,
+    "item_id": 47,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "F"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP049000673.jpg",
+      "B": "./Pest/JPEGImages/IP020000354.jpg",
+      "C": "./Pest/JPEGImages/IP102005193.jpg",
+      "D": "./Pest/JPEGImages/IP074000161.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP071003496.jpg",
+      "B": "./Pest/JPEGImages/IP052000307.jpg",
+      "C": "./Pest/JPEGImages/IP024000851.jpg",
+      "D": "./Pest/JPEGImages/IP041000212.jpg"
+    },
+    "answer": "D",
+    "type_id": 4,
+    "item_id": 48,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/GU71M6KBB_1777-3811-2289-4323.jpg",
+    "type_id": 9,
+    "item_id": 74,
+    "question": "which 2 anomalous areas are in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B",
+      "E"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Citrus?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP074000045.jpg",
+      "B": "./Pest/JPEGImages/IP102003420.jpg",
+      "C": "./Pest/JPEGImages/IP080000104.jpg",
+      "D": "./Pest/JPEGImages/IP077000389.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Agriculture/images/AXIIFTLI1_1390-8029-1902-8541.jpg",
+    "type_id": 9,
+    "item_id": 15,
+    "question": "which anomalous area is in this image of farmland?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Mango?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP071003280.jpg",
+      "B": "./Pest/JPEGImages/IP100000471.jpg",
+      "C": "./Pest/JPEGImages/IP099000056.jpg",
+      "D": "./Pest/JPEGImages/IP035000327.jpg"
+    },
+    "answer": "C",
+    "type_id": 4,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image contains a pest that causes yield reduction in Beet?",
+    "options": {
+      "A": "./Pest/JPEGImages/IP039000321.jpg",
+      "B": "./Pest/JPEGImages/IP067000247.jpg",
+      "C": "./Pest/JPEGImages/IP051000073.jpg",
+      "D": "./Pest/JPEGImages/IP024003430.jpg"
+    },
+    "answer": "A",
+    "type_id": 4,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 2,
+    "level3_id": 2
+  }
+]

@@ -1,0 +1,2692 @@
+[
+  {
+    "image_path": "./corn/images/image_0015.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/8e1106e9-8f95-43f8-b7c6-9077be6e0a74___Rutg._Bact.S 1302.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 79,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0137.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0144.jpg",
+    "question": "How many tassels in the Middle-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_16_2592.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.80m",
+      "B": "3.84m",
+      "C": "6.96m",
+      "D": "6.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/0396e413-e165-427a-ba72-04cbae7b8ab0___RS_LB 4751_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 95,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0136.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/12d72127-7880-4481-b3c6-caff04116a86___RS_LB 2632.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 68,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0153.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0128.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0089.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0088.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_3041_2847.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.08m",
+      "B": "2.32m",
+      "C": "10.96m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/accd43fa-2496-47ad-a24b-81da9e5f82b7___FREC_C.Rust 3783_new30degFlipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 90,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/ea119d19-1b3a-4767-af1d-e8b148a3bb8d___FREC_C.Rust 3579_270deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 63,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/394ebb8a-49b8-4122-bd81-f3c862491db9___RS_Erly.B 7513_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 58,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0172.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 61,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/ea0c20e8-ad9f-48a0-830c-280dbeeed370___GHLB_PS Leaf 48.1 Day 18.jpg",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/957be08a-9b4f-4c28-9908-622fdb996f1c___RS_Erly.B 7591_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 94,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/065fc68f-88c9-4fc3-b0a6-a6f5e1072eaa___RS_Early.B 7174.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_1688_2885.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_726_2853.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1914_2110.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "5.68m",
+      "C": "4.64m",
+      "D": "4.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0143.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/b5a0a901-c085-4c41-9453-cba05fc7c166___Rutg._Bact.S 1998.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 69,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_16000_2116_3579.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_16000_691_420.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0177.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0057.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/de27bd5c-d08e-4815-8e31-3a2e497065d2___GHLB2 Leaf 8748.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/32faaa6b-a893-49fc-9669-d197298a9f97___Rut._Bact.S 1465.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 100,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/50e1906e-24da-493d-88b0-3110e778a26a___Crnl_L.Mold 7135_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 86,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_2891_2770.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_1993_92.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/f519ceb3-e49b-4be9-81fa-20fea299b49e___Crnl_L.Mold 9088_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 51,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/fcbc5323-1679-416c-bb10-534e686f21bd___RS_Erly.B 7801.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 70,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/726f2717-235a-45cf-8a0b-ba76b5e54771___FAM_B.Rot 3217_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/90ef5d0f-2546-415e-aef4-daf452fec1be___FAM_B.Rot 3387.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/a6354a2d-dadd-4aab-b14a-2eb90a1cfec2___Crnl_L.Mold 7048_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0021.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/6d2d1e82-01f1-451f-83d8-18fd6c7b9b95___RS_L.Scorch 1522_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 109,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/203d84bc-4acc-4cad-b4f9-f659ae641876___RS_Erly.B 7615.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 55,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0039.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 58,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0103.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 65,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/c101232e-6487-495c-ad3a-27cd1e5fb2b9___RS_LB 2573_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 59,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/8a2c7dda-c639-47f2-8f10-3bd33d24a08e___FREC_C.Rust 3929_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 104,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/0a06c482-c94a-44d8-a895-be6fe17b8c06___FAM_B.Rot 5019.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 111,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/5e046b07-5da5-4cfd-a6f1-bb942eeef5f9___RS_Late.B 6216_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 52,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/84fe717f-2161-43c2-ad2f-ee2678a31e9f___RS_Erly.B 9416.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 115,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/93271ee2-23b2-4b41-8bd7-ea951853fb38___FAM_B.Rot 3456.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/68a4878f-c220-49ff-a858-5b026e56e7b0___FREC_C.Rust 9844_new30degFlipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 65,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/bcae6e76-f374-446e-b5c3-a7d18f1444f6___RS_Erly.B 7643_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 64,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1317_1038.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "6.56m",
+      "C": "9.04m",
+      "D": "7.92m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0198.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/7fe7ab85-b27e-4df3-b588-5caa28452793___FAM_B.Rot 3211_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 72,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/67bb2817-bb8a-4990-9183-18581df3a1c4___Rutg._Bact.S 1100.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 113,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/cb88247d-9a2a-4cd9-888a-76d799436f10___Crnl_L.Mold 7125.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 71,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0026.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/f2b3cfad-a6a4-4d2c-b56a-3f323b497e87___JR_FrgE.S 2780_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/7e471a0b-a30c-4ab9-8f20-9363b558cebf___RS_L.Scorch 1416.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/9762fb95-df8c-431a-94a5-c5b7baee7abe___FAM_B.Rot 0713.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 57,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0043.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_565_2003.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.20m",
+      "B": "13.60m",
+      "C": "8.24m",
+      "D": "9.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/33551627-5824-42b9-9547-4df44590fee1___RS_LB 4848_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/64b3612f-e972-44c5-8ef0-c9ac194c34a9___JR_FrgE.S 8623_new30degFlipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0005.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_2125_1624.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/4ab9d59b-57ee-4e22-a6bb-d8152710fd28___RS_Early.B 6857.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 76,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/0182e991-97f0-4805-a1f7-6e1b4306d518___RS_Early.B 7015.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1193_123.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "12.08m",
+      "B": "8.88m",
+      "C": "9.04m",
+      "D": "3.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/36555aa6-0ca3-412c-be9f-50f12500861f___RS_LB 3907_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 61,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0159.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1810_3870.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.44m",
+      "B": "8.00m",
+      "C": "9.44m",
+      "D": "12.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_16000_1568_3732.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/d4547913-b1ce-4620-b078-dbf24ea71764___FREC_C.Rust 4197_new30degFlipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 87,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_429_2335.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.76m",
+      "B": "6.00m",
+      "C": "5.68m",
+      "D": "1.84m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/1ec9c019-1594-4916-a04c-65b87eceb8ca___RS_Late.B 6069.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 62,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/5cf747a2-76b2-4949-83eb-e25812327d41___RS_L.Scorch 1427.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 85,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0120.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/a6f75dd1-c290-4116-be6a-e3c94e40aa2a___RS_LB 3265.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_2861_3467.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/e208828b-bb26-4eb6-a49d-7f0280f443d3___RS_L.Scorch 0955_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/5114b264-0305-4447-b560-6ca1826d3420___GHLB_PS Leaf 24.1 Day 16.jpg",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 120,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_2812_3487.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2513_1131.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "8.00m",
+      "C": "7.44m",
+      "D": "10.00m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/99d2b2e1-b3e6-4689-ad9a-209cdfdf4084___Crnl_L.Mold 7025_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 116,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/954d36cb-4a20-4889-83dd-4cba7e7180f8___RS_LB 4536.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_419_2130.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "4.00m",
+      "B": "3.04m",
+      "C": "4.24m",
+      "D": "2.08m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/695709e4-d869-4003-97eb-b2de21d5d1a5___GHLB2ES Leaf 62.1.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 93,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0044.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_670_284.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0025.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_16000_952_3365.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_3395_1209.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0126.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/4ddf4752-f02c-40ae-a2a8-19095f07137d___FREC_C.Rust 3733_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0126.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_41_2150.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.40m",
+      "B": "6.88m",
+      "C": "11.04m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0038.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/4ef8432c-0114-4c67-a5f0-a4935597dc68___JR_FrgE.S 8698_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 49,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1530_2780.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.16m",
+      "B": "7.04m",
+      "C": "8.56m",
+      "D": "9.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0047.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0201.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/72c4221d-f82b-48fc-a91e-8aa46f5cb0cc___RS_Early.B 8399.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0124.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 63,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/0ce943e7-3fed-41cb-8430-0e0f54ff2bc4___FREC_C.Rust 0014_new30degFlipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2930_3143.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.88m",
+      "B": "3.92m",
+      "C": "4.56m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/6bb7b9f1-7f75-4cf4-a949-cf779a171417___Crnl_L.Mold 6958.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 102,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_1414_2405.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2096_1118.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "2.80m",
+      "B": "2.08m",
+      "C": "2.00m",
+      "D": "2.56m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/e09bbce3-c5ad-404d-82c9-206ceaa40a24___FAM_B.Rot 0519.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 75,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0009.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/cb713b4e-1e13-4d9b-865a-67aaf0e94387___FAM_B.Rot 3335.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 83,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0021.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/70d0d259-85a6-4be5-8d47-dba059c5c259___RS_Erly.B 7539_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 107,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1487_845.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.00m",
+      "B": "8.96m",
+      "C": "11.04m",
+      "D": "3.44m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0052.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/790cfb1d-4926-46bb-bd50-b750e823c72a___Crnl_L.Mold 7130.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 10,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/ded9d7dd-74b9-4237-9d68-5106c6ff1093___Rut._Bact.S 1302.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 98,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0159.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_771_2006.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.84m",
+      "B": "4.00m",
+      "C": "6.40m",
+      "D": "4.56m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/de54e40d-4c5f-48d9-9b6d-bc96bde09898___RS_LB 4086.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 67,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0162.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0170.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_903_3414.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.40m",
+      "B": "8.00m",
+      "C": "10.88m",
+      "D": "7.68m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/69561ee3-9a1f-42cd-a2fc-f3f06102747c___FREC_C.Rust 0190_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 80,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/5239c829-457f-4e6c-b0af-ef5f58abddd0___RS_LB 5329_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 50,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/cac99520-3403-4602-961d-3a668bb980fb___RS_Early.B 7388.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2347_2028.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "2.32m",
+      "C": "3.60m",
+      "D": "1.04m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0107.jpg",
+    "question": "How many tassels in the Bottom-Right region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 59,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_127_2591.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "5.44m",
+      "C": "6.40m",
+      "D": "10.56m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/e034377a-c8b8-4257-8673-e3a0d776c06f___FAM_B.Rot 3327_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 105,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/eed2ea4b-c36e-4968-84b3-0425659d70d6___Rutg._Bact.S 1510.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 56,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/6af653b0-6a01-458c-bb17-5ee1b76115f4___JR_FrgE.S 2753_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/55f79b76-619c-4fad-8fbd-1663a4c13f2f___RS_L.Scorch 9935.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 37,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0240.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 62,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/cb615e16-034f-465a-89a6-91e091698723___RS_Early.B 6796_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 19,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/ad8d7957-d361-44cd-ab49-f58e23870614___FREC_C.Rust 0110_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/042135e2-e126-4900-9212-d42d900b8125___RS_Early.B 8791.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 45,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/f813e04e-a4f1-4c7f-a56d-cf0829801acb___RS_Early.B 8836.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/0ae44a6c-1213-4312-a11b-c7c5d4e585d0___RS_Erly.B 9442.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 101,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2065_2716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.52m",
+      "B": "4.96m",
+      "C": "6.00m",
+      "D": "2.72m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/4f03bdbd-e492-49a1-b04b-f19d9aaa95fd___Crnl_L.Mold 6837.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 112,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/8af1ca11-3d9e-4ed7-99c4-ff906f04f634___RS_L.Scorch 0853_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 46,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/c8ef20c5-1117-4774-aeec-0f263f9f3b3c___FREC_C.Rust 3853_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/2211762b-a98e-4756-b27a-027d084406e2___RS_L.Scorch 1248.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 96,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/cf3cffb2-f822-402d-90b9-d1df870c13f3___RS_Erly.B 7741_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 66,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0088.jpg",
+    "question": "How many tassels in the Middle-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/efa2f117-a774-4fcc-8445-142742aa7816___RS_Early.B 7458_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 34,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1338_2538.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.24m",
+      "B": "7.44m",
+      "C": "4.16m",
+      "D": "4.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3263_2996.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.72m",
+      "C": "3.20m",
+      "D": "11.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/b14f7df6-7a6c-44e6-80a4-c0c11318a9a9___FREC_C.Rust 4260_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 54,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_16000_372_547.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/f5a27cbb-be27-4416-b9ae-a811e885c131___FREC_C.Rust 3788_new30degFlipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2148_95.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "10.00m",
+      "C": "12.24m",
+      "D": "15.92m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0020.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0166.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0180.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_1695_101.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.84m",
+      "B": "11.60m",
+      "C": "6.24m",
+      "D": "6.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0242.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0088.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_883_65.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.28m",
+      "B": "9.04m",
+      "C": "5.44m",
+      "D": "14.80m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/d9c37e93-e99b-4a09-a040-a5d19d75feb9___Crnl_L.Mold 6733_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 38,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/41f4502c-34aa-45a5-b593-7191f7a62f96___RS_Early.B 8774.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 82,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/317a40c6-c4d8-4b4e-9878-4f742e7f409a___RS_LB 4462.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 53,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/43fbcf64-eb79-4406-a832-a7567775a94c___FAM_B.Rot 0407.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0060.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 88,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0201.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/3e4303ad-6293-4522-821b-ef5dd3b658ce___FREC_C.Rust 3686_newPixel25.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 74,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/d78c58b2-c9d1-43f2-8b18-4455855c0f1f___RS_LB 3288_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 7,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/605b381f-514a-492c-8917-507c5fe8f4aa___Rutg._Bact.S 1808.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 81,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0175.jpg",
+    "question": "How many tassels in the Center region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/d6a4ae30-77a6-458c-99e4-c817e7234aa3___RS_LB 4706_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 89,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_448_3531.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "13.68m",
+      "B": "6.88m",
+      "C": "8.56m",
+      "D": "10.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3587_1303.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.36m",
+      "B": "8.88m",
+      "C": "8.96m",
+      "D": "3.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2810_2501.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.76m",
+      "B": "3.28m",
+      "C": "9.76m",
+      "D": "7.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/8d816370-cd56-4eb4-8d73-f9966e1853c6___JR_FrgE.S 2882_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/5a41cc86-178f-488e-9d96-e63291247737___JR_FrgE.S 2984.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 118,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0016.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/1cfc6e73-1d86-4fb9-bffb-010163531711___FREC_C.Rust 3944_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 32,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3865_1681.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.68m",
+      "B": "10.24m",
+      "C": "8.00m",
+      "D": "3.60m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/5d366aa2-9d88-407b-924a-5ec727a325d2___RS_L.Scorch 0129.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 114,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/3796e4d7-4ff5-411e-988b-893f7d8b701c___Crnl_L.Mold 8800_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 48,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0008.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0046.jpg",
+    "question": "How many tassels in the Bottom-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/ab496771-c3b7-4c15-8cf1-d90455ab05cc___JR_FrgE.S 8573.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 77,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0075.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/e59efe9b-bfdf-4a4a-85e0-603a97c52083___RS_L.Scorch 0069.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 43,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_277_2067.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "3.04m",
+      "B": "4.24m",
+      "C": "4.40m",
+      "D": "3.44m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0059.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0098.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Late_blight/ab72ec63-290e-4e95-ab0a-b551ed44ab3b___RS_LB 3286.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Late blight. Recommended treatment measures:\n1. Remove infected plants immediately, bury or burn them outside the field to prevent further spread of the pathogen\n2. Drain water promptly after rain to avoid waterlogging and reduce pathogen breeding.\n3. Keep the greenhouse film clean, regularly disinfect it, and prevent pest infestations",
+    "type_id": 10,
+    "item_id": 78,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3266_379.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "6.88m",
+      "B": "8.00m",
+      "C": "6.72m",
+      "D": "8.88m"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0108.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_1003_2190.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "9.44m",
+      "B": "5.60m",
+      "C": "8.00m",
+      "D": "9.04m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_16000_2119_2975.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.00m",
+      "B": "9.60m",
+      "C": "4.56m",
+      "D": "13.36m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/092442ed-3ad2-4195-8cd5-cc2ba74469e1___Crnl_L.Mold 6578_flipTB.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 84,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0131.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Early_blight/8a13da5b-4bc2-485a-962d-df8c6634ea00___RS_Erly.B 7519.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Early blight. Recommended treatment measures:\n1. Increase phosphorus and potassium fertilization, avoid excessive nitrogen, and drain fields promptly after rain to prevent waterlogging.\n2. Remove infected leaves and fruits promptly, bury or burn them to break the transmission chain.\n3. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth.",
+    "type_id": 10,
+    "item_id": 29,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0009.jpg",
+    "question": "How many tassels in the Top-Middle region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/2c48971d-9f73-401d-a62a-f3729d08b6c2___RS_Early.B 7463.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/697751e5-f4d4-448e-bf98-656ebfd01ba5___RS_Late.B 5180.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 47,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/9b5bb550-6b75-47a3-a702-08ef34def9ff___JR_FrgE.S 8743_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 119,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_535_3122.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/51e028c1-7aec-46e9-a389-391bc38b46f3___RS_Early.B 8505.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 117,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/5b926cc3-78fc-441c-908d-49b67d01b1ab___Rutg._Bact.S 1520.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 103,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2245_987.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.04m",
+      "B": "8.16m",
+      "C": "5.20m",
+      "D": "6.72m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1738_2001.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "5.52m",
+      "B": "2.08m",
+      "C": "2.72m",
+      "D": "4.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/ad0f47b8-f36c-42a8-8c9d-9c24f91a3ef1___Crnl_L.Mold 8891_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 106,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2925_1421.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "0.88m",
+      "B": "1.60m",
+      "C": "2.00m",
+      "D": "2.80m"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/4d8b05f5-930b-426b-bbea-0bd33e8a6c42___RS_Late.B 6830_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 92,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0112.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Grape___Black_rot/9d4dc3fb-dc73-48be-8f60-2de399dc3df5___FAM_B.Rot 3441_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Grape is affected by Black rot. Recommended treatment measures:\n1. Early infection: Spray 400g/L flusilazole EC 8000× solution\n2. Thin dense clusters\n3. Drain excess water after rain",
+    "type_id": 10,
+    "item_id": 40,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/fe2fe859-0961-4420-9b68-22a3e437a34e___Rutg._Bact.S 1255.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 99,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0181.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0129.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 64,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/b46af47f-a8b8-4454-b84a-4621e9e404c0___Rutg._Bact.S 2263.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 42,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Peach___Bacterial_spot/633d70b7-6357-46f7-a4f8-3e924e22ef15___Rut._Bact.S 1161.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Peach is affected by Bacterial spot. Recommended treatment measures:\n1. Spray 20% bismerthiazol WP 600× solution\n2. Prune diseased branches with protective dressing\n3. Increase organic fertilizer application",
+    "type_id": 10,
+    "item_id": 44,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0042.jpg",
+    "question": "How many tassels in the Middle-Right region of the image?",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/a740fdd7-45f9-445f-a992-37005aa41d32___Crnl_L.Mold 6883.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 108,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_1282_2293.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/93992994-fcb0-4d3e-b528-e6fd9fd1b317___RS_Early.B 6686.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 60,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0178.jpg",
+    "question": "How many tassels in the Top-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_44000_4000_3630_1225.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Cedar_apple_rust/1440b8ad-ba66-44dc-aeff-13515fe5eb68___FREC_C.Rust 3816_newGRR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Cedar apple rust. Recommended treatment measures:\n1. Post-bloom spray: 10% difenoconazole WG 1500× solution\n2. Foliar spray with 0.3% urea to enhance tree vigor\n3. Thin dense branches",
+    "type_id": 10,
+    "item_id": 110,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0036.jpg",
+    "question": "How many tassels in the Middle-Left region of the image?",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0222.jpg",
+    "question": "How many tassels in the Middle-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/842d3c43-4e5a-49aa-95b1-fb7e9be3d133___JR_FrgE.S 2802_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 3,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/1d3d9fb0-9c00-4763-b023-8fa65f591940___RS_L.Scorch 1336.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 6,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Late_blight/ed974f5b-e999-46a9-9e22-da51da2766b6___GHLB_PS Leaf 8 Day 16.jpg",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Late blight. Recommended treatment measures:\n1. Use drip irrigation or subsurface irrigation to reduce humidity. Remove and destroy infected leaves and fruits promptly to prevent disease spread.\n2. Apply antagonistic microorganisms (e.g., Bacillus subtilis) or bio-pesticides (e.g., kasugamycin) to suppress pathogen growth\n3. Apply foliar micronutrients (e.g., 5% amino-oligosaccharide AS) and growth regulators (e.g., 0.11% indoleacetic acid AS) to enhance plant resistance.",
+    "type_id": 10,
+    "item_id": 97,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_3502_3155.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "7.04m",
+      "B": "8.48m",
+      "C": "8.72m",
+      "D": "11.60m"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Potato___Early_blight/c48693cf-14bb-48ec-96fe-240bd2269866___RS_Early.B 7609_180deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Potato is affected by Early blight. Recommended treatment measures:\n1. Deep plow after harvest to reduce initial inoculum for the next season\n2. Apply fungicides such as 80% mancozeb WP (800×) or 64% oxadixyl·mancozeb WP (500×) \n3. Increase application of organic fertilizer, phosphorus, and potassium, and control nitrogen use to cultivate strong seedlings",
+    "type_id": 10,
+    "item_id": 41,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0078.jpg",
+    "question": "How many tassels in the Top-Right region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "Plant_Disease/Apple___Black_rot/4b5683c4-ef68-4439-b346-f76ea2c651da___JR_FrgE.S 8639_90deg.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Apple is affected by Black rot. Recommended treatment measures:\n1. Early infection stage: Spray 430g/L tebuconazole SC 3000× solution\n2. Prune diseased branches and apply wound healing agent\n3. Increase phosphorus-potassium fertilization to enhance disease resistance",
+    "type_id": 10,
+    "item_id": 73,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_44000_4000_3846_3376.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "8.08m",
+      "B": "5.44m",
+      "C": "14.00m",
+      "D": "8.96m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_1327_2813.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "1.04m",
+      "B": "3.44m",
+      "C": "4.08m",
+      "D": "3.04m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0130.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 60,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_3187_1986.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_option_52000_20000_2670_3716.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel unit is 0.08m?",
+    "options": {
+      "A": "10.40m",
+      "B": "5.76m",
+      "C": "7.52m",
+      "D": "8.00m"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/24b4756b-eea7-43b9-ace7-8f74e68b8c4f___RS_L.Scorch 0991_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 20,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Tomato___Leaf_Mold/e4e09a80-ae3a-42e8-ae98-e892b0507098___Crnl_L.Mold 6636.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Tomato is affected by Leaf Mold. Recommended treatment measures:\n1. Promptly remove and burn all infected leaves; increase plant spacing to 40-50cm to enhance airflow and lighting\n2. Conduct high-temperature treatment (30-33℃ for 2 hours) on sunny afternoons, followed by immediate ventilation to suppress fungal growth\n3. At the initial stage of infection, apply benzoylpropiconazole, pyrimethanil·azoxystrobin, or myclobutanil alternately.",
+    "type_id": 10,
+    "item_id": 91,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "Plant_Disease/Strawberry___Leaf_scorch/88530a2d-30da-4c93-8dd7-f0535b9c948a___RS_L.Scorch 1557_flipLR.JPG",
+    "question": "Is the crop in the image healthy? If not, what disease is affecting it, and what effective measures should be taken to address the issue?",
+    "answer": "The Strawberry is affected by Leaf scorch. Recommended treatment measures:\n1. Prune scorched leaves, retaining healthy parts to promote recovery\n2. Add borax or boric acid during soil or foliar calcium application to enhance calcium uptake\n3. Maintain even soil moisture through frequent light watering and drip irrigation under mulch.",
+    "type_id": 10,
+    "item_id": 39,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0222.jpg",
+    "question": "How many tassels in the Bottom-Middle region of the image?",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/diameter_blank_52000_20000_3625_54.jpg",
+    "question": "What is the crown diameter of the tree in the red box in the image when each pixel is 0.08m?(Unit of measurement: meters)",
+    "answer": "8",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 4,
+    "level2_id": 1,
+    "level3_id": 2
+  }
+]

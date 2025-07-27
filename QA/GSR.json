@@ -1,0 +1,1622 @@
+[
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_61_18_IMG_4684_i1500j1800.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 31,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1776_784.jpg",
+    "type_id": 6,
+    "item_id": 59,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042532.020958_i2084j1406.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1429_648.jpg",
+    "type_id": 6,
+    "item_id": 47,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005952.393012.Cam6_32.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 47,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004801.140229.Cam6_32.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 17,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_3137_3148.jpg",
+    "type_id": 6,
+    "item_id": 36,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_3864_1569.jpg",
+    "type_id": 6,
+    "item_id": 18,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044257.155280_i2542j1826.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 49,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1071_1761.jpg",
+    "type_id": 6,
+    "item_id": 19,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2382_3861.jpg",
+    "type_id": 6,
+    "item_id": 52,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004851.998412.Cam6_23.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i2100j900.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 51,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_2329_1731.jpg",
+    "type_id": 6,
+    "item_id": 4,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1654_2719.jpg",
+    "type_id": 6,
+    "item_id": 42,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i2700j2700.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "9",
+    "type_id": 2,
+    "item_id": 20,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1_1918.jpg",
+    "type_id": 6,
+    "item_id": 44,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_2755_3233.jpg",
+    "type_id": 6,
+    "item_id": 50,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031138.888398_i2018j1563.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_2181_2109.jpg",
+    "type_id": 6,
+    "item_id": 2,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042410.792286_i1490j580.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032512.069796_i1586j475.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 41,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1199_2165.jpg",
+    "type_id": 6,
+    "item_id": 12,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1108_197.jpg",
+    "type_id": 6,
+    "item_id": 51,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042529.220976_i1860j1361.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 23,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_62_56_IMG_4381_i1200j3000.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 33,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_3592_3283.jpg",
+    "type_id": 6,
+    "item_id": 58,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041149.967617_i1588j1462.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042158.541202_i2514j596.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 29,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_174_1260.jpg",
+    "type_id": 6,
+    "item_id": 5,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012855.857338_42.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i1200j3000.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 22,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_103_2572.jpg",
+    "type_id": 6,
+    "item_id": 26,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2150_1235.jpg",
+    "type_id": 6,
+    "item_id": 16,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004406.278234.Cam6_32.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 18,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1493_3376.jpg",
+    "type_id": 6,
+    "item_id": 55,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043732.598592_i1737j1333.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 40,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_1435_3310.jpg",
+    "type_id": 6,
+    "item_id": 60,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030906.576583_i2310j725.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 34,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005459.434598.Cam6_12.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_64_02_IMG_4799_i900j3000.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045047.794600_i2360j1967.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 14,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_3345_3820.jpg",
+    "type_id": 6,
+    "item_id": 9,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "E",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042300.967017_i2115j937.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 26,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_3318_3903.jpg",
+    "type_id": 6,
+    "item_id": 45,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2969_1914.jpg",
+    "type_id": 6,
+    "item_id": 38,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_1605_404.jpg",
+    "type_id": 6,
+    "item_id": 29,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042105.128911_i2018j1200.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 54,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_32_IMG_4461_i3000j2700.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 46,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_3187_1986.jpg",
+    "type_id": 6,
+    "item_id": 43,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_3963_292.jpg",
+    "type_id": 6,
+    "item_id": 7,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042135.173113_i2723j1635.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 36,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005027.238508.Cam6_53.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 59,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_1818_3135.jpg",
+    "type_id": 6,
+    "item_id": 48,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032124.032367_i1716j1069.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 28,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_2025_3418.jpg",
+    "type_id": 6,
+    "item_id": 30,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_3735_3510.jpg",
+    "type_id": 6,
+    "item_id": 8,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005803.057403.Cam6_31.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 53,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_633_2032.jpg",
+    "type_id": 6,
+    "item_id": 37,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_800_2994.jpg",
+    "type_id": 6,
+    "item_id": 46,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_2499_2863.jpg",
+    "type_id": 6,
+    "item_id": 22,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025952.991866_i1511j1874.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 15,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_607_1218.jpg",
+    "type_id": 6,
+    "item_id": 15,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_570_931.jpg",
+    "type_id": 6,
+    "item_id": 57,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_62_02_IMG_4414_i600j2100.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2436_1370.jpg",
+    "type_id": 6,
+    "item_id": 24,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_1917_2743.jpg",
+    "type_id": 6,
+    "item_id": 49,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005415.433701.Cam6_12.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 24,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1215_3924.jpg",
+    "type_id": 6,
+    "item_id": 39,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_3137_3165.jpg",
+    "type_id": 6,
+    "item_id": 34,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031407.590101_i1578j474.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 13,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2971_3778.jpg",
+    "type_id": 6,
+    "item_id": 11,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045000.346837_i2130j1705.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "18",
+    "type_id": 2,
+    "item_id": 21,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041328.693238_i2386j1815.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 37,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2213_2440.jpg",
+    "type_id": 6,
+    "item_id": 10,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_416_2122.jpg",
+    "type_id": 6,
+    "item_id": 3,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_57_32_IMG_4700_i1200j1800.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "2",
+    "type_id": 2,
+    "item_id": 42,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005943.440459.Cam6_44.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 27,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_58_49_IMG_4364_i300j2700.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 16,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_181_2206.jpg",
+    "type_id": 6,
+    "item_id": 27,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045102.965815_i2009j840.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 55,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_2010_962.jpg",
+    "type_id": 6,
+    "item_id": 1,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043408.823210_i1488j1730.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045104.966210_i2181j1412.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "3",
+    "type_id": 2,
+    "item_id": 60,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004426.469151.Cam6_32.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 48,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_502_2748.jpg",
+    "type_id": 6,
+    "item_id": 17,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045031.607493_i2451j117.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 50,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024514.196325_i2205j1163.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "6",
+    "type_id": 2,
+    "item_id": 45,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1311_2310.jpg",
+    "type_id": 6,
+    "item_id": 13,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_2861_3467.jpg",
+    "type_id": 6,
+    "item_id": 40,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_283_1876.jpg",
+    "type_id": 6,
+    "item_id": 28,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2564_1817.jpg",
+    "type_id": 6,
+    "item_id": 20,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_478_1678.jpg",
+    "type_id": 6,
+    "item_id": 31,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_31_IMG_4354_i3000j3900.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "7",
+    "type_id": 2,
+    "item_id": 39,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044905.287979_i1577j1526.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030807.488229_i2022j915.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "10",
+    "type_id": 2,
+    "item_id": 52,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_1493_3376.jpg",
+    "type_id": 6,
+    "item_id": 35,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024736.799121_i1697j1349.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 57,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_3351_3922.jpg",
+    "type_id": 6,
+    "item_id": 33,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044013.167563_i2626j319.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 25,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2817_664.jpg",
+    "type_id": 6,
+    "item_id": 41,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025012.531796_i1934j747.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "5",
+    "type_id": 2,
+    "item_id": 58,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004421.516678.Cam6_41.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 44,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005956.583597.Cam6_13.png",
+    "question": "How many large apples with a radius greater than 18.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 38,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_58_49_IMG_4711_i1200j1800.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 43,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_662_2561.jpg",
+    "type_id": 6,
+    "item_id": 21,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_192_3354.jpg",
+    "type_id": 6,
+    "item_id": 53,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_2021_428.jpg",
+    "type_id": 6,
+    "item_id": 56,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_2225_1397.jpg",
+    "type_id": 6,
+    "item_id": 54,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4786_i2700j1500.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 32,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_16000_1249_2989.jpg",
+    "type_id": 6,
+    "item_id": 25,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_1356_107.jpg",
+    "type_id": 6,
+    "item_id": 14,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_52000_20000_3395_1209.jpg",
+    "type_id": 6,
+    "item_id": 23,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030524.011052_i1838j332.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "4",
+    "type_id": 2,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_2435_2289.jpg",
+    "type_id": 6,
+    "item_id": 6,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "E",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_50_IMG_4754_i2700j2100.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 56,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Oil_palm_trees/Result/images/status_44000_4000_3629_2190.jpg",
+    "type_id": 6,
+    "item_id": 32,
+    "question": "What is the status of the tree in the red box in the image?",
+    "options": {
+      "A": "Dead",
+      "B": "Healthy",
+      "C": "Grass,which is crowded with grass",
+      "D": "Small,which crown diameter is less than 6.4m",
+      "E": "Yellow"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4402_i2100j3600.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 19,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041929.391930_i1554j1625.png",
+    "question": "How many large mangos with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "1",
+    "type_id": 2,
+    "item_id": 35,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_59_27_IMG_4690_i1200j1500.png",
+    "question": "How many large almonds with a radius greater than 15.0 are there?(Unit: cm)",
+    "answer": "0",
+    "type_id": 2,
+    "item_id": 30,
+    "level1_id": 2,
+    "level2_id": 3,
+    "level3_id": 2
+  }
+]

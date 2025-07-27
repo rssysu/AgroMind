@@ -1,0 +1,5442 @@
+[
+  {
+    "image_path": "./Pest/JPEGImages/IP017000012.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Beet",
+      "B": "Vitis",
+      "C": "Corn",
+      "D": "Mango"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 62,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025754.284147_i2715j1779.png",
+    "type_id": 3,
+    "item_id": 24,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/70be307a7d9a5fc460468302750af68b.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Apple",
+      "C": "Grape",
+      "D": "Citrus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000008.jpg",
+    "type_id": 3,
+    "item_id": 48,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000016.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Vitis",
+      "C": "Corn",
+      "D": "Alfalfa"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 150,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9cce7bb7-88a9-4fc7-ae3e-d9bbe3113f25___MD_Powd.M 0398.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Tomato",
+      "C": "Strawberry",
+      "D": "Grape"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 137,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000007.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Vitis",
+      "C": "Corn",
+      "D": "Mango"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 144,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000006.jpg",
+    "type_id": 3,
+    "item_id": 29,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000004.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Ampelophaga",
+      "B": "Erythroneura apicalis",
+      "C": "white backed plant hopper",
+      "D": "Deporaus marginatus Pascoe"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000018.jpg",
+    "type_id": 3,
+    "item_id": 49,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013507.674427_21.png",
+    "type_id": 3,
+    "item_id": 7,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000000.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "small brown plant hopper",
+      "B": "meadow moth",
+      "C": "Colomerus vitis",
+      "D": "flax budworm"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004609.899802.Cam6_51.png",
+    "type_id": 3,
+    "item_id": 11,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000026.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Vitis",
+      "C": "Mango",
+      "D": "Wheat"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000014.jpg",
+    "type_id": 3,
+    "item_id": 34,
+    "question": "Are the pests white margined moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/12e638ea8b44af5cb15eee4dc277410b.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Grape",
+      "C": "Tomato",
+      "D": "Peach"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 97,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044320.291486_i1839j1954.png",
+    "type_id": 3,
+    "item_id": 20,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000176.jpg",
+    "type_id": 3,
+    "item_id": 56,
+    "question": "Are the pests Scirtothrips dorsalis Hood?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000004.jpg",
+    "type_id": 3,
+    "item_id": 47,
+    "question": "Are the pests Lawana imitata Melichar?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/73ed05890bb575c8e874cd946031dfc1.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Apple",
+      "C": "Cercospora",
+      "D": "Strawberry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000003.jpg",
+    "type_id": 3,
+    "item_id": 13,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000004.jpg",
+    "type_id": 3,
+    "item_id": 20,
+    "question": "Are the pests beet fly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3d5f977b-126e-4c4b-b6c2-5d81a69cf2d0___JR_B.Spot 3220.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Corn",
+      "C": "Pepper",
+      "D": "apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/881ce6ca-1357-4ab5-b57c-24e279703a2c___RS_HL 4484.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "Pepper"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 86,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a0de02db-e650-4e6e-81cd-752918ba93c3___FAM_B.Rot 0361.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Grape",
+      "B": "Citrus",
+      "C": "Corn",
+      "D": "Strawberry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 74,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP049000003.jpg",
+    "type_id": 3,
+    "item_id": 10,
+    "question": "Are the pests tarnished plant bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043949.462002_i1390j1281.png",
+    "type_id": 6,
+    "item_id": 29,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Kiwi",
+      "B": "Mango",
+      "C": "Pineapple",
+      "D": "Orange",
+      "E": "Peach",
+      "F": "Cherry",
+      "G": "Banana",
+      "H": "Watermelon",
+      "I": "Grape",
+      "J": "Pear"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012846.333271_43.png",
+    "type_id": 6,
+    "item_id": 39,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Kiwi",
+      "B": "Peach",
+      "C": "Grape",
+      "D": "Pineapple",
+      "E": "Apple",
+      "F": "Orange",
+      "G": "Cherry",
+      "H": "Watermelon",
+      "I": "Almond",
+      "J": "Banana"
+    },
+    "answer": "E",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000050.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Beet",
+      "C": "Rice",
+      "D": "Mango"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ac2e389414ba3512ab03ecbb8ff466a1.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Potato",
+      "C": "Tomato",
+      "D": "Maize"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 63,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000015.jpg",
+    "type_id": 3,
+    "item_id": 6,
+    "question": "Are the pests Mango flat beak leafhopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000012.jpg",
+    "type_id": 1,
+    "item_id": 52,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Potosiabre vitarsis",
+      "B": "Dacus dorsalis(Hendel)",
+      "C": "Chrysomphalus aonidum",
+      "D": "alfalfa plant bug"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000008.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "blister beetle",
+      "B": "brown plant hopper",
+      "C": "Limacodidae",
+      "D": "Deporaus marginatus Pascoe"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000032.jpg",
+    "type_id": 1,
+    "item_id": 35,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Mango flat beak leafhopper",
+      "B": "Toxoptera citricidus",
+      "C": "tarnished plant bug",
+      "D": "cabbage army worm"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP093000097.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Citrus",
+      "B": "Mango",
+      "C": "Rice",
+      "D": "Wheat"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 131,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000012.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Vitis",
+      "C": "Rice",
+      "D": "Corn"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041819.105466_i2351j1894.png",
+    "type_id": 6,
+    "item_id": 13,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Kiwi",
+      "B": "Almond",
+      "C": "Strawberry",
+      "D": "Pineapple",
+      "E": "Pear",
+      "F": "Banana",
+      "G": "Grape",
+      "H": "Peach",
+      "I": "Mango",
+      "J": "Apple"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000007.jpg",
+    "type_id": 3,
+    "item_id": 35,
+    "question": "Are the pests therioaphis maculata Buckton?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000015.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "grain spreader thrips",
+      "B": "rice leaf caterpillar",
+      "C": "Thrips",
+      "D": "Toxoptera aurantii"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP080000036.jpg",
+    "type_id": 3,
+    "item_id": 53,
+    "question": "Are the pests Chrysomphalus aonidum?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000020.jpg",
+    "type_id": 1,
+    "item_id": 45,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "alfalfa weevil",
+      "B": "Phyllocnistis citrella Stainton",
+      "C": "Ampelophaga",
+      "D": "asiatic rice borer"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP007000006.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "large cutworm",
+      "B": "Apolygus lucorum",
+      "C": "Trialeurodes vaporariorum",
+      "D": "brown plant hopper"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032006.705071_i2197j675.png",
+    "type_id": 3,
+    "item_id": 9,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0b7d190e505d8c8e91a505d93850266b_看图王.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Peach",
+      "C": "Tomato",
+      "D": "Cercospora"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024452.995917_i2397j1767.png",
+    "type_id": 6,
+    "item_id": 49,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Orange",
+      "C": "Kiwi",
+      "D": "Banana",
+      "E": "Pear",
+      "F": "Apple",
+      "G": "Almond",
+      "H": "Grape",
+      "I": "Pineapple",
+      "J": "Mango"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043958.104693_i2435j1644.png",
+    "type_id": 3,
+    "item_id": 4,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP001000028.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Colomerus vitis",
+      "B": "Xylotrechus",
+      "C": "flea beetle",
+      "D": "rice leaf caterpillar"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000010.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Wheat",
+      "C": "Alfalfa",
+      "D": "Corn"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 76,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013320.243612_41.png",
+    "type_id": 6,
+    "item_id": 25,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Banana",
+      "C": "Grape",
+      "D": "Apple",
+      "E": "Kiwi",
+      "F": "Cherry",
+      "G": "Watermelon",
+      "H": "Pear",
+      "I": "Orange",
+      "J": "Strawberry"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4403_i1800j4800.png",
+    "type_id": 3,
+    "item_id": 3,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000004.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Beet",
+      "B": "Rice",
+      "C": "Wheat",
+      "D": "Corn"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 98,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e8fe9001-df63-40de-bc41-fc250863a705___RS_NLB 4205.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Corn",
+      "B": "Maize",
+      "C": "Cercospora",
+      "D": "Citrus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8dfb9e41a13e15838ac51b388a9b098b.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Pepper",
+      "B": "Grape",
+      "C": "Peach",
+      "D": "apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 65,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0bb66fab67e64af52949de56ca41735d.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "apple",
+      "C": "Cherry",
+      "D": "Maize"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 87,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000015.jpg",
+    "type_id": 1,
+    "item_id": 55,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Bactrocera tsuneonis",
+      "B": "alfalfa seed chalcid",
+      "C": "lytta polita",
+      "D": "peach borer"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b6bcc582b2590a779966cde5d507a757.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Puccinia",
+      "C": "Grape",
+      "D": "Citrus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 151,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000064.jpg",
+    "type_id": 3,
+    "item_id": 43,
+    "question": "Are the pests Xylotrechus?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ee78034d-0420-4f21-8c6b-09675a36e6d1___RS_HL 3426.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "apple",
+      "C": "Peach",
+      "D": "Citrus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 78,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/faf8be69ae756c01961b1f3ae2f91472.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Maize",
+      "C": "Strawberry",
+      "D": "Potato"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 80,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f20bf7bdae891224bb17b44675deb2b3.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Puccinia",
+      "C": "Citrus",
+      "D": "Pepper"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/89c134ee-41f7-46b7-b4dc-4229b3b3ca08___GHLB2 Leaf 8952.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Pepper",
+      "C": "Puccinia",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 156,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000033.jpg",
+    "type_id": 3,
+    "item_id": 15,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000023.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Rice",
+      "C": "Wheat",
+      "D": "Vitis"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 134,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP102000010.jpg",
+    "type_id": 1,
+    "item_id": 29,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Cicadellidae",
+      "B": "Thrips",
+      "C": "legume blister beetle",
+      "D": "odontothrips loti"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a949f164944a14cf9e3973b6752cc83a.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Grape",
+      "B": "Citrus",
+      "C": "Puccinia",
+      "D": "Cercospora"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 154,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000040.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Citrus",
+      "C": "Beet",
+      "D": "Vitis"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 84,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP055000017.jpg",
+    "type_id": 3,
+    "item_id": 2,
+    "question": "Are the pests alfalfa seed chalcid?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000004.jpg",
+    "type_id": 3,
+    "item_id": 30,
+    "question": "Are the pests black cutworm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_45_IMG_4470_i1500j1800.png",
+    "type_id": 6,
+    "item_id": 26,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pineapple",
+      "B": "Kiwi",
+      "C": "Peach",
+      "D": "Watermelon",
+      "E": "Pear",
+      "F": "Orange",
+      "G": "Apple",
+      "H": "Almond",
+      "I": "Banana",
+      "J": "Grape"
+    },
+    "answer": "H",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP029000028.jpg",
+    "type_id": 3,
+    "item_id": 52,
+    "question": "Are the pests bird cherry-oataphid?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2fc8fea3f1383a8f8cb99e31c342ca86.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Pepper",
+      "B": "Citrus",
+      "C": "Tomato",
+      "D": "Apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 143,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/bdb46bf4-d226-4cd1-be9d-4ca36623fd5f___UF.GRC_YLCV_Lab 03274.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Potato",
+      "C": "Maize",
+      "D": "Puccinia"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000125.jpg",
+    "type_id": 1,
+    "item_id": 47,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Lawana imitata Melichar",
+      "B": "yellow cutworm",
+      "C": "Rice Stemfly",
+      "D": "penthaleus major"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/bd6315934f91ea89e8f9d0c6b813d16a.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Corn",
+      "B": "Tomato",
+      "C": "Maize",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 117,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_16_IMG_4780_i1500j2700.png",
+    "type_id": 6,
+    "item_id": 8,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Banana",
+      "C": "Grape",
+      "D": "Kiwi",
+      "E": "Pineapple",
+      "F": "Almond",
+      "G": "Apple",
+      "H": "Peach",
+      "I": "Cherry",
+      "J": "Orange"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000047.jpg",
+    "type_id": 3,
+    "item_id": 36,
+    "question": "Are the pests brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000013.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Wheat",
+      "C": "Citrus",
+      "D": "Mango"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 128,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005913.915969.Cam6_31.png",
+    "type_id": 6,
+    "item_id": 18,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Banana",
+      "B": "Grape",
+      "C": "Peach",
+      "D": "Watermelon",
+      "E": "Kiwi",
+      "F": "Orange",
+      "G": "Apple",
+      "H": "Pear",
+      "I": "Almond",
+      "J": "Pineapple"
+    },
+    "answer": "G",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP039000014.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Icerya purchasi Maskell",
+      "B": "Erythroneura apicalis",
+      "C": "rice gall midge",
+      "D": "cabbage army worm"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e59a2933-7869-4e49-8ed5-1663ca5200d1___Crnl_L.Mold 6785.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cherry",
+      "B": "Tomato",
+      "C": "Peach",
+      "D": "Citrus"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8b06234f41501d585df0e804ec85a874.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Maize",
+      "C": "Potato",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 77,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP030000091.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "alfalfa weevil",
+      "B": "Phyllocnistis citrella Stainton",
+      "C": "wheat blossom midge",
+      "D": "wheat phloeothrips"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000029.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Citrus",
+      "C": "Corn",
+      "D": "Beet"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4cee967e1976389a4f6efa666087b9f6.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Corn",
+      "B": "Grape",
+      "C": "apple",
+      "D": "Pepper"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 120,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000007.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Citrus",
+      "C": "Alfalfa",
+      "D": "Rice"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/56f9744f-d517-49f5-9c76-0870da25c035___Crnl_L.Mold 6891.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Cherry",
+      "C": "Tomato",
+      "D": "Apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 64,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000011.jpg",
+    "type_id": 1,
+    "item_id": 57,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "meadow moth",
+      "B": "beet army worm",
+      "C": "rice gall midge",
+      "D": "Cicadella viridis"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4af92c2cc6e5c329b8da43f57e9d6a0c.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Citrus",
+      "C": "Pepper",
+      "D": "Apple"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 116,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4436_i2700j2400.png",
+    "type_id": 6,
+    "item_id": 35,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Pear",
+      "C": "Cherry",
+      "D": "Watermelon",
+      "E": "Pineapple",
+      "F": "Apple",
+      "G": "Mango",
+      "H": "Kiwi",
+      "I": "Almond",
+      "J": "Orange"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP050000019.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Alfalfa",
+      "C": "Vitis",
+      "D": "Wheat"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP027000003.jpg",
+    "type_id": 3,
+    "item_id": 45,
+    "question": "Are the pests green bug?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_1364.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041821.034565_i1713j951.png",
+    "type_id": 6,
+    "item_id": 20,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Almond",
+      "B": "Kiwi",
+      "C": "Banana",
+      "D": "Apple",
+      "E": "Peach",
+      "F": "Mango",
+      "G": "Grape",
+      "H": "Pineapple",
+      "I": "Pear",
+      "J": "Watermelon"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_62_56_IMG_4381_i1200j3000.png",
+    "type_id": 6,
+    "item_id": 17,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Kiwi",
+      "B": "Peach",
+      "C": "Almond",
+      "D": "Grape",
+      "E": "Pineapple",
+      "F": "Orange",
+      "G": "Pear",
+      "H": "Apple",
+      "I": "Banana",
+      "J": "Watermelon"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000007.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "black cutworm",
+      "B": "oides decempunctata",
+      "C": "Parlatoria zizyphus Lucus",
+      "D": "Tetradacus c Bactrocera minax"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000023.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Adristyrannus",
+      "B": "paddy stem maggot",
+      "C": "english grain aphid",
+      "D": "Cicadella viridis"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024406.594943_i2127j395.png",
+    "type_id": 6,
+    "item_id": 11,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Grape",
+      "C": "Pineapple",
+      "D": "Banana",
+      "E": "Mango",
+      "F": "Pear",
+      "G": "Kiwi",
+      "H": "Orange",
+      "I": "Apple",
+      "J": "Watermelon"
+    },
+    "answer": "E",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ed9054d67817c08b9c65f07f58cdd6bf.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "apple",
+      "C": "Apple",
+      "D": "Citrus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013115.669706_21.png",
+    "type_id": 3,
+    "item_id": 1,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.623044.Cam6_13.png",
+    "type_id": 3,
+    "item_id": 16,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000023.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "rice gall midge",
+      "B": "Pieris canidia",
+      "C": "Brevipoalpus lewisi McGregor",
+      "D": "meadow moth"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ff4c0895-3845-44ef-ae28-3dc77a06a4e1___UF.Citrus_HLB_Lab 0201.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Maize",
+      "C": "Cherry",
+      "D": "Cercospora"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 85,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000004.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Citrus",
+      "B": "Rice",
+      "C": "Mango",
+      "D": "Vitis"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 69,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045047.794600_i2360j1967.png",
+    "type_id": 6,
+    "item_id": 24,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Apple",
+      "C": "Pineapple",
+      "D": "Mango",
+      "E": "Kiwi",
+      "F": "Watermelon",
+      "G": "Orange",
+      "H": "Banana",
+      "I": "Grape",
+      "J": "Pear"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000119.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Corn",
+      "C": "Citrus",
+      "D": "Alfalfa"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 142,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000053.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Beet",
+      "C": "Vitis",
+      "D": "Mango"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 135,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP024000026.jpg",
+    "type_id": 1,
+    "item_id": 38,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "penthaleus major",
+      "B": "brown plant hopper",
+      "C": "white margined moth",
+      "D": "aphids"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000014.jpg",
+    "type_id": 1,
+    "item_id": 30,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Adristyrannus",
+      "B": "Beet spot flies",
+      "C": "wheat phloeothrips",
+      "D": "Colomerus vitis"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030807.488229_i2022j915.png",
+    "type_id": 6,
+    "item_id": 1,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Banana",
+      "B": "Watermelon",
+      "C": "Mango",
+      "D": "Apple",
+      "E": "Pineapple",
+      "F": "Pear",
+      "G": "Orange",
+      "H": "Peach",
+      "I": "Kiwi",
+      "J": "Grape"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP028000049.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "english grain aphid",
+      "B": "Aphis citricola Vander Goot",
+      "C": "green bug",
+      "D": "Phyllocoptes oleiverus ashmead"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000024.jpg",
+    "type_id": 3,
+    "item_id": 9,
+    "question": "Are the pests longlegged spider mite?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP052000007.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Prodenia litura",
+      "B": "army worm",
+      "C": "english grain aphid",
+      "D": "blister beetle"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000016.jpg",
+    "type_id": 3,
+    "item_id": 50,
+    "question": "Are the pests wheat phloeothrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032124.032367_i1716j1069.png",
+    "type_id": 6,
+    "item_id": 16,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Peach",
+      "C": "Banana",
+      "D": "Orange",
+      "E": "Pineapple",
+      "F": "Kiwi",
+      "G": "Apple",
+      "H": "Grape",
+      "I": "Mango",
+      "J": "Strawberry"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000029.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Prodenia litura",
+      "B": "Mango flat beak leafhopper",
+      "C": "Papilio xuthus",
+      "D": "Chlumetia transversa"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP041000029.jpg",
+    "type_id": 3,
+    "item_id": 26,
+    "question": "Are the pests beet army worm?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000006.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Vitis",
+      "C": "Citrus",
+      "D": "Corn"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 100,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005445.910443.Cam6_61.png",
+    "type_id": 6,
+    "item_id": 38,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Mango",
+      "C": "Grape",
+      "D": "Pear",
+      "E": "Almond",
+      "F": "Pineapple",
+      "G": "Apple",
+      "H": "Orange",
+      "I": "Banana",
+      "J": "Cherry"
+    },
+    "answer": "G",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004433.135911.Cam6_52.png",
+    "type_id": 3,
+    "item_id": 6,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c3a5_757.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025722.866608_i1747j1149.png",
+    "type_id": 6,
+    "item_id": 48,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pineapple",
+      "B": "Apple",
+      "C": "Watermelon",
+      "D": "Orange",
+      "E": "Peach",
+      "F": "Pear",
+      "G": "Banana",
+      "H": "Kiwi",
+      "I": "Grape",
+      "J": "Mango"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000002.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Citrus",
+      "C": "Mango",
+      "D": "Corn"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 141,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/38623e82-f2ee-424c-98b4-aabefd6cc8fe___JR_HL 4010.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Tomato",
+      "C": "Grape",
+      "D": "Cherry"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP098000001.jpg",
+    "type_id": 3,
+    "item_id": 27,
+    "question": "Are the pests Chlumetia transversa?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000027.jpg",
+    "type_id": 3,
+    "item_id": 54,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/08ffc7d1-b618-41eb-a633-f7b453f1da03___FAM_L.Blight 4720.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Tomato",
+      "C": "Peach",
+      "D": "Grape"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e17cc7f76e4f20005c1b85c_2531.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP096000003.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Citrus",
+      "B": "Beet",
+      "C": "Mango",
+      "D": "Wheat"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 153,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP072000001.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "asiatic rice borer",
+      "B": "Trialeurodes vaporariorum",
+      "C": "parathrene regalis",
+      "D": "Dasineura sp"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3f12310a5ded9e0b27e5a92fed022c69.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Tomato",
+      "C": "Strawberry",
+      "D": "Grape"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 105,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cd184f39c35156a5e312467d53c2eb45.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Pepper",
+      "B": "Maize",
+      "C": "apple",
+      "D": "Tomato"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_53_IMG_4372_i3000j3000.png",
+    "type_id": 6,
+    "item_id": 19,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Orange",
+      "B": "Grape",
+      "C": "Almond",
+      "D": "Peach",
+      "E": "Banana",
+      "F": "Mango",
+      "G": "Pineapple",
+      "H": "Kiwi",
+      "I": "Watermelon",
+      "J": "Pear"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005952.393012.Cam6_32.png",
+    "type_id": 6,
+    "item_id": 5,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Apple",
+      "B": "Orange",
+      "C": "Pear",
+      "D": "Pineapple",
+      "E": "Cherry",
+      "F": "Kiwi",
+      "G": "Peach",
+      "H": "Grape",
+      "I": "Banana",
+      "J": "Watermelon"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000047.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Corn",
+      "B": "Rice",
+      "C": "Wheat",
+      "D": "Beet"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000045.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Mango",
+      "C": "Vitis",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 132,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d42287f838f87ac545d0913e7a47f6de.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Potato",
+      "C": "Cercospora",
+      "D": "Cherry"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000007.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Corn",
+      "C": "Rice",
+      "D": "Alfalfa"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000019.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Corn",
+      "C": "Beet",
+      "D": "Wheat"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 157,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T045103.765888_i1509j172.png",
+    "type_id": 3,
+    "item_id": 25,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/648e8bd1-830c-42bd-8d60-f5a85e616068___RS_HL 5354.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Apple",
+      "C": "Potato",
+      "D": "Cercospora"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000007.jpg",
+    "type_id": 3,
+    "item_id": 19,
+    "question": "Are the pests sericaorient alismots chulsky?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_63_11_IMG_4786_i2700j1500.png",
+    "type_id": 3,
+    "item_id": 2,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/aa8f425ec78ce9a52cc6cc02a5ddd8fe.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Grape",
+      "C": "Tomato",
+      "D": "Peach"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 102,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000036.jpg",
+    "type_id": 3,
+    "item_id": 38,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042515.777470_i2411j620.png",
+    "type_id": 6,
+    "item_id": 46,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Mango",
+      "B": "Pear",
+      "C": "Pineapple",
+      "D": "Banana",
+      "E": "Apple",
+      "F": "Watermelon",
+      "G": "Grape",
+      "H": "Kiwi",
+      "I": "Peach",
+      "J": "Orange"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP038000002.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Wheat",
+      "C": "Beet",
+      "D": "Corn"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 123,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005044.000731.Cam6_21.png",
+    "type_id": 6,
+    "item_id": 40,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Banana",
+      "B": "Strawberry",
+      "C": "Watermelon",
+      "D": "Cherry",
+      "E": "Orange",
+      "F": "Pineapple",
+      "G": "Peach",
+      "H": "Grape",
+      "I": "Kiwi",
+      "J": "Apple"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005959.821662.Cam6_14.png",
+    "type_id": 6,
+    "item_id": 31,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Apple",
+      "B": "Kiwi",
+      "C": "Orange",
+      "D": "Grape",
+      "E": "Banana",
+      "F": "Watermelon",
+      "G": "Almond",
+      "H": "Peach",
+      "I": "Pineapple",
+      "J": "Pear"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000045.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Aleurocanthus spiniferus",
+      "B": "corn borer",
+      "C": "Polyphagotars onemus latus",
+      "D": "yellow cutworm"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/abc2d827-8c14-4a55-90d0-101d05624c5d___JR_HL 7839.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Grape",
+      "B": "Pepper",
+      "C": "Corn",
+      "D": "Maize"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 121,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/2ef5c988bd924b77d747fc7783d3af92.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Pepper",
+      "B": "apple",
+      "C": "Tomato",
+      "D": "Cherry"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/728c9c66cc3c07f10a66a809df16fe1e.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Apple",
+      "C": "Potato",
+      "D": "Pepper"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 139,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/499cff4dbb6e7d26952028697fe8bc84.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "apple",
+      "C": "Potato",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP043000003.jpg",
+    "type_id": 3,
+    "item_id": 12,
+    "question": "Are the pests meadow moth?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000035.jpg",
+    "type_id": 3,
+    "item_id": 39,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025045.732668_i2099j1823.png",
+    "type_id": 6,
+    "item_id": 27,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pineapple",
+      "B": "Mango",
+      "C": "Orange",
+      "D": "Peach",
+      "E": "Pear",
+      "F": "Kiwi",
+      "G": "Grape",
+      "H": "Watermelon",
+      "I": "Banana",
+      "J": "Apple"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005239.050709.Cam6_31.png",
+    "type_id": 6,
+    "item_id": 41,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Mango",
+      "C": "Kiwi",
+      "D": "Peach",
+      "E": "Orange",
+      "F": "Pear",
+      "G": "Pineapple",
+      "H": "Apple",
+      "I": "Banana",
+      "J": "Grape"
+    },
+    "answer": "H",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ce90a66b-6d07-4fc1-89bd-af0de0c5dee1___GHLB2 Leaf 108.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Pepper",
+      "C": "Puccinia",
+      "D": "apple"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 99,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013135.670117_13.png",
+    "type_id": 6,
+    "item_id": 33,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Banana",
+      "C": "Watermelon",
+      "D": "Kiwi",
+      "E": "Grape",
+      "F": "Pear",
+      "G": "Peach",
+      "H": "Pineapple",
+      "I": "Apple",
+      "J": "Orange"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/41def40eafaa94b2d3614990af57c4cf.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Cercospora",
+      "C": "apple",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 94,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000009.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "bird cherry-oataphid",
+      "B": "Rice Stemfly",
+      "C": "Sternochetus frigidus",
+      "D": "Prodenia litura"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/262db5965be897cb250d45d707e53e61.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Corn",
+      "C": "apple",
+      "D": "Pepper"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 129,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP034000016.jpg",
+    "type_id": 3,
+    "item_id": 11,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP026000006.jpg",
+    "type_id": 1,
+    "item_id": 36,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Cicadellidae",
+      "B": "peach borer",
+      "C": "rice leafhopper",
+      "D": "Trialeurodes vaporariorum"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b7f7de86-8da7-4ed8-b61b-b40c5bc50de6___CREC_HLB 7510.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Citrus",
+      "C": "Corn",
+      "D": "Peach"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 61,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041935.578460_i2406j1434.png",
+    "type_id": 3,
+    "item_id": 8,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_31_IMG_4354_i1500j3900.png",
+    "type_id": 6,
+    "item_id": 43,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Orange",
+      "B": "Kiwi",
+      "C": "Apple",
+      "D": "Pineapple",
+      "E": "Pear",
+      "F": "Almond",
+      "G": "Peach",
+      "H": "Watermelon",
+      "I": "Grape",
+      "J": "Banana"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c11a345a-e3af-45b1-9923-966bd22d445f___YLCV_NREC 1996.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Cherry",
+      "C": "Corn",
+      "D": "Apple"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 75,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000015.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Wheat",
+      "C": "Beet",
+      "D": "Vitis"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000003.jpg",
+    "type_id": 3,
+    "item_id": 31,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000014.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Cicadellidae",
+      "B": "alfalfa weevil",
+      "C": "Rice Stemfly",
+      "D": "Miridae"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/d2fe5d37-e8e1-42b2-a24b-875fb2527675___RS_HL 7947.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Tomato",
+      "C": "Potato",
+      "D": "apple"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b17528512f554ce5ef7660625c69a050.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Puccinia",
+      "C": "Strawberry",
+      "D": "Grape"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000016.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Nipaecoccus vastalor",
+      "B": "Apolygus lucorum",
+      "C": "Chlumetia transversa",
+      "D": "peach borer"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000039.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Citrus",
+      "B": "Vitis",
+      "C": "Rice",
+      "D": "Corn"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 118,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/491d5ee807b0d649df31b409f47d17a3.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Grape",
+      "C": "Tomato",
+      "D": "Puccinia"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043157.091180_i1414j1514.png",
+    "type_id": 6,
+    "item_id": 9,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Orange",
+      "B": "Pineapple",
+      "C": "Peach",
+      "D": "Apple",
+      "E": "Mango",
+      "F": "Kiwi",
+      "G": "Almond",
+      "H": "Watermelon",
+      "I": "Strawberry",
+      "J": "Pear"
+    },
+    "answer": "E",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_63_11_IMG_4402_i2100j3600.png",
+    "type_id": 6,
+    "item_id": 2,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Grape",
+      "B": "Apple",
+      "C": "Pineapple",
+      "D": "Kiwi",
+      "E": "Peach",
+      "F": "Banana",
+      "G": "Almond",
+      "H": "Pear",
+      "I": "Mango",
+      "J": "Watermelon"
+    },
+    "answer": "G",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP070000041.jpg",
+    "type_id": 3,
+    "item_id": 55,
+    "question": "Are the pests Cicadella viridis?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000009.jpg",
+    "type_id": 3,
+    "item_id": 17,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/54977a86-3b91-4ed5-af07-723caaa8e53a___MD_Powd.M 0920.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Maize",
+      "C": "Tomato",
+      "D": "Citrus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 71,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP032000009.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Dasineura sp",
+      "B": "cabbage army worm",
+      "C": "penthaleus major",
+      "D": "rice gall midge"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031213.318817_i1708j1917.png",
+    "type_id": 3,
+    "item_id": 21,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/9748a67cd01412d58ec8452d76ce9637.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Tomato",
+      "C": "Cercospora",
+      "D": "Maize"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000043.jpg",
+    "type_id": 3,
+    "item_id": 33,
+    "question": "Are the pests Rice Stemfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000034.jpg",
+    "type_id": 3,
+    "item_id": 22,
+    "question": "Are the pests Nipaecoccus vastalor?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP019000000.jpg",
+    "type_id": 1,
+    "item_id": 40,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "large cutworm",
+      "B": "cerodonta denticornis",
+      "C": "Cicadella viridis",
+      "D": "grain spreader thrips"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004411.421218.Cam6_54.png",
+    "type_id": 6,
+    "item_id": 32,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Watermelon",
+      "C": "Pineapple",
+      "D": "Pear",
+      "E": "Banana",
+      "F": "Kiwi",
+      "G": "Cherry",
+      "H": "Orange",
+      "I": "Apple",
+      "J": "Grape"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP073000013.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Vitis",
+      "B": "Corn",
+      "C": "Rice",
+      "D": "Alfalfa"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 90,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0db99f846583bf3ceb6a06abc5a3aa6a.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "apple",
+      "C": "Peach",
+      "D": "Cherry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 140,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a400a83869221908718c3c8f92ec81d5.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Corn",
+      "C": "Strawberry",
+      "D": "Peach"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 152,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP002000013.jpg",
+    "type_id": 1,
+    "item_id": 44,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "paddy stem maggot",
+      "B": "small brown plant hopper",
+      "C": "mole cricket",
+      "D": "rice shell pest"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000033.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Corn",
+      "B": "Alfalfa",
+      "C": "Rice",
+      "D": "Mango"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 146,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042453.652637_i2094j725.png",
+    "type_id": 6,
+    "item_id": 47,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Almond",
+      "B": "Apple",
+      "C": "Banana",
+      "D": "Mango",
+      "E": "Peach",
+      "F": "Kiwi",
+      "G": "Orange",
+      "H": "Watermelon",
+      "I": "Grape",
+      "J": "Pineapple"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP012000027.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Alfalfa",
+      "B": "Citrus",
+      "C": "Wheat",
+      "D": "Rice"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 138,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000014.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Beet",
+      "B": "Mango",
+      "C": "Rice",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b3e9794ec7bd87cc97d3523d10ed2ee3.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Maize",
+      "C": "Corn",
+      "D": "Grape"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60d10513eade0f00079b5890_2421.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 8,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000034.jpg",
+    "type_id": 3,
+    "item_id": 25,
+    "question": "Are the pests Miridae?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP044000005.jpg",
+    "type_id": 1,
+    "item_id": 46,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "beet army worm",
+      "B": "peach borer",
+      "C": "rice leafhopper",
+      "D": "sericaorient alismots chulsky"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000000.jpg",
+    "type_id": 3,
+    "item_id": 28,
+    "question": "Are the pests legume blister beetle?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000052.jpg",
+    "type_id": 3,
+    "item_id": 42,
+    "question": "Are the pests Dacus dorsalis(Hendel)?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/75bb2a58655b04354cd4192593fa142c.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "Corn"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/091a741e4b9f89b235862416cbb9f26b.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Maize",
+      "B": "Citrus",
+      "C": "Pepper",
+      "D": "Apple"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041619.990219_i2184j1881.png",
+    "type_id": 6,
+    "item_id": 42,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Mango",
+      "B": "Peach",
+      "C": "Watermelon",
+      "D": "Banana",
+      "E": "Orange",
+      "F": "Kiwi",
+      "G": "Grape",
+      "H": "Apple",
+      "I": "Pineapple",
+      "J": "Pear"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4c11ec32efcf4f51390c01f4d1c05410.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Strawberry",
+      "C": "Puccinia",
+      "D": "Peach"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 96,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP014000004.jpg",
+    "type_id": 3,
+    "item_id": 24,
+    "question": "Are the pests mole cricket?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP035000036.jpg",
+    "type_id": 1,
+    "item_id": 48,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Nipaecoccus vastalor",
+      "B": "Miridae",
+      "C": "wheat sawfly",
+      "D": "parathrene regalis"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/897aa0c23bec2484f21d17b596e26905.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Cercospora",
+      "C": "Grape",
+      "D": "Maize"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 70,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/77730acc-705a-4b8f-8e3a-dc70bd348d40___GHLB_PS Leaf 32 Day 13.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Maize",
+      "C": "Cherry",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0ce66ec5-0bb7-4fde-9c61-750a1a150f75___UF.GRC_YLCV_Lab 02219.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Citrus",
+      "C": "Grape",
+      "D": "Peach"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 72,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/432f337d-5b28-495e-af5a-38e7f6142600___FAM_L.Blight 1587.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Puccinia",
+      "C": "Grape",
+      "D": "Maize"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000024.jpg",
+    "type_id": 1,
+    "item_id": 31,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "asiatic rice borer",
+      "B": "Unaspis yanonensis",
+      "C": "peach borer",
+      "D": "cerodonta denticornis"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/eae84e72-e82f-4390-bd24-ebace76e1422___GCREC_Bact.Sp 3161.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Maize",
+      "C": "Potato",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 108,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP006000035.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Vitis",
+      "B": "Corn",
+      "C": "Rice",
+      "D": "Wheat"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/4fca1600-ca6b-4141-b890-7577b733be62___Rutg._Bact.S 2113.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Corn",
+      "C": "Cercospora",
+      "D": "Strawberry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 79,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP025000004.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Mango",
+      "C": "Corn",
+      "D": "Vitis"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041304.927824_i2623j137.png",
+    "type_id": 3,
+    "item_id": 23,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_807.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 1,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041223.662451_i2370j1154.png",
+    "type_id": 3,
+    "item_id": 19,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031008.978052_i1936j173.png",
+    "type_id": 6,
+    "item_id": 34,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pear",
+      "B": "Banana",
+      "C": "Mango",
+      "D": "Apple",
+      "E": "Pineapple",
+      "F": "Kiwi",
+      "G": "Orange",
+      "H": "Peach",
+      "I": "Watermelon",
+      "J": "Grape"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c02b90e9-753e-44a7-a4b8-1e19f1de42f4___RS_HL 7971.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "apple",
+      "C": "Strawberry",
+      "D": "Corn"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024836.000107_i2222j263.png",
+    "type_id": 3,
+    "item_id": 22,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3bbe4a342ac16fd9b3dacd15aa72af72.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Peach",
+      "C": "Cercospora",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 89,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000013.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "alfalfa plant bug",
+      "B": "bird cherry-oataphid",
+      "C": "Potosiabre vitarsis",
+      "D": "white margined moth"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5754608265b5decc9772630d9a59a7e9.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Apple",
+      "C": "Maize",
+      "D": "Cercospora"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 145,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/04f7f7e4-c94a-4a9f-932f-9e54384a3d01___MD_Powd.M 0153.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 73,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ac7324aa1e65d73f254550f494cb37bf.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Cercospora",
+      "C": "Cherry",
+      "D": "Pepper"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 133,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP023000019.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Vitis",
+      "B": "Corn",
+      "C": "Rice",
+      "D": "Mango"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 68,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3316990f-2cc4-4676-b40e-9fe1526a311c___MD_Powd.M 0979.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Grape",
+      "C": "Tomato",
+      "D": "Cherry"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 106,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a58129c7fd30e9292e5ae4af6e1365cd.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Pepper",
+      "C": "Citrus",
+      "D": "Maize"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 81,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c5fa23b9-ed96-4f25-84ab-9242b085f2b5___YLCV_GCREC 2565.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Corn",
+      "C": "Tomato",
+      "D": "Apple"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 155,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/f9f9258d25674858ddfe5729aca3b19f.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Strawberry",
+      "C": "Potato",
+      "D": "Apple"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/906dd9e9c6cf2dc8dff8b4e6689fb07e.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Puccinia",
+      "C": "apple",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044013.167563_i2626j319.png",
+    "type_id": 3,
+    "item_id": 18,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000028.jpg",
+    "type_id": 3,
+    "item_id": 23,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/83165148298cc901b8b3bd9d00b35119.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Corn",
+      "B": "Peach",
+      "C": "Strawberry",
+      "D": "Pepper"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 112,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "type_id": 6,
+    "item_id": 22,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Banana",
+      "B": "Grape",
+      "C": "Apple",
+      "D": "Orange",
+      "E": "Pineapple",
+      "F": "Kiwi",
+      "G": "Watermelon",
+      "H": "Almond",
+      "I": "Pear",
+      "J": "Peach"
+    },
+    "answer": "H",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b478689a7ad6eb412b01c87d4275f726.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Tomato",
+      "C": "Grape",
+      "D": "Cherry"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 130,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP011000010.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Vitis",
+      "B": "Corn",
+      "C": "Wheat",
+      "D": "Rice"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/59e6db045cafdad6d565e9451c890fb4.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Strawberry",
+      "C": "Grape",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 67,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP083000108.jpg",
+    "type_id": 1,
+    "item_id": 49,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Locustoidea",
+      "B": "parathrene regalis",
+      "C": "Adristyrannus",
+      "D": "Aleurocanthus spiniferus"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/afb24333-036f-4939-a71c-60bd6762d219___Rutg._HL 3585.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Cherry",
+      "C": "Potato",
+      "D": "Peach"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 82,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/465669d7-b75c-4aab-8ccc-af3566baf2e3___RS_LB 4985.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Pepper",
+      "B": "Potato",
+      "C": "apple",
+      "D": "Cercospora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 111,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/7f7078583a99b5cc0ba5b3067704b4da.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Cherry",
+      "C": "Pepper",
+      "D": "Maize"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP092000176.jpg",
+    "type_id": 1,
+    "item_id": 50,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Papilio xuthus",
+      "B": "Erythroneura apicalis",
+      "C": "wheat sawfly",
+      "D": "Aphis citricola Vander Goot"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032252.582300_i2619j745.png",
+    "type_id": 6,
+    "item_id": 7,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Kiwi",
+      "B": "Banana",
+      "C": "Watermelon",
+      "D": "Peach",
+      "E": "Grape",
+      "F": "Mango",
+      "G": "Pineapple",
+      "H": "Orange",
+      "I": "Pear",
+      "J": "Apple"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000023.jpg",
+    "type_id": 3,
+    "item_id": 40,
+    "question": "Are the pests grub?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005947.821546.Cam6_21.png",
+    "type_id": 6,
+    "item_id": 15,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Apple",
+      "B": "Kiwi",
+      "C": "Banana",
+      "D": "Orange",
+      "E": "Pear",
+      "F": "Pineapple",
+      "G": "Grape",
+      "H": "Peach",
+      "I": "Watermelon"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP094000201.jpg",
+    "type_id": 3,
+    "item_id": 37,
+    "question": "Are the pests Dasineura sp?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP036000024.jpg",
+    "type_id": 3,
+    "item_id": 16,
+    "question": "Are the pests wheat sawfly?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP091000015.jpg",
+    "type_id": 1,
+    "item_id": 43,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "therioaphis maculata Buckton",
+      "B": "Toxoptera aurantii",
+      "C": "parathrene regalis",
+      "D": "Rice Stemfly"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP082000035.jpg",
+    "type_id": 1,
+    "item_id": 54,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Potosiabre vitarsis",
+      "B": "small brown plant hopper",
+      "C": "Nipaecoccus vastalor",
+      "D": "cabbage army worm"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013350.339486_32.png",
+    "type_id": 6,
+    "item_id": 3,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Grape",
+      "B": "Apple",
+      "C": "Watermelon",
+      "D": "Pineapple",
+      "E": "Strawberry",
+      "F": "Peach",
+      "G": "Orange",
+      "H": "Kiwi",
+      "I": "Pear",
+      "J": "Banana"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP016000013.jpg",
+    "type_id": 1,
+    "item_id": 51,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "corn borer",
+      "B": "Mango flat beak leafhopper",
+      "C": "green bug",
+      "D": "wireworm"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/0fcb3fafbb0f509968fa057b49dc7181.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Apple",
+      "C": "Citrus",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 93,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000007.jpg",
+    "type_id": 3,
+    "item_id": 57,
+    "question": "Are the pests alfalfa plant bug?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000018.jpg",
+    "type_id": 3,
+    "item_id": 1,
+    "question": "Are the pests corn borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013507.864807_33.png",
+    "type_id": 6,
+    "item_id": 4,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pineapple",
+      "B": "Watermelon",
+      "C": "Banana",
+      "D": "Apple",
+      "E": "Peach",
+      "F": "Mango",
+      "G": "Orange",
+      "H": "Pear",
+      "I": "Grape",
+      "J": "Kiwi"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000047.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Beet",
+      "B": "Wheat",
+      "C": "Vitis",
+      "D": "Rice"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 104,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cf2880f0-dd62-4c28-a389-61d1dbf95821___Rutg._Bact.S 1831.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Peach",
+      "B": "Potato",
+      "C": "apple",
+      "D": "Tomato"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 125,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/e21b72e3e229888f2d38bcc1ec0d5e30.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cercospora",
+      "B": "Grape",
+      "C": "Corn",
+      "D": "apple"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 92,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/ac52213f-6cf5-48a3-94dc-3fffb01b38d4___CREC_HLB 4678.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "apple",
+      "C": "Puccinia",
+      "D": "Strawberry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/30b2c7799e7314ac57b37a21fad5e7dd.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Strawberry",
+      "C": "Citrus",
+      "D": "Corn"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013026.335322_23.png",
+    "type_id": 6,
+    "item_id": 37,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Almond",
+      "B": "Peach",
+      "C": "Mango",
+      "D": "Grape",
+      "E": "Watermelon",
+      "F": "Banana",
+      "G": "Pineapple",
+      "H": "Apple",
+      "I": "Pear",
+      "J": "Orange"
+    },
+    "answer": "H",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/aee5160fe76348f2cb409cbbe15137e7.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Corn",
+      "B": "Peach",
+      "C": "Strawberry",
+      "D": "Potato"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 107,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004848.379337.Cam6_11.png",
+    "type_id": 6,
+    "item_id": 28,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Peach",
+      "B": "Cherry",
+      "C": "Banana",
+      "D": "Pineapple",
+      "E": "Pear",
+      "F": "Watermelon",
+      "G": "Grape",
+      "H": "Kiwi",
+      "I": "Orange",
+      "J": "Apple"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP074000034.jpg",
+    "type_id": 3,
+    "item_id": 5,
+    "question": "Are the pests Erythroneura apicalis?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043728.998549_i1919j275.png",
+    "type_id": 6,
+    "item_id": 14,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Orange",
+      "B": "Kiwi",
+      "C": "Almond",
+      "D": "Mango",
+      "E": "Pineapple",
+      "F": "Pear",
+      "G": "Watermelon",
+      "H": "Apple",
+      "I": "Strawberry",
+      "J": "Banana"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5670c38107d64841a9abdd7d52b15927.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Cherry",
+      "C": "Citrus",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 66,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP047000008.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Citrus",
+      "B": "Rice",
+      "C": "Corn",
+      "D": "Alfalfa"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 109,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/431f4530b191fdc634f74720e8787b62.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cherry",
+      "B": "apple",
+      "C": "Puccinia",
+      "D": "Grape"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 83,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042314.269427_i2569j1931.png",
+    "type_id": 3,
+    "item_id": 12,
+    "question": "Are there any mangos?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP079000001.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Alfalfa",
+      "C": "Beet",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000051.jpg",
+    "type_id": 1,
+    "item_id": 32,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Phyllocnistis citrella Stainton",
+      "B": "blister beetle",
+      "C": "legume blister beetle",
+      "D": "Potosiabre vitarsis"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP089000063.jpg",
+    "type_id": 3,
+    "item_id": 7,
+    "question": "Are the pests Toxoptera citricidus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.993845_i2163j235.png",
+    "type_id": 6,
+    "item_id": 12,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Grape",
+      "C": "Banana",
+      "D": "Apple",
+      "E": "Pineapple",
+      "F": "Orange",
+      "G": "Kiwi",
+      "H": "Peach",
+      "I": "Mango",
+      "J": "Pear"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP046000013.jpg",
+    "type_id": 3,
+    "item_id": 46,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3bd9e815f5f248889fd661b6bd23d85d.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Potato",
+      "C": "Peach",
+      "D": "Puccinia"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4350_i2700j600.png",
+    "type_id": 3,
+    "item_id": 13,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/5367e167-14f3-4d65-bd93-4c4b693e0bc7___FREC_C.Rust 4109.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Tomato",
+      "B": "Apple",
+      "C": "Corn",
+      "D": "Strawberry"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP018000000.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Rice",
+      "C": "Corn",
+      "D": "Citrus"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 148,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromWest_65_15_IMG_4784_i2700j1200.png",
+    "type_id": 6,
+    "item_id": 36,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Grape",
+      "B": "Strawberry",
+      "C": "Peach",
+      "D": "Orange",
+      "E": "Kiwi",
+      "F": "Banana",
+      "G": "Watermelon",
+      "H": "Pear",
+      "I": "Almond",
+      "J": "Apple"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/b99c7b49a5f1c4ffbc15b7addbb6d74b.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "Maize"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 101,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_180857.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Maize",
+      "B": "Puccinia",
+      "C": "Citrus",
+      "D": "Tomato"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 126,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP048000036.jpg",
+    "type_id": 3,
+    "item_id": 18,
+    "question": "Are the pests Locustoidea?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000017.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Vitis",
+      "C": "Wheat",
+      "D": "Mango"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 149,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP022000019.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Corn",
+      "B": "Vitis",
+      "C": "Rice",
+      "D": "Citrus"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 136,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/60dcb8d6-2aa4-46d5-81ba-f88c94feb784___Rutg._Bact.S 2259.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Peach",
+      "C": "Maize",
+      "D": "Tomato"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 5,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP040000006.jpg",
+    "type_id": 3,
+    "item_id": 14,
+    "question": "Are the pests beet army worm?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/233640f5-3b34-4739-9c80-9052872bc7b6___RS_L.Scorch 1447.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Maize",
+      "B": "Cherry",
+      "C": "Potato",
+      "D": "Strawberry"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 114,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62bb13d6412ef7220aed6_3687.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 6,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Leaf_diseases/images/c8f002527bc31a01fd4e5b661510ab0d.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Apple",
+      "C": "Peach",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP075000003.jpg",
+    "type_id": 3,
+    "item_id": 8,
+    "question": "Are the pests Papilio xuthus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005816.391049.Cam6_51.png",
+    "type_id": 6,
+    "item_id": 45,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pear",
+      "B": "Grape",
+      "C": "Pineapple",
+      "D": "Watermelon",
+      "E": "Peach",
+      "F": "Mango",
+      "G": "Banana",
+      "H": "Kiwi",
+      "I": "Orange",
+      "J": "Apple"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/bed79e41-7214-47eb-8f98-5b2b5f5555c7___FAM_B.Msls 1038.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Maize",
+      "C": "Cercospora",
+      "D": "Grape"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 122,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cc700ed3-b2da-48d3-b7fb-f5965fa7704d___UMD_Powd.M 0442.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Maize",
+      "B": "Citrus",
+      "C": "Potato",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 103,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP090000086.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "rice leaf roller",
+      "B": "rice leafhopper",
+      "C": "Toxoptera citricidus",
+      "D": "Xylotrechus"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000037.jpg",
+    "type_id": 1,
+    "item_id": 34,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Deporaus marginatus Pascoe",
+      "B": "white margined moth",
+      "C": "Thrips",
+      "D": "alfalfa seed chalcid"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP086000011.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Vitis",
+      "C": "Citrus",
+      "D": "Corn"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000014.jpg",
+    "type_id": 3,
+    "item_id": 32,
+    "question": "Are the pests alfalfa weevil?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000039.jpg",
+    "type_id": 1,
+    "item_id": 37,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Rhytidodera bowrinii white",
+      "B": "Deporaus marginatus Pascoe",
+      "C": "Erythroneura apicalis",
+      "D": "mole cricket"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP067000004.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Ampelophaga",
+      "B": "Beet spot flies",
+      "C": "asiatic rice borer",
+      "D": "oides decempunctata"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP084000038.jpg",
+    "type_id": 3,
+    "item_id": 44,
+    "question": "Are the pests Aleurocanthus spiniferus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP045000009.jpg",
+    "type_id": 1,
+    "item_id": 33,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "alfalfa weevil",
+      "B": "Deporaus marginatus Pascoe",
+      "C": "rice water weevil",
+      "D": "cabbage army worm"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6ed82f7421ec18b4d25c2e79281b0638.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Corn",
+      "C": "apple",
+      "D": "Grape"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "type_id": 3,
+    "item_id": 17,
+    "question": "Are there any almonds?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005124.382560.Cam6_43.png",
+    "type_id": 6,
+    "item_id": 30,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Banana",
+      "B": "Orange",
+      "C": "Cherry",
+      "D": "Watermelon",
+      "E": "Grape",
+      "F": "Pineapple",
+      "G": "Kiwi",
+      "H": "Pear",
+      "I": "Apple",
+      "J": "Peach"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/376440f84ac9876982d9c58c3654e028.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Grape",
+      "C": "Cherry",
+      "D": "Cercospora"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP099000037.jpg",
+    "type_id": 1,
+    "item_id": 56,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Mango flat beak leafhopper",
+      "B": "yellow cutworm",
+      "C": "Polyphagotars onemus latus",
+      "D": "Ceroplastes rubens"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP054000008.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Wheat",
+      "B": "Alfalfa",
+      "C": "Vitis",
+      "D": "Beet"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024511.195849_i1734j1918.png",
+    "type_id": 6,
+    "item_id": 6,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Cherry",
+      "C": "Kiwi",
+      "D": "Peach",
+      "E": "Orange",
+      "F": "Mango",
+      "G": "Grape",
+      "H": "Pear",
+      "I": "Banana",
+      "J": "Watermelon"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/8a93f188859e8ecbc8b8f7561f1ef68e.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Apple",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "Grape"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 119,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/1aaaee26c7aa0428ed193b934a8b6028.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Tomato",
+      "C": "Pepper",
+      "D": "apple"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/6d42c9e82977e52a15994b38ee5a7c2a.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Strawberry",
+      "B": "Cherry",
+      "C": "Corn",
+      "D": "Tomato"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP004000042.jpg",
+    "type_id": 3,
+    "item_id": 3,
+    "question": "Are the pests yellow rice borer?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042129.916264_i1453j1720.png",
+    "type_id": 3,
+    "item_id": 5,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030759.669266_i2373j293.png",
+    "type_id": 6,
+    "item_id": 23,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Cherry",
+      "B": "Peach",
+      "C": "Pear",
+      "D": "Pineapple",
+      "E": "Orange",
+      "F": "Apple",
+      "G": "Kiwi",
+      "H": "Grape",
+      "I": "Mango",
+      "J": "Watermelon"
+    },
+    "answer": "I",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP017000004.jpg",
+    "type_id": 1,
+    "item_id": 39,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "beet weevil",
+      "B": "white margined moth",
+      "C": "lytta polita",
+      "D": "Chlumetia transversa"
+    },
+    "answer": "B",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2433.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 2,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+    "question": "Does the ecosystem in this image contain any trees?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 4,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 6
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP013000044.jpg",
+    "type_id": 3,
+    "item_id": 4,
+    "question": "Are the pests grain spreader thrips?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/7bb235145b724f6f202f3bd80938fccf.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Potato",
+      "B": "Cercospora",
+      "C": "Pepper",
+      "D": "Cherry"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 110,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP051000004.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "wireworm",
+      "B": "Colomerus vitis",
+      "C": "white backed plant hopper",
+      "D": "legume blister beetle"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030101.442833_i1726j56.png",
+    "type_id": 6,
+    "item_id": 21,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Peach",
+      "C": "Grape",
+      "D": "Kiwi",
+      "E": "Apple",
+      "F": "Pineapple",
+      "G": "Banana",
+      "H": "Mango",
+      "I": "Cherry",
+      "J": "Pear"
+    },
+    "answer": "H",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000002.jpg",
+    "type_id": 3,
+    "item_id": 41,
+    "question": "Are the pests Tetradacus c Bactrocera minax?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP088000018.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Limacodidae",
+      "B": "Dasineura sp",
+      "C": "Adristyrannus",
+      "D": "Cicadella viridis"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP097000003.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Deporaus marginatus Pascoe",
+      "B": "rice gall midge",
+      "C": "meadow moth",
+      "D": "white margined moth"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013112.050506_34.png",
+    "type_id": 6,
+    "item_id": 10,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Orange",
+      "B": "Grape",
+      "C": "Peach",
+      "D": "Kiwi",
+      "E": "Pear",
+      "F": "Apple",
+      "G": "Pineapple",
+      "H": "Watermelon",
+      "I": "Banana"
+    },
+    "answer": "F",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP008000039.jpg",
+    "type_id": 3,
+    "item_id": 21,
+    "question": "Are the pests small brown plant hopper?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/86069a9f-3334-496c-a6bb-6e77a138a3b9___Matt.S_CG 2519.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cherry",
+      "B": "Tomato",
+      "C": "Grape",
+      "D": "apple"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004710.853432.Cam6_73.png",
+    "type_id": 6,
+    "item_id": 44,
+    "question": "What kind of fruit is in the picture?",
+    "options": {
+      "A": "Pear",
+      "B": "Orange",
+      "C": "Mango",
+      "D": "Watermelon",
+      "E": "Pineapple",
+      "F": "Peach",
+      "G": "Grape",
+      "H": "Banana",
+      "I": "Kiwi",
+      "J": "Apple"
+    },
+    "answer": "J",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Leaf_diseases/images/38afc1811f1ef8e028ea77f057185c85.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Strawberry",
+      "C": "Tomato",
+      "D": "Corn"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP085000005.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Alfalfa",
+      "C": "Vitis",
+      "D": "Citrus"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 147,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_184638.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "apple",
+      "B": "Cherry",
+      "C": "Corn",
+      "D": "Potato"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP056000037.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Wheat",
+      "C": "Citrus",
+      "D": "Alfalfa"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005229.717262.Cam6_14.png",
+    "type_id": 3,
+    "item_id": 14,
+    "question": "Are there any apples?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP042000022.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Rice",
+      "B": "Alfalfa",
+      "C": "Mango",
+      "D": "Beet"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 113,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP071000022.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "wheat blossom midge",
+      "B": "bird cherry-oataphid",
+      "C": "Icerya purchasi Maskell",
+      "D": "Miridae"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/042da911e8ea16ca5592e393d77525b7.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Grape",
+      "B": "Pepper",
+      "C": "Tomato",
+      "D": "Puccinia"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 124,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP100000021.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Beet",
+      "B": "Citrus",
+      "C": "Rice",
+      "D": "Mango"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 88,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004528.184672.Cam6_11.png",
+    "type_id": 3,
+    "item_id": 15,
+    "question": "Are there any apples?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Leaf_diseases/images/3bf54cddd2b4f360e08bf4992e36ff9a.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Cherry",
+      "B": "Peach",
+      "C": "Corn",
+      "D": "Cercospora"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 95,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Leaf_diseases/images/cf609cea4c25140dac088e2e5d9bf714.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Grape",
+      "C": "Cherry",
+      "D": "Strawberry"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 127,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP058000045.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "Apolygus lucorum",
+      "B": "flax budworm",
+      "C": "rice leaf roller",
+      "D": "small brown plant hopper"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP020000009.jpg",
+    "type_id": 1,
+    "item_id": 53,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "yellow cutworm",
+      "B": "Potosiabre vitarsis",
+      "C": "Icerya purchasi Maskell",
+      "D": "rice leaf caterpillar"
+    },
+    "answer": "A",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP057000007.jpg",
+    "type_id": 1,
+    "item_id": 41,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "alfalfa plant bug",
+      "B": "yellow cutworm",
+      "C": "Pieris canidia",
+      "D": "beet fly"
+    },
+    "answer": "C",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP069000087.jpg",
+    "type_id": 1,
+    "item_id": 42,
+    "question": "What pests are in this image?",
+    "options": {
+      "A": "legume blister beetle",
+      "B": "paddy stem maggot",
+      "C": "meadow moth",
+      "D": "Xylotrechus"
+    },
+    "answer": "D",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Leaf_diseases/images/IMG_20180623_190344.jpg",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Citrus",
+      "B": "Peach",
+      "C": "Grape",
+      "D": "Corn"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 91,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP005000006.jpg",
+    "question": "What crop does the pest in the image primarily damage?",
+    "options": {
+      "A": "Mango",
+      "B": "Vitis",
+      "C": "Alfalfa",
+      "D": "Rice"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 115,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031132.560120_i1732j994.png",
+    "type_id": 3,
+    "item_id": 10,
+    "question": "Are there any mangos?",
+    "answer": "Yes",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./Pest/JPEGImages/IP063000019.jpg",
+    "type_id": 3,
+    "item_id": 51,
+    "question": "Are the pests Polyphagotars onemus latus?",
+    "answer": "No",
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Leaf_diseases/images/a4e8bc4c-4522-4a7d-b7c9-70c4b220561e___FREC_C.Rust 3570.JPG",
+    "question": "What type of plant leaf is this?",
+    "options": {
+      "A": "Puccinia",
+      "B": "Citrus",
+      "C": "Pepper",
+      "D": "Apple"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 2,
+    "level2_id": 1,
+    "level3_id": 1
+  }
+]

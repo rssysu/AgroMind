@@ -1,0 +1,2281 @@
+[
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0207.jpg",
+    "image2": "./corn/images/image_0073.jpg",
+    "answer": "0",
+    "type_id": 8,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which 2 images have the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0119.jpg",
+      "B": "./corn/images/image_0056.jpg",
+      "C": "./corn/images/image_0128.jpg",
+      "D": "./corn/images/image_0130.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0011.jpg",
+      "B": "./corn/images/image_0112.jpg",
+      "C": "./corn/images/image_0196.jpg",
+      "D": "./corn/images/image_0158.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0213.jpg",
+    "image2": "./corn/images/image_0102.jpg",
+    "answer": "9",
+    "type_id": 8,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 25,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+      "B": "./Trees/images/5ae3a7f00b093000130aff66_1732.jpg",
+      "C": "./Trees/images/5ae3ac1c0b093000130aff8f_3814.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0154.jpg",
+    "image2": "./corn/images/image_0037.jpg",
+    "answer": "5",
+    "type_id": 8,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which 2 images have the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0145.jpg",
+      "B": "./corn/images/image_0127.jpg",
+      "C": "./corn/images/image_0123.jpg",
+      "D": "./corn/images/image_0004.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0187.jpg",
+      "B": "./corn/images/image_0154.jpg",
+      "C": "./corn/images/image_0082.jpg",
+      "D": "./corn/images/image_0026.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0207.jpg",
+    "image2": "./corn/images/image_0205.jpg",
+    "answer": "0",
+    "type_id": 8,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0013.jpg",
+      "B": "./corn/images/image_0123.jpg",
+      "C": "./corn/images/image_0028.jpg",
+      "D": "./corn/images/image_0116.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 15,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62be83d6412ef7220c45c_3598.jpg",
+      "B": "./Trees/images/5fe3cf0b5f36590007d9f04f_3382.jpg",
+      "C": "./Trees/images/5f7177d91d951a00058695e8_1914.jpg",
+      "D": "./Trees/images/5e25ec6e36067e0005c2752d_3412.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0224.jpg",
+      "B": "./corn/images/image_0216.jpg",
+      "C": "./corn/images/image_0227.jpg",
+      "D": "./corn/images/image_0057.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0010.jpg",
+      "B": "./corn/images/image_0082.jpg",
+      "C": "./corn/images/image_0058.jpg",
+      "D": "./corn/images/image_0040.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0204.jpg",
+      "B": "./corn/images/image_0041.jpg",
+      "C": "./corn/images/image_0195.jpg",
+      "D": "./corn/images/image_0078.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 36,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0149.jpg",
+    "image2": "./corn/images/image_0218.jpg",
+    "answer": "10",
+    "type_id": 8,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 22,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_2158.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg",
+      "C": "./Trees/images/5e92a43ec6bbac0005e30fd2_1763.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2690.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 20,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_1705.jpg",
+      "B": "./Trees/images/5ae31f3c0b093000130afda4_1553.jpg",
+      "C": "./Trees/images/5c892a92225fc20007ab4e31_1444.jpg",
+      "D": "./Trees/images/5cb64e020a3a5c0005ff12ff_717.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 18,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3828.jpg",
+      "B": "./Trees/images/5e92a43ec6bbac0005e30fd2_2461.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1346.jpg",
+      "D": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 13,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_1507.jpg",
+      "B": "./Trees/images/59e62b953d6412ef7220a31c_3731.jpg",
+      "C": "./Trees/images/5d1bded793e1130005fc0e98_1875.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4833.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 16,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5f0476d80570c50007a7fb60_2757.jpg",
+      "B": "./Trees/images/60a7a37029636900059d6491_3411.jpg",
+      "C": "./Trees/images/5e589105240f260007700704_2872.jpg",
+      "D": "./Trees/images/5c3ea615e7ff3f00054889d4_253.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 28,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg",
+      "B": "./Trees/images/5e4fb2fb24710000056a515c_2798.jpg",
+      "C": "./Trees/images/59e62b963d6412ef7220a3dd_1525.jpg",
+      "D": "./Trees/images/5ae320c30b093000130afdb5_2045.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0056.jpg",
+    "image2": "./corn/images/image_0167.jpg",
+    "answer": "9",
+    "type_id": 8,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 7,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2923.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_495.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3853.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 28,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_3333.jpg",
+      "B": "./Trees/images/5ae3ac1c0b093000130aff8f_1750.jpg",
+      "C": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2486.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0053.jpg",
+    "image2": "./corn/images/image_0150.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 29,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bcdcf3ab9e5f20005f7da40_439.jpg",
+      "B": "./Trees/images/5d16a97e1cf0f6000579ad2d_143.jpg",
+      "C": "./Trees/images/5ca97be23bc29600053c1623_3554.jpg",
+      "D": "./Trees/images/5cc2f46f3dc94a00069404fd_1110.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0200.jpg",
+    "image2": "./corn/images/image_0205.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0022.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0134.jpg",
+    "image2": "./corn/images/image_0015.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 24,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 11,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62bb23d6412ef7220af16_3970.jpg",
+      "B": "./Trees/images/5e72ba9b133f1a000511bead_3327.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_297.jpg",
+      "D": "./Trees/images/5b3622402b6a08001185f8d8_797.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 5,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e639ceaec014e0006188772_3386.jpg",
+      "B": "./Trees/images/6051fa7273881800080aa06d_500.jpg",
+      "C": "./Trees/images/5dd599f64cae450005374d2e_1207.jpg",
+      "D": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 22,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2545.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_3803.jpg",
+      "C": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+      "D": "./Trees/images/5a135953bac48e5b1c24c537_2843.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 9,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "C": "./Trees/images/5ae3ab860b093000130aff79_2311.jpg",
+      "D": "./Trees/images/5eef8f511bb60b000624b4f6_1072.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0052.jpg",
+    "image2": "./corn/images/image_0200.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0051.jpg",
+    "image2": "./corn/images/image_0009.jpg",
+    "answer": "15",
+    "type_id": 8,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0076.jpg",
+      "B": "./corn/images/image_0139.jpg",
+      "C": "./corn/images/image_0053.jpg",
+      "D": "./corn/images/image_0151.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0030.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0158.jpg",
+      "B": "./corn/images/image_0067.jpg",
+      "C": "./corn/images/image_0111.jpg",
+      "D": "./corn/images/image_0077.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 8,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a2649ffbac48e5b1c532826_4889.jpg",
+      "B": "./Trees/images/5ae320420b093000130afdad_4557.jpg",
+      "C": "./Trees/images/5f0ed88e31da55000562467f_2689.jpg",
+      "D": "./Trees/images/59e62bb13d6412ef7220af02_229.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 8,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a8213345a9ef7cb5d5973bb_1561.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_2532.jpg",
+      "C": "./Trees/images/5d96feee0a75b70006703919_4553.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_3610.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0220.jpg",
+    "image2": "./corn/images/image_0074.jpg",
+    "answer": "3",
+    "type_id": 8,
+    "item_id": 39,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0147.jpg",
+      "B": "./corn/images/image_0001.jpg",
+      "C": "./corn/images/image_0133.jpg",
+      "D": "./corn/images/image_0097.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0062.jpg",
+    "image2": "./corn/images/image_0162.jpg",
+    "answer": "13",
+    "type_id": 8,
+    "item_id": 38,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0117.jpg",
+    "image2": "./corn/images/image_0008.jpg",
+    "answer": "16",
+    "type_id": 8,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0031.jpg",
+      "B": "./corn/images/image_0137.jpg",
+      "C": "./corn/images/image_0121.jpg",
+      "D": "./corn/images/image_0003.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 17,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_2714.jpg",
+      "B": "./Trees/images/5d1cc58493e1130005fc0eb0_3538.jpg",
+      "C": "./Trees/images/613dc1b918b2fb000574fb94_503.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_3468.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0012.jpg",
+      "B": "./corn/images/image_0021.jpg",
+      "C": "./corn/images/image_0165.jpg",
+      "D": "./corn/images/image_0047.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0189.jpg",
+    "image2": "./corn/images/image_0190.jpg",
+    "answer": "4",
+    "type_id": 8,
+    "item_id": 20,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 5,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg",
+      "B": "./Trees/images/59e62b853d6412ef72209ad9_3008.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_652.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_1949.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0166.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 18,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0004.jpg",
+    "image2": "./corn/images/image_0045.jpg",
+    "answer": "4",
+    "type_id": 8,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 3,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3766.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg",
+      "C": "./Trees/images/5d971ce6e2b1f300057cb2fa_385.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 3,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_3205.jpg",
+      "B": "./Trees/images/59e62b963d6412ef7220a3dd_1525.jpg",
+      "C": "./Trees/images/59e62be63d6412ef7220c3a5_34.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209e77_3569.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0046.jpg",
+    "image2": "./corn/images/image_0126.jpg",
+    "answer": "9",
+    "type_id": 8,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0003.jpg",
+    "image2": "./corn/images/image_0234.jpg",
+    "answer": "0",
+    "type_id": 8,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 12,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ff5a55038bfed0005ea56fb_3239.jpg",
+      "B": "./Trees/images/5e649d26e6c4ec000688ffab_4832.jpg",
+      "C": "./Trees/images/5ae320c30b093000130afdb5_123.jpg",
+      "D": "./Trees/images/5daf1db69f4b100006add9f9_2359.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 24,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b959c816a771000075b1d9c_2940.jpg",
+      "B": "./Trees/images/5b729f5e9102ad0b033a5c3f_3680.jpg",
+      "C": "./Trees/images/5d00073d8276e4000507811b_2376.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0224.jpg",
+    "image2": "./corn/images/image_0007.jpg",
+    "answer": "0",
+    "type_id": 8,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 26,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b973d6412ef7220a43c_2238.jpg",
+      "B": "./Trees/images/59e62b913d6412ef7220a0d1_2277.jpg",
+      "C": "./Trees/images/5c672d37c6760000068917b1_2736.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_3910.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 21,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b1042892b6a08001185f43c_3083.jpg",
+      "B": "./Trees/images/5a04a02cbac48e5b1c01282b_2135.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aed6_3882.jpg",
+      "D": "./Trees/images/5b925da45d406700087d1514_1237.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 27,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3923e0b093000130aff38_2582.jpg",
+      "B": "./Trees/images/5b10356c2b6a08001185f417_2744.jpg",
+      "C": "./Trees/images/5e25ec6e36067e0005c2752d_2509.jpg",
+      "D": "./Trees/images/5f0eda6b31da550005624682_4277.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0044.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0096.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0091.jpg",
+      "B": "./corn/images/image_0136.jpg",
+      "C": "./corn/images/image_0188.jpg",
+      "D": "./corn/images/image_0143.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0222.jpg",
+      "B": "./corn/images/image_0014.jpg",
+      "C": "./corn/images/image_0079.jpg",
+      "D": "./corn/images/image_0109.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 37,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 13,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+      "B": "./Trees/images/5e639bf5ec014e000618876d_1328.jpg",
+      "C": "./Trees/images/5a237ea5bac48e5b1c4bf531_1650.jpg",
+      "D": "./Trees/images/5dd0f6dda7dadc0006433b5b_5007.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0124.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0225.jpg",
+      "B": "./corn/images/image_0164.jpg",
+      "C": "./corn/images/image_0211.jpg",
+      "D": "./corn/images/image_0020.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0070.jpg",
+    "image2": "./corn/images/image_0240.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0215.jpg",
+    "image2": "./corn/images/image_0019.jpg",
+    "answer": "9",
+    "type_id": 8,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0027.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0200.jpg",
+    "image2": "./corn/images/image_0153.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "image_path": "./corn/images/image_0102.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0180.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0074.jpg",
+      "B": "./corn/images/image_0115.jpg",
+      "C": "./corn/images/image_0145.jpg",
+      "D": "./corn/images/image_0154.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 35,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0033.jpg",
+    "image2": "./corn/images/image_0043.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0191.jpg",
+    "image2": "./corn/images/image_0126.jpg",
+    "answer": "4",
+    "type_id": 8,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0126.jpg",
+      "B": "./corn/images/image_0034.jpg",
+      "C": "./corn/images/image_0032.jpg",
+      "D": "./corn/images/image_0125.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0016.jpg",
+      "B": "./corn/images/image_0153.jpg",
+      "C": "./corn/images/image_0204.jpg",
+      "D": "./corn/images/image_0229.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 27,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 16,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_3460.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_3396.jpg",
+      "D": "./Trees/images/5e118f5c5f5069000738f161_3984.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 23,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_2953.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_863.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "D": "./Trees/images/60c1b7e8c3b42f000788d30a_93.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 30,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5fdccb97cce96c000538f784_2117.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_856.jpg",
+      "C": "./Trees/images/5bba1c4f9ed15b0006d24f3b_1692.jpg",
+      "D": "./Trees/images/5a789bd45a9ef7cb5d408eb2_418.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0123.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "type_id": 4,
+    "item_id": 7,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/60a7f8f729636900059d6498_3488.jpg",
+      "B": "./Trees/images/5cb64e020a3a5c0005ff12ff_642.jpg",
+      "C": "./Trees/images/5dde79d00140b80006d2e536_1497.jpg",
+      "D": "./Trees/images/5d4e5e1c317dd900055f7407_774.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0159.jpg",
+    "image2": "./corn/images/image_0010.jpg",
+    "answer": "12",
+    "type_id": 8,
+    "item_id": 5,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0067.jpg",
+    "image2": "./corn/images/image_0110.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which 2 images have the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0172.jpg",
+      "B": "./corn/images/image_0069.jpg",
+      "C": "./corn/images/image_0126.jpg",
+      "D": "./corn/images/image_0174.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0084.jpg",
+      "B": "./corn/images/image_0185.jpg",
+      "C": "./corn/images/image_0232.jpg",
+      "D": "./corn/images/image_0244.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 24,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_3190.jpg",
+      "B": "./Trees/images/59e62b903d6412ef7220a03e_3315.jpg",
+      "C": "./Trees/images/5d2d1302f416f40006cffcc6_546.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_2434.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0215.jpg",
+    "image2": "./corn/images/image_0203.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0198.jpg",
+      "B": "./corn/images/image_0219.jpg",
+      "C": "./corn/images/image_0036.jpg",
+      "D": "./corn/images/image_0121.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 14,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5a14b831bac48e5b1c281943_3652.jpg",
+      "B": "./Trees/images/60315c91d9c7c8000504d2cb_4451.jpg",
+      "C": "./Trees/images/5f3b3441df88ab000761cb39_680.jpg",
+      "D": "./Trees/images/5a6087c45a9ef7cb5d020fd3_1729.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0054.jpg",
+      "B": "./corn/images/image_0055.jpg",
+      "C": "./corn/images/image_0121.jpg",
+      "D": "./corn/images/image_0188.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 29,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 29,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+      "B": "./Trees/images/5d971ce6e2b1f300057cb2fa_945.jpg",
+      "C": "./Trees/images/5c3c6d8bbc33050006d379aa_883.jpg",
+      "D": "./Trees/images/5ae3a7f00b093000130aff66_3982.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0040.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 13,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0140.jpg",
+    "image2": "./corn/images/image_0095.jpg",
+    "answer": "7",
+    "type_id": 8,
+    "item_id": 32,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0142.jpg",
+      "B": "./corn/images/image_0097.jpg",
+      "C": "./corn/images/image_0199.jpg",
+      "D": "./corn/images/image_0005.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 42,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0014.jpg",
+      "B": "./corn/images/image_0094.jpg",
+      "C": "./corn/images/image_0077.jpg",
+      "D": "./corn/images/image_0160.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 21,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 2,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3653.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_189.jpg",
+      "C": "./Trees/images/5fd2c45c8fcb370005f66132_218.jpg",
+      "D": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 23,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2480.jpg",
+      "B": "./Trees/images/5a429463bac48e5b1c9b41b5_1051.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "D": "./Trees/images/5ae3ab860b093000130aff79_2329.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0031.jpg",
+    "image2": "./corn/images/image_0211.jpg",
+    "answer": "11",
+    "type_id": 8,
+    "item_id": 22,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0194.jpg",
+    "image2": "./corn/images/image_0143.jpg",
+    "answer": "2",
+    "type_id": 8,
+    "item_id": 2,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0086.jpg",
+    "image2": "./corn/images/image_0224.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0010.jpg",
+      "B": "./corn/images/image_0194.jpg",
+      "C": "./corn/images/image_0118.jpg",
+      "D": "./corn/images/image_0069.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 33,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0132.jpg",
+      "B": "./corn/images/image_0169.jpg",
+      "C": "./corn/images/image_0129.jpg",
+      "D": "./corn/images/image_0021.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 15,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0162.jpg",
+      "B": "./corn/images/image_0114.jpg",
+      "C": "./corn/images/image_0092.jpg",
+      "D": "./corn/images/image_0180.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0063.jpg",
+      "B": "./corn/images/image_0034.jpg",
+      "C": "./corn/images/image_0083.jpg",
+      "D": "./corn/images/image_0050.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 2,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b983d6412ef7220a48e_3903.jpg",
+      "B": "./Trees/images/5ae3ab860b093000130aff79_1602.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_989.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_4136.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0232.jpg",
+      "B": "./corn/images/image_0156.jpg",
+      "C": "./corn/images/image_0153.jpg",
+      "D": "./corn/images/image_0079.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 34,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 14,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/60b0cccea9600f0008458140_3921.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_1983.jpg",
+      "C": "./Trees/images/5bba1c4f9ed15b0006d24f3b_3241.jpg",
+      "D": "./Trees/images/5b1042892b6a08001185f43c_4010.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 15,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ca97be23bc29600053c1623_3659.jpg",
+      "B": "./Trees/images/6108af51343da30006976e20_1144.jpg",
+      "C": "./Trees/images/5b10416e2b6a08001185f42b_2875.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209e91_3703.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0210.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 19,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "type_id": 4,
+    "item_id": 10,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b10356c2b6a08001185f417_2315.jpg",
+      "B": "./Trees/images/5c892a92225fc20007ab4e31_1444.jpg",
+      "C": "./Trees/images/5fea120be66cea000786272f_3492.jpg",
+      "D": "./Trees/images/5b1042892b6a08001185f43c_3818.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0016.jpg",
+      "B": "./corn/images/image_0083.jpg",
+      "C": "./corn/images/image_0136.jpg",
+      "D": "./corn/images/image_0011.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0080.jpg",
+      "B": "./corn/images/image_0217.jpg",
+      "C": "./corn/images/image_0154.jpg",
+      "D": "./corn/images/image_0093.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 11,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4088.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_3330.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_2307.jpg",
+      "D": "./Trees/images/5c42f3a9f82cf600057a9e70_2118.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 12,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e25ec6e36067e0005c2752d_1686.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_1437.jpg",
+      "C": "./Trees/images/5a14b831bac48e5b1c281943_2333.jpg",
+      "D": "./Trees/images/5d2682ef161a790005c03e80_2922.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0076.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0177.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 8,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0036.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0161.jpg",
+    "image2": "./corn/images/image_0237.jpg",
+    "answer": "7",
+    "type_id": 8,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 30,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5b73a47a115c4ca626fc4df2_3941.jpg",
+      "B": "./Trees/images/5ae320900b093000130afdb4_383.jpg",
+      "C": "./Trees/images/5b904d25c96cd00005f7cb2e_444.jpg",
+      "D": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0080.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "Yes",
+    "type_id": 3,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0030.jpg",
+      "B": "./corn/images/image_0227.jpg",
+      "C": "./corn/images/image_0078.jpg",
+      "D": "./corn/images/image_0154.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 11,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 6,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae3ac1c0b093000130aff8f_2512.jpg",
+      "B": "./Trees/images/5e118f5c5f5069000738f161_3065.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_2375.jpg",
+      "D": "./Trees/images/5e92a43ec6bbac0005e30fd2_2513.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 21,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5b904d25c96cd00005f7cb2e_238.jpg",
+      "B": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4652.jpg",
+      "C": "./Trees/images/5a135953bac48e5b1c24c537_1648.jpg",
+      "D": "./Trees/images/5d00073d8276e4000507811b_3036.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0108.jpg",
+    "image2": "./corn/images/image_0164.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 4,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae31f3c0b093000130afda4_1745.jpg",
+      "B": "./Trees/images/5cb0ece9fa020e0006eb43d4_343.jpg",
+      "C": "./Trees/images/5d78e8faf719820008245cfa_3562.jpg",
+      "D": "./Trees/images/5bce3d12b9e5f20005f7da4d_4420.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 4,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d97350ae2b1f300057cb38a_1618.jpg",
+      "B": "./Trees/images/5d97350ae2b1f300057cb38a_4733.jpg",
+      "C": "./Trees/images/59e62b853d6412ef72209ad9_2540.jpg",
+      "D": "./Trees/images/61a5879bca228100065cb98a_1776.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0128.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0244.jpg",
+    "image2": "./corn/images/image_0188.jpg",
+    "answer": "8",
+    "type_id": 8,
+    "item_id": 26,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 19,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a16788cbac48e5b1c2c47bf_1050.jpg",
+      "B": "./Trees/images/5b0040ca2b6a08001185f14c_1071.jpg",
+      "C": "./Trees/images/59e62b9b3d6412ef7220a592_3024.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c37a_2043.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0028.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "type_id": 4,
+    "item_id": 20,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae3a7f00b093000130aff66_1835.jpg",
+      "B": "./Trees/images/5c42f3a9f82cf600057a9e70_2565.jpg",
+      "C": "./Trees/images/59e62b983d6412ef7220a48e_2383.jpg",
+      "D": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "type_id": 4,
+    "item_id": 17,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bce3d12b9e5f20005f7da4d_4222.jpg",
+      "B": "./Trees/images/5b10408a2b6a08001185f427_2762.jpg",
+      "C": "./Trees/images/5ae320390b093000130afdab_1406.jpg",
+      "D": "./Trees/images/5eada7de3295f300072a6d80_829.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0005.jpg",
+      "B": "./corn/images/image_0188.jpg",
+      "C": "./corn/images/image_0208.jpg",
+      "D": "./corn/images/image_0172.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "type_id": 5,
+    "item_id": 1,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0144.jpg",
+      "B": "./corn/images/image_0127.jpg",
+      "C": "./corn/images/image_0081.jpg",
+      "D": "./corn/images/image_0009.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 4,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0056.jpg",
+      "B": "./corn/images/image_0025.jpg",
+      "C": "./corn/images/image_0048.jpg",
+      "D": "./corn/images/image_0127.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 17,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0065.jpg",
+    "image2": "./corn/images/image_0103.jpg",
+    "answer": "3",
+    "type_id": 8,
+    "item_id": 28,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 1,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_4035.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_3638.jpg",
+      "D": "./Trees/images/5b904d25c96cd00005f7cb2e_517.jpg"
+    },
+    "answer": "D",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0148.jpg",
+    "image2": "./corn/images/image_0036.jpg",
+    "answer": "7",
+    "type_id": 8,
+    "item_id": 7,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0050.jpg",
+    "image2": "./corn/images/image_0109.jpg",
+    "answer": "5",
+    "type_id": 8,
+    "item_id": 9,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 25,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5a429463bac48e5b1c9b41b5_31.jpg",
+      "B": "./Trees/images/60c1b7e8c3b42f000788d30a_814.jpg",
+      "C": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+      "D": "./Trees/images/5d1cc58493e1130005fc0eb0_2326.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 1,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/59e62b903d6412ef7220a03e_2418.jpg",
+      "B": "./Trees/images/59f0e7dcbac48e5b1cd0cf18_2838.jpg",
+      "C": "./Trees/images/5a429463bac48e5b1c9b41b5_1292.jpg",
+      "D": "./Trees/images/5a429463bac48e5b1c9b41b5_1293.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0011.jpg",
+      "B": "./corn/images/image_0078.jpg",
+      "C": "./corn/images/image_0173.jpg",
+      "D": "./corn/images/image_0003.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 23,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 9,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d970af00a75b7000670395f_2696.jpg",
+      "B": "./Trees/images/5dd7c9b049432100060ef977_1366.jpg",
+      "C": "./Trees/images/5b1042892b6a08001185f43c_1680.jpg",
+      "D": "./Trees/images/59e62b8d3d6412ef72209ebb_4931.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0120.jpg",
+      "B": "./corn/images/image_0207.jpg",
+      "C": "./corn/images/image_0103.jpg",
+      "D": "./corn/images/image_0228.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "type_id": 5,
+    "item_id": 6,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0023.jpg",
+      "B": "./corn/images/image_0029.jpg",
+      "C": "./corn/images/image_0073.jpg",
+      "D": "./corn/images/image_0002.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 41,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0194.jpg",
+    "image2": "./corn/images/image_0074.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 40,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0159.jpg",
+    "image2": "./corn/images/image_0023.jpg",
+    "answer": "6",
+    "type_id": 8,
+    "item_id": 16,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0065.jpg",
+    "image2": "./corn/images/image_0054.jpg",
+    "answer": "2",
+    "type_id": 8,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 6,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5e639ceaec014e0006188772_2906.jpg",
+      "B": "./Trees/images/5ae4afd70b093000130affb1_1615.jpg",
+      "C": "./Trees/images/5ae3923e0b093000130aff38_1697.jpg",
+      "D": "./Trees/images/5d1bded793e1130005fc0e98_4108.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0122.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 14,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0216.jpg",
+    "question": "Is the distribution of tassels in the image left-right symmetrical?",
+    "answer": "No",
+    "type_id": 3,
+    "item_id": 3,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0015.jpg",
+    "image2": "./corn/images/image_0006.jpg",
+    "answer": "100",
+    "type_id": 8,
+    "item_id": 30,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "question": "What is the difference in the number of tassels between the two images?",
+    "image1": "./corn/images/image_0180.jpg",
+    "image2": "./corn/images/image_0125.jpg",
+    "answer": "1",
+    "type_id": 8,
+    "item_id": 31,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 5
+  },
+  {
+    "type_id": 4,
+    "item_id": 10,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5bc119b7c7e1cf0008e45e25_3221.jpg",
+      "B": "./Trees/images/5c6580f31fa6f100070431fa_1142.jpg",
+      "C": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4522.jpg",
+      "D": "./Trees/images/5cc2f46f3dc94a00069404fd_961.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0221.jpg",
+      "B": "./corn/images/image_0128.jpg",
+      "C": "./corn/images/image_0086.jpg",
+      "D": "./corn/images/image_0063.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "type_id": 5,
+    "item_id": 10,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 18,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5d8bd155a62db1000612178d_92.jpg",
+      "B": "./Trees/images/59e62be83d6412ef7220c45c_3599.jpg",
+      "C": "./Trees/images/5ccb9b27a16d210005dad96c_2412.jpg",
+      "D": "./Trees/images/5abb761965bd8f00110f3e4c_2861.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0242.jpg",
+      "B": "./corn/images/image_0136.jpg",
+      "C": "./corn/images/image_0212.jpg",
+      "D": "./corn/images/image_0224.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 25,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 27,
+    "question": "Which image shows the highest number of individually distinguishable trees?",
+    "options": {
+      "A": "./Trees/images/5ae320900b093000130afdb4_4074.jpg",
+      "B": "./Trees/images/5a8213345a9ef7cb5d5973bb_3035.jpg",
+      "C": "./Trees/images/61a5879bca228100065cb98a_3312.jpg",
+      "D": "./Trees/images/59e62b793d6412ef722094d2_2758.jpg"
+    },
+    "answer": "B",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "type_id": 4,
+    "item_id": 26,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/59e62b913d6412ef7220a0d1_3759.jpg",
+      "B": "./Trees/images/5bcdcf3ab9e5f20005f7da40_1117.jpg",
+      "C": "./Trees/images/5a237ea5bac48e5b1c4bf531_2020.jpg",
+      "D": "./Trees/images/5d973639e2b1f300057cb3a8_3699.jpg"
+    },
+    "answer": "A",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "question": "Which image has the most tassels?",
+    "options": {
+      "A": "./corn/images/image_0055.jpg",
+      "B": "./corn/images/image_0036.jpg",
+      "C": "./corn/images/image_0174.jpg",
+      "D": "./corn/images/image_0102.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "type_id": 5,
+    "item_id": 12,
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "type_id": 4,
+    "item_id": 19,
+    "question": "Among the four images provided, which one exhibits the highest tree coverage percentage?",
+    "options": {
+      "A": "./Trees/images/5ae320c30b093000130afdb5_3301.jpg",
+      "B": "./Trees/images/59e62bb13d6412ef7220aefa_2715.jpg",
+      "C": "./Trees/images/5f7177d91d951a00058695e8_2431.jpg",
+      "D": "./Trees/images/5f1f106d57ddda00054a03f4_1977.jpg"
+    },
+    "answer": "C",
+    "level1_id": 3,
+    "level2_id": 1,
+    "level3_id": 1
+  }
+]

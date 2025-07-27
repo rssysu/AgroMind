@@ -1,0 +1,3250 @@
+[
+  {
+    "image_id": "R27DCU9LK_1932-3071-2444-3583",
+    "image_path": "./Agriculture/images/R27DCU9LK_1932-3071-2444-3583.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (110,26)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "XQ64HH2IN_4157-5072-4669-5584",
+    "image_path": "./Agriculture/images/XQ64HH2IN_4157-5072-4669-5584.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (248,407)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 26,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042513.649272_i1765j587.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 37,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "7DHJZ1TBE_1302-529-1814-1041",
+    "image_path": "./Agriculture/images/7DHJZ1TBE_1302-529-1814-1041.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (116,59)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "BDGAMZNE4_6927-4174-7439-4686",
+    "image_path": "./Agriculture/images/BDGAMZNE4_6927-4174-7439-4686.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (349,482)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "Z61VPDCGP_4101-2525-4613-3037",
+    "image_path": "./Agriculture/images/Z61VPDCGP_4101-2525-4613-3037.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (162,141)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 68,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005319.623044.Cam6_13.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 52,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "A2GW8JMYA_4140-5350-4652-5862",
+    "image_path": "./Agriculture/images/A2GW8JMYA_4140-5350-4652-5862.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (22,309)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 69,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "13MQGW9CZ_765-2774-1277-3286",
+    "image_path": "./Agriculture/images/13MQGW9CZ_765-2774-1277-3286.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (413,102)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 46,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005240.384112.Cam6_62.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "EDJ4RLCY9_2683-1518-3195-2030",
+    "image_path": "./Agriculture/images/EDJ4RLCY9_2683-1518-3195-2030.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (242,427)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 61,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_65_30_IMG_4454_i300j1500.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 31,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.394144_i1658j752.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 51,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025045.732668_i2099j1823.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 56,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "BNHMQYXJB_9393-7134-9905-7646",
+    "image_path": "./Agriculture/images/BNHMQYXJB_9393-7134-9905-7646.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (444,488)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 52,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "EB29I2AK8_3106-1949-3618-2461",
+    "image_path": "./Agriculture/images/EB29I2AK8_3106-1949-3618-2461.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (319,38)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_12_IMG_4347_i2700j3900.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "Top-Right",
+      "D": "Bottom-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0124.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Middle right region,3",
+    "type_id": 7,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "UYY79YV6N_4380-3129-4892-3641",
+    "image_path": "./Agriculture/images/UYY79YV6N_4380-3129-4892-3641.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (138,139)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 54,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "NZ9MAMQG8_8123-6590-8635-7102",
+    "image_path": "./Agriculture/images/NZ9MAMQG8_8123-6590-8635-7102.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (428,284)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030707.137318_i1966j206.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 55,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "A4HU49AI7_2982-10707-3494-11219",
+    "image_path": "./Agriculture/images/A4HU49AI7_2982-10707-3494-11219.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (427,331)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 73,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0136.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Middle left region,4",
+    "type_id": 7,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "KVQI28WTL_3279-6514-3791-7026",
+    "image_path": "./Agriculture/images/KVQI28WTL_3279-6514-3791-7026.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (195,429)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 67,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "QUVX9VRLT_5192-3269-5704-3781",
+    "image_path": "./Agriculture/images/QUVX9VRLT_5192-3269-5704-3781.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (360,208)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 63,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "NWTIEC88G_2665-2061-3177-2573",
+    "image_path": "./Agriculture/images/NWTIEC88G_2665-2061-3177-2573.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (222,300)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 50,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_1586.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a70b6785a9ef7cb5d2bf31e_2824.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "4AFCPFI7E_1846-2356-2358-2868",
+    "image_path": "./Agriculture/images/4AFCPFI7E_1846-2356-2358-2868.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (98,375)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 32,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "BDGAMZNE4_3530-965-4042-1477",
+    "image_path": "./Agriculture/images/BDGAMZNE4_3530-965-4042-1477.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (83,101)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 65,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013150.146539_34.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 48,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "NUNZ2EUCC_1650-3696-2162-4208",
+    "image_path": "./Agriculture/images/NUNZ2EUCC_1650-3696-2162-4208.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (222,413)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 70,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013319.672227_22.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Bottom-Left",
+      "D": "Top-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043954.775698_i1545j665.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Left",
+      "C": "Bottom-Left",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 24,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4349_i1200j3300.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 30,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_06_IMG_4421_i1200j2100.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 27,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1152.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "I",
+    "type_id": 6,
+    "item_id": 27,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b6473dd40e11005cf16cc89_2122.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024821.200051_i2328j1817.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "No distribution"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031529.152526_i2589j1365.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "No distribution",
+      "B": "Top-Left",
+      "C": "Top-Right",
+      "D": "Bottom-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 32,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "IXIYJWE6L_5525-1135-6037-1647",
+    "image_path": "./Agriculture/images/IXIYJWE6L_5525-1135-6037-1647.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (64,0)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031725.113349_i1538j1095.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "No distribution",
+      "C": "Bottom-Left",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2946.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "WVLNWZ83A_864-689-1376-1201",
+    "image_path": "./Agriculture/images/WVLNWZ83A_864-689-1376-1201.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (68,374)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 40,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "2CTF1YW2N_5362-4571-5874-5083",
+    "image_path": "./Agriculture/images/2CTF1YW2N_5362-4571-5874-5083.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (138,256)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_61_01_IMG_4437_i900j1800.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Bottom-Left",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 29,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030134.936146_i1765j1018.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "WVBDY6DLZ_2690-8329-3202-8841",
+    "image_path": "./Agriculture/images/WVBDY6DLZ_2690-8329-3202-8841.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (332,495)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 56,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "E3L4893QY_4715-11709-5227-12221",
+    "image_path": "./Agriculture/images/E3L4893QY_4715-11709-5227-12221.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (40,336)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "XAUZQV8XX_6972-1788-7484-2300",
+    "image_path": "./Agriculture/images/XAUZQV8XX_6972-1788-7484-2300.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (85,135)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 34,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "H99Q69Z7T_4004-3730-4516-4242",
+    "image_path": "./Agriculture/images/H99Q69Z7T_4004-3730-4516-4242.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (121,47)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 47,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_934.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 28,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004924.761097.Cam6_73.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 33,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "T24XZ6PEI_5854-3239-6366-3751",
+    "image_path": "./Agriculture/images/T24XZ6PEI_5854-3239-6366-3751.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (1,334)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043728.998549_i1919j275.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5b713a5291cf644aafeeacc4_545.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "2PJHLLWTV_3172-2688-3684-3200",
+    "image_path": "./Agriculture/images/2PJHLLWTV_3172-2688-3684-3200.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (301,493)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 75,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0151.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper center region,2",
+    "type_id": 7,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_57_43_IMG_4358_i2100j900.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "4HMV8PEAM_2661-2799-3173-3311",
+    "image_path": "./Agriculture/images/4HMV8PEAM_2661-2799-3173-3311.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (68,28)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 33,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005432.195921.Cam6_33.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 34,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "ZKDM3I7V4_4753-6297-5265-6809",
+    "image_path": "./Agriculture/images/ZKDM3I7V4_4753-6297-5265-6809.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (427,377)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0085.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Central region,1",
+    "type_id": 7,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "UG6H862FY_4029-7615-4541-8127",
+    "image_path": "./Agriculture/images/UG6H862FY_4029-7615-4541-8127.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (262,226)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 41,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "ZT4ZLHURQ_1823-2694-2335-3206",
+    "image_path": "./Agriculture/images/ZT4ZLHURQ_1823-2694-2335-3206.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (286,33)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 55,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005957.154982.Cam6_51.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 54,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "GU71M6KBB_3308-2589-3820-3101",
+    "image_path": "./Agriculture/images/GU71M6KBB_3308-2589-3820-3101.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (362,224)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 58,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_48_IMG_4366_i1500j600.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 39,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024639.597997_i1465j1046.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 43,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c37c42e4ab5bc000733441e_2848.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 23,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "YLW8YCKFT_7676-4594-8188-5106",
+    "image_path": "./Agriculture/images/YLW8YCKFT_7676-4594-8188-5106.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (151,388)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 64,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "8PDXN7D9C_2504-3457-3016-3969",
+    "image_path": "./Agriculture/images/8PDXN7D9C_2504-3457-3016-3969.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (273,453)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "4KTMNU1T3_8862-2300-9374-2812",
+    "image_path": "./Agriculture/images/4KTMNU1T3_8862-2300-9374-2812.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (316,385)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "42DT9R2QN_2719-7952-3231-8464",
+    "image_path": "./Agriculture/images/42DT9R2QN_2719-7952-3231-8464.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (285,55)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "2FPNYIQY1_2284-950-2796-1462",
+    "image_path": "./Agriculture/images/2FPNYIQY1_2284-950-2796-1462.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (342,237)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 31,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0004.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Central region,2",
+    "type_id": 7,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043754.643069_i1425j46.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "No distribution",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 46,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "FJBQLWJF3_2542-894-3054-1406",
+    "image_path": "./Agriculture/images/FJBQLWJF3_2542-894-3054-1406.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (35,142)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 48,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041422.143930_i2643j1305.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "No distribution",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 60,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030529.868886_i1816j1963.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Bottom-Left",
+      "D": "Top-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 21,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005908.011100.Cam6_23.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.286881_21.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Left",
+      "D": "Top-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "T89JYE12U_15407-8089-15919-8601",
+    "image_path": "./Agriculture/images/T89JYE12U_15407-8089-15919-8601.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (336,113)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/616ea1a173cc220005b8e093_4723.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 24,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030807.488229_i2022j915.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 42,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "QUNY21G3D_1425-1344-1937-1856",
+    "image_path": "./Agriculture/images/QUNY21G3D_1425-1344-1937-1856.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (379,99)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 27,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5d1cc58493e1130005fc0eb0_4101.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 22,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "R9UKUXZBF_3504-2964-4016-3476",
+    "image_path": "./Agriculture/images/R9UKUXZBF_3504-2964-4016-3476.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (193,349)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 35,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "PATUBUNUY_8103-2529-8615-3041",
+    "image_path": "./Agriculture/images/PATUBUNUY_8103-2529-8615-3041.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (22,238)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 25,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0173.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Central region,2",
+    "type_id": 7,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "PVXZ8HXXF_2458-4489-2970-5001",
+    "image_path": "./Agriculture/images/PVXZ8HXXF_2458-4489-2970-5001.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (183,41)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 37,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b933d6412ef7220a215_1569.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "9BGMMWN3K_7549-8285-8061-8797",
+    "image_path": "./Agriculture/images/9BGMMWN3K_7549-8285-8061-8797.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (508,36)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 51,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "T1IECFYT6_6424-6098-6936-6610",
+    "image_path": "./Agriculture/images/T1IECFYT6_6424-6098-6936-6610.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (266,263)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 39,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "FHRG3MV2T_3791-1028-4303-1540",
+    "image_path": "./Agriculture/images/FHRG3MV2T_3791-1028-4303-1540.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (469,140)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 30,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "3N84YAMUW_6579-1296-7091-1808",
+    "image_path": "./Agriculture/images/3N84YAMUW_6579-1296-7091-1808.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (217,404)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 22,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a9f39ea5a9ef7cb5da727ff_4976.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004710.853432.Cam6_73.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Left",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 53,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0195.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper left region,3",
+    "type_id": 7,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_56_53_IMG_4372_i3000j3000.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 26,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0121.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper left region,4",
+    "type_id": 7,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "YKEQ1BKJB_4377-3238-4889-3750",
+    "image_path": "./Agriculture/images/YKEQ1BKJB_4377-3238-4889-3750.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (457,45)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0193.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Middle left region,2",
+    "type_id": 7,
+    "item_id": 16,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "NUNZ2EUCC_3936-4376-4448-4888",
+    "image_path": "./Agriculture/images/NUNZ2EUCC_3936-4376-4448-4888.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (384,432)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 38,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_1453.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 2,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032421.183884_i2195j113.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 41,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "C6Q8TIXDH_580-3705-1092-4217",
+    "image_path": "./Agriculture/images/C6Q8TIXDH_580-3705-1092-4217.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (259,83)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 23,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T030916.763477_i1721j587.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "No distribution",
+      "D": "Top-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0095.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper right region,1",
+    "type_id": 7,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "DBJECJEH1_5677-1382-6189-1894",
+    "image_path": "./Agriculture/images/DBJECJEH1_5677-1382-6189-1894.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (167,229)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 53,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_64_02_IMG_4412_i2100j1200.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Left",
+      "D": "Top-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 59,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "ZYI6ZLYNH_5411-12218-5923-12730",
+    "image_path": "./Agriculture/images/ZYI6ZLYNH_5411-12218-5923-12730.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (144,460)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 36,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0049.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Central region,4",
+    "type_id": 7,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./corn/images/image_0242.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper left region,7",
+    "type_id": 7,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042406.392147_i2131j803.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 40,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "VVANPP7GH_630-7155-1142-7667",
+    "image_path": "./Agriculture/images/VVANPP7GH_630-7155-1142-7667.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (290,108)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 28,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "3L2JTWHVX_1123-3531-1635-4043",
+    "image_path": "./Agriculture/images/3L2JTWHVX_1123-3531-1635-4043.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (279,505)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 49,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042351.077709_i2060j1012.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 28,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "PVXZ8HXXF_3482-4489-3994-5001",
+    "image_path": "./Agriculture/images/PVXZ8HXXF_3482-4489-3994-5001.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (24,364)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 45,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0001.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper right region,8",
+    "type_id": 7,
+    "item_id": 18,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "42DT9R2QN_2207-7952-2719-8464",
+    "image_path": "./Agriculture/images/42DT9R2QN_2207-7952-2719-8464.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (182,259)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 44,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5e92a43ec6bbac0005e30fd2_3465.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 26,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T025839.228574_i2533j1290.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 36,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "PA83TH61M_1779-5733-2291-6245",
+    "image_path": "./Agriculture/images/PA83TH61M_1779-5733-2291-6245.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (33,63)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 62,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "VPDZMN9XK_4327-7802-4839-8314",
+    "image_path": "./Agriculture/images/VPDZMN9XK_4327-7802-4839-8314.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (44,106)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 29,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T004427.612047.Cam6_32.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 44,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60d10513eade0f00079b5890_2421.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "E",
+    "type_id": 6,
+    "item_id": 25,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041953.993845_i2163j235.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Bottom-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T031353.274441_i1847j1735.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "Top-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 13,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0115.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper left region,1",
+    "type_id": 7,
+    "item_id": 5,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "AMHWXGPTC_1614-4763-2126-5275",
+    "image_path": "./Agriculture/images/AMHWXGPTC_1614-4763-2126-5275.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (251,236)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 4,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "2FPNYIQY1_1787-2600-2299-3112",
+    "image_path": "./Agriculture/images/2FPNYIQY1_1787-2600-2299-3112.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (297,505)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 42,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041544.453146_i2389j92.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Bottom-Right",
+      "C": "No distribution",
+      "D": "Top-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "ZKDM3I7V4_4347-5177-4859-5689",
+    "image_path": "./Agriculture/images/ZKDM3I7V4_4347-5177-4859-5689.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (503,285)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 74,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0154.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper center region,4",
+    "type_id": 7,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T042903.780721_i1780j1831.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 23,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_27_IMG_4463_i2100j2100.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Bottom-Left",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 47,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "ZT4ZLHURQ_2590-2103-3102-2615",
+    "image_path": "./Agriculture/images/ZT4ZLHURQ_2590-2103-3102-2615.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (306,72)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 17,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0110.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Middle right region,2",
+    "type_id": 7,
+    "item_id": 19,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "N4CFPVRHF_4381-1720-4893-2232",
+    "image_path": "./Agriculture/images/N4CFPVRHF_4381-1720-4893-2232.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (398,442)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0177.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper right region,5",
+    "type_id": 7,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005739.818800.Cam6_43.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 7,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_3573.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "9BGMMWN3K_5238-11743-5750-12255",
+    "image_path": "./Agriculture/images/9BGMMWN3K_5238-11743-5750-12255.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (87,494)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 21,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./corn/images/image_0082.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper left region,2",
+    "type_id": 7,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "P9PF7CXJ8_4454-1103-4966-1615",
+    "image_path": "./Agriculture/images/P9PF7CXJ8_4454-1103-4966-1615.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (482,10)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "ED22XQLW6_2874-2579-3386-3091",
+    "image_path": "./Agriculture/images/ED22XQLW6_2874-2579-3386-3091.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (88,245)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 57,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T010012.964803.Cam6_22.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 45,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./corn/images/image_0052.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Upper right region,4",
+    "type_id": 7,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_id": "Y2GN8Z1YE_1178-680-1690-1192",
+    "image_path": "./Agriculture/images/Y2GN8Z1YE_1178-680-1690-1192.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (353,218)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 43,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024609.397230_i2208j561.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Right",
+      "B": "Top-Left",
+      "C": "Bottom-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b913d6412ef7220a0d1_3885.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 3,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "A4AXP3TT2_1291-4311-1803-4823",
+    "image_path": "./Agriculture/images/A4AXP3TT2_1291-4311-1803-4823.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (262,498)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 71,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_59_27_IMG_4463_i2400j3900.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 35,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032028.019925_i1637j12.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Left",
+      "C": "Bottom-Left",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 50,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60606bd0eeae3c000693003f_1214.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "A",
+    "type_id": 6,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T024736.799121_i1697j1349.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T012947.477385_33.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "Bottom-Right",
+      "D": "Top-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 58,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043344.170371_i1757j1498.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Top-Right",
+      "C": "Bottom-Left",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 22,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "V9JMGVGQ1_1115-2274-1627-2786",
+    "image_path": "./Agriculture/images/V9JMGVGQ1_1115-2274-1627-2786.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (12,337)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 72,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "C",
+    "type_id": 6,
+    "item_id": 10,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T044320.291486_i1839j1954.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Right",
+      "B": "Bottom-Left",
+      "C": "No distribution",
+      "D": "Top-Left"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 8,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "Z61VPDCGP_572-7401-1084-7913",
+    "image_path": "./Agriculture/images/Z61VPDCGP_572-7401-1084-7913.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (469,232)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 66,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_id": "A4FD8EW6R_1918-930-2430-1442",
+    "image_path": "./Agriculture/images/A4FD8EW6R_1918-930-2430-1442.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (232,38)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 59,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "9BGMMWN3K_2591-6643-3103-7155",
+    "image_path": "./Agriculture/images/9BGMMWN3K_2591-6643-3103-7155.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (143,418)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 11,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5bef66291a6e1b00054b79ff_1234.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "H",
+    "type_id": 6,
+    "item_id": 6,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_1268.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "F",
+    "type_id": 6,
+    "item_id": 15,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a135953bac48e5b1c24c537_1445.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 12,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T032138.551448_i2383j1435.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Bottom-Right",
+      "C": "Top-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 1,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_id": "CZM7UQPAR_3611-7227-4123-7739",
+    "image_path": "./Agriculture/images/CZM7UQPAR_3611-7227-4123-7739.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (230,492)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 24,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_3406.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "B",
+    "type_id": 6,
+    "item_id": 21,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./corn/images/image_0076.jpg",
+    "question": "Which region of the nine-palace grid do the tassels in the image mainly distribute in(Choose from Upper left region,Middle left region,Lower left region,Upper center region,Central region,Lower center region,Upper right region,Middle right region,Lower right region)? How many are there? Please format your answer as: [region],[number]. For example: Upper right region,1",
+    "answer": "Middle right region,2",
+    "type_id": 7,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 4
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/fromEast_60_19_IMG_4350_i2700j600.png",
+    "question": "Where are the almonds mostly distributed in the picture?",
+    "options": {
+      "A": "Top-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Bottom-Left"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 49,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 20,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_id": "3KYIGUGBQ_9856-2912-10368-3424",
+    "image_path": "./Agriculture/images/3KYIGUGBQ_9856-2912-10368-3424.jpg",
+    "question": "Knowing that the image has 512x512 pixels, what is the type of anomaly shown at coordinates (252,115)?",
+    "options": {
+      "A": "cloud_shadow",
+      "B": "double_plant",
+      "C": "planter_skip",
+      "D": "standing_water",
+      "E": "waterway",
+      "F": "weed_cluster",
+      "G": "No anomaly"
+    },
+    "answer": "G",
+    "type_id": 6,
+    "item_id": 60,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T013320.243612_41.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Bottom-Right",
+      "D": "Top-Left"
+    },
+    "answer": "D",
+    "type_id": 1,
+    "item_id": 38,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T043712.370473_i2434j1058.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "No distribution",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "A",
+    "type_id": 1,
+    "item_id": 25,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c0f729e05f40a0007517ac6_2165.jpg",
+    "question": "Dividing the image into nine-grids, in which nine-grid region are the trees primarily located based on the area covered by the trees in the image? ",
+    "options": {
+      "A": "Upper left region",
+      "B": "Upper center region",
+      "C": "Upper right region",
+      "D": "Middle left region",
+      "E": "Central region",
+      "F": "Middle right region",
+      "G": "Lower left region",
+      "H": "Lower center region",
+      "I": "Lower right region"
+    },
+    "answer": "D",
+    "type_id": 6,
+    "item_id": 14,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20130320T005239.050709.Cam6_31.png",
+    "question": "Where are the apples mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Right",
+      "C": "Top-Left",
+      "D": "Bottom-Right"
+    },
+    "answer": "C",
+    "type_id": 1,
+    "item_id": 9,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Fruit/acfr-fruit-dataset/images/20151124T041636.571604_i2126j1208.png",
+    "question": "Where are the mangos mostly distributed in the picture?",
+    "options": {
+      "A": "Bottom-Left",
+      "B": "Top-Left",
+      "C": "Top-Right",
+      "D": "Bottom-Right"
+    },
+    "answer": "B",
+    "type_id": 1,
+    "item_id": 57,
+    "level1_id": 1,
+    "level2_id": 1,
+    "level3_id": 3
+  }
+]

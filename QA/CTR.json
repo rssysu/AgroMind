@@ -1,0 +1,1472 @@
+[
+  {
+    "image_path": "./Trees/images/5abb761965bd8f00110f3e4c_1411.jpg",
+    "type_id": 6,
+    "item_id": 7,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/60c1b7e8c3b42f000788d30a_165.jpg",
+    "type_id": 1,
+    "item_id": 19,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Crimean Submediterranean forest complex",
+      "B": "Sarmatic mixed forests",
+      "C": "Pannonian mixed forests",
+      "D": "Ecuadorian dry forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/613dc1b918b2fb000574fb94_528.jpg",
+    "type_id": 6,
+    "item_id": 16,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5bea077d41f79800070a4f67_3296.jpg",
+    "type_id": 1,
+    "item_id": 24,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Cerrado",
+      "B": "Lesser Antillean dry forests",
+      "C": "Western European broadleaf forests",
+      "D": "Nihonkai montane deciduous forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5b904d25c96cd00005f7cb2e_395.jpg",
+    "type_id": 1,
+    "item_id": 9,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Sarmatic mixed forests",
+      "B": "Tongan tropical moist forests",
+      "C": "Sonoran desert",
+      "D": "Taiheiyo evergreen forests"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e1194bc5f5069000738f16e_1482.jpg",
+    "type_id": 1,
+    "item_id": 5,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Humid Pampas",
+      "B": "East European forest steppe",
+      "C": "Tongan tropical moist forests",
+      "D": "Mount Lofty woodlands"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 24,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4961.jpg",
+      "B": "./Trees/images/5b9d22b53c691c00060c0262_1804.jpg",
+      "C": "./Trees/images/5e72ba9b133f1a000511bead_3073.jpg",
+      "D": "./Trees/images/5b518afc4bda9e648eedbd9d_2895.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5ad6e3b291b5310010e0d543_809.jpg",
+    "type_id": 1,
+    "item_id": 28,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Eastern Java-Bali montane rain forests",
+      "B": "Western Great Lakes forests",
+      "C": "Mesopotamian shrub desert",
+      "D": "Taiheiyo montane deciduous forests"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5a276972bac48e5b1c561a15_3863.jpg",
+    "type_id": 6,
+    "item_id": 6,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5c4f11de8ca97d00054982a6_3643.jpg",
+    "type_id": 6,
+    "item_id": 2,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3303.jpg",
+    "type_id": 6,
+    "item_id": 21,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 12,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60606bd0eeae3c000693003f_1214.jpg",
+      "B": "./Trees/images/5e232b0050259f000541fc51_875.jpg",
+      "C": "./Trees/images/5b1041cb2b6a08001185f42f_2227.jpg",
+      "D": "./Trees/images/5d97350ae2b1f300057cb38a_3332.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5b90f92da0d7280005fab355_4655.jpg",
+    "type_id": 1,
+    "item_id": 12,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Eastern Guinean forests",
+      "B": "Sarmatic mixed forests",
+      "C": "Luzon rain forests",
+      "D": "North Island temperate forests"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5f711df61d951a00058695d8_3539.jpg",
+    "type_id": 6,
+    "item_id": 18,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5c13545a9ef7cb5df674f1_673.jpg",
+    "type_id": 1,
+    "item_id": 11,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "North Island temperate forests",
+      "B": "Hawaii tropical moist forests",
+      "C": "Iberian sclerophyllous and semi-deciduous forests",
+      "D": "Vanuatu rain forests"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/60baf684f59a4300057c54fe_1282.jpg",
+    "type_id": 6,
+    "item_id": 11,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_599.jpg",
+    "type_id": 1,
+    "item_id": 26,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "New England-Acadian forests",
+      "B": "Cerrado",
+      "C": "Bahia coastal forests",
+      "D": "North Atlantic moist mixed forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_972.jpg",
+    "type_id": 6,
+    "item_id": 20,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 22,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d8cabebabcfaa0008b1d26b_4952.jpg",
+      "B": "./Trees/images/59e62b8d3d6412ef72209ebb_4370.jpg",
+      "C": "./Trees/images/5c37c42e4ab5bc000733441e_1494.jpg",
+      "D": "./Trees/images/5ae3adc00b093000130affa6_361.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 5,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cd4a49f4b7c75000784da34_2356.jpg",
+      "B": "./Trees/images/59e62b973d6412ef7220a418_3619.jpg",
+      "C": "./Trees/images/5e9d2bc9054194000589a41a_3781.jpg",
+      "D": "./Trees/images/5ae320900b093000130afdb4_1006.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5dded5bc0140b80006d2e565_339.jpg",
+    "type_id": 1,
+    "item_id": 6,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Cerrado",
+      "B": "Serra do Mar coastal forests",
+      "C": "Northern Zanzibar-Inhambane coastal forest mosaic",
+      "D": "Mount Lofty woodlands"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 2,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c6580f31fa6f100070431fa_1062.jpg",
+      "B": "./Trees/images/60bc2b27f59a4300057c5519_40.jpg",
+      "C": "./Trees/images/5a5c13545a9ef7cb5df674f1_776.jpg",
+      "D": "./Trees/images/5d01ac72553f4b000590dbff_3553.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62be73d6412ef7220c434_2839.jpg",
+    "type_id": 6,
+    "item_id": 10,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a21f230bac48e5b1c48135a_2296.jpg",
+    "type_id": 1,
+    "item_id": 25,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "North Island temperate forests",
+      "B": "Po Basin mixed forests",
+      "C": "Tongan tropical moist forests",
+      "D": "Puget lowland forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 16,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a579_4427.jpg",
+      "B": "./Trees/images/5e23284750259f000541fc4e_4258.jpg",
+      "C": "./Trees/images/59e62bb13d6412ef7220aed6_4032.jpg",
+      "D": "./Trees/images/59e62be63d6412ef7220c3a5_948.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+    "type_id": 1,
+    "item_id": 27,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Appalachian mixed mesophytic forests",
+      "B": "Western Great Lakes forests",
+      "C": "Nihonkai montane deciduous forests",
+      "D": "South Siberian forest steppe"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+    "type_id": 1,
+    "item_id": 4,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "East Sudanian savanna",
+      "B": "Eastern Java-Bali rain forests",
+      "C": "Serra do Mar coastal forests",
+      "D": "Central Mexican matorral"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 7,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+      "B": "./Trees/images/6174af1f3b51b90006e0e79a_1352.jpg",
+      "C": "./Trees/images/5d73667388556200055f10e4_163.jpg",
+      "D": "./Trees/images/5a04a02cbac48e5b1c01282b_3530.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/610abdb3a2f7d6000711f8a8_2891.jpg",
+    "type_id": 6,
+    "item_id": 22,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 9,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4fb2fb24710000056a515c_3557.jpg",
+      "B": "./Trees/images/60d6eaa1c700c600080d5534_3341.jpg",
+      "C": "./Trees/images/5de7f5ea2290870005e59995_4336.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209fd4_4804.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 3,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3202.jpg",
+      "B": "./Trees/images/5b10238f2b6a08001185f398_2445.jpg",
+      "C": "./Trees/images/60606bd0eeae3c000693003f_1170.jpg",
+      "D": "./Trees/images/5dbb240d05580100062e0210_3787.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 15,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb64e020a3a5c0005ff12ff_642.jpg",
+      "B": "./Trees/images/59e62be73d6412ef7220c434_1668.jpg",
+      "C": "./Trees/images/5f2fb5190d59fe00057c32ac_4300.jpg",
+      "D": "./Trees/images/5e28a0d12329e800051134a5_671.jpg"
+    },
+    "answer": [
+      "B",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef72209ff3_1456.jpg",
+    "type_id": 1,
+    "item_id": 3,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Sao Tome, Principe and Annobon moist lowland forests",
+      "B": "Caucasus mixed forests",
+      "C": "Scandinavian Montane Birch forest and grasslands",
+      "D": "Eastern Guinean forests"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b793d6412ef722094d2_1607.jpg",
+    "type_id": 1,
+    "item_id": 20,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Puget lowland forests",
+      "B": "Mindanao-Eastern Visayas rain forests",
+      "C": "Guinean forest-savanna mosaic",
+      "D": "Po Basin mixed forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_2053.jpg",
+    "type_id": 1,
+    "item_id": 21,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Po Basin mixed forests",
+      "B": "Eastern Guinean forests",
+      "C": "East European forest steppe",
+      "D": "Irrawaddy moist deciduous forests"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5b5197864bda9e0682edbda6_4916.jpg",
+    "type_id": 6,
+    "item_id": 8,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_300.jpg",
+    "type_id": 6,
+    "item_id": 4,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be63d6412ef7220c37a_2222.jpg",
+    "type_id": 6,
+    "item_id": 26,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62be83d6412ef7220c468_2750.jpg",
+    "type_id": 6,
+    "item_id": 3,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 18,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5c42f3a9f82cf600057a9e70_2454.jpg",
+      "B": "./Trees/images/5ae320390b093000130afdab_1523.jpg",
+      "C": "./Trees/images/5bbd459c3baffb0005fe9ba1_1582.jpg",
+      "D": "./Trees/images/5d94c6a74f29390005e237c6_2729.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5bf6676cad75b80007102067_324.jpg",
+    "type_id": 1,
+    "item_id": 1,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Snake-Columbia shrub steppe",
+      "B": "Western Java rain forests",
+      "C": "Eastern Mediterranean conifer-sclerophyllous-broadleaf forests",
+      "D": "Southern Great Lakes forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 26,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e4f53b14f7e510007981d17_710.jpg",
+      "B": "./Trees/images/5b73a47a115c4ca626fc4df2_2478.jpg",
+      "C": "./Trees/images/5bfdbd20351e730005346227_1533.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a215_1622.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 20,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_2675.jpg",
+      "B": "./Trees/images/5a135953bac48e5b1c24c537_3264.jpg",
+      "C": "./Trees/images/5c36c6eebe3f4e000541d362_516.jpg",
+      "D": "./Trees/images/6108af51343da30006976e20_211.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5b83d0e19c36dd0005ebf48d_1693.jpg",
+    "type_id": 6,
+    "item_id": 12,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a7e134e5a9ef7cb5d4ef05f_3845.jpg",
+    "type_id": 6,
+    "item_id": 1,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a2d4387bac48e5b1c64facc_4467.jpg",
+    "type_id": 6,
+    "item_id": 28,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 23,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b8d3d6412ef72209ebb_4295.jpg",
+      "B": "./Trees/images/5ae7f5fa0b093000130affcc_983.jpg",
+      "C": "./Trees/images/60a6469525820c0005e45927_1004.jpg",
+      "D": "./Trees/images/6037bafb0c174800070d60da_5033.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 10,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+      "B": "./Trees/images/5f75542e61151700054968d1_3987.jpg",
+      "C": "./Trees/images/5b713a5291cf644aafeeacc4_453.jpg",
+      "D": "./Trees/images/5bba1c4f9ed15b0006d24f3b_3494.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2127.jpg",
+    "type_id": 1,
+    "item_id": 2,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Luzon rain forests",
+      "B": "Cerrado",
+      "C": "Po Basin mixed forests",
+      "D": "Ecuadorian dry forests"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5d87983a0e02d300050aa10f_1538.jpg",
+    "type_id": 1,
+    "item_id": 10,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Bolivian montane dry forests",
+      "B": "Central U.S. hardwood forests",
+      "C": "Central American pine-oak forests",
+      "D": "Upper Midwest forest-savanna transition"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 11,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9a3d6412ef7220a51f_4049.jpg",
+      "B": "./Trees/images/59e62bb03d6412ef7220aea8_3878.jpg",
+      "C": "./Trees/images/5efc9375e2733400059609b5_3894.jpg",
+      "D": "./Trees/images/59e62b8f3d6412ef72209f97_359.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5c3c6d8bbc33050006d379aa_409.jpg",
+    "type_id": 6,
+    "item_id": 5,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5a5a21a25a9ef7cb5df1937e_2946.jpg",
+    "type_id": 1,
+    "item_id": 7,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Caucasus mixed forests",
+      "B": "Sumatran lowland rain forests",
+      "C": "Alps conifer and mixed forests",
+      "D": "Northern Acacia-Commiphora bushlands and thickets"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b8d3d6412ef72209e91_2336.jpg",
+    "type_id": 6,
+    "item_id": 9,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62bb03d6412ef7220aea8_3403.jpg",
+    "type_id": 1,
+    "item_id": 16,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Sumatran lowland rain forests",
+      "B": "Fiji tropical dry forests",
+      "C": "Granitic Seychelles forests",
+      "D": "Mesopotamian shrub desert"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/59e62b903d6412ef7220a03e_2739.jpg",
+    "type_id": 1,
+    "item_id": 18,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Po Basin mixed forests",
+      "B": "North Atlantic moist mixed forests",
+      "C": "Northeastern coastal forests",
+      "D": "Northern Zanzibar-Inhambane coastal forest mosaic"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 14,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5f059147ce2c9900068d83ee_151.jpg",
+      "B": "./Trees/images/616ea1a173cc220005b8e093_4545.jpg",
+      "C": "./Trees/images/5b10408a2b6a08001185f427_902.jpg",
+      "D": "./Trees/images/5b10408a2b6a08001185f427_1018.jpg"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 17,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5d00073d8276e4000507811b_3362.jpg",
+      "B": "./Trees/images/5b518afc4bda9e648eedbd9d_1902.jpg",
+      "C": "./Trees/images/5ae3a7f00b093000130aff66_3477.jpg",
+      "D": "./Trees/images/5bc119b7c7e1cf0008e45e25_69.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 29,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5e068f3605e6590005c2f71a_3783.jpg",
+      "B": "./Trees/images/5e28a0d12329e800051134a5_1173.jpg",
+      "C": "./Trees/images/5d8179a9f3e9b40005be6ef5_18.jpg",
+      "D": "./Trees/images/59e62b933d6412ef7220a248_2415.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5a597fb25a9ef7cb5df003cf_2236.jpg",
+    "type_id": 6,
+    "item_id": 15,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 13,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5bbd459c3baffb0005fe9ba1_4015.jpg",
+      "B": "./Trees/images/5f0ed88e31da55000562467f_3215.jpg",
+      "C": "./Trees/images/5ff5a55038bfed0005ea56fb_2395.jpg",
+      "D": "./Trees/images/5c13db9205f40a0007517d15_1790.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/60a7f8f729636900059d6498_1520.jpg",
+    "type_id": 6,
+    "item_id": 23,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_1090.jpg",
+    "type_id": 6,
+    "item_id": 17,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 1,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60f138e489ec130007b828c3_1183.jpg",
+      "B": "./Trees/images/5e1194bc5f5069000738f16e_3994.jpg",
+      "C": "./Trees/images/607bd156bfb5350008e66597_2898.jpg",
+      "D": "./Trees/images/5d29ec177a18fd0005e2978e_105.jpg"
+    },
+    "answer": [
+      "B"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/618ebf6d502455000734581c_375.jpg",
+    "type_id": 6,
+    "item_id": 14,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 28,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b9b3d6412ef7220a592_3888.jpg",
+      "B": "./Trees/images/5ca97be23bc29600053c1623_2316.jpg",
+      "C": "./Trees/images/59e62b8f3d6412ef72209f84_882.jpg",
+      "D": "./Trees/images/5b10358e2b6a08001185f418_2671.jpg"
+    },
+    "answer": [
+      "C",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b983d6412ef7220a48e_3389.jpg",
+    "type_id": 1,
+    "item_id": 23,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Northern Zanzibar-Inhambane coastal forest mosaic",
+      "B": "Scandinavian and Russian taiga",
+      "C": "Taiheiyo evergreen forests",
+      "D": "Sumatran lowland rain forests"
+    },
+    "answer": "D",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5c42f3a9f82cf600057a9e70_4019.jpg",
+    "type_id": 1,
+    "item_id": 22,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Irrawaddy moist deciduous forests",
+      "B": "Middle Atlantic coastal forests",
+      "C": "Humid Pampas",
+      "D": "Taiheiyo evergreen forests"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 6,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ae320390b093000130afdab_149.jpg",
+      "B": "./Trees/images/5aea3d3b8153990013b938e8_2345.jpg",
+      "C": "./Trees/images/5e72ba9b133f1a000511bead_4058.jpg",
+      "D": "./Trees/images/5c3c6d8bbc33050006d379aa_647.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 8,
+    "isMultiple": true,
+    "question": "which image belongs to the Southern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/59e62b933d6412ef7220a248_3302.jpg",
+      "B": "./Trees/images/6037bafb0c174800070d60da_4358.jpg",
+      "C": "./Trees/images/5cb0ece9fa020e0006eb43d4_357.jpg",
+      "D": "./Trees/images/5ae3ac1c0b093000130aff8f_2448.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/59e62b853d6412ef72209ad9_2699.jpg",
+    "type_id": 6,
+    "item_id": 19,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 27,
+    "isMultiple": true,
+    "question": "which image belongs to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5a16788cbac48e5b1c2c47bf_866.jpg",
+      "B": "./Trees/images/613a64a018b2fb000574fb54_1815.jpg",
+      "C": "./Trees/images/5eef8f511bb60b000624b4f6_480.jpg",
+      "D": "./Trees/images/5e639bf5ec014e000618876d_1108.jpg"
+    },
+    "answer": [
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 4,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Tropical Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5cafa1a0f58c0800075d4fc2_3461.jpg",
+      "B": "./Trees/images/5d87983a0e02d300050aa10f_2142.jpg",
+      "C": "./Trees/images/5b518afc4bda9e648eedbd9d_3722.jpg",
+      "D": "./Trees/images/5b925da45d406700087d1514_308.jpg"
+    },
+    "answer": [
+      "A",
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5b7ccc4487d9d13f9b0f8017_4257.jpg",
+    "type_id": 1,
+    "item_id": 14,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Eastern Australian temperate forests",
+      "B": "Middle Atlantic coastal forests",
+      "C": "Guinean forest-savanna mosaic",
+      "D": "East European forest steppe"
+    },
+    "answer": "A",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "type_id": 5,
+    "item_id": 19,
+    "isMultiple": true,
+    "question": "which 2 images belong to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/5ff330589ef28c00068659a9_3159.jpg",
+      "B": "./Trees/images/59e62b703d6412ef72208f5a_4950.jpg",
+      "C": "./Trees/images/60f138e489ec130007b828c3_1183.jpg",
+      "D": "./Trees/images/5b7284639102adba313a5c3a_2393.jpg"
+    },
+    "answer": [
+      "A",
+      "D"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "type_id": 5,
+    "item_id": 21,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60a6469525820c0005e45927_426.jpg",
+      "B": "./Trees/images/59e62b933d6412ef7220a248_3048.jpg",
+      "C": "./Trees/images/5ae320900b093000130afdb4_424.jpg",
+      "D": "./Trees/images/5c6580f31fa6f100070431fa_43.jpg"
+    },
+    "answer": [
+      "A"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  },
+  {
+    "image_path": "./Trees/images/5edc8305c692f1000793f1fa_1024.jpg",
+    "type_id": 1,
+    "item_id": 15,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Mesopotamian shrub desert",
+      "B": "Valdivian temperate forests",
+      "C": "Jalisco dry forests",
+      "D": "Low Monte"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5ae3a7f00b093000130aff66_1879.jpg",
+    "type_id": 6,
+    "item_id": 13,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/59e62b953d6412ef7220a31c_1505.jpg",
+    "type_id": 1,
+    "item_id": 17,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Central and Southern mixed grasslands",
+      "B": "Mindanao-Eastern Visayas rain forests",
+      "C": "Atlantic mixed forests",
+      "D": "Tumbes-Piura dry forests"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/600fce6e55481e0005e312a8_2264.jpg",
+    "type_id": 1,
+    "item_id": 13,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "Bahia coastal forests",
+      "B": "Sundaland heath forests",
+      "C": "Eastern Guinean forests",
+      "D": "Low Monte"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5e649d26e6c4ec000688ffab_5010.jpg",
+    "type_id": 6,
+    "item_id": 29,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5e343e48372852000708df59_1312.jpg",
+    "type_id": 6,
+    "item_id": 24,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5b73a47a115c4ca626fc4df2_1774.jpg",
+    "type_id": 6,
+    "item_id": 27,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "image_path": "./Trees/images/5d5d7f2271f7ef0005c1b44f_3119.jpg",
+    "type_id": 1,
+    "item_id": 8,
+    "question": "Based on the image characteristics, what is the primary vegetation type of the ecosystem?",
+    "options": {
+      "A": "South Siberian forest steppe",
+      "B": "Balsas dry forests",
+      "C": "Southeastern conifer forests",
+      "D": "Scandinavian Montane Birch forest and grasslands"
+    },
+    "answer": "B",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 3
+  },
+  {
+    "image_path": "./Trees/images/5a429463bac48e5b1c9b41b5_225.jpg",
+    "type_id": 6,
+    "item_id": 25,
+    "question": "According to the picture, the ecosystem belongs to which of the following options of climate zones? ",
+    "options": {
+      "A": "Arctic Zone",
+      "B": "Northern Temperate Zone",
+      "C": "Tropical Zone",
+      "D": "Southern Temperate Zone",
+      "E": "Antarctic Zone"
+    },
+    "answer": "C",
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 1
+  },
+  {
+    "type_id": 5,
+    "item_id": 25,
+    "isMultiple": true,
+    "question": "which image belongs to the Northern Temperate Zone climate zone?",
+    "options": {
+      "A": "./Trees/images/60bc2b27f59a4300057c5519_348.jpg",
+      "B": "./Trees/images/5cf43896c25f7e00059bac5f_1294.jpg",
+      "C": "./Trees/images/5fe072620cf0b40005ddf6c3_3506.jpg",
+      "D": "./Trees/images/5d9afef50ca8d70007c491f8_3504.jpg"
+    },
+    "answer": [
+      "C"
+    ],
+    "level1_id": 4,
+    "level2_id": 3,
+    "level3_id": 2
+  }
+]
