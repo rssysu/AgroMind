@@ -16,7 +16,7 @@ A comprehensive agricultural remote sensing benchmark covering four task dimensi
 ```plaintext
 AgroMind/
 ├── AgroMind/
-│   ├── models/                 # LLMs    
+│   ├── models/                 # LMMs    
 │   ├── utils/      
 │   └── eval.py     
 ├── QA/                   # Tasks(questions and answer pairs,13 types)
