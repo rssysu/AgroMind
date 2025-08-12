@@ -8,6 +8,8 @@ from models.Mantis_Idefics2 import MantisIdefics2Client
 from models.Mantis import MantisClient
 from models.TinyLLaVA import TinyLLaVAClient
 from models.XComposer import XComposerClient
+from models.GeoLLaVA_8K import GeoLLaVAClient
+from models.GeoChat import GeoChatClient
 from models.random_model import RandomClient
 from models.deepseek import DeepseekVL2Client
 from models.deepseek_small import DeepseekVL2ClientSmall
@@ -18,7 +20,7 @@ from config import cfg
 
 def get_model(args):
     model_name = model_path.get(args.model, None)
-    if args.model in ["GPT-4o", "Gemini-1.5-Flash", "Claude-3.5-Sonnet"]:
+    if args.model in ["GPT-4o", "Gemini-1.5-Flash", "Gemini-1.5-Pro", "Claude-3.5-Sonnet"]:
         model = OpenAIClient(
             base_url=cfg.OPENAI.URL,
             api_key=cfg.OPENAI.KEY.get(args.model),
@@ -79,6 +81,16 @@ def get_model(args):
     elif args.model in ["deepseek-vl2-small"]:
         model = DeepseekVL2ClientSmall(
             model_name=model_name,
+            prompt=args.prompt
+        )
+    elif args.model in ["GeoLLaVA-8K"]:
+        model = GeoLLaVAClient(
+            model_name=model_name,
+            prompt=args.prompt
+        )
+    elif args.model in ["GeoChat"]:
+        model = GeoChatClient(
+            model_path=model_name,
             prompt=args.prompt
         )
     elif args.model in ["Random"]:
