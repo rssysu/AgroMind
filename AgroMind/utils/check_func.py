@@ -15,6 +15,10 @@ def check_answer(args, item, ai_answer, discriminator=None):
     
     elif type_id == 3:
         answer = item.get('answer')
+        choice_mapping = {'a':'yes', 'b':'no'}
+        ai_answer = ai_answer.lower().strip()
+        if ai_answer in choice_mapping.keys():
+            ai_answer = choice_mapping[ai_answer]
         is_true = check_partial_open_question(answer, ai_answer)
 
     elif type_id == 4:
@@ -61,6 +65,8 @@ def check_multi_choice_single(options, answer, response):
     Parse the prediction from the generated response.
     Return the predicted index e.g., A, B, C, D.
     """
+    response = str(response)
+    options = {k: str(v) for k, v in options.items()}
     for char in [',', '.', '!', '?', ';', ':', "'"]:
         response = response.strip(char)
     response = " " + response + " " # add space to avoid partial match
@@ -86,6 +92,11 @@ def check_multi_choice_single(options, answer, response):
     if len(candidates) == 0:
         for choice in options.keys(): # e.g., A\n B\n C\n D\n
             if f'{choice}\n' in response:
+                candidates.append(choice)
+
+    if len(candidates) == 0:
+        for choice in options.keys(): # e.g., \nA \nB \nC \nD
+            if f'\n{choice}' in response:
                 candidates.append(choice)
 
     # if all above doesn't get candidates, check if the content is larger than 5 tokens and try to parse the example
@@ -136,6 +147,8 @@ def check_multi_choice_multi(options, answer, response):
     Parse the prediction from the generated response.
     Return the predicted index e.g., A, B, C, D.
     """
+    response = str(response)
+    options = {k: str(v) for k, v in options.items()}
     for char in [',', '.', '!', '?', ';', ':', "'"]:
         response = response.strip(char)
     response = " " + response + " " # add space to avoid partial match
@@ -158,6 +171,11 @@ def check_multi_choice_multi(options, answer, response):
     if len(candidates) == 0:
         for choice in options.keys(): # e.g., A\n B\n C\n D\n
             if f'{choice}\n' in response:
+                candidates.append(choice)
+
+    if len(candidates) == 0:
+        for choice in options.keys(): # e.g., \nA \nB \nC \nD
+            if f'\n{choice}' in response:
                 candidates.append(choice)
 
     # if all above doesn't get candidates, check if the content is larger than 5 tokens and try to parse the example

@@ -5,7 +5,7 @@ matplotlib.use('Agg')  # Use non-interactive backend
 from config import cfg
 
 def get_answer(args, item, model):
-    if args.model in ["random"]:
+    if args.model in ["Random"]:
         return model.get_random_answer(item)
     type_id = item.get('type_id')
     if type_id == 1:
@@ -103,7 +103,8 @@ Options:
     for key, value in options.items():
         prompt += f"{key}: {value}\n"
     
-    prompt += "\nPlease respond with only the letter of the correct option (e.g., A, B, C, or D), without any explanation. There is only one correct answer.\n"
+    prompt += "\nPlease respond with only the letter of the correct option (A, B, C, or D) without any explanation.\n"
+    
 
     model.add_image(image_path)
     model.add_message(prompt)
@@ -124,6 +125,7 @@ Options:
         prompt += f"{key}: {value}\n"
     
     prompt += "\nPlease respond with the letters of all correct options (e.g., A or A,B or A,C,D) without any explanation. If there are multiple correct answers, separate them with commas."
+    
 
     model.add_image(image_path)
     model.add_message(prompt)
@@ -137,6 +139,7 @@ def count_question(question, image_path, model):
 Question: {question}
 """
     prompt += "\nPlease respond with only a number as your answer, without any explanation.\n"
+    
 
     model.add_image(image_path)
     model.add_message(prompt)
@@ -152,6 +155,7 @@ def judge_question(question, image_path, model):
 Question: {question}
 """
     prompt += "\nPlease respond with only 'yes' or 'no' as your answer, without any explanation.\n"
+    
 
     model.add_image(image_path)
     model.add_message(prompt)
@@ -226,6 +230,7 @@ I have shown you a grid of four images:
 
 Please respond with only the letter of the correct option (A, B, C, or D) without any explanation.
 """
+        
         model.add_message(prompt)
     
     # Get and return response
@@ -313,6 +318,7 @@ def partial_open_question(question, image_path, model):
 Question: {question}
 """
     prompt += "\nIf the question has specific formatting requirements, please follow them. Otherwise, answer the question using a single word or phrase.\n"
+    
 
     model.add_image(image_path)
     model.add_message(prompt)
