@@ -85,109 +85,42 @@
     </div>
   </section>
 
-  <!-- 图片轮播 -->
+  <!-- 图片轮播 - 保留原有内容 -->
   <section class="hero is-small">
     <div class="hero-body">
       <div class="container">
         <div id="results-carousel" class="carousel results-carousel">
           <div class="item">
-            <img src="static/images/overview.jpg" style="max-width:800px;height:auto;display:block;margin:0 auto;">
-            <p class="has-text-centered">AgroMind Framework Overview</p>
+            <img src="static/images/example1.jpg" style="max-width:520px;height:auto;display:block;margin:0 auto;">
           </div>
           <div class="item">
-            <img src="static/images/dataset_stats.jpg" style="max-width:800px;height:auto;display:block;margin:0 auto;">
-            <p class="has-text-centered">Dataset Statistics: Scenes, Sensors and Categories</p>
+            <img src="static/images/example2.jpg" style="max-width:520px;height:auto;display:block;margin:0 auto;">
           </div>
           <div class="item">
-            <img src="static/images/task_dimensions.jpg" style="max-width:800px;height:auto;display:block;margin:0 auto;">
-            <p class="has-text-centered">4 Evaluation Dimensions & 13 Task Types</p>
-          </div>
-          <div class="item">
-            <img src="static/images/model_performance.jpg" style="max-width:800px;height:auto;display:block;margin:0 auto;">
-            <p class="has-text-centered">Model Performance Comparison</p>
+            <img src="static/images/example3.jpg" style="max-width:520px;height:auto;display:block;margin:0 auto;">
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 核心贡献 -->
+  <!-- 数据集统计部分 - 使用论文中的Figure 3 -->
   <section class="section hero is-light">
     <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Key Contributions</h2>
-      <div class="columns is-centered">
-        <!-- Contribution 1 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-content">
-              <h3 class="title is-5">Comprehensive Dataset</h3>
-              <div class="content">
-                <ul>
-                  <li>9 public datasets + 1 private global parcel dataset</li>
-                  <li>20,850 high-quality images</li>
-                  <li>28,482 diverse QA pairs</li>
-                  <li>Multi-sensor integration (UAV, Satellite, Camera)</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Contribution 2 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-content">
-              <h3 class="title is-5">Multi-dimensional Benchmark</h3>
-              <div class="content">
-                <ul>
-                  <li>4 evaluation dimensions</li>
-                  <li>13 task types</li>
-                  <li>Spatial perception to scene reasoning</li>
-                  <li>Real-world agricultural scenarios</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Contribution 3 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-content">
-              <h3 class="title is-5">Extensive Evaluation</h3>
-              <div class="content">
-                <ul>
-                  <li>20 open-source LMMs evaluated</li>
-                  <li>4 closed-source models (GPT-4o, Gemini, Claude)</li>
-                  <li>Human performance comparison</li>
-                  <li>Detailed task-level analysis</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 任务维度 -->
-  <section class="section">
-    <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Evaluation Dimensions</h2>
-      <div class="content has-text-centered">
-        <img src="static/images/task_system.jpg" alt="AgroMind Task System" style="max-width:800px;width:100%;">
-        <p class="has-text-centered">Hierarchical task system covering 4 dimensions and 13 task types</p>
-      </div>
-      
+      <h2 class="title is-3 has-text-centered">Dataset Statistics</h2>
       <div class="columns is-centered">
         <div class="column is-10">
+          <div class="content has-text-centered">
+            <img src="static/images/Figure3.png" alt="Dataset Statistics" style="max-width:800px;width:100%;">
+            <p class="has-text-centered">Figure 3: Dataset statistics from different aspects</p>
+          </div>
           <div class="content">
-            <h3 class="title is-4">Key Findings</h3>
+            <p>The AgroMind dataset integrates 10 datasets with comprehensive coverage:</p>
             <ul>
-              <li><strong>Spatial Perception:</strong> Models struggle with spatial reasoning tasks like Boundary Detection (BD)</li>
-              <li><strong>Object Understanding:</strong> High accuracy on Object Classification (OC) but low on Growth Status Recognition (GSR)</li>
-              <li><strong>Scene Reasoning:</strong> Models excel at Climate Type Reasoning (CTR) using broad knowledge</li>
-              <li><strong>Human vs AI:</strong> GPT-4o outperforms humans by 9.99% overall, but lags in spatial perception tasks</li>
+              <li><strong>Sensor Types:</strong> UAV (7,000 QA pairs), Satellite (12,000 QA pairs), Camera (9,000 QA pairs)</li>
+              <li><strong>Agricultural Scenes:</strong> Anomaly Detection, Crop Monitoring, Pest Identification, Parcel Delineation, Tree Analysis</li>
+              <li><strong>Geographic Coverage:</strong> 106 regions globally, including diverse climate zones and agricultural systems</li>
+              <li><strong>Temporal Coverage:</strong> Multi-seasonal imagery capturing crop phenodynamics</li>
             </ul>
           </div>
         </div>
@@ -195,39 +128,128 @@
     </div>
   </section>
 
-  <!-- 数据集部分 -->
+  <!-- 任务维度系统 - 使用论文中的Figure 5 -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Task Dimensions</h2>
+      <div class="columns is-centered">
+        <div class="column is-10">
+          <div class="content has-text-centered">
+            <img src="static/images/Figure5.png" alt="Task Dimensions" style="max-width:800px;width:100%;">
+            <p class="has-text-centered">Figure 5: Hierarchical task system of AgroMind</p>
+          </div>
+          <div class="content">
+            <p>AgroMind comprehensively evaluates LMMs through 4 dimensions and 13 task types:</p>
+            
+            <h4 class="title is-4">Spatial Perception</h4>
+            <ul>
+              <li>Spatial Localization (SL): Identifying distribution patterns</li>
+              <li>Spatial Relationship (SR): Determining relative positions</li>
+              <li>Boundary Detection (BD): Predicting coordinates of cultivated areas</li>
+            </ul>
+            
+            <h4 class="title is-4">Object Understanding</h4>
+            <ul>
+              <li>Object Classification (OC): Identifying agricultural entities</li>
+              <li>Pest/Disease Diagnostics (PDD): Recognizing pest species</li>
+              <li>Growth Status Recognition (GSR): Assessing plant health</li>
+            </ul>
+            
+            <h4 class="title is-4">Scene Understanding</h4>
+            <ul>
+              <li>Scene Comparison (SC): Identifying images with specific features</li>
+              <li>Counting (CO): Estimating object quantities</li>
+              <li>Area Statistics (AS): Calculating coverage rates</li>
+            </ul>
+            
+            <h4 class="title is-4">Scene Reasoning</h4>
+            <ul>
+              <li>Visual Prompt Reasoning (VPR): Inferring measurements</li>
+              <li>Anomaly Reasoning (AR): Identifying anomalous regions</li>
+              <li>Climate Type Reasoning (CTR): Determining climate zones</li>
+              <li>Planning (PL): Predicting outcomes like yield reduction</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 基准流程 - 使用论文中的Figure 6 -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Benchmark Pipeline</h2>
+      <div class="columns is-centered">
+        <div class="column is-10">
+          <div class="content has-text-centered">
+            <img src="static/images/Figure6.png" alt="Benchmark Pipeline" style="max-width:800px;width:100%;">
+            <p class="has-text-centered">Figure 6: The benchmark curation pipeline</p>
+          </div>
+          <div class="content">
+            <p>The AgroMind benchmark covers four key stages:</p>
+            
+            <h4 class="title is-4">Data Pre-processing</h4>
+            <p>Customized processing protocols for heterogeneous data sources, including format conversion, annotation refinement, and multi-level standardization.</p>
+            
+            <h4 class="title is-4">Question Generation</h4>
+            <p>Two generation approaches: rule-based questions for normativity and logic, and human-based questions for flexibility and diversity.</p>
+            
+            <h4 class="title is-4">LMMs Inference</h4>
+            <p>Models process preprocessed images and generated questions to produce answers and analysis for agricultural RS tasks.</p>
+            
+            <h4 class="title is-4">Quality Control</h4>
+            <p>Systematic comparison of model outputs with expert-annotated standards, identifying incorrect, illogical, or incomplete responses.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 模型性能 - 使用论文中的Table 2 -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Model Performance</h2>
+      <div class="columns is-centered">
+        <div class="column is-12">
+          <div class="content has-text-centered">
+            <img src="static/images/Table2.png" alt="Model Performance" style="max-width:900px;width:100%;">
+            <p class="has-text-centered">Table 2: Performance comparison across multiple tasks and models</p>
+          </div>
+          <div class="content">
+            <h4 class="title is-4">Key Findings</h4>
+            <ul>
+              <li>GPT-4o achieves the highest overall accuracy (43.14%), surpassing human performance by 9.99%</li>
+              <li>Models struggle most with Spatial Perception tasks (BD average: 26.37%) and Scene Reasoning tasks (VPR average: 14.41%)</li>
+              <li>Open-source models like InternVL2-26B (37.25%) and LLaVA-NeXT-34B (35.52%) show competitive performance</li>
+              <li>Domain-specific models like GeoChat (25.93%) underperform in agricultural scenarios despite RS specialization</li>
+              <li>Human performance (33.15%) lags behind leading LMMs, particularly in knowledge-intensive tasks</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HuggingFace介绍 -->
   <section class="hero is-small is-light">
     <div class="hero-body">
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column is-three-quarters">
-            <h2 class="title is-3">Dataset Details</h2>
-            <div class="content">
-              <div class="columns">
-                <div class="column is-half">
-                  <img src="static/images/data_distribution.jpg" alt="Dataset Distribution">
-                </div>
-                <div class="column is-half">
-                  <p>The AgroMind dataset was compiled from three sensor types:</p>
-                  <ul>
-                    <li><strong>Unmanned Aerial Vehicles (UAVs):</strong> 7,000 QA pairs</li>
-                    <li><strong>Satellite platforms:</strong> 12,000 QA pairs</li>
-                    <li><strong>Ground-based cameras:</strong> 9,000 QA pairs</li>
-                  </ul>
-                  <p>Covering five critical agricultural categories:</p>
-                  <ul>
-                    <li>Anomaly Detection</li>
-                    <li>Crop Monitoring</li>
-                    <li>Pest Identification</li>
-                    <li>Parcel Delineation</li>
-                    <li>Tree Analysis</li>
-                  </ul>
-                </div>
-              </div>
-              
+            <h2 class="title is-3">Access the Dataset</h2>
+            <div class="content has-text-justified">
+              <p>
+                The complete AgroMind dataset is available on HuggingFace:
+                <ul>
+                  <li>20,850 high-quality agricultural images</li>
+                  <li>28,482 diverse QA pairs</li>
+                  <li>Multi-sensor data (UAV, Satellite, Camera)</li>
+                  <li>Comprehensive task annotations</li>
+                </ul>
+              </p>
               <a href="https://huggingface.co/datasets/AgroMind/AgroMind" target="_blank" class="button is-info is-medium">
                 <span class="icon"><i class="fas fa-database"></i></span>
-                <span>Access Dataset on HuggingFace</span>
+                <span>Download on HuggingFace</span>
               </a>
             </div>
           </div>
@@ -236,87 +258,21 @@
     </div>
   </section>
 
-  <!-- 案例展示 -->
-  <section class="section">
-    <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Case Studies</h2>
-      
-      <div class="columns">
-        <!-- Case 1 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-image">
-              <figure class="image is-4by3">
-                <img src="static/images/case_spatial.jpg" alt="Spatial Localization Case">
-              </figure>
-            </div>
-            <div class="card-content">
-              <h4 class="title is-5">Spatial Localization</h4>
-              <div class="content">
-                <p><strong>Question:</strong> Dividing the image into nine-grids, in which region are the trees primarily located?</p>
-                <p><strong>Correct Answer:</strong> Upper center region</p>
-                <p><strong>GPT-4o Error:</strong> Identified as upper left region</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Case 2 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-image">
-              <figure class="image is-4by3">
-                <img src="static/images/case_disease.jpg" alt="Disease Diagnosis Case">
-              </figure>
-            </div>
-            <div class="card-content">
-              <h4 class="title is-5">Disease Diagnosis</h4>
-              <div class="content">
-                <p><strong>Question:</strong> Is the leaf healthy? If not, what disease does it have?</p>
-                <p><strong>Correct Answer:</strong> Cedar Apple Rust</p>
-                <p><strong>InternVL2-26B Error:</strong> Identified as Frog-eye Spot</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Case 3 -->
-        <div class="column">
-          <div class="card">
-            <div class="card-image">
-              <figure class="image is-4by3">
-                <img src="static/images/case_reasoning.jpg" alt="Visual Reasoning Case">
-              </figure>
-            </div>
-            <div class="card-content">
-              <h4 class="title is-5">Visual Reasoning</h4>
-              <div class="content">
-                <p><strong>Question:</strong> What is the crown diameter when each pixel unit is 0.08m?</p>
-                <p><strong>Correct Answer:</strong> 8.96m</p>
-                <p><strong>InternVL2-26B Error:</strong> Calculated as 4.88m</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 海报部分 -->
-  <section class="hero is-small is-light">
+  <!-- 海报部分 - 使用论文中的概念图 -->
+  <section class="hero is-small">
     <div class="hero-body">
       <div class="container">
         <h2 class="title has-text-centered">Framework Overview</h2>
         <div class="content has-text-centered">
-          <img src="static/images/benchmark_pipeline.jpg" alt="AgroMind Benchmark Pipeline" style="max-width:900px;width:100%;">
-          <p class="has-text-centered">The benchmark curation pipeline contains four stages: data pre-processing, question generation, LMMs inference, and quality control</p>
+          <img src="static/images/Figure2.png" alt="AgroMind Framework" style="max-width:800px;width:100%;">
+          <p class="has-text-centered">Figure 2: Comparison between AgroMind and previous works</p>
         </div>
       </div>
     </div>
   </section>
 
   <!-- 引用部分 -->
-  <section class="section">
+  <section class="section hero is-light">
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column is-two-thirds">
