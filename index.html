@@ -111,7 +111,7 @@
       <div class="columns is-centered">
         <div class="column is-10">
           <div class="content has-text-centered">
-            <img src="static/images/dataset_statistics.pdf" alt="Dataset Statistics" style="max-width:800px;width:100%;">
+            <img src="static/images/dataset_statistics.png" alt="Dataset Statistics" style="max-width:800px;width:100%;">
             <p class="has-text-centered">Figure 3: Dataset statistics from different aspects</p>
           </div>
           <div class="content">
@@ -128,16 +128,30 @@
     </div>
   </section>
 
-  <!-- 任务维度系统 - 使用论文中的Figure 5 -->
+    <!-- 任务维度系统 - 添加Figure 4和Figure 5并列 -->
   <section class="section">
     <div class="container is-max-desktop">
       <h2 class="title is-3 has-text-centered">Task Dimensions</h2>
       <div class="columns is-centered">
         <div class="column is-10">
-          <div class="content has-text-centered">
-            <img src="static/images/AgromindBench_task.pdf" alt="Task Dimensions" style="max-width:800px;width:100%;">
-            <p class="has-text-centered">Figure 5: Hierarchical task system of AgroMind</p>
+          <!-- 添加两列布局展示Figure 4和Figure 5 -->
+          <div class="columns">
+            <div class="column is-half">
+              <div class="content has-text-centered">
+                <!-- Figure 4: 任务类型分布词云图 -->
+                <img src="static/images/Overview.png" alt="Task Type Distribution" style="max-width:100%;">
+                <p class="has-text-centered">Figure 4: Task type distribution word cloud</p>
+              </div>
+            </div>
+            <div class="column is-half">
+              <div class="content has-text-centered">
+                <!-- Figure 5: 任务系统图 -->
+                <img src="static/images/AgromindBench_task.png" alt="Task System" style="max-width:100%;">
+                <p class="has-text-centered">Figure 5: Hierarchical task system</p>
+              </div>
+            </div>
           </div>
+          
           <div class="content">
             <p>AgroMind comprehensively evaluates LMMs through 4 dimensions and 13 task types:</p>
             
